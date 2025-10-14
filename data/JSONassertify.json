@@ -1,0 +1,290 @@
+{
+  "owner": "UnitVectorY-Labs",
+  "name": "JSONassertify",
+  "default_branch": "main",
+  "latest_release_tag": "v0.0.4",
+  "latest_release_time": "2025-05-25T19:00:03Z",
+  "unreleased_commits": [
+    {
+      "sha": "7c87e4649d325d111ef2df0e6bf23c26a8eec35f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #69 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7\n\nBump astral-sh/setup-uv from 6 to 7",
+      "timestamp": "2025-10-11T13:10:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/7c87e4649d325d111ef2df0e6bf23c26a8eec35f"
+    },
+    {
+      "sha": "80daf3ea9f8131b7e96718a3f67d77d47b95c4de",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 6 to 7\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 6 to 7.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/v6...v7)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-10-11T13:00:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/80daf3ea9f8131b7e96718a3f67d77d47b95c4de"
+    },
+    {
+      "sha": "47fdd841b98deb006514522d4849baf88293f522",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #70 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4\n\nBump github/codeql-action from 3 to 4",
+      "timestamp": "2025-10-11T13:00:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/47fdd841b98deb006514522d4849baf88293f522"
+    },
+    {
+      "sha": "9859dccb7a5066ab3a922680873d25cf9fd00323",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action from 3 to 4\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 3 to 4.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/v3...v4)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: '4'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-10-11T10:02:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/9859dccb7a5066ab3a922680873d25cf9fd00323"
+    },
+    {
+      "sha": "2750747841143aced0e5f3254049e1573d150e40",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #67 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-compiler-plugin-3.14.1\n\nBump org.apache.maven.plugins:maven-compiler-plugin from 3.14.0 to 3.14.1",
+      "timestamp": "2025-09-27T14:08:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/2750747841143aced0e5f3254049e1573d150e40"
+    },
+    {
+      "sha": "eb886ffc8191f26791f9a64fbffa4cb42d41c6db",
+      "author": "dependabot[bot]",
+      "message": "Bump org.apache.maven.plugins:maven-compiler-plugin\n\nBumps [org.apache.maven.plugins:maven-compiler-plugin](https://github.com/apache/maven-compiler-plugin) from 3.14.0 to 3.14.1.\n- [Release notes](https://github.com/apache/maven-compiler-plugin/releases)\n- [Commits](https://github.com/apache/maven-compiler-plugin/compare/maven-compiler-plugin-3.14.0...maven-compiler-plugin-3.14.1)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-compiler-plugin\n  dependency-version: 3.14.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-09-27T14:05:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/eb886ffc8191f26791f9a64fbffa4cb42d41c6db"
+    },
+    {
+      "sha": "1a02eb9a5e8b3860b44a4df791950446c2827756",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #65 from UnitVectorY-Labs/dependabot/maven/org.sonatype.central-central-publishing-maven-plugin-0.9.0\n\nBump org.sonatype.central:central-publishing-maven-plugin from 0.8.0 to 0.9.0",
+      "timestamp": "2025-09-27T14:04:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/1a02eb9a5e8b3860b44a4df791950446c2827756"
+    },
+    {
+      "sha": "dff248cb8ee51855a91c9d043f0d7ad73ed27587",
+      "author": "dependabot[bot]",
+      "message": "Bump org.sonatype.central:central-publishing-maven-plugin\n\nBumps [org.sonatype.central:central-publishing-maven-plugin](https://github.com/sonatype/central-publishing-maven-plugin) from 0.8.0 to 0.9.0.\n- [Commits](https://github.com/sonatype/central-publishing-maven-plugin/commits)\n\n---\nupdated-dependencies:\n- dependency-name: org.sonatype.central:central-publishing-maven-plugin\n  dependency-version: 0.9.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-09-27T14:00:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/dff248cb8ee51855a91c9d043f0d7ad73ed27587"
+    },
+    {
+      "sha": "5883746dfa7d99fb541a80ad47a455b11332706d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #66 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-javadoc-plugin-3.12.0\n\nBump org.apache.maven.plugins:maven-javadoc-plugin from 3.11.3 to 3.12.0",
+      "timestamp": "2025-09-27T13:59:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/5883746dfa7d99fb541a80ad47a455b11332706d"
+    },
+    {
+      "sha": "054d37329857da973df42d230dac03e9cc2e77e0",
+      "author": "dependabot[bot]",
+      "message": "Bump org.apache.maven.plugins:maven-javadoc-plugin from 3.11.3 to 3.12.0\n\nBumps [org.apache.maven.plugins:maven-javadoc-plugin](https://github.com/apache/maven-javadoc-plugin) from 3.11.3 to 3.12.0.\n- [Release notes](https://github.com/apache/maven-javadoc-plugin/releases)\n- [Commits](https://github.com/apache/maven-javadoc-plugin/compare/maven-javadoc-plugin-3.11.3...maven-javadoc-plugin-3.12.0)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-javadoc-plugin\n  dependency-version: 3.12.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-09-27T10:03:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/054d37329857da973df42d230dac03e9cc2e77e0"
+    },
+    {
+      "sha": "3dbf030bcdd51325421a16a7146a701ea203b557",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #64 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.5.4\n\nBump org.apache.maven.plugins:maven-surefire-plugin from 3.5.3 to 3.5.4",
+      "timestamp": "2025-09-13T12:15:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/3dbf030bcdd51325421a16a7146a701ea203b557"
+    },
+    {
+      "sha": "75d866c950c5202945578984b151f19ecdb09fd3",
+      "author": "dependabot[bot]",
+      "message": "Bump org.apache.maven.plugins:maven-surefire-plugin from 3.5.3 to 3.5.4\n\nBumps [org.apache.maven.plugins:maven-surefire-plugin](https://github.com/apache/maven-surefire) from 3.5.3 to 3.5.4.\n- [Release notes](https://github.com/apache/maven-surefire/releases)\n- [Commits](https://github.com/apache/maven-surefire/compare/surefire-3.5.3...surefire-3.5.4)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-surefire-plugin\n  dependency-version: 3.5.4\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-09-13T10:03:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/75d866c950c5202945578984b151f19ecdb09fd3"
+    },
+    {
+      "sha": "799a64be53cb1aa3542d965fa112e0c8d160a9f6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #63 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-5.5.1\n\nBump codecov/codecov-action from 5.5.0 to 5.5.1",
+      "timestamp": "2025-09-06T12:20:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/799a64be53cb1aa3542d965fa112e0c8d160a9f6"
+    },
+    {
+      "sha": "3e5ddb83055471e6e0d31e1b6d0c3f1fd161581e",
+      "author": "dependabot[bot]",
+      "message": "Bump codecov/codecov-action from 5.5.0 to 5.5.1\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 5.5.0 to 5.5.1.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/v5.5.0...v5.5.1)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 5.5.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-09-06T10:02:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/3e5ddb83055471e6e0d31e1b6d0c3f1fd161581e"
+    },
+    {
+      "sha": "a20cd7136459e88a4c0a86a1eaf5132ec9473547",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #62 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-3\n\nBump actions/attest-build-provenance from 2 to 3",
+      "timestamp": "2025-08-30T11:54:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/a20cd7136459e88a4c0a86a1eaf5132ec9473547"
+    },
+    {
+      "sha": "d0df1fbe2e28ae84b307b860c32eb54353d035cb",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/attest-build-provenance from 2 to 3\n\nBumps [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) from 2 to 3.\n- [Release notes](https://github.com/actions/attest-build-provenance/releases)\n- [Changelog](https://github.com/actions/attest-build-provenance/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest-build-provenance/compare/v2...v3)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest-build-provenance\n  dependency-version: '3'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-08-30T10:01:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/d0df1fbe2e28ae84b307b860c32eb54353d035cb"
+    },
+    {
+      "sha": "2adae7576cd39213f91d8b4389701c3f8058bc0a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #61 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-5.5.0\n\nBump codecov/codecov-action from 5.4.3 to 5.5.0",
+      "timestamp": "2025-08-23T11:44:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/2adae7576cd39213f91d8b4389701c3f8058bc0a"
+    },
+    {
+      "sha": "c501765e37dfb382d152b23281a8d3420f5e1328",
+      "author": "dependabot[bot]",
+      "message": "Bump codecov/codecov-action from 5.4.3 to 5.5.0\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 5.4.3 to 5.5.0.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/v5.4.3...v5.5.0)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 5.5.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-08-23T11:41:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/c501765e37dfb382d152b23281a8d3420f5e1328"
+    },
+    {
+      "sha": "6ed4c04885c3ae90f3db30995fb0c0a1b676e241",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #60 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-5\n\nBump actions/setup-java from 4 to 5",
+      "timestamp": "2025-08-23T11:40:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/6ed4c04885c3ae90f3db30995fb0c0a1b676e241"
+    },
+    {
+      "sha": "65b17076065452794e890698dc75e8801f0349d7",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/setup-java from 4 to 5\n\nBumps [actions/setup-java](https://github.com/actions/setup-java) from 4 to 5.\n- [Release notes](https://github.com/actions/setup-java/releases)\n- [Commits](https://github.com/actions/setup-java/compare/v4...v5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-java\n  dependency-version: '5'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-08-23T10:08:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/65b17076065452794e890698dc75e8801f0349d7"
+    },
+    {
+      "sha": "32679ae1412a73514b9177e9361bd064f5ca99ce",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #58 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-javadoc-plugin-3.11.3\n\nBump org.apache.maven.plugins:maven-javadoc-plugin from 3.11.2 to 3.11.3",
+      "timestamp": "2025-08-16T12:00:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/32679ae1412a73514b9177e9361bd064f5ca99ce"
+    },
+    {
+      "sha": "2e58728b8edec744a52b309cf40512ddf9784073",
+      "author": "dependabot[bot]",
+      "message": "Bump org.apache.maven.plugins:maven-javadoc-plugin from 3.11.2 to 3.11.3\n\nBumps [org.apache.maven.plugins:maven-javadoc-plugin](https://github.com/apache/maven-javadoc-plugin) from 3.11.2 to 3.11.3.\n- [Release notes](https://github.com/apache/maven-javadoc-plugin/releases)\n- [Commits](https://github.com/apache/maven-javadoc-plugin/compare/maven-javadoc-plugin-3.11.2...maven-javadoc-plugin-3.11.3)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-javadoc-plugin\n  dependency-version: 3.11.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-08-16T11:58:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/2e58728b8edec744a52b309cf40512ddf9784073"
+    },
+    {
+      "sha": "90b4133084c30a8928745600ce3922de4adae3cb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #59 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-5\n\nBump actions/checkout from 4 to 5",
+      "timestamp": "2025-08-16T11:51:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/90b4133084c30a8928745600ce3922de4adae3cb"
+    },
+    {
+      "sha": "f295815949f3c87640b12855af1dcff9c5e2bcd9",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/checkout from 4 to 5\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 4 to 5.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/v4...v5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '5'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-08-16T10:51:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/f295815949f3c87640b12855af1dcff9c5e2bcd9"
+    },
+    {
+      "sha": "ccd3ea029524850d30486b733ddd0fc07d9572fa",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #57 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-api-5.13.4\n\nBump org.junit.jupiter:junit-jupiter-api from 5.13.3 to 5.13.4",
+      "timestamp": "2025-07-26T13:04:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/ccd3ea029524850d30486b733ddd0fc07d9572fa"
+    },
+    {
+      "sha": "fc183ef5e3e32a66d69a80be08ef2f095d58c180",
+      "author": "dependabot[bot]",
+      "message": "Bump org.junit.jupiter:junit-jupiter-api from 5.13.3 to 5.13.4\n\nBumps [org.junit.jupiter:junit-jupiter-api](https://github.com/junit-team/junit-framework) from 5.13.3 to 5.13.4.\n- [Release notes](https://github.com/junit-team/junit-framework/releases)\n- [Commits](https://github.com/junit-team/junit-framework/compare/r5.13.3...r5.13.4)\n\n---\nupdated-dependencies:\n- dependency-name: org.junit.jupiter:junit-jupiter-api\n  dependency-version: 5.13.4\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-07-26T10:23:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/fc183ef5e3e32a66d69a80be08ef2f095d58c180"
+    },
+    {
+      "sha": "f46fd52c8a89f60d194e9d7ccdfdac82090d2f10",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #55 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-gpg-plugin-3.2.8\n\nBump org.apache.maven.plugins:maven-gpg-plugin from 3.2.7 to 3.2.8",
+      "timestamp": "2025-07-05T14:46:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/f46fd52c8a89f60d194e9d7ccdfdac82090d2f10"
+    },
+    {
+      "sha": "f037103d3d765fd9dbbc0c65a7f91198b3722379",
+      "author": "dependabot[bot]",
+      "message": "Bump org.apache.maven.plugins:maven-gpg-plugin from 3.2.7 to 3.2.8\n\nBumps [org.apache.maven.plugins:maven-gpg-plugin](https://github.com/apache/maven-gpg-plugin) from 3.2.7 to 3.2.8.\n- [Release notes](https://github.com/apache/maven-gpg-plugin/releases)\n- [Commits](https://github.com/apache/maven-gpg-plugin/compare/maven-gpg-plugin-3.2.7...maven-gpg-plugin-3.2.8)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-gpg-plugin\n  dependency-version: 3.2.8\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-07-05T14:45:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/f037103d3d765fd9dbbc0c65a7f91198b3722379"
+    },
+    {
+      "sha": "428d2217c058073ed75c4ccc534d33adf091cafa",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #56 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-api-5.13.3\n\nBump org.junit.jupiter:junit-jupiter-api from 5.13.2 to 5.13.3",
+      "timestamp": "2025-07-05T14:44:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/428d2217c058073ed75c4ccc534d33adf091cafa"
+    },
+    {
+      "sha": "89620851f7882b247a25c541c2dc4e73cf4069a9",
+      "author": "dependabot[bot]",
+      "message": "Bump org.junit.jupiter:junit-jupiter-api from 5.13.2 to 5.13.3\n\nBumps [org.junit.jupiter:junit-jupiter-api](https://github.com/junit-team/junit-framework) from 5.13.2 to 5.13.3.\n- [Release notes](https://github.com/junit-team/junit-framework/releases)\n- [Commits](https://github.com/junit-team/junit-framework/compare/r5.13.2...r5.13.3)\n\n---\nupdated-dependencies:\n- dependency-name: org.junit.jupiter:junit-jupiter-api\n  dependency-version: 5.13.3\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-07-05T10:28:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/89620851f7882b247a25c541c2dc4e73cf4069a9"
+    },
+    {
+      "sha": "d3668de8853d84207e901329ff532e68ef9a6662",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #54 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-api-5.13.2\n\nBump org.junit.jupiter:junit-jupiter-api from 5.13.1 to 5.13.2",
+      "timestamp": "2025-06-28T15:30:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/d3668de8853d84207e901329ff532e68ef9a6662"
+    },
+    {
+      "sha": "8bf490d09121424665947e108d413f1da875927e",
+      "author": "dependabot[bot]",
+      "message": "Bump org.junit.jupiter:junit-jupiter-api from 5.13.1 to 5.13.2\n\nBumps [org.junit.jupiter:junit-jupiter-api](https://github.com/junit-team/junit-framework) from 5.13.1 to 5.13.2.\n- [Release notes](https://github.com/junit-team/junit-framework/releases)\n- [Commits](https://github.com/junit-team/junit-framework/compare/r5.13.1...r5.13.2)\n\n---\nupdated-dependencies:\n- dependency-name: org.junit.jupiter:junit-jupiter-api\n  dependency-version: 5.13.2\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-06-28T10:43:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/8bf490d09121424665947e108d413f1da875927e"
+    },
+    {
+      "sha": "503ce18084db3409513543777abf37a17b282a60",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #53 from UnitVectorY-Labs/dependabot/maven/org.sonatype.central-central-publishing-maven-plugin-0.8.0\n\nBump org.sonatype.central:central-publishing-maven-plugin from 0.7.0 to 0.8.0",
+      "timestamp": "2025-06-21T18:47:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/503ce18084db3409513543777abf37a17b282a60"
+    },
+    {
+      "sha": "04e4f6b442c2acf7063f928c9e7715accb222c02",
+      "author": "dependabot[bot]",
+      "message": "Bump org.sonatype.central:central-publishing-maven-plugin\n\nBumps [org.sonatype.central:central-publishing-maven-plugin](https://github.com/sonatype/central-publishing-maven-plugin) from 0.7.0 to 0.8.0.\n- [Commits](https://github.com/sonatype/central-publishing-maven-plugin/commits)\n\n---\nupdated-dependencies:\n- dependency-name: org.sonatype.central:central-publishing-maven-plugin\n  dependency-version: 0.8.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-06-21T10:11:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/04e4f6b442c2acf7063f928c9e7715accb222c02"
+    },
+    {
+      "sha": "a98458bea6c9a43cfe02ef86ce713a8e4a94257a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #52 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-api-5.13.1\n\nBump org.junit.jupiter:junit-jupiter-api from 5.13.0 to 5.13.1",
+      "timestamp": "2025-06-07T16:35:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/a98458bea6c9a43cfe02ef86ce713a8e4a94257a"
+    },
+    {
+      "sha": "cfab5567179149c4ec76996815affa4db8ca8da1",
+      "author": "dependabot[bot]",
+      "message": "Bump org.junit.jupiter:junit-jupiter-api from 5.13.0 to 5.13.1\n\nBumps [org.junit.jupiter:junit-jupiter-api](https://github.com/junit-team/junit5) from 5.13.0 to 5.13.1.\n- [Release notes](https://github.com/junit-team/junit5/releases)\n- [Commits](https://github.com/junit-team/junit5/compare/r5.13.0...r5.13.1)\n\n---\nupdated-dependencies:\n- dependency-name: org.junit.jupiter:junit-jupiter-api\n  dependency-version: 5.13.1\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-06-07T10:08:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/cfab5567179149c4ec76996815affa4db8ca8da1"
+    },
+    {
+      "sha": "0a33993c5e6486d82dece1804900515011c02d6e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #51 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-api-5.13.0\n\nBump org.junit.jupiter:junit-jupiter-api from 5.12.2 to 5.13.0",
+      "timestamp": "2025-06-01T16:00:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/0a33993c5e6486d82dece1804900515011c02d6e"
+    },
+    {
+      "sha": "a2c7e3ec3588b7a7022f9214aa9826b46866400f",
+      "author": "dependabot[bot]",
+      "message": "Bump org.junit.jupiter:junit-jupiter-api from 5.12.2 to 5.13.0\n\nBumps [org.junit.jupiter:junit-jupiter-api](https://github.com/junit-team/junit5) from 5.12.2 to 5.13.0.\n- [Release notes](https://github.com/junit-team/junit5/releases)\n- [Commits](https://github.com/junit-team/junit5/compare/r5.12.2...r5.13.0)\n\n---\nupdated-dependencies:\n- dependency-name: org.junit.jupiter:junit-jupiter-api\n  dependency-version: 5.13.0\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-05-31T10:30:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/a2c7e3ec3588b7a7022f9214aa9826b46866400f"
+    },
+    {
+      "sha": "50beb7dbf93bfacde06b5511b0cd68533e0edbbe",
+      "author": "JaredHatfield",
+      "message": "Update README.md Updated version in README",
+      "timestamp": "2025-05-25T19:43:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/50beb7dbf93bfacde06b5511b0cd68533e0edbbe"
+    },
+    {
+      "sha": "32e3ebc0be1ea6566b95e5789ffbd0213db0ed3e",
+      "author": "JaredHatfield",
+      "message": "Incremented version to 0.0.5-SNAPSHOT for next release",
+      "timestamp": "2025-05-25T19:07:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/32e3ebc0be1ea6566b95e5789ffbd0213db0ed3e"
+    }
+  ],
+  "repository_url": "https://github.com/UnitVectorY-Labs/JSONassertify"
+}

@@ -1,0 +1,9 @@
+{
+  "owner": "UnitVectorY-Labs",
+  "name": "adk-docker-base",
+  "default_branch": "main",
+  "latest_release_tag": "v1.16.0",
+  "latest_release_time": "2025-10-13T00:26:29Z",
+  "unreleased_commits": null,
+  "repository_url": "https://github.com/UnitVectorY-Labs/adk-docker-base"
+}

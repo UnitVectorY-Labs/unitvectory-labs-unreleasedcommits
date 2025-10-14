@@ -1,0 +1,52 @@
+{
+  "owner": "UnitVectorY-Labs",
+  "name": "clip4llm",
+  "default_branch": "main",
+  "latest_release_tag": "v0.0.7",
+  "latest_release_time": "2025-10-09T02:12:50Z",
+  "unreleased_commits": [
+    {
+      "sha": "f495e0d344004e2b1f39523446b3c245bb79511e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #30 from UnitVectorY-Labs/go-v1.25.2\n\nUpdate Go version to 1.25.2",
+      "timestamp": "2025-10-12T15:00:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/f495e0d344004e2b1f39523446b3c245bb79511e"
+    },
+    {
+      "sha": "336f0c6c9c806e91d6e728b5455219683bdf40f0",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.2",
+      "timestamp": "2025-10-12T14:56:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/336f0c6c9c806e91d6e728b5455219683bdf40f0"
+    },
+    {
+      "sha": "6f59b100457980b9490650388aa92137186c0fbc",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #28 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7\n\nBump astral-sh/setup-uv from 6 to 7",
+      "timestamp": "2025-10-11T13:15:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/6f59b100457980b9490650388aa92137186c0fbc"
+    },
+    {
+      "sha": "ed395916d69d2f9d78ac005553d7371b018cad00",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #29 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4\n\nBump github/codeql-action from 3 to 4",
+      "timestamp": "2025-10-11T13:03:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/ed395916d69d2f9d78ac005553d7371b018cad00"
+    },
+    {
+      "sha": "e0c9bc881fe0b1270f3f3a259ac68fb8a33c2d2f",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action from 3 to 4\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 3 to 4.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/v3...v4)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: '4'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-10-11T10:06:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/e0c9bc881fe0b1270f3f3a259ac68fb8a33c2d2f"
+    },
+    {
+      "sha": "9e96a2f974c40777f818172508a600ff4788e236",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 6 to 7\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 6 to 7.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/v6...v7)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-10-11T10:06:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/9e96a2f974c40777f818172508a600ff4788e236"
+    }
+  ],
+  "repository_url": "https://github.com/UnitVectorY-Labs/clip4llm"
+}

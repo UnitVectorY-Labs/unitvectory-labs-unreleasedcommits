@@ -1,0 +1,360 @@
+{
+  "owner": "UnitVectorY-Labs",
+  "name": "kubetogoogleidtoken",
+  "default_branch": "main",
+  "latest_release_tag": "v0.1.1",
+  "latest_release_time": "2025-05-26T13:46:29Z",
+  "unreleased_commits": [
+    {
+      "sha": "521ec833dcb4074c379eb432687caf5aa5020075",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #58 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7\n\nBump astral-sh/setup-uv from 6 to 7",
+      "timestamp": "2025-10-11T13:12:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/521ec833dcb4074c379eb432687caf5aa5020075"
+    },
+    {
+      "sha": "7cb7229ef08e2d43d48c3cdd88a6b43815585292",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 6 to 7\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 6 to 7.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/v6...v7)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-10-11T13:02:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/7cb7229ef08e2d43d48c3cdd88a6b43815585292"
+    },
+    {
+      "sha": "657be762d7d0f1dae6f3dfa48f11ef9b1757dffa",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #57 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4\n\nBump github/codeql-action from 3 to 4",
+      "timestamp": "2025-10-11T13:01:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/657be762d7d0f1dae6f3dfa48f11ef9b1757dffa"
+    },
+    {
+      "sha": "9dabb009d5afa1ef80661f280c1de97e0ef93580",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action from 3 to 4\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 3 to 4.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/v3...v4)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: '4'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-10-11T10:05:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/9dabb009d5afa1ef80661f280c1de97e0ef93580"
+    },
+    {
+      "sha": "cb4e46479ca3ce54061b92e7840ac64bdc57b826",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #55 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-compiler-plugin-3.14.1\n\nBump org.apache.maven.plugins:maven-compiler-plugin from 3.14.0 to 3.14.1",
+      "timestamp": "2025-09-27T14:08:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/cb4e46479ca3ce54061b92e7840ac64bdc57b826"
+    },
+    {
+      "sha": "918e481f2524c6033d10570d50c04bde6478eba7",
+      "author": "dependabot[bot]",
+      "message": "Bump org.apache.maven.plugins:maven-compiler-plugin\n\nBumps [org.apache.maven.plugins:maven-compiler-plugin](https://github.com/apache/maven-compiler-plugin) from 3.14.0 to 3.14.1.\n- [Release notes](https://github.com/apache/maven-compiler-plugin/releases)\n- [Commits](https://github.com/apache/maven-compiler-plugin/compare/maven-compiler-plugin-3.14.0...maven-compiler-plugin-3.14.1)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-compiler-plugin\n  dependency-version: 3.14.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-09-27T14:06:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/918e481f2524c6033d10570d50c04bde6478eba7"
+    },
+    {
+      "sha": "c03d773d17294dbdd574ec38a28e0c08b042d59a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #53 from UnitVectorY-Labs/dependabot/maven/org.sonatype.central-central-publishing-maven-plugin-0.9.0\n\nBump org.sonatype.central:central-publishing-maven-plugin from 0.8.0 to 0.9.0",
+      "timestamp": "2025-09-27T14:05:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/c03d773d17294dbdd574ec38a28e0c08b042d59a"
+    },
+    {
+      "sha": "158544d3f90e56db11cde605345a4787585ab66a",
+      "author": "dependabot[bot]",
+      "message": "Bump org.sonatype.central:central-publishing-maven-plugin\n\nBumps [org.sonatype.central:central-publishing-maven-plugin](https://github.com/sonatype/central-publishing-maven-plugin) from 0.8.0 to 0.9.0.\n- [Commits](https://github.com/sonatype/central-publishing-maven-plugin/commits)\n\n---\nupdated-dependencies:\n- dependency-name: org.sonatype.central:central-publishing-maven-plugin\n  dependency-version: 0.9.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-09-27T14:00:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/158544d3f90e56db11cde605345a4787585ab66a"
+    },
+    {
+      "sha": "99a5662947c2d6aadb85b8853a86279e10be7b2c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #54 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-javadoc-plugin-3.12.0\n\nBump org.apache.maven.plugins:maven-javadoc-plugin from 3.11.3 to 3.12.0",
+      "timestamp": "2025-09-27T13:59:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/99a5662947c2d6aadb85b8853a86279e10be7b2c"
+    },
+    {
+      "sha": "2c0af9abf170c32bc71802d2fb6f92681833a1f5",
+      "author": "dependabot[bot]",
+      "message": "Bump org.apache.maven.plugins:maven-javadoc-plugin from 3.11.3 to 3.12.0\n\nBumps [org.apache.maven.plugins:maven-javadoc-plugin](https://github.com/apache/maven-javadoc-plugin) from 3.11.3 to 3.12.0.\n- [Release notes](https://github.com/apache/maven-javadoc-plugin/releases)\n- [Commits](https://github.com/apache/maven-javadoc-plugin/compare/maven-javadoc-plugin-3.11.3...maven-javadoc-plugin-3.12.0)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-javadoc-plugin\n  dependency-version: 3.12.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-09-27T10:05:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/2c0af9abf170c32bc71802d2fb6f92681833a1f5"
+    },
+    {
+      "sha": "2f5b26bbc58bd051a46c1e5d2ba58a7f03870749",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #52 from UnitVectorY-Labs/dependabot/maven/org.mockito-mockito-core-5.20.0\n\nBump org.mockito:mockito-core from 5.19.0 to 5.20.0",
+      "timestamp": "2025-09-26T01:45:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/2f5b26bbc58bd051a46c1e5d2ba58a7f03870749"
+    },
+    {
+      "sha": "1370c558c4c47691ed841ea848c6e278e9efd6b3",
+      "author": "dependabot[bot]",
+      "message": "Bump org.mockito:mockito-core from 5.19.0 to 5.20.0\n\nBumps [org.mockito:mockito-core](https://github.com/mockito/mockito) from 5.19.0 to 5.20.0.\n- [Release notes](https://github.com/mockito/mockito/releases)\n- [Commits](https://github.com/mockito/mockito/compare/v5.19.0...v5.20.0)\n\n---\nupdated-dependencies:\n- dependency-name: org.mockito:mockito-core\n  dependency-version: 5.20.0\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-09-26T01:43:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/1370c558c4c47691ed841ea848c6e278e9efd6b3"
+    },
+    {
+      "sha": "0627653ae2198221f1480d8d0db62394fb376d04",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #51 from UnitVectorY-Labs/dependabot/maven/org.projectlombok-lombok-1.18.42\n\nBump org.projectlombok:lombok from 1.18.40 to 1.18.42",
+      "timestamp": "2025-09-20T15:16:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/0627653ae2198221f1480d8d0db62394fb376d04"
+    },
+    {
+      "sha": "65cd1f6c51852d69e9163a726416747aed7468e2",
+      "author": "dependabot[bot]",
+      "message": "Bump org.projectlombok:lombok from 1.18.40 to 1.18.42\n\nBumps [org.projectlombok:lombok](https://github.com/projectlombok/lombok) from 1.18.40 to 1.18.42.\n- [Changelog](https://github.com/projectlombok/lombok/blob/master/doc/changelog.markdown)\n- [Commits](https://github.com/projectlombok/lombok/compare/v1.18.40...v1.18.42)\n\n---\nupdated-dependencies:\n- dependency-name: org.projectlombok:lombok\n  dependency-version: 1.18.42\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-09-20T10:03:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/65cd1f6c51852d69e9163a726416747aed7468e2"
+    },
+    {
+      "sha": "62956ef1aa84bbf3e8c70d568ee6727c6708cec8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #50 from UnitVectorY-Labs/dependabot/maven/com.google.code.gson-gson-2.13.2\n\nBump com.google.code.gson:gson from 2.13.1 to 2.13.2",
+      "timestamp": "2025-09-13T12:17:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/62956ef1aa84bbf3e8c70d568ee6727c6708cec8"
+    },
+    {
+      "sha": "7d57ab0b0c698be378a20e784ef68afc58c083c7",
+      "author": "dependabot[bot]",
+      "message": "Bump com.google.code.gson:gson from 2.13.1 to 2.13.2\n\nBumps [com.google.code.gson:gson](https://github.com/google/gson) from 2.13.1 to 2.13.2.\n- [Release notes](https://github.com/google/gson/releases)\n- [Changelog](https://github.com/google/gson/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/google/gson/compare/gson-parent-2.13.1...gson-parent-2.13.2)\n\n---\nupdated-dependencies:\n- dependency-name: com.google.code.gson:gson\n  dependency-version: 2.13.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-09-13T12:15:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/7d57ab0b0c698be378a20e784ef68afc58c083c7"
+    },
+    {
+      "sha": "3d7c8c9285c4c9519e445fcabe5eeb206304de34",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #49 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.5.4\n\nBump org.apache.maven.plugins:maven-surefire-plugin from 3.5.3 to 3.5.4",
+      "timestamp": "2025-09-13T12:14:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/3d7c8c9285c4c9519e445fcabe5eeb206304de34"
+    },
+    {
+      "sha": "cee333f8669cc524caaf0d5451e45cd4adf8e290",
+      "author": "dependabot[bot]",
+      "message": "Bump org.apache.maven.plugins:maven-surefire-plugin from 3.5.3 to 3.5.4\n\nBumps [org.apache.maven.plugins:maven-surefire-plugin](https://github.com/apache/maven-surefire) from 3.5.3 to 3.5.4.\n- [Release notes](https://github.com/apache/maven-surefire/releases)\n- [Commits](https://github.com/apache/maven-surefire/compare/surefire-3.5.3...surefire-3.5.4)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-surefire-plugin\n  dependency-version: 3.5.4\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-09-13T10:05:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/cee333f8669cc524caaf0d5451e45cd4adf8e290"
+    },
+    {
+      "sha": "d41e98595cf24da8c68beb9eaf7a988f4595c84e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #48 from UnitVectorY-Labs/dependabot/maven/org.projectlombok-lombok-1.18.40\n\nBump org.projectlombok:lombok from 1.18.38 to 1.18.40",
+      "timestamp": "2025-09-06T12:31:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/d41e98595cf24da8c68beb9eaf7a988f4595c84e"
+    },
+    {
+      "sha": "4b90ceac3236eb305229630bfc8b0cfd4d5010f7",
+      "author": "dependabot[bot]",
+      "message": "Bump org.projectlombok:lombok from 1.18.38 to 1.18.40\n\nBumps [org.projectlombok:lombok](https://github.com/projectlombok/lombok) from 1.18.38 to 1.18.40.\n- [Changelog](https://github.com/projectlombok/lombok/blob/master/doc/changelog.markdown)\n- [Commits](https://github.com/projectlombok/lombok/compare/v1.18.38...v1.18.40)\n\n---\nupdated-dependencies:\n- dependency-name: org.projectlombok:lombok\n  dependency-version: 1.18.40\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-09-06T12:27:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/4b90ceac3236eb305229630bfc8b0cfd4d5010f7"
+    },
+    {
+      "sha": "b69ed25ea239beb987c1159a1f40e2f685c6322d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #47 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-5.5.1\n\nBump codecov/codecov-action from 5.5.0 to 5.5.1",
+      "timestamp": "2025-09-06T12:20:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/b69ed25ea239beb987c1159a1f40e2f685c6322d"
+    },
+    {
+      "sha": "d5b78c7d464ca8ec182a2b5cfcfd2491367a2eb8",
+      "author": "dependabot[bot]",
+      "message": "Bump codecov/codecov-action from 5.5.0 to 5.5.1\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 5.5.0 to 5.5.1.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/v5.5.0...v5.5.1)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 5.5.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-09-06T10:04:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/d5b78c7d464ca8ec182a2b5cfcfd2491367a2eb8"
+    },
+    {
+      "sha": "ee4ec4ad125e5fd0acededac09f72a1ef3c5e641",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #46 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-3\n\nBump actions/attest-build-provenance from 2 to 3",
+      "timestamp": "2025-08-30T11:53:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/ee4ec4ad125e5fd0acededac09f72a1ef3c5e641"
+    },
+    {
+      "sha": "6230845afb8527f80d17019f86c378355af0b30b",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/attest-build-provenance from 2 to 3\n\nBumps [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) from 2 to 3.\n- [Release notes](https://github.com/actions/attest-build-provenance/releases)\n- [Changelog](https://github.com/actions/attest-build-provenance/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest-build-provenance/compare/v2...v3)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest-build-provenance\n  dependency-version: '3'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-08-30T10:02:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/6230845afb8527f80d17019f86c378355af0b30b"
+    },
+    {
+      "sha": "2431922d6399c393e0f92843acd98dc240e3016a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #45 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-5.5.0\n\nBump codecov/codecov-action from 5.4.3 to 5.5.0",
+      "timestamp": "2025-08-23T11:43:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/2431922d6399c393e0f92843acd98dc240e3016a"
+    },
+    {
+      "sha": "b2d4910dc4db7c964917e3c28b26483c9dacb0ee",
+      "author": "dependabot[bot]",
+      "message": "Bump codecov/codecov-action from 5.4.3 to 5.5.0\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 5.4.3 to 5.5.0.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/v5.4.3...v5.5.0)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 5.5.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-08-23T11:40:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/b2d4910dc4db7c964917e3c28b26483c9dacb0ee"
+    },
+    {
+      "sha": "0c5579adcee7106413a594a06490ede6621fb3c7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #44 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-5\n\nBump actions/setup-java from 4 to 5",
+      "timestamp": "2025-08-23T11:39:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/0c5579adcee7106413a594a06490ede6621fb3c7"
+    },
+    {
+      "sha": "83ae1b2cbb69c4db24c53be0160de1725b962f75",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/setup-java from 4 to 5\n\nBumps [actions/setup-java](https://github.com/actions/setup-java) from 4 to 5.\n- [Release notes](https://github.com/actions/setup-java/releases)\n- [Commits](https://github.com/actions/setup-java/compare/v4...v5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-java\n  dependency-version: '5'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-08-23T10:55:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/83ae1b2cbb69c4db24c53be0160de1725b962f75"
+    },
+    {
+      "sha": "1d0a7efd8937cb5ced41e6e1c88f7f0bcba6d1c8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #42 from UnitVectorY-Labs/dependabot/maven/org.mockito-mockito-core-5.19.0\n\nBump org.mockito:mockito-core from 5.18.0 to 5.19.0",
+      "timestamp": "2025-08-16T13:14:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/1d0a7efd8937cb5ced41e6e1c88f7f0bcba6d1c8"
+    },
+    {
+      "sha": "607c75c938a3c809a4051d5165b5ccc83f6d7422",
+      "author": "dependabot[bot]",
+      "message": "Bump org.mockito:mockito-core from 5.18.0 to 5.19.0\n\nBumps [org.mockito:mockito-core](https://github.com/mockito/mockito) from 5.18.0 to 5.19.0.\n- [Release notes](https://github.com/mockito/mockito/releases)\n- [Commits](https://github.com/mockito/mockito/compare/v5.18.0...v5.19.0)\n\n---\nupdated-dependencies:\n- dependency-name: org.mockito:mockito-core\n  dependency-version: 5.19.0\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-08-16T12:01:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/607c75c938a3c809a4051d5165b5ccc83f6d7422"
+    },
+    {
+      "sha": "614323386ff289d5c4f428d1ac427120dbb9ffee",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #41 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-javadoc-plugin-3.11.3\n\nBump org.apache.maven.plugins:maven-javadoc-plugin from 3.11.2 to 3.11.3",
+      "timestamp": "2025-08-16T12:00:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/614323386ff289d5c4f428d1ac427120dbb9ffee"
+    },
+    {
+      "sha": "da620898add97cf696010e8f117a865e02f85edb",
+      "author": "dependabot[bot]",
+      "message": "Bump org.apache.maven.plugins:maven-javadoc-plugin from 3.11.2 to 3.11.3\n\nBumps [org.apache.maven.plugins:maven-javadoc-plugin](https://github.com/apache/maven-javadoc-plugin) from 3.11.2 to 3.11.3.\n- [Release notes](https://github.com/apache/maven-javadoc-plugin/releases)\n- [Commits](https://github.com/apache/maven-javadoc-plugin/compare/maven-javadoc-plugin-3.11.2...maven-javadoc-plugin-3.11.3)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-javadoc-plugin\n  dependency-version: 3.11.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-08-16T11:58:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/da620898add97cf696010e8f117a865e02f85edb"
+    },
+    {
+      "sha": "6c10f9610160716f55d3dbae7f08768c5d62a157",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #43 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-5\n\nBump actions/checkout from 4 to 5",
+      "timestamp": "2025-08-16T11:51:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/6c10f9610160716f55d3dbae7f08768c5d62a157"
+    },
+    {
+      "sha": "639eef2492347b641c37d8916b7e11bde3f9373c",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/checkout from 4 to 5\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 4 to 5.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/v4...v5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '5'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-08-16T10:50:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/639eef2492347b641c37d8916b7e11bde3f9373c"
+    },
+    {
+      "sha": "492b7ddb27269c07f668686d85f5820930fa9e9e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #40 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-engine-5.13.4\n\nBump org.junit.jupiter:junit-jupiter-engine from 5.13.3 to 5.13.4",
+      "timestamp": "2025-07-26T13:04:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/492b7ddb27269c07f668686d85f5820930fa9e9e"
+    },
+    {
+      "sha": "18a47fa9b6efc49b5f01b2dbdedb0f9a5e2baada",
+      "author": "dependabot[bot]",
+      "message": "Bump org.junit.jupiter:junit-jupiter-engine from 5.13.3 to 5.13.4\n\nBumps [org.junit.jupiter:junit-jupiter-engine](https://github.com/junit-team/junit-framework) from 5.13.3 to 5.13.4.\n- [Release notes](https://github.com/junit-team/junit-framework/releases)\n- [Commits](https://github.com/junit-team/junit-framework/compare/r5.13.3...r5.13.4)\n\n---\nupdated-dependencies:\n- dependency-name: org.junit.jupiter:junit-jupiter-engine\n  dependency-version: 5.13.4\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-07-26T10:44:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/18a47fa9b6efc49b5f01b2dbdedb0f9a5e2baada"
+    },
+    {
+      "sha": "9f5055c82ba83149ec68b3676770f386fb2a32ed",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #39 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-gpg-plugin-3.2.8\n\nBump org.apache.maven.plugins:maven-gpg-plugin from 3.2.7 to 3.2.8",
+      "timestamp": "2025-07-05T14:46:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/9f5055c82ba83149ec68b3676770f386fb2a32ed"
+    },
+    {
+      "sha": "63c166f50b591f54444e43ada78b01d55068ad72",
+      "author": "dependabot[bot]",
+      "message": "Bump org.apache.maven.plugins:maven-gpg-plugin from 3.2.7 to 3.2.8\n\nBumps [org.apache.maven.plugins:maven-gpg-plugin](https://github.com/apache/maven-gpg-plugin) from 3.2.7 to 3.2.8.\n- [Release notes](https://github.com/apache/maven-gpg-plugin/releases)\n- [Commits](https://github.com/apache/maven-gpg-plugin/compare/maven-gpg-plugin-3.2.7...maven-gpg-plugin-3.2.8)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-gpg-plugin\n  dependency-version: 3.2.8\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-07-05T14:45:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/63c166f50b591f54444e43ada78b01d55068ad72"
+    },
+    {
+      "sha": "449ac990931616964502bdfd4e89ef5e68844b26",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #38 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-engine-5.13.3\n\nBump org.junit.jupiter:junit-jupiter-engine from 5.13.2 to 5.13.3",
+      "timestamp": "2025-07-05T14:44:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/449ac990931616964502bdfd4e89ef5e68844b26"
+    },
+    {
+      "sha": "2eb78247251d7ba91f4a3927a79f7d55c6e20eeb",
+      "author": "dependabot[bot]",
+      "message": "Bump org.junit.jupiter:junit-jupiter-engine from 5.13.2 to 5.13.3\n\nBumps [org.junit.jupiter:junit-jupiter-engine](https://github.com/junit-team/junit-framework) from 5.13.2 to 5.13.3.\n- [Release notes](https://github.com/junit-team/junit-framework/releases)\n- [Commits](https://github.com/junit-team/junit-framework/compare/r5.13.2...r5.13.3)\n\n---\nupdated-dependencies:\n- dependency-name: org.junit.jupiter:junit-jupiter-engine\n  dependency-version: 5.13.3\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-07-05T10:27:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/2eb78247251d7ba91f4a3927a79f7d55c6e20eeb"
+    },
+    {
+      "sha": "a670948fd7b97023efb326364c504f31f662a908",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #37 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-engine-5.13.2\n\nBump org.junit.jupiter:junit-jupiter-engine from 5.13.1 to 5.13.2",
+      "timestamp": "2025-06-28T15:19:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/a670948fd7b97023efb326364c504f31f662a908"
+    },
+    {
+      "sha": "9d3d89ecd28561479b449f585b50e954fb7070aa",
+      "author": "dependabot[bot]",
+      "message": "Bump org.junit.jupiter:junit-jupiter-engine from 5.13.1 to 5.13.2\n\nBumps [org.junit.jupiter:junit-jupiter-engine](https://github.com/junit-team/junit-framework) from 5.13.1 to 5.13.2.\n- [Release notes](https://github.com/junit-team/junit-framework/releases)\n- [Commits](https://github.com/junit-team/junit-framework/compare/r5.13.1...r5.13.2)\n\n---\nupdated-dependencies:\n- dependency-name: org.junit.jupiter:junit-jupiter-engine\n  dependency-version: 5.13.2\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-06-28T10:07:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/9d3d89ecd28561479b449f585b50e954fb7070aa"
+    },
+    {
+      "sha": "251108726babf638ec3056685b3358da5dcfcf58",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #36 from UnitVectorY-Labs/dependabot/maven/org.sonatype.central-central-publishing-maven-plugin-0.8.0\n\nBump org.sonatype.central:central-publishing-maven-plugin from 0.7.0 to 0.8.0",
+      "timestamp": "2025-06-21T18:47:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/251108726babf638ec3056685b3358da5dcfcf58"
+    },
+    {
+      "sha": "520a9ce22a344677592c7ad9342ad62a3236e06c",
+      "author": "dependabot[bot]",
+      "message": "Bump org.sonatype.central:central-publishing-maven-plugin\n\nBumps [org.sonatype.central:central-publishing-maven-plugin](https://github.com/sonatype/central-publishing-maven-plugin) from 0.7.0 to 0.8.0.\n- [Commits](https://github.com/sonatype/central-publishing-maven-plugin/commits)\n\n---\nupdated-dependencies:\n- dependency-name: org.sonatype.central:central-publishing-maven-plugin\n  dependency-version: 0.8.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-06-21T10:57:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/520a9ce22a344677592c7ad9342ad62a3236e06c"
+    },
+    {
+      "sha": "7e08eecee639d6bad736e081dabb16c22732a7e8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #35 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-engine-5.13.1\n\nBump org.junit.jupiter:junit-jupiter-engine from 5.13.0 to 5.13.1",
+      "timestamp": "2025-06-07T16:35:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/7e08eecee639d6bad736e081dabb16c22732a7e8"
+    },
+    {
+      "sha": "a768fadc6f4c85f1129cd1d9f67551970985a0fe",
+      "author": "dependabot[bot]",
+      "message": "Bump org.junit.jupiter:junit-jupiter-engine from 5.13.0 to 5.13.1\n\nBumps [org.junit.jupiter:junit-jupiter-engine](https://github.com/junit-team/junit5) from 5.13.0 to 5.13.1.\n- [Release notes](https://github.com/junit-team/junit5/releases)\n- [Commits](https://github.com/junit-team/junit5/compare/r5.13.0...r5.13.1)\n\n---\nupdated-dependencies:\n- dependency-name: org.junit.jupiter:junit-jupiter-engine\n  dependency-version: 5.13.1\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-06-07T10:49:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/a768fadc6f4c85f1129cd1d9f67551970985a0fe"
+    },
+    {
+      "sha": "e13344c2447898dbdd92df82d207f1de6055395b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #34 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-engine-5.13.0\n\nBump org.junit.jupiter:junit-jupiter-engine from 5.12.2 to 5.13.0",
+      "timestamp": "2025-06-01T16:01:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/e13344c2447898dbdd92df82d207f1de6055395b"
+    },
+    {
+      "sha": "c6e6ce52964ec7a51aee9851c5c701f298c3e659",
+      "author": "dependabot[bot]",
+      "message": "Bump org.junit.jupiter:junit-jupiter-engine from 5.12.2 to 5.13.0\n\nBumps [org.junit.jupiter:junit-jupiter-engine](https://github.com/junit-team/junit5) from 5.12.2 to 5.13.0.\n- [Release notes](https://github.com/junit-team/junit5/releases)\n- [Commits](https://github.com/junit-team/junit5/compare/r5.12.2...r5.13.0)\n\n---\nupdated-dependencies:\n- dependency-name: org.junit.jupiter:junit-jupiter-engine\n  dependency-version: 5.13.0\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-05-31T10:40:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/c6e6ce52964ec7a51aee9851c5c701f298c3e659"
+    },
+    {
+      "sha": "003f6262024ec0f0195bcd1cf96554ae01e1ea75",
+      "author": "JaredHatfield",
+      "message": "Update README.md to reference version 0.1.1",
+      "timestamp": "2025-05-26T14:01:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/003f6262024ec0f0195bcd1cf96554ae01e1ea75"
+    },
+    {
+      "sha": "502ed4321ad6eaf1c547d77ad7f1b0cc6f5da2b9",
+      "author": "JaredHatfield",
+      "message": "Incremented the version to 0.1.2-SNAPSHOT for a future release",
+      "timestamp": "2025-05-26T13:56:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/502ed4321ad6eaf1c547d77ad7f1b0cc6f5da2b9"
+    }
+  ],
+  "repository_url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken"
+}

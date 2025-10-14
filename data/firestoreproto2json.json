@@ -1,0 +1,402 @@
+{
+  "owner": "UnitVectorY-Labs",
+  "name": "firestoreproto2json",
+  "default_branch": "main",
+  "latest_release_tag": "v0.0.7",
+  "latest_release_time": "2025-05-26T13:45:28Z",
+  "unreleased_commits": [
+    {
+      "sha": "3643e58209fa8fd0e76b2b9b9d2a2a6c6c22fe7e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #119 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7\n\nBump astral-sh/setup-uv from 6 to 7",
+      "timestamp": "2025-10-11T13:10:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/3643e58209fa8fd0e76b2b9b9d2a2a6c6c22fe7e"
+    },
+    {
+      "sha": "99fe36a5f269b97c59fda126524cd3f79b3c9855",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 6 to 7\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 6 to 7.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/v6...v7)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-10-11T13:00:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/99fe36a5f269b97c59fda126524cd3f79b3c9855"
+    },
+    {
+      "sha": "633d788f8e553ad36c5f0ce81ce2d4fa3170e4d6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #118 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4\n\nBump github/codeql-action from 3 to 4",
+      "timestamp": "2025-10-11T12:59:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/633d788f8e553ad36c5f0ce81ce2d4fa3170e4d6"
+    },
+    {
+      "sha": "6327c1a2913502630646ed505be06b56e49b86e4",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action from 3 to 4\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 3 to 4.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/v3...v4)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: '4'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-10-11T10:02:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/6327c1a2913502630646ed505be06b56e49b86e4"
+    },
+    {
+      "sha": "b3e234098c01b553edffca867060a3473a9b7502",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #116 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-compiler-plugin-3.14.1\n\nBump org.apache.maven.plugins:maven-compiler-plugin from 3.14.0 to 3.14.1",
+      "timestamp": "2025-09-27T15:12:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/b3e234098c01b553edffca867060a3473a9b7502"
+    },
+    {
+      "sha": "5318c9f25f06d32f187a296d2dd12e807650066e",
+      "author": "dependabot[bot]",
+      "message": "Bump org.apache.maven.plugins:maven-compiler-plugin\n\nBumps [org.apache.maven.plugins:maven-compiler-plugin](https://github.com/apache/maven-compiler-plugin) from 3.14.0 to 3.14.1.\n- [Release notes](https://github.com/apache/maven-compiler-plugin/releases)\n- [Commits](https://github.com/apache/maven-compiler-plugin/compare/maven-compiler-plugin-3.14.0...maven-compiler-plugin-3.14.1)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-compiler-plugin\n  dependency-version: 3.14.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-09-27T14:05:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/5318c9f25f06d32f187a296d2dd12e807650066e"
+    },
+    {
+      "sha": "b6534b06709ff4e6201f6cdaeb66eae038a9d541",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #114 from UnitVectorY-Labs/dependabot/maven/org.sonatype.central-central-publishing-maven-plugin-0.9.0\n\nBump org.sonatype.central:central-publishing-maven-plugin from 0.8.0 to 0.9.0",
+      "timestamp": "2025-09-27T14:04:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/b6534b06709ff4e6201f6cdaeb66eae038a9d541"
+    },
+    {
+      "sha": "079b73bd1c315ad8170b4349a3178f1a65e519fa",
+      "author": "dependabot[bot]",
+      "message": "Bump org.sonatype.central:central-publishing-maven-plugin\n\nBumps [org.sonatype.central:central-publishing-maven-plugin](https://github.com/sonatype/central-publishing-maven-plugin) from 0.8.0 to 0.9.0.\n- [Commits](https://github.com/sonatype/central-publishing-maven-plugin/commits)\n\n---\nupdated-dependencies:\n- dependency-name: org.sonatype.central:central-publishing-maven-plugin\n  dependency-version: 0.9.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-09-27T13:59:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/079b73bd1c315ad8170b4349a3178f1a65e519fa"
+    },
+    {
+      "sha": "92fa019d6047e2b18163a94c62b35e41d9162245",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #115 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-javadoc-plugin-3.12.0\n\nBump org.apache.maven.plugins:maven-javadoc-plugin from 3.11.3 to 3.12.0",
+      "timestamp": "2025-09-27T13:58:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/92fa019d6047e2b18163a94c62b35e41d9162245"
+    },
+    {
+      "sha": "e88065cfe5a56c75154ea728c0840a5c46239fba",
+      "author": "dependabot[bot]",
+      "message": "Bump org.apache.maven.plugins:maven-javadoc-plugin from 3.11.3 to 3.12.0\n\nBumps [org.apache.maven.plugins:maven-javadoc-plugin](https://github.com/apache/maven-javadoc-plugin) from 3.11.3 to 3.12.0.\n- [Release notes](https://github.com/apache/maven-javadoc-plugin/releases)\n- [Commits](https://github.com/apache/maven-javadoc-plugin/compare/maven-javadoc-plugin-3.11.3...maven-javadoc-plugin-3.12.0)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-javadoc-plugin\n  dependency-version: 3.12.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-09-27T10:02:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/e88065cfe5a56c75154ea728c0840a5c46239fba"
+    },
+    {
+      "sha": "be003e81adc8fef62e5147940a66a7f2172c10bd",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #113 from UnitVectorY-Labs/dependabot/maven/org.projectlombok-lombok-1.18.42\n\nBump org.projectlombok:lombok from 1.18.40 to 1.18.42",
+      "timestamp": "2025-09-20T15:16:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/be003e81adc8fef62e5147940a66a7f2172c10bd"
+    },
+    {
+      "sha": "c8eb30963d3e0dd689a42b480c1c256acfe80c3d",
+      "author": "dependabot[bot]",
+      "message": "Bump org.projectlombok:lombok from 1.18.40 to 1.18.42\n\nBumps [org.projectlombok:lombok](https://github.com/projectlombok/lombok) from 1.18.40 to 1.18.42.\n- [Changelog](https://github.com/projectlombok/lombok/blob/master/doc/changelog.markdown)\n- [Commits](https://github.com/projectlombok/lombok/compare/v1.18.40...v1.18.42)\n\n---\nupdated-dependencies:\n- dependency-name: org.projectlombok:lombok\n  dependency-version: 1.18.42\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-09-20T10:02:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/c8eb30963d3e0dd689a42b480c1c256acfe80c3d"
+    },
+    {
+      "sha": "709525ef0b86c071c692b3f9f08b8c617e705cca",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #111 from UnitVectorY-Labs/dependabot/maven/com.google.code.gson-gson-2.13.2\n\nBump com.google.code.gson:gson from 2.13.1 to 2.13.2",
+      "timestamp": "2025-09-13T12:18:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/709525ef0b86c071c692b3f9f08b8c617e705cca"
+    },
+    {
+      "sha": "691856419fa049db23aa8d6c8953bd463eeb65d0",
+      "author": "dependabot[bot]",
+      "message": "Bump com.google.code.gson:gson from 2.13.1 to 2.13.2\n\nBumps [com.google.code.gson:gson](https://github.com/google/gson) from 2.13.1 to 2.13.2.\n- [Release notes](https://github.com/google/gson/releases)\n- [Changelog](https://github.com/google/gson/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/google/gson/compare/gson-parent-2.13.1...gson-parent-2.13.2)\n\n---\nupdated-dependencies:\n- dependency-name: com.google.code.gson:gson\n  dependency-version: 2.13.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-09-13T12:16:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/691856419fa049db23aa8d6c8953bd463eeb65d0"
+    },
+    {
+      "sha": "0dac9f02410567668f911a7a78271db7cca14a07",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #112 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.5.4\n\nBump org.apache.maven.plugins:maven-surefire-plugin from 3.5.3 to 3.5.4",
+      "timestamp": "2025-09-13T12:15:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/0dac9f02410567668f911a7a78271db7cca14a07"
+    },
+    {
+      "sha": "3cc163fa9e8f6bcd94717d4c40599ea94b4a0f47",
+      "author": "dependabot[bot]",
+      "message": "Bump org.apache.maven.plugins:maven-surefire-plugin from 3.5.3 to 3.5.4\n\nBumps [org.apache.maven.plugins:maven-surefire-plugin](https://github.com/apache/maven-surefire) from 3.5.3 to 3.5.4.\n- [Release notes](https://github.com/apache/maven-surefire/releases)\n- [Commits](https://github.com/apache/maven-surefire/compare/surefire-3.5.3...surefire-3.5.4)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-surefire-plugin\n  dependency-version: 3.5.4\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-09-13T10:03:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/3cc163fa9e8f6bcd94717d4c40599ea94b4a0f47"
+    },
+    {
+      "sha": "d55187c2e844b2d60559f803471b255d9fc62f15",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #110 from UnitVectorY-Labs/dependabot/maven/org.projectlombok-lombok-1.18.40\n\nBump org.projectlombok:lombok from 1.18.38 to 1.18.40",
+      "timestamp": "2025-09-06T12:31:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/d55187c2e844b2d60559f803471b255d9fc62f15"
+    },
+    {
+      "sha": "ff48eb8f8f51314697fe39ca5a2ca1ae431724c2",
+      "author": "dependabot[bot]",
+      "message": "Bump org.projectlombok:lombok from 1.18.38 to 1.18.40\n\nBumps [org.projectlombok:lombok](https://github.com/projectlombok/lombok) from 1.18.38 to 1.18.40.\n- [Changelog](https://github.com/projectlombok/lombok/blob/master/doc/changelog.markdown)\n- [Commits](https://github.com/projectlombok/lombok/compare/v1.18.38...v1.18.40)\n\n---\nupdated-dependencies:\n- dependency-name: org.projectlombok:lombok\n  dependency-version: 1.18.40\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-09-06T12:28:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/ff48eb8f8f51314697fe39ca5a2ca1ae431724c2"
+    },
+    {
+      "sha": "c0df79b18041008a21b53bb476f9600bf0fb3897",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #109 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-5.5.1\n\nBump codecov/codecov-action from 5.5.0 to 5.5.1",
+      "timestamp": "2025-09-06T12:21:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/c0df79b18041008a21b53bb476f9600bf0fb3897"
+    },
+    {
+      "sha": "679a8586e1ae43a88bf21081efba2c6a129abf92",
+      "author": "dependabot[bot]",
+      "message": "Bump codecov/codecov-action from 5.5.0 to 5.5.1\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 5.5.0 to 5.5.1.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/v5.5.0...v5.5.1)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 5.5.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-09-06T10:02:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/679a8586e1ae43a88bf21081efba2c6a129abf92"
+    },
+    {
+      "sha": "ad413e79e455d7dc7197fc15b405e811da38c244",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #108 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-3\n\nBump actions/attest-build-provenance from 2 to 3",
+      "timestamp": "2025-08-30T11:54:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/ad413e79e455d7dc7197fc15b405e811da38c244"
+    },
+    {
+      "sha": "fe472733eac41c48a645888489c9634bff96551f",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/attest-build-provenance from 2 to 3\n\nBumps [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) from 2 to 3.\n- [Release notes](https://github.com/actions/attest-build-provenance/releases)\n- [Changelog](https://github.com/actions/attest-build-provenance/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest-build-provenance/compare/v2...v3)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest-build-provenance\n  dependency-version: '3'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-08-30T10:01:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/fe472733eac41c48a645888489c9634bff96551f"
+    },
+    {
+      "sha": "2c68a2a818b1900e23739b8395fbd9d8dd5efb0a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #106 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-5.5.0\n\nBump codecov/codecov-action from 5.4.3 to 5.5.0",
+      "timestamp": "2025-08-23T11:44:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/2c68a2a818b1900e23739b8395fbd9d8dd5efb0a"
+    },
+    {
+      "sha": "521f013148ca767f32b967f0f259d24463d5ed63",
+      "author": "dependabot[bot]",
+      "message": "Bump codecov/codecov-action from 5.4.3 to 5.5.0\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 5.4.3 to 5.5.0.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/v5.4.3...v5.5.0)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 5.5.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-08-23T11:41:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/521f013148ca767f32b967f0f259d24463d5ed63"
+    },
+    {
+      "sha": "46b4d92f74bd74ad1c8590004b798a2c149c6513",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #107 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-5\n\nBump actions/setup-java from 4 to 5",
+      "timestamp": "2025-08-23T11:40:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/46b4d92f74bd74ad1c8590004b798a2c149c6513"
+    },
+    {
+      "sha": "b40cb205f0120db3150b10b9b3ec1e890b93f905",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/setup-java from 4 to 5\n\nBumps [actions/setup-java](https://github.com/actions/setup-java) from 4 to 5.\n- [Release notes](https://github.com/actions/setup-java/releases)\n- [Commits](https://github.com/actions/setup-java/compare/v4...v5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-java\n  dependency-version: '5'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-08-23T10:03:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/b40cb205f0120db3150b10b9b3ec1e890b93f905"
+    },
+    {
+      "sha": "172011490273b437e79658d9349f8a073827eeb3",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #105 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-javadoc-plugin-3.11.3\n\nBump org.apache.maven.plugins:maven-javadoc-plugin from 3.11.2 to 3.11.3",
+      "timestamp": "2025-08-16T12:01:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/172011490273b437e79658d9349f8a073827eeb3"
+    },
+    {
+      "sha": "49e60da5c1541ca8e360cfc35cab22cbf9339f5a",
+      "author": "dependabot[bot]",
+      "message": "Bump org.apache.maven.plugins:maven-javadoc-plugin from 3.11.2 to 3.11.3\n\nBumps [org.apache.maven.plugins:maven-javadoc-plugin](https://github.com/apache/maven-javadoc-plugin) from 3.11.2 to 3.11.3.\n- [Release notes](https://github.com/apache/maven-javadoc-plugin/releases)\n- [Commits](https://github.com/apache/maven-javadoc-plugin/compare/maven-javadoc-plugin-3.11.2...maven-javadoc-plugin-3.11.3)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-javadoc-plugin\n  dependency-version: 3.11.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-08-16T11:59:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/49e60da5c1541ca8e360cfc35cab22cbf9339f5a"
+    },
+    {
+      "sha": "33c0530d4277889e374c114be20d37a6c524c655",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #104 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-5\n\nBump actions/checkout from 4 to 5",
+      "timestamp": "2025-08-16T11:50:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/33c0530d4277889e374c114be20d37a6c524c655"
+    },
+    {
+      "sha": "bf9fc2e5ad33cb42975aa2c4646692b364e36f40",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/checkout from 4 to 5\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 4 to 5.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/v4...v5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '5'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-08-16T10:07:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/bf9fc2e5ad33cb42975aa2c4646692b364e36f40"
+    },
+    {
+      "sha": "c8520dd93e5d7de6d3890b39cd92857cfdafad60",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #103 from UnitVectorY-Labs/dependabot/maven/org.junit-junit-bom-5.13.4\n\nBump org.junit:junit-bom from 5.13.3 to 5.13.4",
+      "timestamp": "2025-07-26T13:03:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/c8520dd93e5d7de6d3890b39cd92857cfdafad60"
+    },
+    {
+      "sha": "736b0ed43417637f56db3edfebd0b926c112c42a",
+      "author": "dependabot[bot]",
+      "message": "Bump org.junit:junit-bom from 5.13.3 to 5.13.4\n\nBumps [org.junit:junit-bom](https://github.com/junit-team/junit-framework) from 5.13.3 to 5.13.4.\n- [Release notes](https://github.com/junit-team/junit-framework/releases)\n- [Commits](https://github.com/junit-team/junit-framework/compare/r5.13.3...r5.13.4)\n\n---\nupdated-dependencies:\n- dependency-name: org.junit:junit-bom\n  dependency-version: 5.13.4\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-07-26T10:05:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/736b0ed43417637f56db3edfebd0b926c112c42a"
+    },
+    {
+      "sha": "0feb56df45ab21a898c9f3fc27c98688e28f8612",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #102 from UnitVectorY-Labs/dependabot/maven/com.google.cloud-google-cloudevent-types-0.17.1\n\nBump com.google.cloud:google-cloudevent-types from 0.17.0 to 0.17.1",
+      "timestamp": "2025-07-12T14:38:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/0feb56df45ab21a898c9f3fc27c98688e28f8612"
+    },
+    {
+      "sha": "8b77f9fd4c8c759055a79bd773cba2633854571b",
+      "author": "dependabot[bot]",
+      "message": "Bump com.google.cloud:google-cloudevent-types from 0.17.0 to 0.17.1\n\nBumps [com.google.cloud:google-cloudevent-types](https://github.com/googleapis/google-cloudevents-java) from 0.17.0 to 0.17.1.\n- [Release notes](https://github.com/googleapis/google-cloudevents-java/releases)\n- [Changelog](https://github.com/googleapis/google-cloudevents-java/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/googleapis/google-cloudevents-java/compare/v0.17.0...v0.17.1)\n\n---\nupdated-dependencies:\n- dependency-name: com.google.cloud:google-cloudevent-types\n  dependency-version: 0.17.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-07-12T10:32:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/8b77f9fd4c8c759055a79bd773cba2633854571b"
+    },
+    {
+      "sha": "7fe8493f226f460d95fc1f89c59f298c8cd0d0f7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #101 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-gpg-plugin-3.2.8\n\nBump org.apache.maven.plugins:maven-gpg-plugin from 3.2.7 to 3.2.8",
+      "timestamp": "2025-07-05T14:46:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/7fe8493f226f460d95fc1f89c59f298c8cd0d0f7"
+    },
+    {
+      "sha": "ffe1cedba4cbdd815b67e469389889421f3aebdd",
+      "author": "dependabot[bot]",
+      "message": "Bump org.apache.maven.plugins:maven-gpg-plugin from 3.2.7 to 3.2.8\n\nBumps [org.apache.maven.plugins:maven-gpg-plugin](https://github.com/apache/maven-gpg-plugin) from 3.2.7 to 3.2.8.\n- [Release notes](https://github.com/apache/maven-gpg-plugin/releases)\n- [Commits](https://github.com/apache/maven-gpg-plugin/compare/maven-gpg-plugin-3.2.7...maven-gpg-plugin-3.2.8)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-gpg-plugin\n  dependency-version: 3.2.8\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-07-05T14:45:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/ffe1cedba4cbdd815b67e469389889421f3aebdd"
+    },
+    {
+      "sha": "0d1282ca2b306de31a445600864550f1134bfe7e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #100 from UnitVectorY-Labs/dependabot/maven/org.junit-junit-bom-5.13.3\n\nBump org.junit:junit-bom from 5.13.2 to 5.13.3",
+      "timestamp": "2025-07-05T14:44:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/0d1282ca2b306de31a445600864550f1134bfe7e"
+    },
+    {
+      "sha": "7450279630befe37a53fc560a3bbe00774ff4458",
+      "author": "dependabot[bot]",
+      "message": "Bump org.junit:junit-bom from 5.13.2 to 5.13.3\n\nBumps [org.junit:junit-bom](https://github.com/junit-team/junit-framework) from 5.13.2 to 5.13.3.\n- [Release notes](https://github.com/junit-team/junit-framework/releases)\n- [Commits](https://github.com/junit-team/junit-framework/compare/r5.13.2...r5.13.3)\n\n---\nupdated-dependencies:\n- dependency-name: org.junit:junit-bom\n  dependency-version: 5.13.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-07-05T10:36:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/7450279630befe37a53fc560a3bbe00774ff4458"
+    },
+    {
+      "sha": "80b0bd6bf4f3bd5f7f61b3565a7ff6050bc5c45f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #98 from UnitVectorY-Labs/dependabot/maven/org.junit-junit-bom-5.13.2\n\nBump org.junit:junit-bom from 5.13.1 to 5.13.2",
+      "timestamp": "2025-06-28T15:43:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/80b0bd6bf4f3bd5f7f61b3565a7ff6050bc5c45f"
+    },
+    {
+      "sha": "dcb4bf509986ad602cbb7fff1f4c3af16f70f3be",
+      "author": "dependabot[bot]",
+      "message": "Bump org.junit:junit-bom from 5.13.1 to 5.13.2\n\nBumps [org.junit:junit-bom](https://github.com/junit-team/junit-framework) from 5.13.1 to 5.13.2.\n- [Release notes](https://github.com/junit-team/junit-framework/releases)\n- [Commits](https://github.com/junit-team/junit-framework/compare/r5.13.1...r5.13.2)\n\n---\nupdated-dependencies:\n- dependency-name: org.junit:junit-bom\n  dependency-version: 5.13.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-06-28T15:40:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/dcb4bf509986ad602cbb7fff1f4c3af16f70f3be"
+    },
+    {
+      "sha": "78d7334f44cbc06495d557e52dafd0d0d4b4b6e4",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #97 from UnitVectorY-Labs/dependabot/maven/com.google.cloud-google-cloudevent-types-0.17.0\n\nBump com.google.cloud:google-cloudevent-types from 0.16.0 to 0.17.0",
+      "timestamp": "2025-06-28T15:39:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/78d7334f44cbc06495d557e52dafd0d0d4b4b6e4"
+    },
+    {
+      "sha": "c5b22a99ece6f74a28cd8fa7258c8ea37e2b43cb",
+      "author": "dependabot[bot]",
+      "message": "Bump com.google.cloud:google-cloudevent-types from 0.16.0 to 0.17.0\n\nBumps [com.google.cloud:google-cloudevent-types](https://github.com/googleapis/google-cloudevents-java) from 0.16.0 to 0.17.0.\n- [Release notes](https://github.com/googleapis/google-cloudevents-java/releases)\n- [Changelog](https://github.com/googleapis/google-cloudevents-java/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/googleapis/google-cloudevents-java/compare/v0.16.0...v0.17.0)\n\n---\nupdated-dependencies:\n- dependency-name: com.google.cloud:google-cloudevent-types\n  dependency-version: 0.17.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-06-28T15:37:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/c5b22a99ece6f74a28cd8fa7258c8ea37e2b43cb"
+    },
+    {
+      "sha": "bcef4edb79d1366d3a1794d4c358a6a1a1b0cf8a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #99 from UnitVectorY-Labs/junit-bom\n\nUpdate pom.xml using JUnit BOM version",
+      "timestamp": "2025-06-28T15:34:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/bcef4edb79d1366d3a1794d4c358a6a1a1b0cf8a"
+    },
+    {
+      "sha": "12bea9154ebf3d1a24dcefcae350035625b31589",
+      "author": "JaredHatfield",
+      "message": "Update pom.xml using JUnit BOM version",
+      "timestamp": "2025-06-28T15:32:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/12bea9154ebf3d1a24dcefcae350035625b31589"
+    },
+    {
+      "sha": "f79d33d7c6c9ac740437ef79eedbc77b23a44f73",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #95 from UnitVectorY-Labs/dependabot/maven/org.sonatype.central-central-publishing-maven-plugin-0.8.0\n\nBump org.sonatype.central:central-publishing-maven-plugin from 0.7.0 to 0.8.0",
+      "timestamp": "2025-06-21T18:47:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/f79d33d7c6c9ac740437ef79eedbc77b23a44f73"
+    },
+    {
+      "sha": "cc30abdeac6496f39f0046036e15fe7225f905df",
+      "author": "dependabot[bot]",
+      "message": "Bump org.sonatype.central:central-publishing-maven-plugin\n\nBumps [org.sonatype.central:central-publishing-maven-plugin](https://github.com/sonatype/central-publishing-maven-plugin) from 0.7.0 to 0.8.0.\n- [Commits](https://github.com/sonatype/central-publishing-maven-plugin/commits)\n\n---\nupdated-dependencies:\n- dependency-name: org.sonatype.central:central-publishing-maven-plugin\n  dependency-version: 0.8.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-06-21T10:12:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/cc30abdeac6496f39f0046036e15fe7225f905df"
+    },
+    {
+      "sha": "77b8154bf40b294ff396f66afcf802cf5cf16d80",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #92 from UnitVectorY-Labs/dependabot/maven/com.unitvectory-fileparamunit-0.1.0\n\nBump com.unitvectory:fileparamunit from 0.0.6 to 0.1.0",
+      "timestamp": "2025-06-10T00:29:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/77b8154bf40b294ff396f66afcf802cf5cf16d80"
+    },
+    {
+      "sha": "fa9c5ac789d3f824609299e8b2c2ed66912b2750",
+      "author": "dependabot[bot]",
+      "message": "Bump com.unitvectory:fileparamunit from 0.0.6 to 0.1.0\n\nBumps [com.unitvectory:fileparamunit](https://github.com/UnitVectorY-Labs/fileparamunit) from 0.0.6 to 0.1.0.\n- [Release notes](https://github.com/UnitVectorY-Labs/fileparamunit/releases)\n- [Commits](https://github.com/UnitVectorY-Labs/fileparamunit/compare/v0.0.6...v0.1.0)\n\n---\nupdated-dependencies:\n- dependency-name: com.unitvectory:fileparamunit\n  dependency-version: 0.1.0\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-06-10T00:20:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/fa9c5ac789d3f824609299e8b2c2ed66912b2750"
+    },
+    {
+      "sha": "850fe622dfab3b046e1ef574e11c6d924d2a9a79",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #94 from UnitVectorY-Labs/junit\n\nAdd JUnit BOM dependency management for version 5.13.1",
+      "timestamp": "2025-06-10T00:19:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/850fe622dfab3b046e1ef574e11c6d924d2a9a79"
+    },
+    {
+      "sha": "5358b2888b3af0c9b0fac317987dd349fc83466a",
+      "author": "JaredHatfield",
+      "message": "Add JUnit BOM dependency management for version 5.13.1",
+      "timestamp": "2025-06-10T00:18:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/5358b2888b3af0c9b0fac317987dd349fc83466a"
+    },
+    {
+      "sha": "6d3cc4e47a74650edbd7c93ae04b3bd634a1637d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #93 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-api-5.13.1\n\nBump org.junit.jupiter:junit-jupiter-api from 5.13.0 to 5.13.1",
+      "timestamp": "2025-06-07T16:35:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/6d3cc4e47a74650edbd7c93ae04b3bd634a1637d"
+    },
+    {
+      "sha": "d728ca26f9a12f944ec872ec4d83f6784131b832",
+      "author": "dependabot[bot]",
+      "message": "Bump org.junit.jupiter:junit-jupiter-api from 5.13.0 to 5.13.1\n\nBumps [org.junit.jupiter:junit-jupiter-api](https://github.com/junit-team/junit5) from 5.13.0 to 5.13.1.\n- [Release notes](https://github.com/junit-team/junit5/releases)\n- [Commits](https://github.com/junit-team/junit5/compare/r5.13.0...r5.13.1)\n\n---\nupdated-dependencies:\n- dependency-name: org.junit.jupiter:junit-jupiter-api\n  dependency-version: 5.13.1\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-06-07T10:35:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/d728ca26f9a12f944ec872ec4d83f6784131b832"
+    },
+    {
+      "sha": "612d4700e396173eecd31606db9be2a74e03c247",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #91 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-api-5.13.0\n\nBump org.junit.jupiter:junit-jupiter-api from 5.12.2 to 5.13.0",
+      "timestamp": "2025-06-01T16:12:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/612d4700e396173eecd31606db9be2a74e03c247"
+    },
+    {
+      "sha": "0ab364bceecb9b921efe8d41ecc06c98b797c68e",
+      "author": "dependabot[bot]",
+      "message": "Bump org.junit.jupiter:junit-jupiter-api from 5.12.2 to 5.13.0\n\nBumps [org.junit.jupiter:junit-jupiter-api](https://github.com/junit-team/junit5) from 5.12.2 to 5.13.0.\n- [Release notes](https://github.com/junit-team/junit5/releases)\n- [Commits](https://github.com/junit-team/junit5/compare/r5.12.2...r5.13.0)\n\n---\nupdated-dependencies:\n- dependency-name: org.junit.jupiter:junit-jupiter-api\n  dependency-version: 5.13.0\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-05-31T10:45:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/0ab364bceecb9b921efe8d41ecc06c98b797c68e"
+    },
+    {
+      "sha": "f3712932683496f61882288d06b5019b0bd2d2b1",
+      "author": "JaredHatfield",
+      "message": "Update README.md to reference version 0.0.7",
+      "timestamp": "2025-05-26T14:00:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/f3712932683496f61882288d06b5019b0bd2d2b1"
+    },
+    {
+      "sha": "176577831abd4e45a0783d181adaf7acc8d86305",
+      "author": "JaredHatfield",
+      "message": "Incremented the version to 0.0.8-SNAPSHOT for a future release",
+      "timestamp": "2025-05-26T13:55:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/176577831abd4e45a0783d181adaf7acc8d86305"
+    }
+  ],
+  "repository_url": "https://github.com/UnitVectorY-Labs/firestoreproto2json"
+}

@@ -1,0 +1,178 @@
+{
+  "owner": "UnitVectorY-Labs",
+  "name": "hellorest",
+  "default_branch": "main",
+  "latest_release_tag": "v1.1.2",
+  "latest_release_time": "2025-05-07T22:57:22Z",
+  "unreleased_commits": [
+    {
+      "sha": "fe681a30eabe2b7a91cf72d105f53df07faa6567",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #24 from UnitVectorY-Labs/go-v1.25.2\n\nUpdate Go version to 1.25.2",
+      "timestamp": "2025-10-12T15:01:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/fe681a30eabe2b7a91cf72d105f53df07faa6567"
+    },
+    {
+      "sha": "a6e419ed3c5d2056c0e2fdd7ade639181cd96b6d",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.2",
+      "timestamp": "2025-10-12T14:56:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/a6e419ed3c5d2056c0e2fdd7ade639181cd96b6d"
+    },
+    {
+      "sha": "381fb47fcee4f692a7121276bf69597daf2fc2c8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #21 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7\n\nBump astral-sh/setup-uv from 6 to 7",
+      "timestamp": "2025-10-11T13:15:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/381fb47fcee4f692a7121276bf69597daf2fc2c8"
+    },
+    {
+      "sha": "6d34af18067663fb124b525da63aedf6277e7d0c",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 6 to 7\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 6 to 7.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/v6...v7)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-10-11T13:04:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/6d34af18067663fb124b525da63aedf6277e7d0c"
+    },
+    {
+      "sha": "bbb795c90ae0c16fb583f300a25b4a2910ab3cd6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #22 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4\n\nBump github/codeql-action from 3 to 4",
+      "timestamp": "2025-10-11T13:03:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/bbb795c90ae0c16fb583f300a25b4a2910ab3cd6"
+    },
+    {
+      "sha": "d0a9604d7a4f575f3811da0c9d8b3b8620ae3e6d",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action from 3 to 4\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 3 to 4.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/v3...v4)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: '4'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-10-11T10:06:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/d0a9604d7a4f575f3811da0c9d8b3b8620ae3e6d"
+    },
+    {
+      "sha": "7e21658a0d48018ba49027c94fd7b76144b9f5ae",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #20 from UnitVectorY-Labs/go-v1.25.1\n\nUpdate Go version to 1.25.1",
+      "timestamp": "2025-09-06T13:09:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/7e21658a0d48018ba49027c94fd7b76144b9f5ae"
+    },
+    {
+      "sha": "e25e0760d4ed0aad5a56a1f251969d9cc1a1493f",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.1",
+      "timestamp": "2025-09-06T13:04:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/e25e0760d4ed0aad5a56a1f251969d9cc1a1493f"
+    },
+    {
+      "sha": "c435c4e16a1fc98448d2279aad37acae2ada65d9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #18 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6\n\nBump actions/setup-go from 5 to 6",
+      "timestamp": "2025-09-06T12:19:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/c435c4e16a1fc98448d2279aad37acae2ada65d9"
+    },
+    {
+      "sha": "a46a28e8589c836ea108413e049f37be4c5f9e5f",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/setup-go from 5 to 6\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 5 to 6.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/v5...v6)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: '6'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-09-06T10:03:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/a46a28e8589c836ea108413e049f37be4c5f9e5f"
+    },
+    {
+      "sha": "fd1ef4b0c2a2cb8c99756c48f5ee6c2ce7da3a00",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #17 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-3\n\nBump actions/attest-build-provenance from 2 to 3",
+      "timestamp": "2025-08-30T11:53:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/fd1ef4b0c2a2cb8c99756c48f5ee6c2ce7da3a00"
+    },
+    {
+      "sha": "157239185b10845a6576897c9cd4224a4bf6074c",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/attest-build-provenance from 2 to 3\n\nBumps [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) from 2 to 3.\n- [Release notes](https://github.com/actions/attest-build-provenance/releases)\n- [Changelog](https://github.com/actions/attest-build-provenance/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest-build-provenance/compare/v2...v3)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest-build-provenance\n  dependency-version: '3'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-08-30T10:03:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/157239185b10845a6576897c9cd4224a4bf6074c"
+    },
+    {
+      "sha": "1a51d5dfe83f294c6c496052583945e237d5d2b7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #16 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-5\n\nBump actions/checkout from 4 to 5",
+      "timestamp": "2025-08-16T11:55:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/1a51d5dfe83f294c6c496052583945e237d5d2b7"
+    },
+    {
+      "sha": "9cb555fc6bcecfeccb330da883d974d543bf7f39",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/checkout from 4 to 5\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 4 to 5.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/v4...v5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '5'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-08-16T10:08:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/9cb555fc6bcecfeccb330da883d974d543bf7f39"
+    },
+    {
+      "sha": "e82bdb442baa74b95e837b5e9c85f322b208194a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #15 from UnitVectorY-Labs/go-v1.25.0\n\nUpdate Go version to 1.25.0",
+      "timestamp": "2025-08-15T00:50:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/e82bdb442baa74b95e837b5e9c85f322b208194a"
+    },
+    {
+      "sha": "bd7902e56a73c281063e3a0ecb8f3f2bdfd9db81",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.0",
+      "timestamp": "2025-08-15T00:45:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/bd7902e56a73c281063e3a0ecb8f3f2bdfd9db81"
+    },
+    {
+      "sha": "01693300c86a4620179faa0fd1cc85d0fb89cb3a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #14 from UnitVectorY-Labs/go-v1.24.6\n\nUpdate Go version to 1.24.6",
+      "timestamp": "2025-08-06T23:22:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/01693300c86a4620179faa0fd1cc85d0fb89cb3a"
+    },
+    {
+      "sha": "ca43bb556393de045b2822429788db82e8d8e509",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.24.6",
+      "timestamp": "2025-08-06T23:15:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/ca43bb556393de045b2822429788db82e8d8e509"
+    },
+    {
+      "sha": "01381609db8586a1927d0d3488d2ed0f582cd0be",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #13 from UnitVectorY-Labs/go-v1.24.5\n\nUpdate Go version to 1.24.5",
+      "timestamp": "2025-07-09T23:18:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/01381609db8586a1927d0d3488d2ed0f582cd0be"
+    },
+    {
+      "sha": "6094b2637cf951f085769000a84c6876c70bacf5",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.24.5",
+      "timestamp": "2025-07-09T23:10:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/6094b2637cf951f085769000a84c6876c70bacf5"
+    },
+    {
+      "sha": "fa552eb66b26d857755f0e3f960ae5a40795e8de",
+      "author": "JaredHatfield",
+      "message": "Update build-go.yml",
+      "timestamp": "2025-06-06T23:45:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/fa552eb66b26d857755f0e3f960ae5a40795e8de"
+    },
+    {
+      "sha": "7faaa1e9c3fcd0a3498bdc5fc5f538723a9abf48",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #12 from UnitVectorY-Labs/go-v1.24.4\n\nUpdate Go version to 1.24.4",
+      "timestamp": "2025-06-06T23:12:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/7faaa1e9c3fcd0a3498bdc5fc5f538723a9abf48"
+    },
+    {
+      "sha": "d5a977de3e500bd1baee4e3d6245ae9474caaaf9",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.24.4",
+      "timestamp": "2025-06-06T23:09:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/d5a977de3e500bd1baee4e3d6245ae9474caaaf9"
+    },
+    {
+      "sha": "4ea003c6e5b6b280b95edeab383254fb9c521c22",
+      "author": "JaredHatfield",
+      "message": "Update .repver",
+      "timestamp": "2025-05-20T23:53:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/4ea003c6e5b6b280b95edeab383254fb9c521c22"
+    }
+  ],
+  "repository_url": "https://github.com/UnitVectorY-Labs/hellorest"
+}
