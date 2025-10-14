@@ -8,6 +8,8 @@ on:
   # Runs on pushes to the default branch
   push:
     branches: ["main"]
+  # Manual trigger
+  workflow_dispatch:
 
 permissions:
   contents: read  # Required to clone the repository
