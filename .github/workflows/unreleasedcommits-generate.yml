@@ -9,6 +9,15 @@ on:
   push:
     branches: ["main"]
 
+permissions:
+  contents: read  # Required to clone the repository
+  pages: write    # Allows publishing to GitHub Pages
+  id-token: write # Required for the `actions/deploy-pages@v4`
+
+concurrency:
+  group: generate
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: arc-runner-set
@@ -56,7 +65,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          path: ./output  # Match the directory where the static files are generated
+          path: ./self/output  # Match the directory where the static files are generated
 
   # Deployment job
   deploy:
