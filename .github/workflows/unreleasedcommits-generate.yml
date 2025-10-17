@@ -4,7 +4,7 @@ name: Deploy Unreleased Commits Generator
 on:
   # Additional trigger to ensure this is updated after crawl
   schedule:
-    - cron: 10 0 * * *
+    - cron: 20 0 * * *
   # Runs on pushes to the default branch
   push:
     branches: ["main"]
