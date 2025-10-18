@@ -4,6 +4,21 @@
   "default_branch": "main",
   "latest_release_tag": "v0.2.3",
   "latest_release_time": "2025-10-14T01:35:46Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "55183dfb6b649d9a78183e67507be336c965d7a7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #24 from UnitVectorY-Labs/go-v1.25.3\n\nUpdate Go version to 1.25.3",
+      "timestamp": "2025-10-17T01:42:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpbinary/commit/55183dfb6b649d9a78183e67507be336c965d7a7"
+    },
+    {
+      "sha": "ebf1009bc5298529a8a87e50691149b7d7675d42",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.3",
+      "timestamp": "2025-10-17T01:34:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpbinary/commit/ebf1009bc5298529a8a87e50691149b7d7675d42"
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/gologhttpbinary"
 }

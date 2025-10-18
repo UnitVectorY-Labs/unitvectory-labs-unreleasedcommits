@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-09T02:12:50Z",
   "unreleased_commits": [
     {
+      "sha": "f9acc4748640f7fe2c6afb39d622c3b095b150c0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #31 from UnitVectorY-Labs/go-v1.25.3\n\nUpdate Go version to 1.25.3",
+      "timestamp": "2025-10-17T01:43:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/f9acc4748640f7fe2c6afb39d622c3b095b150c0"
+    },
+    {
+      "sha": "8a9b3adfe6a66bc114a5423a90a7f78a51e661e5",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.3",
+      "timestamp": "2025-10-17T01:34:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/8a9b3adfe6a66bc114a5423a90a7f78a51e661e5"
+    },
+    {
       "sha": "f495e0d344004e2b1f39523446b3c245bb79511e",
       "author": "JaredHatfield",
       "message": "Merge pull request #30 from UnitVectorY-Labs/go-v1.25.2\n\nUpdate Go version to 1.25.2",

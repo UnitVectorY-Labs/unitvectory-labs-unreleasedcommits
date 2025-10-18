@@ -6,6 +6,20 @@
   "latest_release_time": "2025-05-07T22:52:00Z",
   "unreleased_commits": [
     {
+      "sha": "321d2dbf38833edab8558aca4320c8658b4f4b5e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #53 from UnitVectorY-Labs/go-v1.25.3\n\nUpdate Go version to 1.25.3",
+      "timestamp": "2025-10-17T01:42:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/321d2dbf38833edab8558aca4320c8658b4f4b5e"
+    },
+    {
+      "sha": "fa93e92ff144dfd23afa4fd47f0c16ce78aef784",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.3",
+      "timestamp": "2025-10-17T01:34:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/fa93e92ff144dfd23afa4fd47f0c16ce78aef784"
+    },
+    {
       "sha": "29c5bdc8714559f4483fcd2e391d9432bd74aeea",
       "author": "JaredHatfield",
       "message": "Merge pull request #50 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/grpc-1.76.0\n\nBump google.golang.org/grpc from 1.75.1 to 1.76.0",

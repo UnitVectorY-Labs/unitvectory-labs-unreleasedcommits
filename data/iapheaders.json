@@ -4,6 +4,21 @@
   "default_branch": "main",
   "latest_release_tag": "v0.4.4",
   "latest_release_time": "2025-10-15T00:11:57Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "5fbd9c3bda4206fd99ce37abfbcbcda3c6e9dfb4",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #34 from UnitVectorY-Labs/go-v1.25.3\n\nUpdate Go version to 1.25.3",
+      "timestamp": "2025-10-17T01:43:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/5fbd9c3bda4206fd99ce37abfbcbcda3c6e9dfb4"
+    },
+    {
+      "sha": "c5e0f440eacd342b2ea6376f16e43b99fe24443f",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.3",
+      "timestamp": "2025-10-17T01:33:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/c5e0f440eacd342b2ea6376f16e43b99fe24443f"
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/iapheaders"
 }

@@ -6,6 +6,20 @@
   "latest_release_time": "2025-05-07T23:17:31Z",
   "unreleased_commits": [
     {
+      "sha": "6e9b1cdd6b73ab3574f70176ab196c73e8264260",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #50 from UnitVectorY-Labs/go-v1.25.3\n\nUpdate Go version to 1.25.3",
+      "timestamp": "2025-10-17T01:42:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/6e9b1cdd6b73ab3574f70176ab196c73e8264260"
+    },
+    {
+      "sha": "052e74c5d10ca481b87677c525f6b4d3166fcf46",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.3",
+      "timestamp": "2025-10-17T01:34:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/052e74c5d10ca481b87677c525f6b4d3166fcf46"
+    },
+    {
       "sha": "c8d59e5a116ce813955f4d3b781fa53555e236c3",
       "author": "JaredHatfield",
       "message": "Merge pull request #46 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/time-0.14.0\n\nBump golang.org/x/time from 0.13.0 to 0.14.0",

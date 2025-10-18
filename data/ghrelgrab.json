@@ -6,6 +6,20 @@
   "latest_release_time": "2025-08-15T01:42:20Z",
   "unreleased_commits": [
     {
+      "sha": "f267d260bb38971ca60124a9cbd755a6750a0694",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #9 from UnitVectorY-Labs/go-v1.25.3\n\nUpdate Go version to 1.25.3",
+      "timestamp": "2025-10-17T01:42:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/f267d260bb38971ca60124a9cbd755a6750a0694"
+    },
+    {
+      "sha": "75e1e546cd34a40e94526b3635888dfa3201589c",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.3",
+      "timestamp": "2025-10-17T01:35:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/75e1e546cd34a40e94526b3635888dfa3201589c"
+    },
+    {
       "sha": "8666dbc05a3f11efb3d3f138502ddfad9761fe63",
       "author": "JaredHatfield",
       "message": "Merge pull request #8 from UnitVectorY-Labs/go-v1.25.2\n\nUpdate Go version to 1.25.2",

@@ -6,6 +6,20 @@
   "latest_release_time": "2025-03-31T01:12:12Z",
   "unreleased_commits": [
     {
+      "sha": "d08f2f061465fb22edf38a772de3cf86e283ee10",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #51 from UnitVectorY-Labs/go-v1.25.3\n\nUpdate Go version to 1.25.3",
+      "timestamp": "2025-10-17T01:43:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/d08f2f061465fb22edf38a772de3cf86e283ee10"
+    },
+    {
+      "sha": "9ce8fcae5954969c52cc34490223a62189c0f688",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.3",
+      "timestamp": "2025-10-17T01:34:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/9ce8fcae5954969c52cc34490223a62189c0f688"
+    },
+    {
       "sha": "ca65fd2be874c67891301cf5c9d5875caa9fdaca",
       "author": "JaredHatfield",
       "message": "Merge pull request #47 from UnitVectorY-Labs/dependabot/go_modules/github.com/go-playground/validator/v10-10.28.0\n\nBump github.com/go-playground/validator/v10 from 10.27.0 to 10.28.0",

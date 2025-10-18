@@ -4,6 +4,21 @@
   "default_branch": "main",
   "latest_release_tag": "v0.3.3",
   "latest_release_time": "2025-10-15T00:17:08Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "32ca773e1910b8b496b43fca6be5a2f1859d961f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #84 from UnitVectorY-Labs/go-v1.25.3\n\nUpdate Go version to 1.25.3",
+      "timestamp": "2025-10-17T01:43:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/32ca773e1910b8b496b43fca6be5a2f1859d961f"
+    },
+    {
+      "sha": "75b3ff53c7029c14dd92322c8c8fb7f5bfcd0201",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.3",
+      "timestamp": "2025-10-17T01:33:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/75b3ff53c7029c14dd92322c8c8fb7f5bfcd0201"
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/lockboxkms"
 }
