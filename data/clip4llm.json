@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-09T02:12:50Z",
   "unreleased_commits": [
     {
+      "sha": "92d8ee028833f8b27ba9642a0be8697bd898094d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #32 from UnitVectorY-Labs/dependabot/go_modules/github.com/UnitVectorY-Labs/isplaintextfile-0.0.4\n\nBump github.com/UnitVectorY-Labs/isplaintextfile from 0.0.3 to 0.0.4",
+      "timestamp": "2025-10-19T15:01:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/92d8ee028833f8b27ba9642a0be8697bd898094d"
+    },
+    {
+      "sha": "62c350671c05db69ebf81f6bcae8700bb2f5f846",
+      "author": "dependabot[bot]",
+      "message": "Bump github.com/UnitVectorY-Labs/isplaintextfile from 0.0.3 to 0.0.4\n\nBumps [github.com/UnitVectorY-Labs/isplaintextfile](https://github.com/UnitVectorY-Labs/isplaintextfile) from 0.0.3 to 0.0.4.\n- [Release notes](https://github.com/UnitVectorY-Labs/isplaintextfile/releases)\n- [Commits](https://github.com/UnitVectorY-Labs/isplaintextfile/compare/v0.0.3...v0.0.4)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/UnitVectorY-Labs/isplaintextfile\n  dependency-version: 0.0.4\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-10-18T10:03:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/62c350671c05db69ebf81f6bcae8700bb2f5f846"
+    },
+    {
       "sha": "f9acc4748640f7fe2c6afb39d622c3b095b150c0",
       "author": "JaredHatfield",
       "message": "Merge pull request #31 from UnitVectorY-Labs/go-v1.25.3\n\nUpdate Go version to 1.25.3",

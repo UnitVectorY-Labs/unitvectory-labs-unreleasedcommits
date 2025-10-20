@@ -6,6 +6,20 @@
   "latest_release_time": "2025-05-25T20:04:46Z",
   "unreleased_commits": [
     {
+      "sha": "3bee9e5fae5fd724cbdad0574974c3f50809e650",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #120 from UnitVectorY-Labs/dependabot/maven/org.jacoco-jacoco-maven-plugin-0.8.14\n\nBump org.jacoco:jacoco-maven-plugin from 0.8.13 to 0.8.14",
+      "timestamp": "2025-10-19T15:00:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/3bee9e5fae5fd724cbdad0574974c3f50809e650"
+    },
+    {
+      "sha": "ee3142fe078fac329b6e9631f917de9c43fb0710",
+      "author": "dependabot[bot]",
+      "message": "Bump org.jacoco:jacoco-maven-plugin from 0.8.13 to 0.8.14\n\nBumps [org.jacoco:jacoco-maven-plugin](https://github.com/jacoco/jacoco) from 0.8.13 to 0.8.14.\n- [Release notes](https://github.com/jacoco/jacoco/releases)\n- [Commits](https://github.com/jacoco/jacoco/compare/v0.8.13...v0.8.14)\n\n---\nupdated-dependencies:\n- dependency-name: org.jacoco:jacoco-maven-plugin\n  dependency-version: 0.8.14\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-10-18T10:02:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/ee3142fe078fac329b6e9631f917de9c43fb0710"
+    },
+    {
       "sha": "6bbf1d62a343031e0e3b679215414310c3c126ea",
       "author": "JaredHatfield",
       "message": "Merge pull request #119 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7\n\nBump astral-sh/setup-uv from 6 to 7",

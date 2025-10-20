@@ -6,6 +6,34 @@
   "latest_release_time": "2025-05-26T13:45:49Z",
   "unreleased_commits": [
     {
+      "sha": "d9b543efc75110cc3885f00519890220aff45296",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #144 from UnitVectorY-Labs/dependabot/maven/org.springframework-spring-web-6.2.12\n\nBump org.springframework:spring-web from 6.2.11 to 6.2.12",
+      "timestamp": "2025-10-19T15:14:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/d9b543efc75110cc3885f00519890220aff45296"
+    },
+    {
+      "sha": "dedea512cbd595e8f2af8f59b10ed1eef6b49d4f",
+      "author": "dependabot[bot]",
+      "message": "Bump org.springframework:spring-web from 6.2.11 to 6.2.12\n\nBumps [org.springframework:spring-web](https://github.com/spring-projects/spring-framework) from 6.2.11 to 6.2.12.\n- [Release notes](https://github.com/spring-projects/spring-framework/releases)\n- [Commits](https://github.com/spring-projects/spring-framework/compare/v6.2.11...v6.2.12)\n\n---\nupdated-dependencies:\n- dependency-name: org.springframework:spring-web\n  dependency-version: 6.2.12\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-10-19T15:01:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/dedea512cbd595e8f2af8f59b10ed1eef6b49d4f"
+    },
+    {
+      "sha": "4e080121731a430014552f42a1c9a653d4cfa555",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #143 from UnitVectorY-Labs/dependabot/maven/org.jacoco-jacoco-maven-plugin-0.8.14\n\nBump org.jacoco:jacoco-maven-plugin from 0.8.13 to 0.8.14",
+      "timestamp": "2025-10-19T14:59:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/4e080121731a430014552f42a1c9a653d4cfa555"
+    },
+    {
+      "sha": "8c0a2ea276dab4e0532bef125b5b86c694edd8ee",
+      "author": "dependabot[bot]",
+      "message": "Bump org.jacoco:jacoco-maven-plugin from 0.8.13 to 0.8.14\n\nBumps [org.jacoco:jacoco-maven-plugin](https://github.com/jacoco/jacoco) from 0.8.13 to 0.8.14.\n- [Release notes](https://github.com/jacoco/jacoco/releases)\n- [Commits](https://github.com/jacoco/jacoco/compare/v0.8.13...v0.8.14)\n\n---\nupdated-dependencies:\n- dependency-name: org.jacoco:jacoco-maven-plugin\n  dependency-version: 0.8.14\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-10-18T10:02:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/8c0a2ea276dab4e0532bef125b5b86c694edd8ee"
+    },
+    {
       "sha": "737c51aba384b50dd5c341abaff8834e6d245519",
       "author": "JaredHatfield",
       "message": "Merge pull request #142 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7\n\nBump astral-sh/setup-uv from 6 to 7",

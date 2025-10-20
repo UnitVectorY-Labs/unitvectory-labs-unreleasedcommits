@@ -6,6 +6,20 @@
   "latest_release_time": "2025-05-26T13:46:52Z",
   "unreleased_commits": [
     {
+      "sha": "e8d9576e23f4026d63e272c97b8f84c18c9668c6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #144 from UnitVectorY-Labs/dependabot/maven/org.jacoco-jacoco-maven-plugin-0.8.14\n\nBump org.jacoco:jacoco-maven-plugin from 0.8.13 to 0.8.14",
+      "timestamp": "2025-10-19T14:59:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/e8d9576e23f4026d63e272c97b8f84c18c9668c6"
+    },
+    {
+      "sha": "a59188c36b105fb886ce3629364d13cabe5ef91e",
+      "author": "dependabot[bot]",
+      "message": "Bump org.jacoco:jacoco-maven-plugin from 0.8.13 to 0.8.14\n\nBumps [org.jacoco:jacoco-maven-plugin](https://github.com/jacoco/jacoco) from 0.8.13 to 0.8.14.\n- [Release notes](https://github.com/jacoco/jacoco/releases)\n- [Commits](https://github.com/jacoco/jacoco/compare/v0.8.13...v0.8.14)\n\n---\nupdated-dependencies:\n- dependency-name: org.jacoco:jacoco-maven-plugin\n  dependency-version: 0.8.14\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-10-18T10:02:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/a59188c36b105fb886ce3629364d13cabe5ef91e"
+    },
+    {
       "sha": "66bf28d2b9da848427f30116f9e510a9582839fe",
       "author": "JaredHatfield",
       "message": "Merge pull request #143 from UnitVectorY-Labs/dependabot/maven/com.google.cloud-libraries-bom-26.70.0\n\nBump com.google.cloud:libraries-bom from 26.69.0 to 26.70.0",
