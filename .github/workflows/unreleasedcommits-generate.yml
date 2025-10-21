@@ -2,9 +2,10 @@ name: Deploy Unreleased Commits Generator
 
 # Triggered manually via the "Run workflow" button
 on:
-  # Additional trigger to ensure this is updated after crawl
-  schedule:
-    - cron: 20 0 * * *
+  # Trigger after the crawl completes
+  workflow_run:
+    workflows: [Automated Unreleased Commits Crawl]
+    types: [completed]
   # Runs on pushes to the default branch
   push:
     branches: ["main"]
