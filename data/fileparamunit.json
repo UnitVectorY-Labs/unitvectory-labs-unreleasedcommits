@@ -6,6 +6,13 @@
   "latest_release_time": "2025-10-24T21:58:15Z",
   "unreleased_commits": [
     {
+      "sha": "4ad3780bc5b22129fdc4d3ee1b597b737115b255",
+      "author": "JaredHatfield",
+      "message": "Update dependency version to 0.1.2",
+      "timestamp": "2025-10-25T13:02:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/fileparamunit/commit/4ad3780bc5b22129fdc4d3ee1b597b737115b255"
+    },
+    {
       "sha": "24e80618628aba0e054f8e4334ded719cd228350",
       "author": "JaredHatfield",
       "message": "Increment version to 0.1.3-SNAPSHOT",

@@ -6,6 +6,20 @@
   "latest_release_time": "2025-05-26T13:46:52Z",
   "unreleased_commits": [
     {
+      "sha": "eb570c82e5d8b9b1cd77ca6a9698c1971b75ae16",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #145 from UnitVectorY-Labs/dependabot/maven/com.unitvectory-fileparamunit-0.1.2\n\nBump com.unitvectory:fileparamunit from 0.1.1 to 0.1.2",
+      "timestamp": "2025-10-25T13:15:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/eb570c82e5d8b9b1cd77ca6a9698c1971b75ae16"
+    },
+    {
+      "sha": "bb40ac108151387a63d19ba963b4e0c1901d409e",
+      "author": "dependabot[bot]",
+      "message": "Bump com.unitvectory:fileparamunit from 0.1.1 to 0.1.2\n\nBumps [com.unitvectory:fileparamunit](https://github.com/UnitVectorY-Labs/fileparamunit) from 0.1.1 to 0.1.2.\n- [Release notes](https://github.com/UnitVectorY-Labs/fileparamunit/releases)\n- [Commits](https://github.com/UnitVectorY-Labs/fileparamunit/compare/v0.1.1...v0.1.2)\n\n---\nupdated-dependencies:\n- dependency-name: com.unitvectory:fileparamunit\n  dependency-version: 0.1.2\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-10-25T10:02:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/bb40ac108151387a63d19ba963b4e0c1901d409e"
+    },
+    {
       "sha": "e8d9576e23f4026d63e272c97b8f84c18c9668c6",
       "author": "JaredHatfield",
       "message": "Merge pull request #144 from UnitVectorY-Labs/dependabot/maven/org.jacoco-jacoco-maven-plugin-0.8.14\n\nBump org.jacoco:jacoco-maven-plugin from 0.8.13 to 0.8.14",

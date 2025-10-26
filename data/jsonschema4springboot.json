@@ -6,6 +6,20 @@
   "latest_release_time": "2025-05-26T13:45:49Z",
   "unreleased_commits": [
     {
+      "sha": "84df2048f2ec3179d928c7351c534e144a6153ab",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #145 from UnitVectorY-Labs/dependabot/maven/com.unitvectory-fileparamunit-0.1.2\n\nBump com.unitvectory:fileparamunit from 0.1.1 to 0.1.2",
+      "timestamp": "2025-10-25T13:14:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/84df2048f2ec3179d928c7351c534e144a6153ab"
+    },
+    {
+      "sha": "3b1e5d77a55f74c5bc2adfc41c1242d5d50a3771",
+      "author": "dependabot[bot]",
+      "message": "Bump com.unitvectory:fileparamunit from 0.1.1 to 0.1.2\n\nBumps [com.unitvectory:fileparamunit](https://github.com/UnitVectorY-Labs/fileparamunit) from 0.1.1 to 0.1.2.\n- [Release notes](https://github.com/UnitVectorY-Labs/fileparamunit/releases)\n- [Commits](https://github.com/UnitVectorY-Labs/fileparamunit/compare/v0.1.1...v0.1.2)\n\n---\nupdated-dependencies:\n- dependency-name: com.unitvectory:fileparamunit\n  dependency-version: 0.1.2\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-10-25T10:02:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/3b1e5d77a55f74c5bc2adfc41c1242d5d50a3771"
+    },
+    {
       "sha": "d9b543efc75110cc3885f00519890220aff45296",
       "author": "JaredHatfield",
       "message": "Merge pull request #144 from UnitVectorY-Labs/dependabot/maven/org.springframework-spring-web-6.2.12\n\nBump org.springframework:spring-web from 6.2.11 to 6.2.12",

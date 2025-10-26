@@ -6,6 +6,34 @@
   "latest_release_time": "2025-05-26T13:45:28Z",
   "unreleased_commits": [
     {
+      "sha": "1333afbb51eded0a4c9a8ba0542c7c5eb2be8a84",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #122 from UnitVectorY-Labs/dependabot/maven/com.unitvectory-fileparamunit-0.1.2\n\nBump com.unitvectory:fileparamunit from 0.1.1 to 0.1.2",
+      "timestamp": "2025-10-25T13:15:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/1333afbb51eded0a4c9a8ba0542c7c5eb2be8a84"
+    },
+    {
+      "sha": "a166d40a56fd8ef6c7ade7c9f475d46284dac693",
+      "author": "dependabot[bot]",
+      "message": "Bump com.unitvectory:fileparamunit from 0.1.1 to 0.1.2\n\nBumps [com.unitvectory:fileparamunit](https://github.com/UnitVectorY-Labs/fileparamunit) from 0.1.1 to 0.1.2.\n- [Release notes](https://github.com/UnitVectorY-Labs/fileparamunit/releases)\n- [Commits](https://github.com/UnitVectorY-Labs/fileparamunit/compare/v0.1.1...v0.1.2)\n\n---\nupdated-dependencies:\n- dependency-name: com.unitvectory:fileparamunit\n  dependency-version: 0.1.2\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-10-25T13:05:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/a166d40a56fd8ef6c7ade7c9f475d46284dac693"
+    },
+    {
+      "sha": "7713abab7d1a867e0643cb93d952bbac6297ac7b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #121 from UnitVectorY-Labs/dependabot/maven/com.unitvectory-jsonassertify-0.0.5\n\nBump com.unitvectory:jsonassertify from 0.0.4 to 0.0.5",
+      "timestamp": "2025-10-25T13:04:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/7713abab7d1a867e0643cb93d952bbac6297ac7b"
+    },
+    {
+      "sha": "db0615bd3e84aadf1f8ab25fe20234a5958c7719",
+      "author": "dependabot[bot]",
+      "message": "Bump com.unitvectory:jsonassertify from 0.0.4 to 0.0.5\n\nBumps [com.unitvectory:jsonassertify](https://github.com/UnitVectorY-Labs/JSONassertify) from 0.0.4 to 0.0.5.\n- [Release notes](https://github.com/UnitVectorY-Labs/JSONassertify/releases)\n- [Commits](https://github.com/UnitVectorY-Labs/JSONassertify/compare/v0.0.4...v0.0.5)\n\n---\nupdated-dependencies:\n- dependency-name: com.unitvectory:jsonassertify\n  dependency-version: 0.0.5\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-10-25T10:02:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/db0615bd3e84aadf1f8ab25fe20234a5958c7719"
+    },
+    {
       "sha": "4e9ba9c6357816515e5abb6f14dda3355a872b1f",
       "author": "JaredHatfield",
       "message": "Merge pull request #120 from UnitVectorY-Labs/dependabot/maven/org.jacoco-jacoco-maven-plugin-0.8.14\n\nBump org.jacoco:jacoco-maven-plugin from 0.8.13 to 0.8.14",

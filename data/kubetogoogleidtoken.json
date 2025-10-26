@@ -6,6 +6,20 @@
   "latest_release_time": "2025-05-26T13:46:29Z",
   "unreleased_commits": [
     {
+      "sha": "0d98e9ce1b3292bdcd50d920d3ca106afe03d2b0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #60 from UnitVectorY-Labs/dependabot/maven/com.unitvectory-jsonassertify-0.0.5\n\nBump com.unitvectory:jsonassertify from 0.0.4 to 0.0.5",
+      "timestamp": "2025-10-25T13:04:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/0d98e9ce1b3292bdcd50d920d3ca106afe03d2b0"
+    },
+    {
+      "sha": "c023bd7d9e402f71a8cab5eece54bad6dd193585",
+      "author": "dependabot[bot]",
+      "message": "Bump com.unitvectory:jsonassertify from 0.0.4 to 0.0.5\n\nBumps [com.unitvectory:jsonassertify](https://github.com/UnitVectorY-Labs/JSONassertify) from 0.0.4 to 0.0.5.\n- [Release notes](https://github.com/UnitVectorY-Labs/JSONassertify/releases)\n- [Commits](https://github.com/UnitVectorY-Labs/JSONassertify/compare/v0.0.4...v0.0.5)\n\n---\nupdated-dependencies:\n- dependency-name: com.unitvectory:jsonassertify\n  dependency-version: 0.0.5\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-10-25T10:03:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/c023bd7d9e402f71a8cab5eece54bad6dd193585"
+    },
+    {
       "sha": "e7642913b7a0a26057f0823fb2f4129a0e6bee3f",
       "author": "JaredHatfield",
       "message": "Merge pull request #59 from UnitVectorY-Labs/dependabot/maven/org.jacoco-jacoco-maven-plugin-0.8.14\n\nBump org.jacoco:jacoco-maven-plugin from 0.8.13 to 0.8.14",
