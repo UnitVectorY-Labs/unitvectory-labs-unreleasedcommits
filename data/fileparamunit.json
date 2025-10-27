@@ -6,6 +6,13 @@
   "latest_release_time": "2025-10-24T21:58:15Z",
   "unreleased_commits": [
     {
+      "sha": "76b78c7f6a40db65715d40ebd74ef97a2308c4bd",
+      "author": "JaredHatfield",
+      "message": "Remove extra newline in build-java-17.yml",
+      "timestamp": "2025-10-26T12:57:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/fileparamunit/commit/76b78c7f6a40db65715d40ebd74ef97a2308c4bd"
+    },
+    {
       "sha": "4ad3780bc5b22129fdc4d3ee1b597b737115b255",
       "author": "JaredHatfield",
       "message": "Update dependency version to 0.1.2",
