@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-22T00:51:12Z",
   "unreleased_commits": [
     {
+      "sha": "45fdcef90c70a829372d38258226dc720256e096",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #72 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-api-6.0.1\n\nBump org.junit.jupiter:junit-jupiter-api from 5.13.4 to 6.0.1",
+      "timestamp": "2025-11-01T20:57:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/45fdcef90c70a829372d38258226dc720256e096"
+    },
+    {
+      "sha": "27a5024494428232eac1bdd197949b6e9ea77398",
+      "author": "dependabot[bot]",
+      "message": "Bump org.junit.jupiter:junit-jupiter-api from 5.13.4 to 6.0.1\n\nBumps [org.junit.jupiter:junit-jupiter-api](https://github.com/junit-team/junit-framework) from 5.13.4 to 6.0.1.\n- [Release notes](https://github.com/junit-team/junit-framework/releases)\n- [Commits](https://github.com/junit-team/junit-framework/compare/r5.13.4...r6.0.1)\n\n---\nupdated-dependencies:\n- dependency-name: org.junit.jupiter:junit-jupiter-api\n  dependency-version: 6.0.1\n  dependency-type: direct:development\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-11-01T10:03:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/27a5024494428232eac1bdd197949b6e9ea77398"
+    },
+    {
       "sha": "b7f6d8741625073e11173671764a9e4a33a1fc3d",
       "author": "JaredHatfield",
       "message": "Update jsonassertify version to 0.0.5",

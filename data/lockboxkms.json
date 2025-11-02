@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-15T00:17:08Z",
   "unreleased_commits": [
     {
+      "sha": "a0626e0e5a566682fff127499f346e559d15723c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #87 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.254.0\n\nBump google.golang.org/api from 0.253.0 to 0.254.0",
+      "timestamp": "2025-11-01T20:59:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/a0626e0e5a566682fff127499f346e559d15723c"
+    },
+    {
+      "sha": "2ce68a6dbfc73888a7618e357ac2153daf79321a",
+      "author": "dependabot[bot]",
+      "message": "Bump google.golang.org/api from 0.253.0 to 0.254.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.253.0 to 0.254.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.253.0...v0.254.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.254.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-11-01T10:03:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/2ce68a6dbfc73888a7618e357ac2153daf79321a"
+    },
+    {
       "sha": "cb745195edeca871ef2979b201e674776c1061d8",
       "author": "JaredHatfield",
       "message": "Merge pull request #86 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.253.0\n\nBump google.golang.org/api from 0.252.0 to 0.253.0",

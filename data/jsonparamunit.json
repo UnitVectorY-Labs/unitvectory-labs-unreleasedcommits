@@ -6,6 +6,20 @@
   "latest_release_time": "2025-05-25T20:04:46Z",
   "unreleased_commits": [
     {
+      "sha": "c436c0416bb0be40e5ad535254e61f3709e555af",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #123 from UnitVectorY-Labs/dependabot/maven/com.fasterxml.jackson.core-jackson-databind-2.20.1\n\nBump com.fasterxml.jackson.core:jackson-databind from 2.20.0 to 2.20.1",
+      "timestamp": "2025-11-01T20:59:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/c436c0416bb0be40e5ad535254e61f3709e555af"
+    },
+    {
+      "sha": "17f24c3f251628f08d23762f9a44b8611f74d378",
+      "author": "dependabot[bot]",
+      "message": "Bump com.fasterxml.jackson.core:jackson-databind from 2.20.0 to 2.20.1\n\nBumps [com.fasterxml.jackson.core:jackson-databind](https://github.com/FasterXML/jackson) from 2.20.0 to 2.20.1.\n- [Commits](https://github.com/FasterXML/jackson/commits)\n\n---\nupdated-dependencies:\n- dependency-name: com.fasterxml.jackson.core:jackson-databind\n  dependency-version: 2.20.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-11-01T10:02:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/17f24c3f251628f08d23762f9a44b8611f74d378"
+    },
+    {
       "sha": "c84a2ab4be32650bbe65ec607618a9f69cf44a2a",
       "author": "JaredHatfield",
       "message": "Merge pull request #122 from UnitVectorY-Labs/dependabot/maven/com.unitvectory-fileparamunit-0.1.2\n\nBump com.unitvectory:fileparamunit from 0.1.1 to 0.1.2",
