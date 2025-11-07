@@ -47,7 +47,7 @@ jobs:
       - name: Set up Go
         uses: actions/setup-go@v4
         with:
-          go-version: '1.25.3' # GOVERSION
+          go-version: '1.25.4' # GOVERSION
 
       # Step 4: Build the unreleasedcommits binary
       - name: Build unreleasedcommits
