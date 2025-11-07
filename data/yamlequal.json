@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-09T02:24:52Z",
   "unreleased_commits": [
     {
+      "sha": "1848774a8528c0b1197861af7d031167df9dc1b1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #16 from UnitVectorY-Labs/go-v1.25.4\n\nUpdate Go version to 1.25.4",
+      "timestamp": "2025-11-07T01:11:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/1848774a8528c0b1197861af7d031167df9dc1b1"
+    },
+    {
+      "sha": "5088fa80e3baa0c6a62d2b77ffba684db36ee7f9",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.4",
+      "timestamp": "2025-11-07T01:05:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/5088fa80e3baa0c6a62d2b77ffba684db36ee7f9"
+    },
+    {
       "sha": "ceb1083a5aa6c48821c0904fe20e6df85c635462",
       "author": "JaredHatfield",
       "message": "Merge pull request #15 from UnitVectorY-Labs/go-v1.25.3\n\nUpdate Go version to 1.25.3",

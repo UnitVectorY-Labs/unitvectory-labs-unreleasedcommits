@@ -6,6 +6,20 @@
   "latest_release_time": "2025-08-15T01:42:20Z",
   "unreleased_commits": [
     {
+      "sha": "68656186a0b51e94c7a789937b06e6323f1d7bb4",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #10 from UnitVectorY-Labs/go-v1.25.4\n\nUpdate Go version to 1.25.4",
+      "timestamp": "2025-11-07T01:13:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/68656186a0b51e94c7a789937b06e6323f1d7bb4"
+    },
+    {
+      "sha": "aa93851ace83dce955c6d75970a67a5c30349583",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.4",
+      "timestamp": "2025-11-07T01:07:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/aa93851ace83dce955c6d75970a67a5c30349583"
+    },
+    {
       "sha": "74bb6843686fff9b8f8e43d2facc348d0a0a65bb",
       "author": "JaredHatfield",
       "message": "Fix formatting issue in docker-build-dev.yml",

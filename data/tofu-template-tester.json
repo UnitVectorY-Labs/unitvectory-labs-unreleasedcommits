@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-14T01:27:05Z",
   "unreleased_commits": [
     {
+      "sha": "ae98f391c6a46632a15d66a1a36a9e4e4c3c0976",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #14 from UnitVectorY-Labs/go-v1.25.4\n\nUpdate Go version to 1.25.4",
+      "timestamp": "2025-11-07T01:13:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/ae98f391c6a46632a15d66a1a36a9e4e4c3c0976"
+    },
+    {
+      "sha": "ef2416f3b36ad4b35b567d91977ac6260f2c7e8e",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.4",
+      "timestamp": "2025-11-07T01:06:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/ef2416f3b36ad4b35b567d91977ac6260f2c7e8e"
+    },
+    {
       "sha": "517ff2fb638af0c2f1f3c4fcbd30b10a12e1f66d",
       "author": "JaredHatfield",
       "message": "Merge pull request #13 from UnitVectorY-Labs/go-v1.25.3\n\nUpdate Go version to 1.25.3",

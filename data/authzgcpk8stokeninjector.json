@@ -4,6 +4,21 @@
   "default_branch": "main",
   "latest_release_tag": "v0.2.4",
   "latest_release_time": "2025-10-21T00:11:20Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "678cc2959b28a22ec0c990eb9cf0e9481262a403",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #48 from UnitVectorY-Labs/go-v1.25.4\n\nUpdate Go version to 1.25.4",
+      "timestamp": "2025-11-07T01:12:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/678cc2959b28a22ec0c990eb9cf0e9481262a403"
+    },
+    {
+      "sha": "ba45ede9cdf1d62f9622c5311aa1791eede39d33",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.4",
+      "timestamp": "2025-11-07T01:06:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/ba45ede9cdf1d62f9622c5311aa1791eede39d33"
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector"
 }

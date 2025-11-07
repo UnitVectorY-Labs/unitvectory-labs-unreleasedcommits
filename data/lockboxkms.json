@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-15T00:17:08Z",
   "unreleased_commits": [
     {
+      "sha": "dfd2832c13e69f9a9a73dd3da1f1c9ea8f134788",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #88 from UnitVectorY-Labs/go-v1.25.4\n\nUpdate Go version to 1.25.4",
+      "timestamp": "2025-11-07T01:11:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/dfd2832c13e69f9a9a73dd3da1f1c9ea8f134788"
+    },
+    {
+      "sha": "87822bd75cea59dc3168940f6b8ed52e8531a68a",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.4",
+      "timestamp": "2025-11-07T01:05:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/87822bd75cea59dc3168940f6b8ed52e8531a68a"
+    },
+    {
       "sha": "a0626e0e5a566682fff127499f346e559d15723c",
       "author": "JaredHatfield",
       "message": "Merge pull request #87 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.254.0\n\nBump google.golang.org/api from 0.253.0 to 0.254.0",

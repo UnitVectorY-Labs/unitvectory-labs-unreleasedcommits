@@ -6,6 +6,20 @@
   "latest_release_time": "2025-08-12T02:15:18Z",
   "unreleased_commits": [
     {
+      "sha": "427b8739d2e6bf64b6218a65497b1a165e7e5e48",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #31 from UnitVectorY-Labs/go-v1.25.4\n\nUpdate Go version to 1.25.4",
+      "timestamp": "2025-11-07T01:13:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/427b8739d2e6bf64b6218a65497b1a165e7e5e48"
+    },
+    {
+      "sha": "280d6f4fbd061f69d5a16dd45d7f44f593c0eae5",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.4",
+      "timestamp": "2025-11-07T01:06:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/280d6f4fbd061f69d5a16dd45d7f44f593c0eae5"
+    },
+    {
       "sha": "31ffd4ac2427d499e289921c44513ba66b80ccfd",
       "author": "JaredHatfield",
       "message": "Merge pull request #30 from UnitVectorY-Labs/dependabot/go_modules/github.com/mark3labs/mcp-go-0.42.0\n\nBump github.com/mark3labs/mcp-go from 0.41.1 to 0.42.0",

@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-22T00:48:38Z",
   "unreleased_commits": [
     {
+      "sha": "e4ece801dfb6ed7b64d56b27e4ef00f3b2f967c1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #24 from UnitVectorY-Labs/go-v1.25.4\n\nUpdate Go version to 1.25.4",
+      "timestamp": "2025-11-07T01:13:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/e4ece801dfb6ed7b64d56b27e4ef00f3b2f967c1"
+    },
+    {
+      "sha": "d48c2d0696b6a3baa494fbe3cc49765408c221c5",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.4",
+      "timestamp": "2025-11-07T01:06:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/d48c2d0696b6a3baa494fbe3cc49765408c221c5"
+    },
+    {
       "sha": "cf721ce867a265be59262bf19a0135ed7d9b6690",
       "author": "JaredHatfield",
       "message": "Merge pull request #23 from UnitVectorY-Labs/dependabot/go_modules/github.com/mark3labs/mcp-go-0.42.0\n\nBump github.com/mark3labs/mcp-go from 0.41.1 to 0.42.0",

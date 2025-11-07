@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-22T01:05:51Z",
   "unreleased_commits": [
     {
+      "sha": "7c1030c63797dfab51230d8fada9590c843d22cf",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #84 from UnitVectorY-Labs/go-v1.25.4\n\nUpdate Go version to 1.25.4",
+      "timestamp": "2025-11-07T01:12:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/7c1030c63797dfab51230d8fada9590c843d22cf"
+    },
+    {
+      "sha": "4c6d8a5f27273bed3331e5c6af24bafe2f24abf3",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.4",
+      "timestamp": "2025-11-07T01:06:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/4c6d8a5f27273bed3331e5c6af24bafe2f24abf3"
+    },
+    {
       "sha": "d5daddcbd04c4cb7362478b1fc012868d03c7667",
       "author": "JaredHatfield",
       "message": "Merge pull request #83 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.254.0\n\nBump google.golang.org/api from 0.253.0 to 0.254.0",

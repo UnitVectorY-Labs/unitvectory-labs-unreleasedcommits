@@ -4,6 +4,21 @@
   "default_branch": "main",
   "latest_release_tag": "v0.3.4",
   "latest_release_time": "2025-10-21T00:11:52Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "321fcebe46d373772d69c13d71ceb433b653fa10",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #54 from UnitVectorY-Labs/go-v1.25.4\n\nUpdate Go version to 1.25.4",
+      "timestamp": "2025-11-07T01:13:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/321fcebe46d373772d69c13d71ceb433b653fa10"
+    },
+    {
+      "sha": "f700cea58972eae81e0754901dde877bfb3896ab",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.4",
+      "timestamp": "2025-11-07T01:06:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/f700cea58972eae81e0754901dde877bfb3896ab"
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector"
 }

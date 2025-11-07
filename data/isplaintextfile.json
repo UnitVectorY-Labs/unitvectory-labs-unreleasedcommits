@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-14T01:37:54Z",
   "unreleased_commits": [
     {
+      "sha": "ed1c4a9f97cf4ff3dc66cfb480cc22e732bf3da9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #18 from UnitVectorY-Labs/go-v1.25.4\n\nUpdate Go version to 1.25.4",
+      "timestamp": "2025-11-07T01:12:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/ed1c4a9f97cf4ff3dc66cfb480cc22e732bf3da9"
+    },
+    {
+      "sha": "dc70139fdb88a9d1d321fda0731fc254b9239ce2",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.4",
+      "timestamp": "2025-11-07T01:06:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/dc70139fdb88a9d1d321fda0731fc254b9239ce2"
+    },
+    {
       "sha": "b9e4351cdbb652f751cdd6d2a7c7ae14c02e51b2",
       "author": "JaredHatfield",
       "message": "Merge pull request #14 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4\n\nBump github/codeql-action from 3 to 4",

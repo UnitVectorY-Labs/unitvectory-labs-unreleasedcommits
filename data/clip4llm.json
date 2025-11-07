@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-09T02:12:50Z",
   "unreleased_commits": [
     {
+      "sha": "9bce4f52a98210ac2a91437778fd543644accb8a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #33 from UnitVectorY-Labs/go-v1.25.4\n\nUpdate Go version to 1.25.4",
+      "timestamp": "2025-11-07T01:12:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/9bce4f52a98210ac2a91437778fd543644accb8a"
+    },
+    {
+      "sha": "9d7a26bf5674ba37f4b8ed3eef8b4049e1c4f748",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.4",
+      "timestamp": "2025-11-07T01:06:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/9d7a26bf5674ba37f4b8ed3eef8b4049e1c4f748"
+    },
+    {
       "sha": "92d8ee028833f8b27ba9642a0be8697bd898094d",
       "author": "JaredHatfield",
       "message": "Merge pull request #32 from UnitVectorY-Labs/dependabot/go_modules/github.com/UnitVectorY-Labs/isplaintextfile-0.0.4\n\nBump github.com/UnitVectorY-Labs/isplaintextfile from 0.0.3 to 0.0.4",
