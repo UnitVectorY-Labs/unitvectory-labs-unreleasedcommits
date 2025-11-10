@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-22T01:05:51Z",
   "unreleased_commits": [
     {
+      "sha": "e67dd653e126bff4488878a7d4edaa8d7cb722c8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #85 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.255.0\n\nBump google.golang.org/api from 0.254.0 to 0.255.0",
+      "timestamp": "2025-11-09T14:07:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/e67dd653e126bff4488878a7d4edaa8d7cb722c8"
+    },
+    {
+      "sha": "ea2c63f8fe02f7200e482b0c5a1f7b311ac8bb59",
+      "author": "dependabot[bot]",
+      "message": "Bump google.golang.org/api from 0.254.0 to 0.255.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.254.0 to 0.255.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.254.0...v0.255.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.255.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-11-08T11:03:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/ea2c63f8fe02f7200e482b0c5a1f7b311ac8bb59"
+    },
+    {
       "sha": "7c1030c63797dfab51230d8fada9590c843d22cf",
       "author": "JaredHatfield",
       "message": "Merge pull request #84 from UnitVectorY-Labs/go-v1.25.4\n\nUpdate Go version to 1.25.4",

@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-26T12:30:45Z",
   "unreleased_commits": [
     {
+      "sha": "16a06a4f662ebdf695a5417c94404f5823741cdd",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #148 from UnitVectorY-Labs/dependabot/maven/com.google.cloud.functions-functions-framework-api-2.0.0\n\nBump com.google.cloud.functions:functions-framework-api from 1.1.4 to 2.0.0",
+      "timestamp": "2025-11-09T14:07:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/16a06a4f662ebdf695a5417c94404f5823741cdd"
+    },
+    {
+      "sha": "5c86751270b03e5c50ff520feb3a3e27796d2a99",
+      "author": "dependabot[bot]",
+      "message": "Bump com.google.cloud.functions:functions-framework-api\n\nBumps [com.google.cloud.functions:functions-framework-api](https://github.com/GoogleCloudPlatform/functions-framework-java) from 1.1.4 to 2.0.0.\n- [Release notes](https://github.com/GoogleCloudPlatform/functions-framework-java/releases)\n- [Commits](https://github.com/GoogleCloudPlatform/functions-framework-java/compare/functions-framework-api-v1.1.4...java-function-invoker-v2.0.0)\n\n---\nupdated-dependencies:\n- dependency-name: com.google.cloud.functions:functions-framework-api\n  dependency-version: 2.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-11-08T11:02:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/5c86751270b03e5c50ff520feb3a3e27796d2a99"
+    },
+    {
       "sha": "cd02949aa215ade2f70fe134b6d380f93c8f222b",
       "author": "JaredHatfield",
       "message": "Merge pull request #147 from UnitVectorY-Labs/dependabot/maven/com.google.cloud-libraries-bom-26.71.0\n\nBump com.google.cloud:libraries-bom from 26.70.0 to 26.71.0",

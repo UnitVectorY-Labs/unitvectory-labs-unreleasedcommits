@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-19T16:05:34Z",
   "unreleased_commits": [
     {
+      "sha": "eccfbd67c56fc84116c5475017c609eeff19e8e9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #55 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.255.0\n\nBump google.golang.org/api from 0.254.0 to 0.255.0",
+      "timestamp": "2025-11-09T14:06:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/eccfbd67c56fc84116c5475017c609eeff19e8e9"
+    },
+    {
+      "sha": "379e5c22454007645d8bdf01ab7aa844465f1c62",
+      "author": "dependabot[bot]",
+      "message": "Bump google.golang.org/api from 0.254.0 to 0.255.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.254.0 to 0.255.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.254.0...v0.255.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.255.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-11-08T11:04:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/379e5c22454007645d8bdf01ab7aa844465f1c62"
+    },
+    {
       "sha": "1759e2cee1502fd6e41cde7be2c94a7431987bb3",
       "author": "JaredHatfield",
       "message": "Merge pull request #54 from UnitVectorY-Labs/go-v1.25.4\n\nUpdate Go version to 1.25.4",
