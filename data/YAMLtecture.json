@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-21T00:07:12Z",
   "unreleased_commits": [
     {
+      "sha": "bd4bd2f7ece48c6f44151b1a80fd748f1c09fbc9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #53 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/term-0.37.0\n\nBump golang.org/x/term from 0.36.0 to 0.37.0",
+      "timestamp": "2025-11-15T13:19:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/bd4bd2f7ece48c6f44151b1a80fd748f1c09fbc9"
+    },
+    {
+      "sha": "aaa6307dc8088770f297ff909dd072817094d471",
+      "author": "dependabot[bot]",
+      "message": "Bump golang.org/x/term from 0.36.0 to 0.37.0\n\nBumps [golang.org/x/term](https://github.com/golang/term) from 0.36.0 to 0.37.0.\n- [Commits](https://github.com/golang/term/compare/v0.36.0...v0.37.0)\n\n---\nupdated-dependencies:\n- dependency-name: golang.org/x/term\n  dependency-version: 0.37.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-11-15T11:04:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/aaa6307dc8088770f297ff909dd072817094d471"
+    },
+    {
       "sha": "ca4d5e9bccfb0cbf92fa60ca8e540c992b0536d2",
       "author": "JaredHatfield",
       "message": "Merge pull request #52 from UnitVectorY-Labs/go-v1.25.4\n\nUpdate Go version to 1.25.4",
