@@ -6,6 +6,34 @@
   "latest_release_time": "2025-10-21T00:11:20Z",
   "unreleased_commits": [
     {
+      "sha": "ac6d27591511dca5681d970da760688db778bda7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #50 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/grpc-1.77.0\n\nBump google.golang.org/grpc from 1.76.0 to 1.77.0",
+      "timestamp": "2025-11-22T15:43:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/ac6d27591511dca5681d970da760688db778bda7"
+    },
+    {
+      "sha": "aa8d6354fcb0ce0fa297e05fedcbd080884e17f1",
+      "author": "dependabot[bot]",
+      "message": "Bump google.golang.org/grpc from 1.76.0 to 1.77.0\n\nBumps [google.golang.org/grpc](https://github.com/grpc/grpc-go) from 1.76.0 to 1.77.0.\n- [Release notes](https://github.com/grpc/grpc-go/releases)\n- [Commits](https://github.com/grpc/grpc-go/compare/v1.76.0...v1.77.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/grpc\n  dependency-version: 1.77.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-11-22T15:42:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/aa8d6354fcb0ce0fa297e05fedcbd080884e17f1"
+    },
+    {
+      "sha": "856c1d9e3b95803fa5c275f037e62aac03eb54f5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #51 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-6\n\nBump actions/checkout from 5 to 6",
+      "timestamp": "2025-11-22T15:34:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/856c1d9e3b95803fa5c275f037e62aac03eb54f5"
+    },
+    {
+      "sha": "c3e7c95fe6fcace9797f467116d6e2d8df4f7564",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/checkout from 5 to 6\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 5 to 6.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/v5...v6)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '6'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-11-22T11:04:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/c3e7c95fe6fcace9797f467116d6e2d8df4f7564"
+    },
+    {
       "sha": "76e1ae056c80269213e3e6686aa94d9fd4bde4ab",
       "author": "JaredHatfield",
       "message": "Merge pull request #49 from UnitVectorY-Labs/dependabot/go_modules/github.com/envoyproxy/go-control-plane/envoy-1.36.0\n\nBump github.com/envoyproxy/go-control-plane/envoy from 1.35.0 to 1.36.0",

@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-08T00:02:14Z",
   "unreleased_commits": [
     {
+      "sha": "6c6daea4f0c1dfbafb78b7168aa2d09b2466cd5a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #20 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-6\n\nBump actions/checkout from 5 to 6",
+      "timestamp": "2025-11-22T15:35:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/6c6daea4f0c1dfbafb78b7168aa2d09b2466cd5a"
+    },
+    {
+      "sha": "1fc3e1c43a3a7aaa774ed2caccbd00a69791248c",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/checkout from 5 to 6\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 5 to 6.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/v5...v6)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '6'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-11-22T11:06:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/1fc3e1c43a3a7aaa774ed2caccbd00a69791248c"
+    },
+    {
       "sha": "7020fb12c3446615e126262c0e4291dad8b37f66",
       "author": "JaredHatfield",
       "message": "Merge pull request #19 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/oauth2-0.33.0\n\nBump golang.org/x/oauth2 from 0.32.0 to 0.33.0",

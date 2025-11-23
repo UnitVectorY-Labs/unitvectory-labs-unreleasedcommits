@@ -4,6 +4,21 @@
   "default_branch": "main",
   "latest_release_tag": "1.17.0",
   "latest_release_time": "2025-10-25T13:36:20Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "828ff02b7d96a0806cd5e71a86173f1748e63cb4",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #32 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-6\n\nBump actions/checkout from 5 to 6",
+      "timestamp": "2025-11-22T15:35:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/828ff02b7d96a0806cd5e71a86173f1748e63cb4"
+    },
+    {
+      "sha": "88e5dfdfac27b538814816893925804d270fc93b",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/checkout from 5 to 6\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 5 to 6.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/v5...v6)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '6'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-11-22T11:06:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/88e5dfdfac27b538814816893925804d270fc93b"
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/adk-docker-base"
 }

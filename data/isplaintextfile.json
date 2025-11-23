@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-14T01:37:54Z",
   "unreleased_commits": [
     {
+      "sha": "13a634bcc794d28be715a68187bdcba000d93235",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #19 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-6\n\nBump actions/checkout from 5 to 6",
+      "timestamp": "2025-11-22T15:35:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/13a634bcc794d28be715a68187bdcba000d93235"
+    },
+    {
+      "sha": "7c757e8d55c49b18951fe4721bbe1664ba49c61f",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/checkout from 5 to 6\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 5 to 6.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/v5...v6)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '6'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-11-22T11:04:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/7c757e8d55c49b18951fe4721bbe1664ba49c61f"
+    },
+    {
       "sha": "ed1c4a9f97cf4ff3dc66cfb480cc22e732bf3da9",
       "author": "JaredHatfield",
       "message": "Merge pull request #18 from UnitVectorY-Labs/go-v1.25.4\n\nUpdate Go version to 1.25.4",

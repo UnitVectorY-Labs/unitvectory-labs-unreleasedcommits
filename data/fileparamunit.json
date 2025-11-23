@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-24T21:58:15Z",
   "unreleased_commits": [
     {
+      "sha": "26481809140aa4ea89e21fa34c38bd1c8ac2130f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #97 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-6\n\nBump actions/checkout from 5 to 6",
+      "timestamp": "2025-11-22T15:30:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/fileparamunit/commit/26481809140aa4ea89e21fa34c38bd1c8ac2130f"
+    },
+    {
+      "sha": "32072fd0dc037c3a94b9534475f2e0002c0872d4",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/checkout from 5 to 6\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 5 to 6.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/v5...v6)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '6'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-11-22T11:02:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/fileparamunit/commit/32072fd0dc037c3a94b9534475f2e0002c0872d4"
+    },
+    {
       "sha": "76b78c7f6a40db65715d40ebd74ef97a2308c4bd",
       "author": "JaredHatfield",
       "message": "Remove extra newline in build-java-17.yml",

@@ -6,6 +6,20 @@
   "latest_release_time": "2025-05-25T20:04:46Z",
   "unreleased_commits": [
     {
+      "sha": "0fc9cdd6862c825b293beba90278976f55b7adea",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #125 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-6\n\nBump actions/checkout from 5 to 6",
+      "timestamp": "2025-11-22T15:30:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/0fc9cdd6862c825b293beba90278976f55b7adea"
+    },
+    {
+      "sha": "4beb104db6c2e706f11ab01279c405d9fea4dd3c",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/checkout from 5 to 6\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 5 to 6.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/v5...v6)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '6'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-11-22T11:02:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/4beb104db6c2e706f11ab01279c405d9fea4dd3c"
+    },
+    {
       "sha": "c436c0416bb0be40e5ad535254e61f3709e555af",
       "author": "JaredHatfield",
       "message": "Merge pull request #123 from UnitVectorY-Labs/dependabot/maven/com.fasterxml.jackson.core-jackson-databind-2.20.1\n\nBump com.fasterxml.jackson.core:jackson-databind from 2.20.0 to 2.20.1",

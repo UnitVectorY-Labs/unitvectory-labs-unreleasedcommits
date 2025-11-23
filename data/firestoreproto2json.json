@@ -6,6 +6,20 @@
   "latest_release_time": "2025-05-26T13:45:28Z",
   "unreleased_commits": [
     {
+      "sha": "dbd09c0719ceda97462a597f11edb358b2fa19ba",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #124 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-6\n\nBump actions/checkout from 5 to 6",
+      "timestamp": "2025-11-22T15:30:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/dbd09c0719ceda97462a597f11edb358b2fa19ba"
+    },
+    {
+      "sha": "52b77e0f86ff71d78a184b12b8128fd8b75731d0",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/checkout from 5 to 6\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 5 to 6.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/v5...v6)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '6'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-11-22T11:02:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/52b77e0f86ff71d78a184b12b8128fd8b75731d0"
+    },
+    {
       "sha": "1333afbb51eded0a4c9a8ba0542c7c5eb2be8a84",
       "author": "JaredHatfield",
       "message": "Merge pull request #122 from UnitVectorY-Labs/dependabot/maven/com.unitvectory-fileparamunit-0.1.2\n\nBump com.unitvectory:fileparamunit from 0.1.1 to 0.1.2",

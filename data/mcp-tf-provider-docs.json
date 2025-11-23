@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-22T00:48:38Z",
   "unreleased_commits": [
     {
+      "sha": "ab4cc55c1d9d71a8f08c84bf9df90d96e3ea1aac",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #26 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-6\n\nBump actions/checkout from 5 to 6",
+      "timestamp": "2025-11-22T15:36:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/ab4cc55c1d9d71a8f08c84bf9df90d96e3ea1aac"
+    },
+    {
+      "sha": "d38caed9f5946b3607c3970cc3805fd7c0c39c24",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/checkout from 5 to 6\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 5 to 6.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/v5...v6)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '6'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-11-22T11:05:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/d38caed9f5946b3607c3970cc3805fd7c0c39c24"
+    },
+    {
       "sha": "f1544b32fd236e072458fbfc55a323696d18a80a",
       "author": "JaredHatfield",
       "message": "Merge pull request #25 from UnitVectorY-Labs/dependabot/go_modules/github.com/mark3labs/mcp-go-0.43.0\n\nBump github.com/mark3labs/mcp-go from 0.42.0 to 0.43.0",
