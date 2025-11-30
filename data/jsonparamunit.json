@@ -6,6 +6,20 @@
   "latest_release_time": "2025-05-25T20:04:46Z",
   "unreleased_commits": [
     {
+      "sha": "5d8a3e723602320806622c200043389cb576753b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #126 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-source-plugin-3.4.0\n\nBump org.apache.maven.plugins:maven-source-plugin from 3.3.1 to 3.4.0",
+      "timestamp": "2025-11-29T11:20:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/5d8a3e723602320806622c200043389cb576753b"
+    },
+    {
+      "sha": "031a3a5adfb189fd7acdae16d3617d2b55bd69f8",
+      "author": "dependabot[bot]",
+      "message": "Bump org.apache.maven.plugins:maven-source-plugin from 3.3.1 to 3.4.0\n\nBumps [org.apache.maven.plugins:maven-source-plugin](https://github.com/apache/maven-source-plugin) from 3.3.1 to 3.4.0.\n- [Release notes](https://github.com/apache/maven-source-plugin/releases)\n- [Commits](https://github.com/apache/maven-source-plugin/compare/maven-source-plugin-3.3.1...v3.4.0)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-source-plugin\n  dependency-version: 3.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-11-29T11:02:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/031a3a5adfb189fd7acdae16d3617d2b55bd69f8"
+    },
+    {
       "sha": "0fc9cdd6862c825b293beba90278976f55b7adea",
       "author": "JaredHatfield",
       "message": "Merge pull request #125 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-6\n\nBump actions/checkout from 5 to 6",

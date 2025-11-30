@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-22T00:48:38Z",
   "unreleased_commits": [
     {
+      "sha": "02ac62c401a033f90be9bd6c3734491dae10df16",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #27 from UnitVectorY-Labs/dependabot/go_modules/github.com/mark3labs/mcp-go-0.43.1\n\nBump github.com/mark3labs/mcp-go from 0.43.0 to 0.43.1",
+      "timestamp": "2025-11-29T11:17:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/02ac62c401a033f90be9bd6c3734491dae10df16"
+    },
+    {
+      "sha": "2995c883ac94a617289d557dc23ded6e66eae9ba",
+      "author": "dependabot[bot]",
+      "message": "Bump github.com/mark3labs/mcp-go from 0.43.0 to 0.43.1\n\nBumps [github.com/mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) from 0.43.0 to 0.43.1.\n- [Release notes](https://github.com/mark3labs/mcp-go/releases)\n- [Commits](https://github.com/mark3labs/mcp-go/compare/v0.43.0...v0.43.1)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/mark3labs/mcp-go\n  dependency-version: 0.43.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-11-29T11:05:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/2995c883ac94a617289d557dc23ded6e66eae9ba"
+    },
+    {
       "sha": "ab4cc55c1d9d71a8f08c84bf9df90d96e3ea1aac",
       "author": "JaredHatfield",
       "message": "Merge pull request #26 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-6\n\nBump actions/checkout from 5 to 6",
