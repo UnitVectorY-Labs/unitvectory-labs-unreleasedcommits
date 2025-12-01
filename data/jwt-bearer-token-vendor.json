@@ -6,6 +6,13 @@
   "latest_release_time": "2025-05-20T02:30:41Z",
   "unreleased_commits": [
     {
+      "sha": "d580b1ad6db5f148a5a28387103ad7862d12806f",
+      "author": "JaredHatfield",
+      "message": "Fix badge image URL for license badge in README",
+      "timestamp": "2025-11-30T23:56:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/jwt-bearer-token-vendor/commit/d580b1ad6db5f148a5a28387103ad7862d12806f"
+    },
+    {
       "sha": "2424eb86f42ff4f955a216b54b316ca6ed3e46d6",
       "author": "JaredHatfield",
       "message": "Merge pull request #17 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-6\n\nBump actions/checkout from 5 to 6",

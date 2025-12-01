@@ -6,6 +6,13 @@
   "latest_release_time": "2025-10-22T00:48:38Z",
   "unreleased_commits": [
     {
+      "sha": "8b5d564a694a1989de818f361c1d1c8897baaa25",
+      "author": "JaredHatfield",
+      "message": "Fix badge image URL for license badge in README",
+      "timestamp": "2025-11-30T23:57:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/8b5d564a694a1989de818f361c1d1c8897baaa25"
+    },
+    {
       "sha": "02ac62c401a033f90be9bd6c3734491dae10df16",
       "author": "JaredHatfield",
       "message": "Merge pull request #27 from UnitVectorY-Labs/dependabot/go_modules/github.com/mark3labs/mcp-go-0.43.1\n\nBump github.com/mark3labs/mcp-go from 0.43.0 to 0.43.1",

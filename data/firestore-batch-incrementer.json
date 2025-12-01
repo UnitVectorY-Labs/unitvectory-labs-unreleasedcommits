@@ -4,6 +4,14 @@
   "default_branch": "main",
   "latest_release_tag": "v0.1.3",
   "latest_release_time": "2025-11-22T16:11:27Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "77653db087be09f3bbe27b26a3c519f776d6aed9",
+      "author": "JaredHatfield",
+      "message": "Fix badge image URL for license badge in README",
+      "timestamp": "2025-11-30T23:58:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/77653db087be09f3bbe27b26a3c519f776d6aed9"
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer"
 }

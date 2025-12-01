@@ -6,6 +6,13 @@
   "latest_release_time": "2025-10-14T01:27:05Z",
   "unreleased_commits": [
     {
+      "sha": "4903beba96a5ef1812fa60fd2a77ca0a4ff69340",
+      "author": "JaredHatfield",
+      "message": "Fix badge image URL for license badge in README",
+      "timestamp": "2025-11-30T23:52:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/4903beba96a5ef1812fa60fd2a77ca0a4ff69340"
+    },
+    {
       "sha": "6d795d919f263e977ced17e431618b3706f4a753",
       "author": "JaredHatfield",
       "message": "Merge pull request #15 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-6\n\nBump actions/checkout from 5 to 6",

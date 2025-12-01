@@ -4,6 +4,14 @@
   "default_branch": "main",
   "latest_release_tag": "v0.8.1",
   "latest_release_time": "2025-11-29T18:36:01Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "3ae0d168805ca04cc5c05456ab9b3ba35cee06cc",
+      "author": "JaredHatfield",
+      "message": "Fix badge image URL for license badge in README",
+      "timestamp": "2025-11-30T23:54:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/3ae0d168805ca04cc5c05456ab9b3ba35cee06cc"
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge"
 }

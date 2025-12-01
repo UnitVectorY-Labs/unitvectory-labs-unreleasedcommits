@@ -6,6 +6,13 @@
   "latest_release_time": "2025-08-15T01:42:20Z",
   "unreleased_commits": [
     {
+      "sha": "214122ee862860a0f98c60eb7337e12d3011a0ec",
+      "author": "JaredHatfield",
+      "message": "Fix badge image URL for license badge in README",
+      "timestamp": "2025-11-30T23:52:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/214122ee862860a0f98c60eb7337e12d3011a0ec"
+    },
+    {
       "sha": "2aee352b2969f63a9cb8bfb4a7aafaf233f3e793",
       "author": "JaredHatfield",
       "message": "Merge pull request #11 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-6\n\nBump actions/checkout from 5 to 6",

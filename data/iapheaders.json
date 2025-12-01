@@ -4,6 +4,14 @@
   "default_branch": "main",
   "latest_release_tag": "v0.4.5",
   "latest_release_time": "2025-11-22T16:00:36Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "156a1ef0f23832b059f3de4df968d110ca7702c6",
+      "author": "JaredHatfield",
+      "message": "Fix badge image URL for license badge in README",
+      "timestamp": "2025-11-30T23:52:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/156a1ef0f23832b059f3de4df968d110ca7702c6"
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/iapheaders"
 }

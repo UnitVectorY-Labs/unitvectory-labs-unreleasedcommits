@@ -6,6 +6,13 @@
   "latest_release_time": "2025-10-21T00:11:20Z",
   "unreleased_commits": [
     {
+      "sha": "8da4bd641a0344bb0834a40f9a3c96b23ab306c5",
+      "author": "JaredHatfield",
+      "message": "Fix badge image URL for license badge in README",
+      "timestamp": "2025-11-30T23:55:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/8da4bd641a0344bb0834a40f9a3c96b23ab306c5"
+    },
+    {
       "sha": "ac6d27591511dca5681d970da760688db778bda7",
       "author": "JaredHatfield",
       "message": "Merge pull request #50 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/grpc-1.77.0\n\nBump google.golang.org/grpc from 1.76.0 to 1.77.0",

@@ -6,6 +6,13 @@
   "latest_release_time": "2025-10-09T02:24:52Z",
   "unreleased_commits": [
     {
+      "sha": "36a98eae666ede7ca7e4753bbe9261ddd8fe672a",
+      "author": "JaredHatfield",
+      "message": "Fix badge image URL for license badge in README",
+      "timestamp": "2025-11-30T23:51:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/36a98eae666ede7ca7e4753bbe9261ddd8fe672a"
+    },
+    {
       "sha": "84ec2ecfc5d7b1e4860134f6e7cd213dd4ec72ca",
       "author": "JaredHatfield",
       "message": "Merge pull request #17 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-6\n\nBump actions/checkout from 5 to 6",

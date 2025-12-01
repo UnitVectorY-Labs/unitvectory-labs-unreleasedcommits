@@ -6,6 +6,13 @@
   "latest_release_time": "2025-10-25T13:36:20Z",
   "unreleased_commits": [
     {
+      "sha": "1da862a5236bb302483646bb589f4aaf311aa2c7",
+      "author": "JaredHatfield",
+      "message": "Fix badge image URL for license badge in README",
+      "timestamp": "2025-11-30T23:53:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/1da862a5236bb302483646bb589f4aaf311aa2c7"
+    },
+    {
       "sha": "828ff02b7d96a0806cd5e71a86173f1748e63cb4",
       "author": "JaredHatfield",
       "message": "Merge pull request #32 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-6\n\nBump actions/checkout from 5 to 6",

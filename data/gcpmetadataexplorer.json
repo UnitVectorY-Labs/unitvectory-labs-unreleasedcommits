@@ -6,6 +6,13 @@
   "latest_release_time": "2025-10-07T22:58:05Z",
   "unreleased_commits": [
     {
+      "sha": "ffe3434f2540319b616e99f3506361f98a0a8a56",
+      "author": "JaredHatfield",
+      "message": "Fix badge image URL for license badge in README",
+      "timestamp": "2025-11-30T23:39:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/ffe3434f2540319b616e99f3506361f98a0a8a56"
+    },
+    {
       "sha": "cc49c24aec062cde103913be636620d33d7bc03c",
       "author": "JaredHatfield",
       "message": "Merge pull request #28 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-6\n\nBump actions/checkout from 5 to 6",

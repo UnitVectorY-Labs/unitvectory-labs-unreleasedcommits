@@ -6,6 +6,13 @@
   "latest_release_time": "2025-10-14T01:36:17Z",
   "unreleased_commits": [
     {
+      "sha": "0bdf04abf1971e65d29c097c92a33917ab368cc5",
+      "author": "JaredHatfield",
+      "message": "Fix badge image URL for license badge in README",
+      "timestamp": "2025-11-30T23:54:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/0bdf04abf1971e65d29c097c92a33917ab368cc5"
+    },
+    {
       "sha": "90621705c2454bc9148f4f908eb85d2b2f63a7ab",
       "author": "JaredHatfield",
       "message": "Merge pull request #11 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-6\n\nBump actions/checkout from 5 to 6",

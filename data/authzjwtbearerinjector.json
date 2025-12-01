@@ -6,6 +6,13 @@
   "latest_release_time": "2025-10-21T00:11:52Z",
   "unreleased_commits": [
     {
+      "sha": "975ba2bba497579c7e523c08ff6cd9f9d34254d4",
+      "author": "JaredHatfield",
+      "message": "Fix badge image URL for license badge in README",
+      "timestamp": "2025-11-30T23:58:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/975ba2bba497579c7e523c08ff6cd9f9d34254d4"
+    },
+    {
       "sha": "93aa1d1afb3797a7e83bedf354cd0b7ffb6c427b",
       "author": "JaredHatfield",
       "message": "Merge pull request #56 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/grpc-1.77.0\n\nBump google.golang.org/grpc from 1.76.0 to 1.77.0",

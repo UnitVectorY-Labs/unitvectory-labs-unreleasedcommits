@@ -4,6 +4,14 @@
   "default_branch": "main",
   "latest_release_tag": "v0.2.2",
   "latest_release_time": "2025-11-22T16:12:01Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "ab79bb361cc1ecb645b51e907ba39b7681bffa9d",
+      "author": "JaredHatfield",
+      "message": "Fix badge image URL for license badge in README\n\nUpdated badge for License to include .svg extension.",
+      "timestamp": "2025-11-30T23:56:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/ab79bb361cc1ecb645b51e907ba39b7681bffa9d"
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/YAMLtecture"
 }

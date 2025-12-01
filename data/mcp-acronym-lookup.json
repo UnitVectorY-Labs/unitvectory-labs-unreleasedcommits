@@ -4,6 +4,14 @@
   "default_branch": "main",
   "latest_release_tag": "v0.2.1",
   "latest_release_time": "2025-11-29T18:36:20Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "b877dc8e699db51e6a07a9a402f6b89cee17d0ad",
+      "author": "JaredHatfield",
+      "message": "Fix badge image URL for license badge in README",
+      "timestamp": "2025-11-30T23:59:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/b877dc8e699db51e6a07a9a402f6b89cee17d0ad"
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup"
 }

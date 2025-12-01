@@ -6,6 +6,13 @@
   "latest_release_time": "2025-10-09T02:12:50Z",
   "unreleased_commits": [
     {
+      "sha": "af65d9c07593ca44f69728f7c1d04061872fa7c4",
+      "author": "JaredHatfield",
+      "message": "Fix badge image URL for license badge in README",
+      "timestamp": "2025-12-01T00:00:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/af65d9c07593ca44f69728f7c1d04061872fa7c4"
+    },
+    {
       "sha": "f9064d0f22b9eb78e896c6c2f1dfa785b49c0a01",
       "author": "JaredHatfield",
       "message": "Merge pull request #34 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-6\n\nBump actions/checkout from 5 to 6",

@@ -4,6 +4,14 @@
   "default_branch": "main",
   "latest_release_tag": "v0.3.4",
   "latest_release_time": "2025-11-22T16:02:58Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "3a3f92decfa6db508cd1c8cea4428925b33fe5d4",
+      "author": "JaredHatfield",
+      "message": "Fix badge image URL for license badge in README",
+      "timestamp": "2025-11-30T23:57:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/3a3f92decfa6db508cd1c8cea4428925b33fe5d4"
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/lockboxkms"
 }
