@@ -74,7 +74,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: gcp-iam-catalog.unitvectorylabs.com
+      url: unreleasedcommits.unitvectorylabs.com
     runs-on: ubuntu-latest
     needs: build
     steps:
