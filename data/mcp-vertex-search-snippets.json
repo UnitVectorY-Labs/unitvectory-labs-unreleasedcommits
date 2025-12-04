@@ -6,6 +6,13 @@
   "latest_release_time": "2025-10-08T00:02:14Z",
   "unreleased_commits": [
     {
+      "sha": "dea11e607165c3fbd873b623c59a25fed1a4db27",
+      "author": "JaredHatfield",
+      "message": "Add badges to README for project status and metrics\n\nAdded badges for release, license, status, and Go report.",
+      "timestamp": "2025-12-03T01:39:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/dea11e607165c3fbd873b623c59a25fed1a4db27"
+    },
+    {
       "sha": "703b271b7947aa15fcee451a241414af7e1f3eb0",
       "author": "JaredHatfield",
       "message": "Merge pull request #21 from UnitVectorY-Labs/dependabot/go_modules/github.com/mark3labs/mcp-go-0.43.1\n\nBump github.com/mark3labs/mcp-go from 0.43.0 to 0.43.1",
