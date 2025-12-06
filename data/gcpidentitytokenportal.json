@@ -6,6 +6,34 @@
   "latest_release_time": "2025-11-22T16:11:01Z",
   "unreleased_commits": [
     {
+      "sha": "5b54a86585e2a33c3953226bf276ece89217f58e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #92 from UnitVectorY-Labs/go-v1.25.5\n\nUpdate Go version to 1.25.5",
+      "timestamp": "2025-12-06T14:50:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/5b54a86585e2a33c3953226bf276ece89217f58e"
+    },
+    {
+      "sha": "a051899c8b207c067ad2cb5e03b169db5a75a292",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.5",
+      "timestamp": "2025-12-06T14:45:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/a051899c8b207c067ad2cb5e03b169db5a75a292"
+    },
+    {
+      "sha": "5dbddb6118b79be59bcbddd531a04e556b7c3a2d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #90 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.257.0\n\nBump google.golang.org/api from 0.256.0 to 0.257.0",
+      "timestamp": "2025-12-06T14:39:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/5dbddb6118b79be59bcbddd531a04e556b7c3a2d"
+    },
+    {
+      "sha": "20e7b2e47ebda1d00d3b8e78e6a9d85a22aa5b68",
+      "author": "dependabot[bot]",
+      "message": "Bump google.golang.org/api from 0.256.0 to 0.257.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.256.0 to 0.257.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.256.0...v0.257.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.257.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-12-06T11:03:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/20e7b2e47ebda1d00d3b8e78e6a9d85a22aa5b68"
+    },
+    {
       "sha": "d8bacba8d48f7bb80c973e801db348956bf7d7a0",
       "author": "JaredHatfield",
       "message": "Fix badge image URL for license badge in README",

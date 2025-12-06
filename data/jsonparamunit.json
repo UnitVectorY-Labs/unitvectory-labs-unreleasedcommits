@@ -6,6 +6,20 @@
   "latest_release_time": "2025-05-25T20:04:46Z",
   "unreleased_commits": [
     {
+      "sha": "d6e80d7858f97fa0f9a9c2e35d2ad48c7e6a737d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #127 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-params-5.14.1\n\nBump org.junit.jupiter:junit-jupiter-params from 5.13.4 to 5.14.1",
+      "timestamp": "2025-12-06T19:27:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/d6e80d7858f97fa0f9a9c2e35d2ad48c7e6a737d"
+    },
+    {
+      "sha": "7ecee09145ffa92196dc4450396884c9d89a86a5",
+      "author": "dependabot[bot]",
+      "message": "Bump org.junit.jupiter:junit-jupiter-params from 5.13.4 to 5.14.1\n\nBumps [org.junit.jupiter:junit-jupiter-params](https://github.com/junit-team/junit-framework) from 5.13.4 to 5.14.1.\n- [Release notes](https://github.com/junit-team/junit-framework/releases)\n- [Commits](https://github.com/junit-team/junit-framework/compare/r5.13.4...r5.14.1)\n\n---\nupdated-dependencies:\n- dependency-name: org.junit.jupiter:junit-jupiter-params\n  dependency-version: 5.14.1\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-12-06T19:06:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/7ecee09145ffa92196dc4450396884c9d89a86a5"
+    },
+    {
       "sha": "5d8a3e723602320806622c200043389cb576753b",
       "author": "JaredHatfield",
       "message": "Merge pull request #126 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-source-plugin-3.4.0\n\nBump org.apache.maven.plugins:maven-source-plugin from 3.3.1 to 3.4.0",

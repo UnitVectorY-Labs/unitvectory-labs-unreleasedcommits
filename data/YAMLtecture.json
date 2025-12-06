@@ -6,6 +6,20 @@
   "latest_release_time": "2025-11-22T16:12:01Z",
   "unreleased_commits": [
     {
+      "sha": "ef2d7bf195dd90df29d3f791b34e7d61af334ca8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #56 from UnitVectorY-Labs/go-v1.25.5\n\nUpdate Go version to 1.25.5",
+      "timestamp": "2025-12-06T14:50:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/ef2d7bf195dd90df29d3f791b34e7d61af334ca8"
+    },
+    {
+      "sha": "d95bc0a8dea4f990ee83529cac9db46bc3760e7d",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.5",
+      "timestamp": "2025-12-06T14:46:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/d95bc0a8dea4f990ee83529cac9db46bc3760e7d"
+    },
+    {
       "sha": "ab79bb361cc1ecb645b51e907ba39b7681bffa9d",
       "author": "JaredHatfield",
       "message": "Fix badge image URL for license badge in README\n\nUpdated badge for License to include .svg extension.",

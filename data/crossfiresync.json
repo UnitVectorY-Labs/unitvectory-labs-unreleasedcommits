@@ -6,6 +6,34 @@
   "latest_release_time": "2025-10-26T12:30:45Z",
   "unreleased_commits": [
     {
+      "sha": "54162937bbf057ca1228869d8d13f2ae0939d38c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #153 from UnitVectorY-Labs/dependabot/maven/org.junit-junit-bom-5.14.1\n\nBump org.junit:junit-bom from 5.13.4 to 5.14.1",
+      "timestamp": "2025-12-06T19:27:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/54162937bbf057ca1228869d8d13f2ae0939d38c"
+    },
+    {
+      "sha": "88f4a191e07aefab670ba0596fc870170b6e27f1",
+      "author": "dependabot[bot]",
+      "message": "Bump org.junit:junit-bom from 5.13.4 to 5.14.1\n\nBumps [org.junit:junit-bom](https://github.com/junit-team/junit-framework) from 5.13.4 to 5.14.1.\n- [Release notes](https://github.com/junit-team/junit-framework/releases)\n- [Commits](https://github.com/junit-team/junit-framework/compare/r5.13.4...r5.14.1)\n\n---\nupdated-dependencies:\n- dependency-name: org.junit:junit-bom\n  dependency-version: 5.14.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-12-06T19:16:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/88f4a191e07aefab670ba0596fc870170b6e27f1"
+    },
+    {
+      "sha": "fd344b464b86f48394cb05c25d443d111e39642d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #152 from UnitVectorY-Labs/dependabot/maven/com.unitvectory-firestoreproto2map-0.0.6\n\nBump com.unitvectory:firestoreproto2map from 0.0.5 to 0.0.6",
+      "timestamp": "2025-12-06T14:43:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/fd344b464b86f48394cb05c25d443d111e39642d"
+    },
+    {
+      "sha": "b8774c4556e3a965c9ac03773a2b80fe1e74afdc",
+      "author": "dependabot[bot]",
+      "message": "Bump com.unitvectory:firestoreproto2map from 0.0.5 to 0.0.6\n\nBumps [com.unitvectory:firestoreproto2map](https://github.com/UnitVectorY-Labs/firestoreproto2map) from 0.0.5 to 0.0.6.\n- [Release notes](https://github.com/UnitVectorY-Labs/firestoreproto2map/releases)\n- [Commits](https://github.com/UnitVectorY-Labs/firestoreproto2map/compare/v0.0.5...v0.0.6)\n\n---\nupdated-dependencies:\n- dependency-name: com.unitvectory:firestoreproto2map\n  dependency-version: 0.0.6\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-12-06T11:02:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/b8774c4556e3a965c9ac03773a2b80fe1e74afdc"
+    },
+    {
       "sha": "7513e5adec0b0eb4e5d422aca6b633931f9314bc",
       "author": "JaredHatfield",
       "message": "Merge pull request #151 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-source-plugin-3.4.0\n\nBump org.apache.maven.plugins:maven-source-plugin from 3.3.1 to 3.4.0",

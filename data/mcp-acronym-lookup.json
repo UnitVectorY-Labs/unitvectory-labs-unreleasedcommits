@@ -6,6 +6,34 @@
   "latest_release_time": "2025-11-29T18:36:20Z",
   "unreleased_commits": [
     {
+      "sha": "c172b6400837f81653c3a95f28f8b35823ec1f91",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #36 from UnitVectorY-Labs/go-v1.25.5\n\nUpdate Go version to 1.25.5",
+      "timestamp": "2025-12-06T14:51:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/c172b6400837f81653c3a95f28f8b35823ec1f91"
+    },
+    {
+      "sha": "5762e2784d1c4503132784f996beb72b80336a9d",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.5",
+      "timestamp": "2025-12-06T14:46:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/5762e2784d1c4503132784f996beb72b80336a9d"
+    },
+    {
+      "sha": "937ce4c541c6647fe950e276a70fd06b411dfd08",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #35 from UnitVectorY-Labs/dependabot/go_modules/github.com/mark3labs/mcp-go-0.43.2\n\nBump github.com/mark3labs/mcp-go from 0.43.1 to 0.43.2",
+      "timestamp": "2025-12-06T14:40:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/937ce4c541c6647fe950e276a70fd06b411dfd08"
+    },
+    {
+      "sha": "25f2ef836fcb1ad63bff38ba5959b54886359a46",
+      "author": "dependabot[bot]",
+      "message": "Bump github.com/mark3labs/mcp-go from 0.43.1 to 0.43.2\n\nBumps [github.com/mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) from 0.43.1 to 0.43.2.\n- [Release notes](https://github.com/mark3labs/mcp-go/releases)\n- [Commits](https://github.com/mark3labs/mcp-go/compare/v0.43.1...v0.43.2)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/mark3labs/mcp-go\n  dependency-version: 0.43.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-12-06T11:04:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/25f2ef836fcb1ad63bff38ba5959b54886359a46"
+    },
+    {
       "sha": "b877dc8e699db51e6a07a9a402f6b89cee17d0ad",
       "author": "JaredHatfield",
       "message": "Fix badge image URL for license badge in README",

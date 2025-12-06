@@ -6,6 +6,20 @@
   "latest_release_time": "2025-11-29T14:40:13Z",
   "unreleased_commits": [
     {
+      "sha": "c8617e402f6698e9fa07311189ef28e6669cbbd3",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #126 from UnitVectorY-Labs/dependabot/maven/org.junit-junit-bom-5.14.1\n\nBump org.junit:junit-bom from 5.13.4 to 5.14.1",
+      "timestamp": "2025-12-06T19:28:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/c8617e402f6698e9fa07311189ef28e6669cbbd3"
+    },
+    {
+      "sha": "135f54169c107af82e7b17e956dc730598e8e707",
+      "author": "dependabot[bot]",
+      "message": "Bump org.junit:junit-bom from 5.13.4 to 5.14.1\n\nBumps [org.junit:junit-bom](https://github.com/junit-team/junit-framework) from 5.13.4 to 5.14.1.\n- [Release notes](https://github.com/junit-team/junit-framework/releases)\n- [Commits](https://github.com/junit-team/junit-framework/compare/r5.13.4...r5.14.1)\n\n---\nupdated-dependencies:\n- dependency-name: org.junit:junit-bom\n  dependency-version: 5.14.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-12-06T19:18:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/135f54169c107af82e7b17e956dc730598e8e707"
+    },
+    {
       "sha": "aeab53cadef47c7dd2de3eae328cb9bd95d9b62f",
       "author": "JaredHatfield",
       "message": "Increment version to 0.0.9-SNAPSHOT",

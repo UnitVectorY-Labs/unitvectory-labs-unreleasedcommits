@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-14T01:27:05Z",
   "unreleased_commits": [
     {
+      "sha": "dbfddd58c3044fd62fc13e0db934f3edf7a8a6fb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #16 from UnitVectorY-Labs/go-v1.25.5\n\nUpdate Go version to 1.25.5",
+      "timestamp": "2025-12-06T14:50:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/dbfddd58c3044fd62fc13e0db934f3edf7a8a6fb"
+    },
+    {
+      "sha": "82a6c162ca06eb963623df64b4670dfab243b345",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.5",
+      "timestamp": "2025-12-06T14:46:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/82a6c162ca06eb963623df64b4670dfab243b345"
+    },
+    {
       "sha": "4903beba96a5ef1812fa60fd2a77ca0a4ff69340",
       "author": "JaredHatfield",
       "message": "Fix badge image URL for license badge in README",

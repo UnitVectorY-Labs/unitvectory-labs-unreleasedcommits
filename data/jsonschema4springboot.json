@@ -6,6 +6,34 @@
   "latest_release_time": "2025-11-29T14:51:22Z",
   "unreleased_commits": [
     {
+      "sha": "1e4262b9322dcdddb7cef70149aeac14478a52b2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #153 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-params-5.14.1\n\nBump org.junit.jupiter:junit-jupiter-params from 5.13.4 to 5.14.1",
+      "timestamp": "2025-12-06T19:29:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/1e4262b9322dcdddb7cef70149aeac14478a52b2"
+    },
+    {
+      "sha": "04001ad518d16a97b661dad14598fd73565dfec2",
+      "author": "dependabot[bot]",
+      "message": "Bump org.junit.jupiter:junit-jupiter-params from 5.13.4 to 5.14.1\n\nBumps [org.junit.jupiter:junit-jupiter-params](https://github.com/junit-team/junit-framework) from 5.13.4 to 5.14.1.\n- [Release notes](https://github.com/junit-team/junit-framework/releases)\n- [Commits](https://github.com/junit-team/junit-framework/compare/r5.13.4...r5.14.1)\n\n---\nupdated-dependencies:\n- dependency-name: org.junit.jupiter:junit-jupiter-params\n  dependency-version: 5.14.1\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-12-06T19:27:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/04001ad518d16a97b661dad14598fd73565dfec2"
+    },
+    {
+      "sha": "3f5953d08edd66d1a486e58cd51a7dd5ee96e2ff",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #152 from UnitVectorY-Labs/dependabot/maven/org.springframework-spring-web-6.2.14\n\nBump org.springframework:spring-web from 6.2.12 to 6.2.14",
+      "timestamp": "2025-12-06T19:26:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/3f5953d08edd66d1a486e58cd51a7dd5ee96e2ff"
+    },
+    {
+      "sha": "b07b85dbd074d0782bb09e6d91b8b78248352e66",
+      "author": "dependabot[bot]",
+      "message": "Bump org.springframework:spring-web from 6.2.12 to 6.2.14\n\nBumps [org.springframework:spring-web](https://github.com/spring-projects/spring-framework) from 6.2.12 to 6.2.14.\n- [Release notes](https://github.com/spring-projects/spring-framework/releases)\n- [Commits](https://github.com/spring-projects/spring-framework/compare/v6.2.12...v6.2.14)\n\n---\nupdated-dependencies:\n- dependency-name: org.springframework:spring-web\n  dependency-version: 6.2.14\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-12-06T19:19:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/b07b85dbd074d0782bb09e6d91b8b78248352e66"
+    },
+    {
       "sha": "84c780ac76ffbaebe42256e9174fd56e707e6276",
       "author": "JaredHatfield",
       "message": "Increment version to 0.0.7-SNAPSHOT",

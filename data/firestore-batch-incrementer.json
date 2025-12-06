@@ -6,6 +6,34 @@
   "latest_release_time": "2025-11-22T16:11:27Z",
   "unreleased_commits": [
     {
+      "sha": "ebf4e23abdf9ee1a1c4d5b99e8f34608e072d9a2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #62 from UnitVectorY-Labs/go-v1.25.5\n\nUpdate Go version to 1.25.5",
+      "timestamp": "2025-12-06T14:50:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/ebf4e23abdf9ee1a1c4d5b99e8f34608e072d9a2"
+    },
+    {
+      "sha": "1cf8950c004622f343b09c4a3d4e97911715376c",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.5",
+      "timestamp": "2025-12-06T14:46:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/1cf8950c004622f343b09c4a3d4e97911715376c"
+    },
+    {
+      "sha": "6919f896c45eceb50e2d6557e65acedade320a29",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #61 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.257.0\n\nBump google.golang.org/api from 0.256.0 to 0.257.0",
+      "timestamp": "2025-12-06T14:39:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/6919f896c45eceb50e2d6557e65acedade320a29"
+    },
+    {
+      "sha": "e999d2d5d2a35d9fe5e08f2447b7972933f399bc",
+      "author": "dependabot[bot]",
+      "message": "Bump google.golang.org/api from 0.256.0 to 0.257.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.256.0 to 0.257.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.256.0...v0.257.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.257.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-12-06T11:04:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/e999d2d5d2a35d9fe5e08f2447b7972933f399bc"
+    },
+    {
       "sha": "77653db087be09f3bbe27b26a3c519f776d6aed9",
       "author": "JaredHatfield",
       "message": "Fix badge image URL for license badge in README",

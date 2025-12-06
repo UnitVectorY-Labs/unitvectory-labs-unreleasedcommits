@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-21T00:11:20Z",
   "unreleased_commits": [
     {
+      "sha": "1a93dbc98681b2e97b9f5a33472780a56222e5c9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #53 from UnitVectorY-Labs/go-v1.25.5\n\nUpdate Go version to 1.25.5",
+      "timestamp": "2025-12-06T14:50:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/1a93dbc98681b2e97b9f5a33472780a56222e5c9"
+    },
+    {
+      "sha": "edd788e9de6209ba09b1074342ec4b69c4a46f81",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.5",
+      "timestamp": "2025-12-06T14:46:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/edd788e9de6209ba09b1074342ec4b69c4a46f81"
+    },
+    {
       "sha": "8da4bd641a0344bb0834a40f9a3c96b23ab306c5",
       "author": "JaredHatfield",
       "message": "Fix badge image URL for license badge in README",

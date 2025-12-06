@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-14T01:35:46Z",
   "unreleased_commits": [
     {
+      "sha": "dc985d7570e6240baae6a90e9730e80147fd1f29",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #28 from UnitVectorY-Labs/go-v1.25.5\n\nUpdate Go version to 1.25.5",
+      "timestamp": "2025-12-06T14:50:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpbinary/commit/dc985d7570e6240baae6a90e9730e80147fd1f29"
+    },
+    {
+      "sha": "6ffc28f17949acd31d9f29ee3c9c2d73ba0b781e",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.5",
+      "timestamp": "2025-12-06T14:46:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpbinary/commit/6ffc28f17949acd31d9f29ee3c9c2d73ba0b781e"
+    },
+    {
       "sha": "75593146545028f921312497ca028b4ef3ac12c1",
       "author": "JaredHatfield",
       "message": "Fix badge image URL for license badge in README",

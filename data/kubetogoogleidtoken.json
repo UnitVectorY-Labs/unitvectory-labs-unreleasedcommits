@@ -6,6 +6,20 @@
   "latest_release_time": "2025-11-12T01:30:20Z",
   "unreleased_commits": [
     {
+      "sha": "60c05b26723968d7f87c9c07cf1bf66d3ecf104f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #64 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-engine-5.14.1\n\nBump org.junit.jupiter:junit-jupiter-engine from 5.13.4 to 5.14.1",
+      "timestamp": "2025-12-06T19:28:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/60c05b26723968d7f87c9c07cf1bf66d3ecf104f"
+    },
+    {
+      "sha": "158bebc279a3bbfc4644d61a38784a150a07038f",
+      "author": "dependabot[bot]",
+      "message": "Bump org.junit.jupiter:junit-jupiter-engine from 5.13.4 to 5.14.1\n\nBumps [org.junit.jupiter:junit-jupiter-engine](https://github.com/junit-team/junit-framework) from 5.13.4 to 5.14.1.\n- [Release notes](https://github.com/junit-team/junit-framework/releases)\n- [Commits](https://github.com/junit-team/junit-framework/compare/r5.13.4...r5.14.1)\n\n---\nupdated-dependencies:\n- dependency-name: org.junit.jupiter:junit-jupiter-engine\n  dependency-version: 5.14.1\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-12-06T19:19:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/158bebc279a3bbfc4644d61a38784a150a07038f"
+    },
+    {
       "sha": "4b3e8c7e6e76074576b1a3f620d535eb4fd94a41",
       "author": "JaredHatfield",
       "message": "Merge pull request #63 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-source-plugin-3.4.0\n\nBump org.apache.maven.plugins:maven-source-plugin from 3.3.1 to 3.4.0",
