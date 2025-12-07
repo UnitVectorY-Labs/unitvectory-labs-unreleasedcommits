@@ -59,8 +59,6 @@ jobs:
       - name: Run unreleasedcommits
         run: |
           cd ./self
-          mkdir templates
-          cp ../unreleasedcommits/templates/* ./templates/
           cp ../unreleasedcommits/unreleasedcommits ./unreleasedcommits
           ./unreleasedcommits --generate
         # Replace 'YOUR_ORG_NAME' with your actual GitHub organization name
