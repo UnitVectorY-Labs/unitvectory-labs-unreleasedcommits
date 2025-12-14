@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-07T22:58:05Z",
   "unreleased_commits": [
     {
+      "sha": "3868727478ce9b061bfae8e2c00ae2fe49a1aac5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #31 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5\n\nBump actions/cache from 4 to 5",
+      "timestamp": "2025-12-13T11:20:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/3868727478ce9b061bfae8e2c00ae2fe49a1aac5"
+    },
+    {
+      "sha": "f5ec0db7ad27a1c48dca109b684b05ccc6f318fa",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/cache from 4 to 5\n\nBumps [actions/cache](https://github.com/actions/cache) from 4 to 5.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/v4...v5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: '5'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-12-13T11:03:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/f5ec0db7ad27a1c48dca109b684b05ccc6f318fa"
+    },
+    {
       "sha": "cad6973ce071d225e7c1865ee22efc08abc6c72c",
       "author": "JaredHatfield",
       "message": "Merge pull request #30 from UnitVectorY-Labs/go-v1.25.5\n\nUpdate Go version to 1.25.5",

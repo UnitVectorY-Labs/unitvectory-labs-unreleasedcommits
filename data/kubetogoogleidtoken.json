@@ -6,6 +6,34 @@
   "latest_release_time": "2025-11-12T01:30:20Z",
   "unreleased_commits": [
     {
+      "sha": "fd9a78a34e6536b7c0b3c81ea152246074dc9fd5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #65 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-5.5.2\n\nBump codecov/codecov-action from 5.5.1 to 5.5.2",
+      "timestamp": "2025-12-13T11:39:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/fd9a78a34e6536b7c0b3c81ea152246074dc9fd5"
+    },
+    {
+      "sha": "663a7bee1f89dca756a9879c90990c5b05ed9ba6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #66 from UnitVectorY-Labs/dependabot/maven/org.mockito-mockito-core-5.21.0\n\nBump org.mockito:mockito-core from 5.20.0 to 5.21.0",
+      "timestamp": "2025-12-13T11:26:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/663a7bee1f89dca756a9879c90990c5b05ed9ba6"
+    },
+    {
+      "sha": "56465616637244b41407d1edbaf2825f6eb8d295",
+      "author": "dependabot[bot]",
+      "message": "Bump org.mockito:mockito-core from 5.20.0 to 5.21.0\n\nBumps [org.mockito:mockito-core](https://github.com/mockito/mockito) from 5.20.0 to 5.21.0.\n- [Release notes](https://github.com/mockito/mockito/releases)\n- [Commits](https://github.com/mockito/mockito/compare/v5.20.0...v5.21.0)\n\n---\nupdated-dependencies:\n- dependency-name: org.mockito:mockito-core\n  dependency-version: 5.21.0\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-12-13T11:04:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/56465616637244b41407d1edbaf2825f6eb8d295"
+    },
+    {
+      "sha": "f36ef91315af651274285bcbc59bdca22db12955",
+      "author": "dependabot[bot]",
+      "message": "Bump codecov/codecov-action from 5.5.1 to 5.5.2\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 5.5.1 to 5.5.2.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/v5.5.1...v5.5.2)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 5.5.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-12-13T11:04:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/f36ef91315af651274285bcbc59bdca22db12955"
+    },
+    {
       "sha": "60c05b26723968d7f87c9c07cf1bf66d3ecf104f",
       "author": "JaredHatfield",
       "message": "Merge pull request #64 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-engine-5.14.1\n\nBump org.junit.jupiter:junit-jupiter-engine from 5.13.4 to 5.14.1",

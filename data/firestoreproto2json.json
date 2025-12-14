@@ -6,6 +6,34 @@
   "latest_release_time": "2025-11-29T14:40:13Z",
   "unreleased_commits": [
     {
+      "sha": "08e252252aecf12a57066d3dd9ac2cbf73c731be",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #127 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-5.5.2\n\nBump codecov/codecov-action from 5.5.1 to 5.5.2",
+      "timestamp": "2025-12-13T11:37:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/08e252252aecf12a57066d3dd9ac2cbf73c731be"
+    },
+    {
+      "sha": "c55164c86ad6a37d28b7b3d462de36461bea01dd",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #128 from UnitVectorY-Labs/dependabot/maven/com.unitvectory-jsonparamunit-0.0.8\n\nBump com.unitvectory:jsonparamunit from 0.0.7 to 0.0.8",
+      "timestamp": "2025-12-13T11:30:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/c55164c86ad6a37d28b7b3d462de36461bea01dd"
+    },
+    {
+      "sha": "6760eba72486c77b9c416f7f241b996dafce28de",
+      "author": "dependabot[bot]",
+      "message": "Bump codecov/codecov-action from 5.5.1 to 5.5.2\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 5.5.1 to 5.5.2.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/v5.5.1...v5.5.2)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 5.5.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-12-13T11:02:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/6760eba72486c77b9c416f7f241b996dafce28de"
+    },
+    {
+      "sha": "72c941ab52b9adc2e8a4f96f360a8db83bae8866",
+      "author": "dependabot[bot]",
+      "message": "Bump com.unitvectory:jsonparamunit from 0.0.7 to 0.0.8\n\nBumps [com.unitvectory:jsonparamunit](https://github.com/UnitVectorY-Labs/jsonparamunit) from 0.0.7 to 0.0.8.\n- [Release notes](https://github.com/UnitVectorY-Labs/jsonparamunit/releases)\n- [Commits](https://github.com/UnitVectorY-Labs/jsonparamunit/compare/v0.0.7...v0.0.8)\n\n---\nupdated-dependencies:\n- dependency-name: com.unitvectory:jsonparamunit\n  dependency-version: 0.0.8\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-12-13T11:02:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/72c941ab52b9adc2e8a4f96f360a8db83bae8866"
+    },
+    {
       "sha": "c8617e402f6698e9fa07311189ef28e6669cbbd3",
       "author": "JaredHatfield",
       "message": "Merge pull request #126 from UnitVectorY-Labs/dependabot/maven/org.junit-junit-bom-5.14.1\n\nBump org.junit:junit-bom from 5.13.4 to 5.14.1",

@@ -6,6 +6,69 @@
   "latest_release_time": "2025-11-29T14:51:22Z",
   "unreleased_commits": [
     {
+      "sha": "f7653c05878fc738919e559173bb15c3e9a8c98b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #156 from UnitVectorY-Labs/dependabot/maven/org.springframework-spring-web-6.2.15\n\nBump org.springframework:spring-web from 6.2.14 to 6.2.15",
+      "timestamp": "2025-12-13T11:44:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/f7653c05878fc738919e559173bb15c3e9a8c98b"
+    },
+    {
+      "sha": "38d1648dfb91bf969d72705296dc414f6700de58",
+      "author": "JaredHatfield",
+      "message": "Merge branch 'main' into dependabot/maven/org.springframework-spring-web-6.2.15",
+      "timestamp": "2025-12-13T11:43:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/38d1648dfb91bf969d72705296dc414f6700de58"
+    },
+    {
+      "sha": "47b59e62d1a250b21034e5b065434c5f214ecc16",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #154 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-5.5.2\n\nBump codecov/codecov-action from 5.5.1 to 5.5.2",
+      "timestamp": "2025-12-13T11:38:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/47b59e62d1a250b21034e5b065434c5f214ecc16"
+    },
+    {
+      "sha": "c3b1e65644a8d59af4533d808185bdfcd3da8dee",
+      "author": "dependabot[bot]",
+      "message": "Bump org.springframework:spring-web from 6.2.14 to 6.2.15\n\nBumps [org.springframework:spring-web](https://github.com/spring-projects/spring-framework) from 6.2.14 to 6.2.15.\n- [Release notes](https://github.com/spring-projects/spring-framework/releases)\n- [Commits](https://github.com/spring-projects/spring-framework/compare/v6.2.14...v6.2.15)\n\n---\nupdated-dependencies:\n- dependency-name: org.springframework:spring-web\n  dependency-version: 6.2.15\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-12-13T11:31:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/c3b1e65644a8d59af4533d808185bdfcd3da8dee"
+    },
+    {
+      "sha": "660d67bff16635bfb891576a800f0cb556941914",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #158 from UnitVectorY-Labs/dependabot/maven/com.unitvectory-jsonparamunit-0.0.8\n\nBump com.unitvectory:jsonparamunit from 0.0.7 to 0.0.8",
+      "timestamp": "2025-12-13T11:30:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/660d67bff16635bfb891576a800f0cb556941914"
+    },
+    {
+      "sha": "7db680da5f4e89e42497882c8a4bd533f120bf6f",
+      "author": "dependabot[bot]",
+      "message": "Bump com.unitvectory:jsonparamunit from 0.0.7 to 0.0.8\n\nBumps [com.unitvectory:jsonparamunit](https://github.com/UnitVectorY-Labs/jsonparamunit) from 0.0.7 to 0.0.8.\n- [Release notes](https://github.com/UnitVectorY-Labs/jsonparamunit/releases)\n- [Commits](https://github.com/UnitVectorY-Labs/jsonparamunit/compare/v0.0.7...v0.0.8)\n\n---\nupdated-dependencies:\n- dependency-name: com.unitvectory:jsonparamunit\n  dependency-version: 0.0.8\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-12-13T11:27:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/7db680da5f4e89e42497882c8a4bd533f120bf6f"
+    },
+    {
+      "sha": "d42918d7a94f52b23fe4f199049ab048c8411106",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #155 from UnitVectorY-Labs/dependabot/maven/org.mockito-mockito-core-5.21.0\n\nBump org.mockito:mockito-core from 5.20.0 to 5.21.0",
+      "timestamp": "2025-12-13T11:26:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/d42918d7a94f52b23fe4f199049ab048c8411106"
+    },
+    {
+      "sha": "9e1c9169fd30bcca269c81b55064df2dd33118ec",
+      "author": "dependabot[bot]",
+      "message": "Bump org.mockito:mockito-core from 5.20.0 to 5.21.0\n\nBumps [org.mockito:mockito-core](https://github.com/mockito/mockito) from 5.20.0 to 5.21.0.\n- [Release notes](https://github.com/mockito/mockito/releases)\n- [Commits](https://github.com/mockito/mockito/compare/v5.20.0...v5.21.0)\n\n---\nupdated-dependencies:\n- dependency-name: org.mockito:mockito-core\n  dependency-version: 5.21.0\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-12-13T11:02:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/9e1c9169fd30bcca269c81b55064df2dd33118ec"
+    },
+    {
+      "sha": "bc39c341fb8d97c278df742f37dc11f40c58e3b9",
+      "author": "dependabot[bot]",
+      "message": "Bump codecov/codecov-action from 5.5.1 to 5.5.2\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 5.5.1 to 5.5.2.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/v5.5.1...v5.5.2)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 5.5.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-12-13T11:02:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/bc39c341fb8d97c278df742f37dc11f40c58e3b9"
+    },
+    {
       "sha": "1e4262b9322dcdddb7cef70149aeac14478a52b2",
       "author": "JaredHatfield",
       "message": "Merge pull request #153 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-params-5.14.1\n\nBump org.junit.jupiter:junit-jupiter-params from 5.13.4 to 5.14.1",

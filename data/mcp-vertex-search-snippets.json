@@ -6,6 +6,41 @@
   "latest_release_time": "2025-10-08T00:02:14Z",
   "unreleased_commits": [
     {
+      "sha": "12035fd32bd25cc82b70b633c5eca99466f4257d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #25 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/oauth2-0.34.0\n\nBump golang.org/x/oauth2 from 0.33.0 to 0.34.0",
+      "timestamp": "2025-12-13T11:41:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/12035fd32bd25cc82b70b633c5eca99466f4257d"
+    },
+    {
+      "sha": "53658231a5c58b085c6da5138ac8e56c9ce3cce5",
+      "author": "JaredHatfield",
+      "message": "Merge branch 'main' into dependabot/go_modules/golang.org/x/oauth2-0.34.0",
+      "timestamp": "2025-12-13T11:34:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/53658231a5c58b085c6da5138ac8e56c9ce3cce5"
+    },
+    {
+      "sha": "86e1635b42a2f430793b406c3ebaa757702ea2b6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #24 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5\n\nBump actions/cache from 4 to 5",
+      "timestamp": "2025-12-13T11:22:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/86e1635b42a2f430793b406c3ebaa757702ea2b6"
+    },
+    {
+      "sha": "3f662e0e45b714a65c2c47ec54afc7b94b06dbf1",
+      "author": "dependabot[bot]",
+      "message": "Bump golang.org/x/oauth2 from 0.33.0 to 0.34.0\n\nBumps [golang.org/x/oauth2](https://github.com/golang/oauth2) from 0.33.0 to 0.34.0.\n- [Commits](https://github.com/golang/oauth2/compare/v0.33.0...v0.34.0)\n\n---\nupdated-dependencies:\n- dependency-name: golang.org/x/oauth2\n  dependency-version: 0.34.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-12-13T11:05:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/3f662e0e45b714a65c2c47ec54afc7b94b06dbf1"
+    },
+    {
+      "sha": "3bbbb98fa6ceb4f0188549c3909bd81deba3377b",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/cache from 4 to 5\n\nBumps [actions/cache](https://github.com/actions/cache) from 4 to 5.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/v4...v5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: '5'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-12-13T11:05:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/3bbbb98fa6ceb4f0188549c3909bd81deba3377b"
+    },
+    {
       "sha": "071b154b54ea057852f8605b1e86e4978055317f",
       "author": "JaredHatfield",
       "message": "Merge pull request #23 from UnitVectorY-Labs/go-v1.25.5\n\nUpdate Go version to 1.25.5",

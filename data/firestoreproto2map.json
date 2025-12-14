@@ -6,6 +6,69 @@
   "latest_release_time": "2025-11-29T14:36:30Z",
   "unreleased_commits": [
     {
+      "sha": "0b5cccd8fb08b16d5bacefe68df3d836f4e5141c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #161 from UnitVectorY-Labs/dependabot/maven/com.google.cloud-google-cloud-firestore-3.34.0\n\nBump com.google.cloud:google-cloud-firestore from 3.33.4 to 3.34.0",
+      "timestamp": "2025-12-13T11:44:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/0b5cccd8fb08b16d5bacefe68df3d836f4e5141c"
+    },
+    {
+      "sha": "5f3ca92c6ae7e84913a77747ce4359248cc6b005",
+      "author": "JaredHatfield",
+      "message": "Merge branch 'main' into dependabot/maven/com.google.cloud-google-cloud-firestore-3.34.0",
+      "timestamp": "2025-12-13T11:42:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/5f3ca92c6ae7e84913a77747ce4359248cc6b005"
+    },
+    {
+      "sha": "7c77ad285f14e1d89e53d47aa6793f413e0fa0fa",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #160 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-5.5.2\n\nBump codecov/codecov-action from 5.5.1 to 5.5.2",
+      "timestamp": "2025-12-13T11:37:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/7c77ad285f14e1d89e53d47aa6793f413e0fa0fa"
+    },
+    {
+      "sha": "ca3959a5200ce7e3c1dd8fe9b9c7ce627d71b490",
+      "author": "dependabot[bot]",
+      "message": "Bump com.google.cloud:google-cloud-firestore from 3.33.4 to 3.34.0\n\nBumps [com.google.cloud:google-cloud-firestore](https://github.com/googleapis/java-firestore) from 3.33.4 to 3.34.0.\n- [Release notes](https://github.com/googleapis/java-firestore/releases)\n- [Changelog](https://github.com/googleapis/java-firestore/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/googleapis/java-firestore/compare/v3.33.4...v3.34.0)\n\n---\nupdated-dependencies:\n- dependency-name: com.google.cloud:google-cloud-firestore\n  dependency-version: 3.34.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-12-13T11:31:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/ca3959a5200ce7e3c1dd8fe9b9c7ce627d71b490"
+    },
+    {
+      "sha": "351c6291bd68f4420ab610874cb4db6cf71f0d01",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #163 from UnitVectorY-Labs/dependabot/maven/com.unitvectory-jsonparamunit-0.0.8\n\nBump com.unitvectory:jsonparamunit from 0.0.7 to 0.0.8",
+      "timestamp": "2025-12-13T11:30:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/351c6291bd68f4420ab610874cb4db6cf71f0d01"
+    },
+    {
+      "sha": "3edcd7e93fc9e25fc6def3262e2097fa9eff9100",
+      "author": "dependabot[bot]",
+      "message": "Bump com.unitvectory:jsonparamunit from 0.0.7 to 0.0.8\n\nBumps [com.unitvectory:jsonparamunit](https://github.com/UnitVectorY-Labs/jsonparamunit) from 0.0.7 to 0.0.8.\n- [Release notes](https://github.com/UnitVectorY-Labs/jsonparamunit/releases)\n- [Commits](https://github.com/UnitVectorY-Labs/jsonparamunit/compare/v0.0.7...v0.0.8)\n\n---\nupdated-dependencies:\n- dependency-name: com.unitvectory:jsonparamunit\n  dependency-version: 0.0.8\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-12-13T11:26:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/3edcd7e93fc9e25fc6def3262e2097fa9eff9100"
+    },
+    {
+      "sha": "cfd50ccb3baba72b84d60b6e20c94d3f5c1e4263",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #162 from UnitVectorY-Labs/dependabot/maven/org.mockito-mockito-core-5.21.0\n\nBump org.mockito:mockito-core from 5.20.0 to 5.21.0",
+      "timestamp": "2025-12-13T11:25:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/cfd50ccb3baba72b84d60b6e20c94d3f5c1e4263"
+    },
+    {
+      "sha": "975dfb9d53364fc2d02fe9c54456a534aee79fe5",
+      "author": "dependabot[bot]",
+      "message": "Bump org.mockito:mockito-core from 5.20.0 to 5.21.0\n\nBumps [org.mockito:mockito-core](https://github.com/mockito/mockito) from 5.20.0 to 5.21.0.\n- [Release notes](https://github.com/mockito/mockito/releases)\n- [Commits](https://github.com/mockito/mockito/compare/v5.20.0...v5.21.0)\n\n---\nupdated-dependencies:\n- dependency-name: org.mockito:mockito-core\n  dependency-version: 5.21.0\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-12-13T11:02:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/975dfb9d53364fc2d02fe9c54456a534aee79fe5"
+    },
+    {
+      "sha": "635c68387d6524be888f126b5ce31bbe1d3c2930",
+      "author": "dependabot[bot]",
+      "message": "Bump codecov/codecov-action from 5.5.1 to 5.5.2\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 5.5.1 to 5.5.2.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/v5.5.1...v5.5.2)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 5.5.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-12-13T11:02:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/635c68387d6524be888f126b5ce31bbe1d3c2930"
+    },
+    {
       "sha": "ebf6f4791f88ba600bf5906728c00d65882fba74",
       "author": "JaredHatfield",
       "message": "Merge pull request #158 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-api-5.14.1\n\nBump org.junit.jupiter:junit-jupiter-api from 5.13.4 to 5.14.1",

@@ -6,6 +6,20 @@
   "latest_release_time": "2025-11-09T16:29:05Z",
   "unreleased_commits": [
     {
+      "sha": "947554fd141ef44778d1930068d9ccf8384dea71",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #101 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-5.5.2\n\nBump codecov/codecov-action from 5.5.1 to 5.5.2",
+      "timestamp": "2025-12-13T11:37:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/947554fd141ef44778d1930068d9ccf8384dea71"
+    },
+    {
+      "sha": "151371037690fbc8ced4cbdb89787678fa768989",
+      "author": "dependabot[bot]",
+      "message": "Bump codecov/codecov-action from 5.5.1 to 5.5.2\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 5.5.1 to 5.5.2.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/v5.5.1...v5.5.2)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 5.5.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-12-13T11:02:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/151371037690fbc8ced4cbdb89787678fa768989"
+    },
+    {
       "sha": "77a7399aff7258f17696616460d20c2fc98bd514",
       "author": "JaredHatfield",
       "message": "Merge pull request #100 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-engine-5.14.1\n\nBump org.junit.jupiter:junit-jupiter-engine from 5.13.4 to 5.14.1",

@@ -6,6 +6,55 @@
   "latest_release_time": "2025-11-22T16:12:01Z",
   "unreleased_commits": [
     {
+      "sha": "851c317edba3d065f002fdbd8a6b71f351d21610",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #59 from UnitVectorY-Labs/dependabot/go_modules/github.com/go-playground/validator/v10-10.29.0\n\nBump github.com/go-playground/validator/v10 from 10.28.0 to 10.29.0",
+      "timestamp": "2025-12-13T11:43:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/851c317edba3d065f002fdbd8a6b71f351d21610"
+    },
+    {
+      "sha": "1d0a981bf501940bba682cb3f9c1de7eb82694b2",
+      "author": "dependabot[bot]",
+      "message": "Bump github.com/go-playground/validator/v10 from 10.28.0 to 10.29.0\n\nBumps [github.com/go-playground/validator/v10](https://github.com/go-playground/validator) from 10.28.0 to 10.29.0.\n- [Release notes](https://github.com/go-playground/validator/releases)\n- [Commits](https://github.com/go-playground/validator/compare/v10.28.0...v10.29.0)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/go-playground/validator/v10\n  dependency-version: 10.29.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-12-13T11:42:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/1d0a981bf501940bba682cb3f9c1de7eb82694b2"
+    },
+    {
+      "sha": "b64302437e2a4fe47cc9cc87b943f6529cbe26f3",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #58 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/term-0.38.0\n\nBump golang.org/x/term from 0.37.0 to 0.38.0",
+      "timestamp": "2025-12-13T11:41:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/b64302437e2a4fe47cc9cc87b943f6529cbe26f3"
+    },
+    {
+      "sha": "60316e59a13bf3c4ec73b2f7887ffcff9cc2df66",
+      "author": "JaredHatfield",
+      "message": "Merge branch 'main' into dependabot/go_modules/golang.org/x/term-0.38.0",
+      "timestamp": "2025-12-13T11:39:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/60316e59a13bf3c4ec73b2f7887ffcff9cc2df66"
+    },
+    {
+      "sha": "91f3409d6d98880ead5bf1fa501a1a30b37c719c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #57 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5\n\nBump actions/cache from 4 to 5",
+      "timestamp": "2025-12-13T11:22:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/91f3409d6d98880ead5bf1fa501a1a30b37c719c"
+    },
+    {
+      "sha": "41275a73c89b62523bc798e9927945c607927107",
+      "author": "dependabot[bot]",
+      "message": "Bump golang.org/x/term from 0.37.0 to 0.38.0\n\nBumps [golang.org/x/term](https://github.com/golang/term) from 0.37.0 to 0.38.0.\n- [Commits](https://github.com/golang/term/compare/v0.37.0...v0.38.0)\n\n---\nupdated-dependencies:\n- dependency-name: golang.org/x/term\n  dependency-version: 0.38.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-12-13T11:03:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/41275a73c89b62523bc798e9927945c607927107"
+    },
+    {
+      "sha": "88079a460d4c9e3bb8cad7e8a43228d6134b69cc",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/cache from 4 to 5\n\nBumps [actions/cache](https://github.com/actions/cache) from 4 to 5.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/v4...v5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: '5'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-12-13T11:03:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/88079a460d4c9e3bb8cad7e8a43228d6134b69cc"
+    },
+    {
       "sha": "ef2d7bf195dd90df29d3f791b34e7d61af334ca8",
       "author": "JaredHatfield",
       "message": "Merge pull request #56 from UnitVectorY-Labs/go-v1.25.5\n\nUpdate Go version to 1.25.5",
