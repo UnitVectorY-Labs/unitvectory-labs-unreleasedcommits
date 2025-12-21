@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-26T12:30:45Z",
   "unreleased_commits": [
     {
+      "sha": "e0b6be976d56a17980dc4ae1bf26ca931a9dcfc1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #157 from UnitVectorY-Labs/dependabot/maven/com.google.cloud-libraries-bom-26.73.0\n\nBump com.google.cloud:libraries-bom from 26.72.0 to 26.73.0",
+      "timestamp": "2025-12-20T11:34:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/e0b6be976d56a17980dc4ae1bf26ca931a9dcfc1"
+    },
+    {
+      "sha": "ea39018fd9426260062429d7955ff39b04f773d9",
+      "author": "dependabot[bot]",
+      "message": "Bump com.google.cloud:libraries-bom from 26.72.0 to 26.73.0\n\nBumps [com.google.cloud:libraries-bom](https://github.com/googleapis/java-cloud-bom) from 26.72.0 to 26.73.0.\n- [Release notes](https://github.com/googleapis/java-cloud-bom/releases)\n- [Changelog](https://github.com/googleapis/java-cloud-bom/blob/main/release-please-config.json)\n- [Commits](https://github.com/googleapis/java-cloud-bom/compare/v26.72.0...v26.73.0)\n\n---\nupdated-dependencies:\n- dependency-name: com.google.cloud:libraries-bom\n  dependency-version: 26.73.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-12-20T11:02:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/ea39018fd9426260062429d7955ff39b04f773d9"
+    },
+    {
       "sha": "cc2eb6707b621c80b3df4d953f9c435a2a3d4ffb",
       "author": "JaredHatfield",
       "message": "Merge pull request #154 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-5.5.2\n\nBump codecov/codecov-action from 5.5.1 to 5.5.2",

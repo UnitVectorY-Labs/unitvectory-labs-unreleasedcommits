@@ -1,0 +1,17 @@
+{
+  "owner": "UnitVectorY-Labs",
+  "name": "prompt2json",
+  "default_branch": "main",
+  "latest_release_tag": "v0.1.0",
+  "latest_release_time": "2025-12-20T20:04:02Z",
+  "unreleased_commits": [
+    {
+      "sha": "9aa1e57c180e6e2f3824adc1624517cabcf74447",
+      "author": "JaredHatfield",
+      "message": "Update badges in README.md",
+      "timestamp": "2025-12-20T20:09:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/9aa1e57c180e6e2f3824adc1624517cabcf74447"
+    }
+  ],
+  "repository_url": "https://github.com/UnitVectorY-Labs/prompt2json"
+}
