@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-22T00:51:12Z",
   "unreleased_commits": [
     {
+      "sha": "241abc12754cdeace4295b6d979f86df441ff8e6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #76 from UnitVectorY-Labs/dependabot/maven/org.json-json-20251224\n\nBump org.json:json from 20250517 to 20251224",
+      "timestamp": "2025-12-27T14:13:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/241abc12754cdeace4295b6d979f86df441ff8e6"
+    },
+    {
+      "sha": "fce3bf6ce35c06fa82e614c2922c2e3a30adb4db",
+      "author": "dependabot[bot]",
+      "message": "Bump org.json:json from 20250517 to 20251224\n\nBumps [org.json:json](https://github.com/douglascrockford/JSON-java) from 20250517 to 20251224.\n- [Release notes](https://github.com/douglascrockford/JSON-java/releases)\n- [Changelog](https://github.com/stleary/JSON-java/blob/master/docs/RELEASES.md)\n- [Commits](https://github.com/douglascrockford/JSON-java/commits)\n\n---\nupdated-dependencies:\n- dependency-name: org.json:json\n  dependency-version: '20251224'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-12-27T11:03:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/fce3bf6ce35c06fa82e614c2922c2e3a30adb4db"
+    },
+    {
       "sha": "5504506e549081a7468fcca3ec2a519d5fb8a655",
       "author": "JaredHatfield",
       "message": "Merge pull request #75 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-5.5.2\n\nBump codecov/codecov-action from 5.5.1 to 5.5.2",

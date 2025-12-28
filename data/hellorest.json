@@ -4,6 +4,21 @@
   "default_branch": "main",
   "latest_release_tag": "v1.2.0",
   "latest_release_time": "2025-12-26T20:00:20Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "2923fd9e3571e23bd10221412193187f2bc93ad5",
+      "author": "JaredHatfield",
+      "message": "Update Dockerfile comments and dependency handling",
+      "timestamp": "2025-12-27T21:45:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/2923fd9e3571e23bd10221412193187f2bc93ad5"
+    },
+    {
+      "sha": "6c00b88cb1877628f3a96dc7df02819cb57869ec",
+      "author": "JaredHatfield",
+      "message": "Create go.sum",
+      "timestamp": "2025-12-27T21:44:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/6c00b88cb1877628f3a96dc7df02819cb57869ec"
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/hellorest"
 }

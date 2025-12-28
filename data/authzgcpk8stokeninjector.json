@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-21T00:11:20Z",
   "unreleased_commits": [
     {
+      "sha": "4c38982ec18bd89b4e670660be39b5a623146691",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #55 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/grpc-1.78.0\n\nBump google.golang.org/grpc from 1.77.0 to 1.78.0",
+      "timestamp": "2025-12-27T14:12:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/4c38982ec18bd89b4e670660be39b5a623146691"
+    },
+    {
+      "sha": "d4a1812b2e6208ce083d2d01c3ecaf48ebb53247",
+      "author": "dependabot[bot]",
+      "message": "Bump google.golang.org/grpc from 1.77.0 to 1.78.0\n\nBumps [google.golang.org/grpc](https://github.com/grpc/grpc-go) from 1.77.0 to 1.78.0.\n- [Release notes](https://github.com/grpc/grpc-go/releases)\n- [Commits](https://github.com/grpc/grpc-go/compare/v1.77.0...v1.78.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/grpc\n  dependency-version: 1.78.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-12-27T11:04:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/d4a1812b2e6208ce083d2d01c3ecaf48ebb53247"
+    },
+    {
       "sha": "9d543f7c122b84854e8040fb39cf5c1c4cb0ef98",
       "author": "JaredHatfield",
       "message": "Merge pull request #54 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5\n\nBump actions/cache from 4 to 5",
