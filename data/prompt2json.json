@@ -6,6 +6,97 @@
   "latest_release_time": "2025-12-20T20:04:02Z",
   "unreleased_commits": [
     {
+      "sha": "fe1bcf0b5d235415a5d827e484668fca1634a93b",
+      "author": "JaredHatfield",
+      "message": "Add table of contents to Examples documentation",
+      "timestamp": "2026-01-01T22:58:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/fe1bcf0b5d235415a5d827e484668fca1634a93b"
+    },
+    {
+      "sha": "e2c4d40c0d870e4e3780ac0a514be9ef0d98dde9",
+      "author": "JaredHatfield",
+      "message": "Add table of contents to Examples documentation",
+      "timestamp": "2026-01-01T22:54:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/e2c4d40c0d870e4e3780ac0a514be9ef0d98dde9"
+    },
+    {
+      "sha": "e796904867191023a5a40c329a658857bc5c63f2",
+      "author": "JaredHatfield",
+      "message": "Fixed documentation",
+      "timestamp": "2026-01-01T20:25:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/e796904867191023a5a40c329a658857bc5c63f2"
+    },
+    {
+      "sha": "b603c820e1ca971d6eda912ed870a23de3921c6e",
+      "author": "JaredHatfield",
+      "message": "Update documentation for usage and examples; refine text analysis descriptions and add usage guidelines",
+      "timestamp": "2026-01-01T20:20:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/b603c820e1ca971d6eda912ed870a23de3921c6e"
+    },
+    {
+      "sha": "634b143f6ecf7ea35ae5e93664fc37db4632c760",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #6 from UnitVectorY-Labs/docs-example\n\nAdd installation instructions and examples to documentation",
+      "timestamp": "2026-01-01T19:48:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/634b143f6ecf7ea35ae5e93664fc37db4632c760"
+    },
+    {
+      "sha": "1a0024d08587b6a1a3982d70c7c74176f587ef60",
+      "author": "JaredHatfield",
+      "message": "Refine explanation of LLM integration challenges in documentation",
+      "timestamp": "2026-01-01T19:46:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/1a0024d08587b6a1a3982d70c7c74176f587ef60"
+    },
+    {
+      "sha": "26036ed9efccc2bf6a92360089f877dc8dcd65dd",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #7 from UnitVectorY-Labs/gcpvalidate-0.1.1\n\nUpdate gcpvalidate dependency to v0.1.1",
+      "timestamp": "2026-01-01T19:38:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/26036ed9efccc2bf6a92360089f877dc8dcd65dd"
+    },
+    {
+      "sha": "0843780a5d62d8a6f3f3bc28f60eedadbe3b428a",
+      "author": "JaredHatfield",
+      "message": "Update gcpvalidate dependency to v0.1.1",
+      "timestamp": "2026-01-01T19:35:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/0843780a5d62d8a6f3f3bc28f60eedadbe3b428a"
+    },
+    {
+      "sha": "752af086415b07a8a727506f0f23dff46e01c316",
+      "author": "JaredHatfield",
+      "message": "Add installation instructions and examples to documentation",
+      "timestamp": "2026-01-01T19:34:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/752af086415b07a8a727506f0f23dff46e01c316"
+    },
+    {
+      "sha": "c45d84e583ce94819e6f3a51723b1a2150da078a",
+      "author": "JaredHatfield",
+      "message": "Add initial documentation files for prompt2json",
+      "timestamp": "2026-01-01T17:37:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/c45d84e583ce94819e6f3a51723b1a2150da078a"
+    },
+    {
+      "sha": "058e63ec81e063128ff4391e6e7b056f0b18b37e",
+      "author": "JaredHatfield",
+      "message": "Create CNAME",
+      "timestamp": "2026-01-01T17:35:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/058e63ec81e063128ff4391e6e7b056f0b18b37e"
+    },
+    {
+      "sha": "8e822fdd9b7f915fbb1f0b1fe67ff81153dde2ff",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #5 from UnitVectorY-Labs/gcpvalidate\n\nAdded input validation for GCP components using gcpvalidate",
+      "timestamp": "2026-01-01T17:19:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/8e822fdd9b7f915fbb1f0b1fe67ff81153dde2ff"
+    },
+    {
+      "sha": "a4e2bf7f580d2df80c390d9534132edfcb0ef0ac",
+      "author": "JaredHatfield",
+      "message": "Added input validation for GCP components using gcpvalidate",
+      "timestamp": "2026-01-01T17:14:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/a4e2bf7f580d2df80c390d9534132edfcb0ef0ac"
+    },
+    {
       "sha": "9aa1e57c180e6e2f3824adc1624517cabcf74447",
       "author": "JaredHatfield",
       "message": "Update badges in README.md",
