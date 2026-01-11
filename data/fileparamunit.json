@@ -6,6 +6,34 @@
   "latest_release_time": "2025-10-24T21:58:15Z",
   "unreleased_commits": [
     {
+      "sha": "9619c1746c259cd14b8b37f213776c5363bcb3c2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #102 from UnitVectorY-Labs/dependabot/maven/org.sonatype.central-central-publishing-maven-plugin-0.10.0\n\nBump org.sonatype.central:central-publishing-maven-plugin from 0.9.0 to 0.10.0",
+      "timestamp": "2026-01-10T13:37:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/fileparamunit/commit/9619c1746c259cd14b8b37f213776c5363bcb3c2"
+    },
+    {
+      "sha": "535d00f433fa1e07e52a5a3a5997b81faa4a50bf",
+      "author": "dependabot[bot]",
+      "message": "Bump org.sonatype.central:central-publishing-maven-plugin\n\nBumps [org.sonatype.central:central-publishing-maven-plugin](https://github.com/sonatype/central-publishing-maven-plugin) from 0.9.0 to 0.10.0.\n- [Commits](https://github.com/sonatype/central-publishing-maven-plugin/commits)\n\n---\nupdated-dependencies:\n- dependency-name: org.sonatype.central:central-publishing-maven-plugin\n  dependency-version: 0.10.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-10T12:49:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/fileparamunit/commit/535d00f433fa1e07e52a5a3a5997b81faa4a50bf"
+    },
+    {
+      "sha": "8aca0efefc847f76addfcd1e4807e85458b71bf9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #103 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-params-5.14.2\n\nBump org.junit.jupiter:junit-jupiter-params from 5.14.1 to 5.14.2",
+      "timestamp": "2026-01-10T12:48:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/fileparamunit/commit/8aca0efefc847f76addfcd1e4807e85458b71bf9"
+    },
+    {
+      "sha": "f0b6996872ad8d4a1f5c87ef566ba20bbe310e7a",
+      "author": "dependabot[bot]",
+      "message": "Bump org.junit.jupiter:junit-jupiter-params from 5.14.1 to 5.14.2\n\nBumps [org.junit.jupiter:junit-jupiter-params](https://github.com/junit-team/junit-framework) from 5.14.1 to 5.14.2.\n- [Release notes](https://github.com/junit-team/junit-framework/releases)\n- [Commits](https://github.com/junit-team/junit-framework/compare/r5.14.1...r5.14.2)\n\n---\nupdated-dependencies:\n- dependency-name: org.junit.jupiter:junit-jupiter-params\n  dependency-version: 5.14.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-10T11:00:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/fileparamunit/commit/f0b6996872ad8d4a1f5c87ef566ba20bbe310e7a"
+    },
+    {
       "sha": "fee92079fc9b599f727adf4b3c5cf3f862af7906",
       "author": "JaredHatfield",
       "message": "Merge pull request #100 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-5.5.2\n\nBump codecov/codecov-action from 5.5.1 to 5.5.2",

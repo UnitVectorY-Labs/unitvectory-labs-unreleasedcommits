@@ -6,6 +6,20 @@
   "latest_release_time": "2025-11-22T16:11:01Z",
   "unreleased_commits": [
     {
+      "sha": "b6a1d85f1aaec1fea6ce2048039bc1c7952341d2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #96 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.259.0\n\nBump google.golang.org/api from 0.258.0 to 0.259.0",
+      "timestamp": "2026-01-10T12:55:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/b6a1d85f1aaec1fea6ce2048039bc1c7952341d2"
+    },
+    {
+      "sha": "e1d7859185065acc3ab0aea18deff2fe85ddc0fa",
+      "author": "dependabot[bot]",
+      "message": "Bump google.golang.org/api from 0.258.0 to 0.259.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.258.0 to 0.259.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.258.0...v0.259.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.259.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-10T11:02:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/e1d7859185065acc3ab0aea18deff2fe85ddc0fa"
+    },
+    {
       "sha": "4e919c45ba36833096075857173102580c5e035a",
       "author": "JaredHatfield",
       "message": "Merge pull request #95 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.258.0\n\nBump google.golang.org/api from 0.257.0 to 0.258.0",
