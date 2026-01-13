@@ -1,0 +1,17 @@
+{
+  "owner": "UnitVectorY-Labs",
+  "name": "kube-oidc-gateway",
+  "default_branch": "main",
+  "latest_release_tag": "v1.0.0",
+  "latest_release_time": "2026-01-13T00:03:59Z",
+  "unreleased_commits": [
+    {
+      "sha": "3b17c3b1b7010d9b28ad9a285bb50846ed2be1b7",
+      "author": "JaredHatfield",
+      "message": "Add badges for release, license, and status",
+      "timestamp": "2026-01-13T00:08:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/3b17c3b1b7010d9b28ad9a285bb50846ed2be1b7"
+    }
+  ],
+  "repository_url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway"
+}
