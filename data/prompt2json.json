@@ -4,6 +4,21 @@
   "default_branch": "main",
   "latest_release_tag": "v0.2.0",
   "latest_release_time": "2026-01-06T23:26:27Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "accbc8c7bc8c0da7d93d1712029825143d2e255d",
+      "author": "JaredHatfield",
+      "message": "Update GitHub Actions workflow for zizmor",
+      "timestamp": "2026-01-15T00:32:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/accbc8c7bc8c0da7d93d1712029825143d2e255d"
+    },
+    {
+      "sha": "fc4aba1a3200bbea13a63d0cccea8adeb267466b",
+      "author": "JaredHatfield",
+      "message": "Change runner and action version in workflow",
+      "timestamp": "2026-01-15T00:06:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/fc4aba1a3200bbea13a63d0cccea8adeb267466b"
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/prompt2json"
 }

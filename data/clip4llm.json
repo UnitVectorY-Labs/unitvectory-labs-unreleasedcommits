@@ -4,6 +4,21 @@
   "default_branch": "main",
   "latest_release_tag": "v1.0.0",
   "latest_release_time": "2026-01-05T22:55:05Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "3748f7a8ce358699c59f8e10c0ea59a8f5b8b9ee",
+      "author": "JaredHatfield",
+      "message": "Update GitHub Actions workflow for zizmor",
+      "timestamp": "2026-01-15T00:20:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/3748f7a8ce358699c59f8e10c0ea59a8f5b8b9ee"
+    },
+    {
+      "sha": "8285cf55363a898ed59ea5ab15e014459301aa65",
+      "author": "JaredHatfield",
+      "message": "Change runner and action version in workflow",
+      "timestamp": "2026-01-14T23:57:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/8285cf55363a898ed59ea5ab15e014459301aa65"
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/clip4llm"
 }

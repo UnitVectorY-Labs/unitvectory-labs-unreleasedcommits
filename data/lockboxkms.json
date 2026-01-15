@@ -6,6 +6,20 @@
   "latest_release_time": "2025-11-22T16:02:58Z",
   "unreleased_commits": [
     {
+      "sha": "5b4aff342fe73290cd2185cd5ff286ed1dc89f0d",
+      "author": "JaredHatfield",
+      "message": "Update GitHub Actions workflow for zizmor",
+      "timestamp": "2026-01-15T00:31:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/5b4aff342fe73290cd2185cd5ff286ed1dc89f0d"
+    },
+    {
+      "sha": "fbe358e96dc3cccc275c8334915a3aaba0dbface",
+      "author": "JaredHatfield",
+      "message": "Change runner and action version in workflow",
+      "timestamp": "2026-01-15T00:05:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/fbe358e96dc3cccc275c8334915a3aaba0dbface"
+    },
+    {
       "sha": "3fb34dc5b4a9fffcd8d77fa9fcc70dcdb65d7180",
       "author": "JaredHatfield",
       "message": "Merge pull request #98 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.259.0\n\nBump google.golang.org/api from 0.258.0 to 0.259.0",

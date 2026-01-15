@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-21T00:11:20Z",
   "unreleased_commits": [
     {
+      "sha": "008dc48176a40684473d7ceaa051635206cd5070",
+      "author": "JaredHatfield",
+      "message": "Update GitHub Actions workflow for zizmor",
+      "timestamp": "2026-01-15T00:17:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/008dc48176a40684473d7ceaa051635206cd5070"
+    },
+    {
+      "sha": "633f2fff933b9fd0b13fc7b0e145796adee756b1",
+      "author": "JaredHatfield",
+      "message": "Change runner and action version in workflow",
+      "timestamp": "2026-01-14T23:56:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/633f2fff933b9fd0b13fc7b0e145796adee756b1"
+    },
+    {
       "sha": "4c38982ec18bd89b4e670660be39b5a623146691",
       "author": "JaredHatfield",
       "message": "Merge pull request #55 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/grpc-1.78.0\n\nBump google.golang.org/grpc from 1.77.0 to 1.78.0",

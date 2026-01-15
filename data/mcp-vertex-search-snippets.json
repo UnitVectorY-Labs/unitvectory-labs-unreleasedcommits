@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-08T00:02:14Z",
   "unreleased_commits": [
     {
+      "sha": "2100700257d6f639fdfbccde981f16306ed25ef7",
+      "author": "JaredHatfield",
+      "message": "Update GitHub Actions workflow for zizmor",
+      "timestamp": "2026-01-15T00:31:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/2100700257d6f639fdfbccde981f16306ed25ef7"
+    },
+    {
+      "sha": "2f706d9311c63c846449525b79ab3057f3ee7faa",
+      "author": "JaredHatfield",
+      "message": "Change runner and action version in workflow",
+      "timestamp": "2026-01-15T00:06:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/2f706d9311c63c846449525b79ab3057f3ee7faa"
+    },
+    {
       "sha": "12035fd32bd25cc82b70b633c5eca99466f4257d",
       "author": "JaredHatfield",
       "message": "Merge pull request #25 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/oauth2-0.34.0\n\nBump golang.org/x/oauth2 from 0.33.0 to 0.34.0",

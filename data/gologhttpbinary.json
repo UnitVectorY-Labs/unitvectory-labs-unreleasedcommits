@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-14T01:35:46Z",
   "unreleased_commits": [
     {
+      "sha": "83adbdb6dccc3da3b04617be5abf827f227f00c9",
+      "author": "JaredHatfield",
+      "message": "Update GitHub Actions workflow for zizmor",
+      "timestamp": "2026-01-15T00:25:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpbinary/commit/83adbdb6dccc3da3b04617be5abf827f227f00c9"
+    },
+    {
+      "sha": "198f6139dd2cfe2dd75761f1ff9894187bff975d",
+      "author": "JaredHatfield",
+      "message": "Change runner and action version in workflow",
+      "timestamp": "2026-01-15T00:02:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpbinary/commit/198f6139dd2cfe2dd75761f1ff9894187bff975d"
+    },
+    {
       "sha": "a24542c9e4991841015bfa2b9956f3d2548a9408",
       "author": "JaredHatfield",
       "message": "Merge pull request #29 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5\n\nBump actions/cache from 4 to 5",

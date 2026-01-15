@@ -6,6 +6,20 @@
   "latest_release_time": "2025-12-06T18:46:02Z",
   "unreleased_commits": [
     {
+      "sha": "7edb146861cc8c80ca6e652233821587ff942f49",
+      "author": "JaredHatfield",
+      "message": "Update GitHub Actions workflow for zizmor",
+      "timestamp": "2026-01-15T00:30:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/jwt-bearer-token-vendor/commit/7edb146861cc8c80ca6e652233821587ff942f49"
+    },
+    {
+      "sha": "32dbbf4b23b14727c69fe0f1153c5f421245c8a5",
+      "author": "JaredHatfield",
+      "message": "Change runner and update add-to-project action version",
+      "timestamp": "2026-01-15T00:04:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/jwt-bearer-token-vendor/commit/32dbbf4b23b14727c69fe0f1153c5f421245c8a5"
+    },
+    {
       "sha": "5dd65eda3ed2691ea7ba9fba63308ad4bb01397d",
       "author": "JaredHatfield",
       "message": "Merge pull request #18 from UnitVectorY-Labs/dependabot/github_actions/actions/upload-artifact-6\n\nBump actions/upload-artifact from 5 to 6",

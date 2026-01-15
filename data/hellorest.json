@@ -6,6 +6,20 @@
   "latest_release_time": "2025-12-26T20:00:20Z",
   "unreleased_commits": [
     {
+      "sha": "ec1dc13a9900945e24d1a9970b0c0e2d4c0db22c",
+      "author": "JaredHatfield",
+      "message": "Update GitHub Actions workflow for zizmor",
+      "timestamp": "2026-01-15T00:25:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/ec1dc13a9900945e24d1a9970b0c0e2d4c0db22c"
+    },
+    {
+      "sha": "d8bc60540d8b6e31063a3200570427c6a5175c19",
+      "author": "JaredHatfield",
+      "message": "Change runner and action version in workflow",
+      "timestamp": "2026-01-15T00:03:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/d8bc60540d8b6e31063a3200570427c6a5175c19"
+    },
+    {
       "sha": "2923fd9e3571e23bd10221412193187f2bc93ad5",
       "author": "JaredHatfield",
       "message": "Update Dockerfile comments and dependency handling",

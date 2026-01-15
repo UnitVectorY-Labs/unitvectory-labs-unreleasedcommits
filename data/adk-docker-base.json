@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-25T13:36:20Z",
   "unreleased_commits": [
     {
+      "sha": "b4f3acac39f490f633baf09050e941a600e0bd28",
+      "author": "JaredHatfield",
+      "message": "Update GitHub Actions workflow for zizmor",
+      "timestamp": "2026-01-15T00:17:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/b4f3acac39f490f633baf09050e941a600e0bd28"
+    },
+    {
+      "sha": "77aafd6f70b3141b97b9494aa259059d7617a1df",
+      "author": "JaredHatfield",
+      "message": "Change runner and action version in workflow",
+      "timestamp": "2026-01-14T23:56:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/77aafd6f70b3141b97b9494aa259059d7617a1df"
+    },
+    {
       "sha": "1da862a5236bb302483646bb589f4aaf311aa2c7",
       "author": "JaredHatfield",
       "message": "Fix badge image URL for license badge in README",

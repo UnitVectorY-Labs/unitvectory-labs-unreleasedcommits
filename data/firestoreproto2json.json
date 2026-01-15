@@ -6,6 +6,20 @@
   "latest_release_time": "2025-11-29T14:40:13Z",
   "unreleased_commits": [
     {
+      "sha": "c3fa255bcafda6e18fe9d69d135edf093e730a79",
+      "author": "JaredHatfield",
+      "message": "Update GitHub Actions workflow for zizmor",
+      "timestamp": "2026-01-15T00:23:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/c3fa255bcafda6e18fe9d69d135edf093e730a79"
+    },
+    {
+      "sha": "647b3de4a2f76f8c7de055c76f59fc04720f8e59",
+      "author": "JaredHatfield",
+      "message": "Change runner and action version in workflow",
+      "timestamp": "2026-01-15T00:00:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/647b3de4a2f76f8c7de055c76f59fc04720f8e59"
+    },
+    {
       "sha": "427b588a8ffc6e5f58bc0a9ea2a9a157d058de74",
       "author": "JaredHatfield",
       "message": "Merge pull request #130 from UnitVectorY-Labs/dependabot/maven/org.sonatype.central-central-publishing-maven-plugin-0.10.0\n\nBump org.sonatype.central:central-publishing-maven-plugin from 0.9.0 to 0.10.0",

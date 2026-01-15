@@ -6,6 +6,41 @@
   "latest_release_time": "2025-10-22T00:51:12Z",
   "unreleased_commits": [
     {
+      "sha": "c503a1e4894c26da327e264206c7e99eb91c25eb",
+      "author": "JaredHatfield",
+      "message": "Change runner for zizmor job to arc-runner-set",
+      "timestamp": "2026-01-15T00:13:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/c503a1e4894c26da327e264206c7e99eb91c25eb"
+    },
+    {
+      "sha": "51a9416cf09bd31b5de94ed44fb344bbe608f66f",
+      "author": "JaredHatfield",
+      "message": "Change runner for add-to-project workflow",
+      "timestamp": "2026-01-14T23:52:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/51a9416cf09bd31b5de94ed44fb344bbe608f66f"
+    },
+    {
+      "sha": "fede3d46d2bd85e4012b2a49994afde6f040a60a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #79 from UnitVectorY-Labs/pin-versions\n\npin versions",
+      "timestamp": "2026-01-14T23:46:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/fede3d46d2bd85e4012b2a49994afde6f040a60a"
+    },
+    {
+      "sha": "2d93161e89790939c1db91283238cf58eb39fff0",
+      "author": "JaredHatfield",
+      "message": "Update action versions in zizmor workflow",
+      "timestamp": "2026-01-14T23:41:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/2d93161e89790939c1db91283238cf58eb39fff0"
+    },
+    {
+      "sha": "4e5691bb382041a77fe6d71d589a2edd2ecc2f5b",
+      "author": "JaredHatfield",
+      "message": "pin version for add-to-project",
+      "timestamp": "2026-01-14T23:34:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/4e5691bb382041a77fe6d71d589a2edd2ecc2f5b"
+    },
+    {
       "sha": "c8a6215eb2003240b9360ebe71d374f05a8d2f45",
       "author": "JaredHatfield",
       "message": "Merge pull request #77 from UnitVectorY-Labs/dependabot/maven/org.sonatype.central-central-publishing-maven-plugin-0.10.0\n\nBump org.sonatype.central:central-publishing-maven-plugin from 0.9.0 to 0.10.0",

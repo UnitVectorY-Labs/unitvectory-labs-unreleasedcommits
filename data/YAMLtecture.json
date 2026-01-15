@@ -6,6 +6,20 @@
   "latest_release_time": "2025-11-22T16:12:01Z",
   "unreleased_commits": [
     {
+      "sha": "186fbd5f1a4a6c3119927486803597e0e98f7d30",
+      "author": "JaredHatfield",
+      "message": "Modify GitHub Actions workflow for zizmor\n\nUpdated the runner and action versions in the workflow.",
+      "timestamp": "2026-01-15T00:16:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/186fbd5f1a4a6c3119927486803597e0e98f7d30"
+    },
+    {
+      "sha": "59b2e7766637ad7eb07694f139d325a8bf4f4c96",
+      "author": "JaredHatfield",
+      "message": "Change runner and action version in workflow",
+      "timestamp": "2026-01-14T23:56:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/59b2e7766637ad7eb07694f139d325a8bf4f4c96"
+    },
+    {
       "sha": "52373ffab344f226ec821cccbe1ed8ef9005e5ee",
       "author": "JaredHatfield",
       "message": "Merge pull request #62 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/term-0.39.0\n\nBump golang.org/x/term from 0.38.0 to 0.39.0",

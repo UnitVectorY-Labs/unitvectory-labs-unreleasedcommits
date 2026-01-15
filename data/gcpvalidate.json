@@ -4,6 +4,21 @@
   "default_branch": "main",
   "latest_release_tag": "v0.1.1",
   "latest_release_time": "2026-01-01T19:27:46Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "df06706a6931772789d4a3af97640934b906698b",
+      "author": "JaredHatfield",
+      "message": "Update GitHub Actions workflow for zizmor",
+      "timestamp": "2026-01-15T00:25:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpvalidate/commit/df06706a6931772789d4a3af97640934b906698b"
+    },
+    {
+      "sha": "931ff393c1c53a668e023df5c0862b88857914f5",
+      "author": "JaredHatfield",
+      "message": "Change runner and update add-to-project action version",
+      "timestamp": "2026-01-15T00:01:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpvalidate/commit/931ff393c1c53a668e023df5c0862b88857914f5"
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/gcpvalidate"
 }

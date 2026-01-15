@@ -4,6 +4,21 @@
   "default_branch": "main",
   "latest_release_tag": "v1.3.0",
   "latest_release_time": "2026-01-03T18:06:29Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "893593187af764fc83e5c1a9b8511078bae96927",
+      "author": "JaredHatfield",
+      "message": "Update GitHub Actions workflow for zizmor",
+      "timestamp": "2026-01-15T00:25:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/893593187af764fc83e5c1a9b8511078bae96927"
+    },
+    {
+      "sha": "0de161d362b31f3453adc594df7667bb42376e58",
+      "author": "JaredHatfield",
+      "message": "Change runner and update action version in workflow",
+      "timestamp": "2026-01-15T00:02:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/0de161d362b31f3453adc594df7667bb42376e58"
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/goenvecho"
 }

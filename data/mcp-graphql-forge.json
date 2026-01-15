@@ -4,6 +4,21 @@
   "default_branch": "main",
   "latest_release_tag": "v0.9.0",
   "latest_release_time": "2025-12-17T03:12:52Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "bbd8abab466bb839ceb454e9d2dccef3b2af6bdd",
+      "author": "JaredHatfield",
+      "message": "Update GitHub Actions workflow for zizmor",
+      "timestamp": "2026-01-15T00:31:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/bbd8abab466bb839ceb454e9d2dccef3b2af6bdd"
+    },
+    {
+      "sha": "0a4f51212e6018373b5cddeb1f0586a8b1265ec9",
+      "author": "JaredHatfield",
+      "message": "Change runner and action version in workflow",
+      "timestamp": "2026-01-15T00:05:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/0a4f51212e6018373b5cddeb1f0586a8b1265ec9"
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge"
 }

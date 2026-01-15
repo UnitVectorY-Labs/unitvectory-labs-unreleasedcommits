@@ -6,6 +6,20 @@
   "latest_release_time": "2025-11-22T16:11:27Z",
   "unreleased_commits": [
     {
+      "sha": "f1216b037b62eb4f8e12d2b2fe37ade7b3a2e012",
+      "author": "JaredHatfield",
+      "message": "Update GitHub Actions workflow for zizmor",
+      "timestamp": "2026-01-15T00:23:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/f1216b037b62eb4f8e12d2b2fe37ade7b3a2e012"
+    },
+    {
+      "sha": "45c20e0b2ec7cc2f19ddb3f2b8b96d1309e2d3c5",
+      "author": "JaredHatfield",
+      "message": "Change runner and action version in workflow",
+      "timestamp": "2026-01-14T23:59:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/45c20e0b2ec7cc2f19ddb3f2b8b96d1309e2d3c5"
+    },
+    {
       "sha": "12bf0bf66cca9072b25fc2c84091bcd810fa5503",
       "author": "JaredHatfield",
       "message": "Merge pull request #66 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.259.0\n\nBump google.golang.org/api from 0.258.0 to 0.259.0",
