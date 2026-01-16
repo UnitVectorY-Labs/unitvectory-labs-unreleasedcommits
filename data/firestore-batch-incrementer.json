@@ -6,6 +6,20 @@
   "latest_release_time": "2025-11-22T16:11:27Z",
   "unreleased_commits": [
     {
+      "sha": "e8a07c847e62fa2d21ffe3e872f3170315a5592a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #67 from UnitVectorY-Labs/bulkfilepr/53764b38260f\n\nUpdate .github/workflows/build-go.yml",
+      "timestamp": "2026-01-15T04:07:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/e8a07c847e62fa2d21ffe3e872f3170315a5592a"
+    },
+    {
+      "sha": "ea8b12aad8b6884972a4262a302a24630880c9ef",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/build-go.yml",
+      "timestamp": "2026-01-15T03:47:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/ea8b12aad8b6884972a4262a302a24630880c9ef"
+    },
+    {
       "sha": "f1216b037b62eb4f8e12d2b2fe37ade7b3a2e012",
       "author": "JaredHatfield",
       "message": "Update GitHub Actions workflow for zizmor",

@@ -6,6 +6,34 @@
   "latest_release_time": "2026-01-13T00:03:59Z",
   "unreleased_commits": [
     {
+      "sha": "5a2a7273c75a9aadb1ae6b88b3ef360b2c28a994",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #3 from UnitVectorY-Labs/bulkfilepr/53764b38260f\n\nUpdate .github/workflows/build-go.yml",
+      "timestamp": "2026-01-15T04:24:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/5a2a7273c75a9aadb1ae6b88b3ef360b2c28a994"
+    },
+    {
+      "sha": "9a169cd3f7f005b68991c85915e7ea56a3adc836",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/build-go.yml",
+      "timestamp": "2026-01-15T03:51:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/9a169cd3f7f005b68991c85915e7ea56a3adc836"
+    },
+    {
+      "sha": "4ede7a037bb40dda97926af07f2f3ac3b2bec7a1",
+      "author": "JaredHatfield",
+      "message": "Update GitHub Actions workflow for zizmor",
+      "timestamp": "2026-01-15T01:46:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/4ede7a037bb40dda97926af07f2f3ac3b2bec7a1"
+    },
+    {
+      "sha": "75d29135ec02d10ec3ca40623cb6ea583a969e20",
+      "author": "JaredHatfield",
+      "message": "Change runner and action version in workflow",
+      "timestamp": "2026-01-15T01:46:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/75d29135ec02d10ec3ca40623cb6ea583a969e20"
+    },
+    {
       "sha": "3b17c3b1b7010d9b28ad9a285bb50846ed2be1b7",
       "author": "JaredHatfield",
       "message": "Add badges for release, license, and status",

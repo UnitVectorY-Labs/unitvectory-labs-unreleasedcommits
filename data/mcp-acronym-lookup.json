@@ -6,6 +6,20 @@
   "latest_release_time": "2025-11-29T18:36:20Z",
   "unreleased_commits": [
     {
+      "sha": "417c19fe14b769e4a19e71bccac24f0390e7a015",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #38 from UnitVectorY-Labs/bulkfilepr/53764b38260f\n\nUpdate .github/workflows/build-go.yml",
+      "timestamp": "2026-01-15T04:16:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/417c19fe14b769e4a19e71bccac24f0390e7a015"
+    },
+    {
+      "sha": "101e8d5a0808576c11e2c2b548c6635cc8dd9f17",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/build-go.yml",
+      "timestamp": "2026-01-15T03:51:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/101e8d5a0808576c11e2c2b548c6635cc8dd9f17"
+    },
+    {
       "sha": "a5b8d438cb09a0a77e4b82c6fbd3322b382a35fe",
       "author": "JaredHatfield",
       "message": "Update GitHub Actions workflow for zizmor",

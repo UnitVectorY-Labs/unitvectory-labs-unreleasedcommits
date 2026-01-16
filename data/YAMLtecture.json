@@ -6,6 +6,20 @@
   "latest_release_time": "2025-11-22T16:12:01Z",
   "unreleased_commits": [
     {
+      "sha": "da29a26b9e6d416bf87a4795746a13a05d5af023",
+      "author": "JaredHatfield",
+      "message": "Remove race condition check from tests",
+      "timestamp": "2026-01-15T02:34:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/da29a26b9e6d416bf87a4795746a13a05d5af023"
+    },
+    {
+      "sha": "4923c27963731e9652ba07161a9d1f5ab6fcbf71",
+      "author": "JaredHatfield",
+      "message": "Modify build-go.yml for action versions and runner\n\nUpdated GitHub Actions workflow to use specific versions for actions and changed runner type.",
+      "timestamp": "2026-01-15T01:56:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/4923c27963731e9652ba07161a9d1f5ab6fcbf71"
+    },
+    {
       "sha": "186fbd5f1a4a6c3119927486803597e0e98f7d30",
       "author": "JaredHatfield",
       "message": "Modify GitHub Actions workflow for zizmor\n\nUpdated the runner and action versions in the workflow.",

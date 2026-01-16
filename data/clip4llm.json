@@ -6,6 +6,20 @@
   "latest_release_time": "2026-01-05T22:55:05Z",
   "unreleased_commits": [
     {
+      "sha": "9498ca5d4c07c42e8df8abee15efe206be6447fb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #39 from UnitVectorY-Labs/bulkfilepr/53764b38260f\n\nUpdate .github/workflows/build-go.yml",
+      "timestamp": "2026-01-15T03:55:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/9498ca5d4c07c42e8df8abee15efe206be6447fb"
+    },
+    {
+      "sha": "ea1e2de4a0fe8bf5cebef6c2ebeb3c61f758be89",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/build-go.yml",
+      "timestamp": "2026-01-15T03:47:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/ea1e2de4a0fe8bf5cebef6c2ebeb3c61f758be89"
+    },
+    {
       "sha": "3748f7a8ce358699c59f8e10c0ea59a8f5b8b9ee",
       "author": "JaredHatfield",
       "message": "Update GitHub Actions workflow for zizmor",

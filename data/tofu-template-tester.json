@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-14T01:27:05Z",
   "unreleased_commits": [
     {
+      "sha": "63bf4cbbbd94ff3ce05b1fbf095ab8a7646c09dd",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #18 from UnitVectorY-Labs/bulkfilepr/53764b38260f\n\nUpdate .github/workflows/build-go.yml",
+      "timestamp": "2026-01-15T04:24:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/63bf4cbbbd94ff3ce05b1fbf095ab8a7646c09dd"
+    },
+    {
+      "sha": "414b97edf698725b06fffbbaf638fcc5163a31da",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/build-go.yml",
+      "timestamp": "2026-01-15T03:52:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/414b97edf698725b06fffbbaf638fcc5163a31da"
+    },
+    {
       "sha": "637251ee2cd94736696a513486fbb16663385607",
       "author": "JaredHatfield",
       "message": "Update GitHub Actions workflow for zizmor",

@@ -6,6 +6,20 @@
   "latest_release_time": "2025-11-22T16:11:01Z",
   "unreleased_commits": [
     {
+      "sha": "4008107dc66a170a665cf6b823eeeb2de84311f5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #97 from UnitVectorY-Labs/bulkfilepr/53764b38260f\n\nUpdate .github/workflows/build-go.yml",
+      "timestamp": "2026-01-15T03:58:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/4008107dc66a170a665cf6b823eeeb2de84311f5"
+    },
+    {
+      "sha": "4b14e814d390a2ca5202c0806e76eb4dc22ead30",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/build-go.yml",
+      "timestamp": "2026-01-15T03:47:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/4b14e814d390a2ca5202c0806e76eb4dc22ead30"
+    },
+    {
       "sha": "a72d6f65bc98515c76487533bfe9979eff37da92",
       "author": "JaredHatfield",
       "message": "Update GitHub Actions workflow for zizmor",

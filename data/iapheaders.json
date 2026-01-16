@@ -6,6 +6,20 @@
   "latest_release_time": "2025-11-22T16:00:36Z",
   "unreleased_commits": [
     {
+      "sha": "350f1b66121f7cecedd7cf9d5a8a4f4223308b70",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #41 from UnitVectorY-Labs/bulkfilepr/53764b38260f\n\nUpdate .github/workflows/build-go.yml",
+      "timestamp": "2026-01-15T04:05:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/350f1b66121f7cecedd7cf9d5a8a4f4223308b70"
+    },
+    {
+      "sha": "c8ee2e092a5434675dc08fd55a13ddb9d2f6fdad",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/build-go.yml",
+      "timestamp": "2026-01-15T03:48:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/c8ee2e092a5434675dc08fd55a13ddb9d2f6fdad"
+    },
+    {
       "sha": "d1b8d7b6d02eda9c31b808a0c44fef8c2bb21d38",
       "author": "JaredHatfield",
       "message": "Modify CI workflow for zizmor with version updates\n\nUpdated the CI workflow to use specific versions of actions and changed the runner environment.",

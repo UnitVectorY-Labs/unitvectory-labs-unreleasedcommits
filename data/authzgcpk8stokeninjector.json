@@ -6,6 +6,27 @@
   "latest_release_time": "2025-10-21T00:11:20Z",
   "unreleased_commits": [
     {
+      "sha": "2c66234fc7332370697cffe6039dadc150be6ece",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #56 from UnitVectorY-Labs/bulkfilepr/c61b3453a1e5\n\nUpdate .github/workflows/build-go.yml",
+      "timestamp": "2026-01-15T03:09:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/2c66234fc7332370697cffe6039dadc150be6ece"
+    },
+    {
+      "sha": "b9854b0a43d8b666adc6244b3e4b547e0f4c8dba",
+      "author": "JaredHatfield",
+      "message": "Remove race detection from test command",
+      "timestamp": "2026-01-15T02:40:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/b9854b0a43d8b666adc6244b3e4b547e0f4c8dba"
+    },
+    {
+      "sha": "f29cc9a8b309eea0e31fd232f64607a90742b877",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/build-go.yml",
+      "timestamp": "2026-01-15T02:24:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/f29cc9a8b309eea0e31fd232f64607a90742b877"
+    },
+    {
       "sha": "008dc48176a40684473d7ceaa051635206cd5070",
       "author": "JaredHatfield",
       "message": "Update GitHub Actions workflow for zizmor",

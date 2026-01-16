@@ -6,6 +6,20 @@
   "latest_release_time": "2025-12-17T03:12:52Z",
   "unreleased_commits": [
     {
+      "sha": "4145c6f0b5016eb34b40fab749854e70e3691703",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #50 from UnitVectorY-Labs/bulkfilepr/53764b38260f\n\nUpdate .github/workflows/build-go.yml",
+      "timestamp": "2026-01-15T04:20:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/4145c6f0b5016eb34b40fab749854e70e3691703"
+    },
+    {
+      "sha": "d3a9a11d01edcc01bbf9d466b8a659abdb9f22b9",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/build-go.yml",
+      "timestamp": "2026-01-15T03:51:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/d3a9a11d01edcc01bbf9d466b8a659abdb9f22b9"
+    },
+    {
       "sha": "bbd8abab466bb839ceb454e9d2dccef3b2af6bdd",
       "author": "JaredHatfield",
       "message": "Update GitHub Actions workflow for zizmor",
