@@ -6,6 +6,20 @@
   "latest_release_time": "2026-01-13T00:03:59Z",
   "unreleased_commits": [
     {
+      "sha": "4075e2beff61e1bad6a2530a4fcd4ca8124aeef0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #4 from UnitVectorY-Labs/bulkfilepr/e2385084a07e\n\nUpdate .github/workflows/docker-build-dev.yml",
+      "timestamp": "2026-01-16T02:28:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/4075e2beff61e1bad6a2530a4fcd4ca8124aeef0"
+    },
+    {
+      "sha": "e4dd79461b1e0d5cff0efb65edb364ab738e5c28",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/docker-build-dev.yml",
+      "timestamp": "2026-01-16T02:19:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/e4dd79461b1e0d5cff0efb65edb364ab738e5c28"
+    },
+    {
       "sha": "5a2a7273c75a9aadb1ae6b88b3ef360b2c28a994",
       "author": "JaredHatfield",
       "message": "Merge pull request #3 from UnitVectorY-Labs/bulkfilepr/53764b38260f\n\nUpdate .github/workflows/build-go.yml",

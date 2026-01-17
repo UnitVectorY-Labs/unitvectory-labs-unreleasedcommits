@@ -6,6 +6,27 @@
   "latest_release_time": "2025-10-14T01:35:46Z",
   "unreleased_commits": [
     {
+      "sha": "e143a953f46d114ca9eea72603f8cd42927d441a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #31 from UnitVectorY-Labs/bulkfilepr/e2385084a07e\n\nUpdate .github/workflows/docker-build-dev.yml",
+      "timestamp": "2026-01-16T02:30:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpbinary/commit/e143a953f46d114ca9eea72603f8cd42927d441a"
+    },
+    {
+      "sha": "5c14f2696080b5f53aa1db04ee65fc5478cfcc03",
+      "author": "JaredHatfield",
+      "message": "Merge branch 'main' into bulkfilepr/e2385084a07e",
+      "timestamp": "2026-01-16T02:28:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpbinary/commit/5c14f2696080b5f53aa1db04ee65fc5478cfcc03"
+    },
+    {
+      "sha": "196f8bf5b8e778929861bd4a882736d6a1670f32",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/docker-build-dev.yml",
+      "timestamp": "2026-01-16T02:18:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpbinary/commit/196f8bf5b8e778929861bd4a882736d6a1670f32"
+    },
+    {
       "sha": "1976c1378f54799f8c68ba9927cc38d5bcc5e1e8",
       "author": "JaredHatfield",
       "message": "Merge pull request #30 from UnitVectorY-Labs/bulkfilepr/53764b38260f\n\nUpdate .github/workflows/build-go.yml",

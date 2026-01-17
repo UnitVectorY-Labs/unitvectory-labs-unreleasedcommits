@@ -6,6 +6,27 @@
   "latest_release_time": "2025-11-22T16:11:01Z",
   "unreleased_commits": [
     {
+      "sha": "b8d8e342348f58d77c4ec86ef5913d2cf273f236",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #98 from UnitVectorY-Labs/bulkfilepr/e2385084a07e\n\nUpdate .github/workflows/docker-build-dev.yml",
+      "timestamp": "2026-01-16T02:33:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/b8d8e342348f58d77c4ec86ef5913d2cf273f236"
+    },
+    {
+      "sha": "45e56a3b6f0a1648cb383bfbcdea9964f988c16b",
+      "author": "JaredHatfield",
+      "message": "Merge branch 'main' into bulkfilepr/e2385084a07e",
+      "timestamp": "2026-01-16T02:29:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/45e56a3b6f0a1648cb383bfbcdea9964f988c16b"
+    },
+    {
+      "sha": "c265f37cd000e6400bf2a0a5ddaf6927450c78e0",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/docker-build-dev.yml",
+      "timestamp": "2026-01-16T02:19:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/c265f37cd000e6400bf2a0a5ddaf6927450c78e0"
+    },
+    {
       "sha": "4008107dc66a170a665cf6b823eeeb2de84311f5",
       "author": "JaredHatfield",
       "message": "Merge pull request #97 from UnitVectorY-Labs/bulkfilepr/53764b38260f\n\nUpdate .github/workflows/build-go.yml",

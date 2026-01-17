@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-21T00:11:20Z",
   "unreleased_commits": [
     {
+      "sha": "1c832c5fd262d861cb5a906218bd0f3194b56a34",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #57 from UnitVectorY-Labs/bulkfilepr/e2385084a07e\n\nUpdate .github/workflows/docker-build-dev.yml",
+      "timestamp": "2026-01-16T02:28:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/1c832c5fd262d861cb5a906218bd0f3194b56a34"
+    },
+    {
+      "sha": "dadd89844d00a4960e7ccb4e0f3ab999d64ae2f8",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/docker-build-dev.yml",
+      "timestamp": "2026-01-16T02:19:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/dadd89844d00a4960e7ccb4e0f3ab999d64ae2f8"
+    },
+    {
       "sha": "2c66234fc7332370697cffe6039dadc150be6ece",
       "author": "JaredHatfield",
       "message": "Merge pull request #56 from UnitVectorY-Labs/bulkfilepr/c61b3453a1e5\n\nUpdate .github/workflows/build-go.yml",

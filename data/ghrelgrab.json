@@ -6,6 +6,20 @@
   "latest_release_time": "2025-12-06T19:53:32Z",
   "unreleased_commits": [
     {
+      "sha": "d3d0e541bb07994c7b12f34e2db5d17508d67502",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #15 from UnitVectorY-Labs/bulkfilepr/e2385084a07e\n\nUpdate .github/workflows/docker-build-dev.yml",
+      "timestamp": "2026-01-16T02:29:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/d3d0e541bb07994c7b12f34e2db5d17508d67502"
+    },
+    {
+      "sha": "2a943174fa79739027f5c74d6a9f2a3b0a3a8240",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/docker-build-dev.yml",
+      "timestamp": "2026-01-16T02:19:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/2a943174fa79739027f5c74d6a9f2a3b0a3a8240"
+    },
+    {
       "sha": "2223394dda0992ed1625ccf2788a534019aa7011",
       "author": "JaredHatfield",
       "message": "Merge pull request #14 from UnitVectorY-Labs/bulkfilepr/53764b38260f\n\nUpdate .github/workflows/build-go.yml",

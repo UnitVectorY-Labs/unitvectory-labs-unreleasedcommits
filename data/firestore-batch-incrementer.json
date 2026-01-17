@@ -6,6 +6,27 @@
   "latest_release_time": "2025-11-22T16:11:27Z",
   "unreleased_commits": [
     {
+      "sha": "1d53b57e835f24c635466cddcf5f81b62804fb88",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #68 from UnitVectorY-Labs/bulkfilepr/e2385084a07e\n\nUpdate .github/workflows/docker-build-dev.yml",
+      "timestamp": "2026-01-16T02:30:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/1d53b57e835f24c635466cddcf5f81b62804fb88"
+    },
+    {
+      "sha": "641189873c2bb895c4dee4e3977729007f0f2b79",
+      "author": "JaredHatfield",
+      "message": "Merge branch 'main' into bulkfilepr/e2385084a07e",
+      "timestamp": "2026-01-16T02:27:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/641189873c2bb895c4dee4e3977729007f0f2b79"
+    },
+    {
+      "sha": "36bde9ff89846f183c094f0eda893137fa6697e2",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/docker-build-dev.yml",
+      "timestamp": "2026-01-16T02:18:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/36bde9ff89846f183c094f0eda893137fa6697e2"
+    },
+    {
       "sha": "e8a07c847e62fa2d21ffe3e872f3170315a5592a",
       "author": "JaredHatfield",
       "message": "Merge pull request #67 from UnitVectorY-Labs/bulkfilepr/53764b38260f\n\nUpdate .github/workflows/build-go.yml",

@@ -6,6 +6,27 @@
   "latest_release_time": "2025-10-21T00:11:52Z",
   "unreleased_commits": [
     {
+      "sha": "a306f1710ebba6c656a4f1662c14d6562581e83e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #63 from UnitVectorY-Labs/bulkfilepr/e2385084a07e\n\nUpdate .github/workflows/docker-build-dev.yml",
+      "timestamp": "2026-01-16T02:33:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/a306f1710ebba6c656a4f1662c14d6562581e83e"
+    },
+    {
+      "sha": "525023454d24bc18f776881b85d5c869ae58293f",
+      "author": "JaredHatfield",
+      "message": "Merge branch 'main' into bulkfilepr/e2385084a07e",
+      "timestamp": "2026-01-16T02:29:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/525023454d24bc18f776881b85d5c869ae58293f"
+    },
+    {
+      "sha": "231633f00b64f8d1ced2d482259e98b539374ea3",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/docker-build-dev.yml",
+      "timestamp": "2026-01-16T02:19:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/231633f00b64f8d1ced2d482259e98b539374ea3"
+    },
+    {
       "sha": "e7983e72cdf600805ac2bc143aa4858206740ad8",
       "author": "JaredHatfield",
       "message": "Merge pull request #62 from UnitVectorY-Labs/bulkfilepr/53764b38260f\n\nUpdate .github/workflows/build-go.yml",
