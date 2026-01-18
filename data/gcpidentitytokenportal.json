@@ -6,6 +6,55 @@
   "latest_release_time": "2025-11-22T16:11:01Z",
   "unreleased_commits": [
     {
+      "sha": "b345b2b136c62c4e805bf7ee594fae5b6ec1847e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #102 from UnitVectorY-Labs/go-v1.25.6\n\nUpdate Go version to 1.25.6",
+      "timestamp": "2026-01-17T21:02:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/b345b2b136c62c4e805bf7ee594fae5b6ec1847e"
+    },
+    {
+      "sha": "d3ae3441c7e966e37e0b1364bfa30c2d109449f5",
+      "author": "JaredHatfield",
+      "message": "Merge branch 'main' into go-v1.25.6",
+      "timestamp": "2026-01-17T20:38:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/d3ae3441c7e966e37e0b1364bfa30c2d109449f5"
+    },
+    {
+      "sha": "d0a46da62e88e7a585be14e9e55bd1c97837c23a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #101 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.260.0\n\nBump google.golang.org/api from 0.259.0 to 0.260.0",
+      "timestamp": "2026-01-17T17:34:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/d0a46da62e88e7a585be14e9e55bd1c97837c23a"
+    },
+    {
+      "sha": "a983234acf8b7418a7653ee28e0a31453760c71f",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.6",
+      "timestamp": "2026-01-17T11:53:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/a983234acf8b7418a7653ee28e0a31453760c71f"
+    },
+    {
+      "sha": "bfa5195a6947144feee2139aeefd3d331e3e8c7c",
+      "author": "dependabot[bot]",
+      "message": "Bump google.golang.org/api from 0.259.0 to 0.260.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.259.0 to 0.260.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.259.0...v0.260.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.260.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-17T11:49:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/bfa5195a6947144feee2139aeefd3d331e3e8c7c"
+    },
+    {
+      "sha": "43b8d44ee3bbf16c6adffebbb1d66142f7346355",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #99 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.2\n\nBump actions/cache from 5.0.1 to 5.0.2",
+      "timestamp": "2026-01-17T11:45:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/43b8d44ee3bbf16c6adffebbb1d66142f7346355"
+    },
+    {
+      "sha": "234d7fcc9fc1db96036b99c4f8fc6ba2f0e039bc",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/cache from 5.0.1 to 5.0.2\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.1 to 5.0.2.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/9255dc7a253b0ccc959486e2bca901246202afeb...8b402f58fbc84540c8b491a91e594a4576fec3d7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 5.0.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-17T11:02:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/234d7fcc9fc1db96036b99c4f8fc6ba2f0e039bc"
+    },
+    {
       "sha": "b8d8e342348f58d77c4ec86ef5913d2cf273f236",
       "author": "JaredHatfield",
       "message": "Merge pull request #98 from UnitVectorY-Labs/bulkfilepr/e2385084a07e\n\nUpdate .github/workflows/docker-build-dev.yml",

@@ -6,6 +6,41 @@
   "latest_release_time": "2026-01-06T23:26:27Z",
   "unreleased_commits": [
     {
+      "sha": "ae59178a7f21025b1d2712f2496ce4f5180950a7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #12 from UnitVectorY-Labs/go-v1.25.6\n\nUpdate Go version to 1.25.6",
+      "timestamp": "2026-01-17T21:03:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/ae59178a7f21025b1d2712f2496ce4f5180950a7"
+    },
+    {
+      "sha": "0a4e252ed327a75ba1f44ef747ed845a467f332f",
+      "author": "JaredHatfield",
+      "message": "Merge branch 'main' into go-v1.25.6",
+      "timestamp": "2026-01-17T20:38:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/0a4e252ed327a75ba1f44ef747ed845a467f332f"
+    },
+    {
+      "sha": "44ed29031cba3f7a76ef623c4f590820e7b9cfd0",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.6",
+      "timestamp": "2026-01-17T11:55:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/44ed29031cba3f7a76ef623c4f590820e7b9cfd0"
+    },
+    {
+      "sha": "e2cf181dd57bcd170b6a43d2ee8e8c6f4b778f8d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #11 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.2\n\nBump actions/cache from 5.0.1 to 5.0.2",
+      "timestamp": "2026-01-17T11:46:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/e2cf181dd57bcd170b6a43d2ee8e8c6f4b778f8d"
+    },
+    {
+      "sha": "d3e4b69d735a0eb8b356b5c14b1409639ebef04d",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/cache from 5.0.1 to 5.0.2\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.1 to 5.0.2.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/9255dc7a253b0ccc959486e2bca901246202afeb...8b402f58fbc84540c8b491a91e594a4576fec3d7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 5.0.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-17T11:04:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/d3e4b69d735a0eb8b356b5c14b1409639ebef04d"
+    },
+    {
       "sha": "73441077a9a6a86bfd45be2d34313834de3f1764",
       "author": "JaredHatfield",
       "message": "Merge pull request #10 from UnitVectorY-Labs/bulkfilepr/53764b38260f\n\nUpdate .github/workflows/build-go.yml",

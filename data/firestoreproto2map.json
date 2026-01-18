@@ -6,6 +6,20 @@
   "latest_release_time": "2025-11-29T14:36:30Z",
   "unreleased_commits": [
     {
+      "sha": "e7733688b4d67940cbeabb853ff7ae683029a158",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #167 from UnitVectorY-Labs/dependabot/maven/com.google.cloud-google-cloud-firestore-3.35.0\n\nBump com.google.cloud:google-cloud-firestore from 3.34.0 to 3.35.0",
+      "timestamp": "2026-01-17T21:19:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/e7733688b4d67940cbeabb853ff7ae683029a158"
+    },
+    {
+      "sha": "ed43e3720619670b2417aa23385e02baef829cab",
+      "author": "dependabot[bot]",
+      "message": "Bump com.google.cloud:google-cloud-firestore from 3.34.0 to 3.35.0\n\nBumps [com.google.cloud:google-cloud-firestore](https://github.com/googleapis/java-firestore) from 3.34.0 to 3.35.0.\n- [Release notes](https://github.com/googleapis/java-firestore/releases)\n- [Changelog](https://github.com/googleapis/java-firestore/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/googleapis/java-firestore/compare/v3.34.0...v3.35.0)\n\n---\nupdated-dependencies:\n- dependency-name: com.google.cloud:google-cloud-firestore\n  dependency-version: 3.35.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-17T11:02:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/ed43e3720619670b2417aa23385e02baef829cab"
+    },
+    {
       "sha": "d567ca15ce74c7328832ce1c90697d2a3802f8f7",
       "author": "JaredHatfield",
       "message": "Update zizmor.yml",

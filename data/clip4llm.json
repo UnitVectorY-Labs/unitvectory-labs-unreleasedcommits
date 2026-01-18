@@ -6,6 +6,41 @@
   "latest_release_time": "2026-01-05T22:55:05Z",
   "unreleased_commits": [
     {
+      "sha": "dced60c37b1cc4663ac521424a9672604c91214d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #41 from UnitVectorY-Labs/go-v1.25.6\n\nUpdate Go version to 1.25.6",
+      "timestamp": "2026-01-17T21:01:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/dced60c37b1cc4663ac521424a9672604c91214d"
+    },
+    {
+      "sha": "5be0451ed07eae987a99ea53b61984a8d35fedf6",
+      "author": "JaredHatfield",
+      "message": "Merge branch 'main' into go-v1.25.6",
+      "timestamp": "2026-01-17T20:38:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/5be0451ed07eae987a99ea53b61984a8d35fedf6"
+    },
+    {
+      "sha": "2dbfe42a0f826bedc8e28f72f39a8a294d127032",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.6",
+      "timestamp": "2026-01-17T11:53:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/2dbfe42a0f826bedc8e28f72f39a8a294d127032"
+    },
+    {
+      "sha": "7a1b9565c4045d3b117665218d4ae6ec5ab04cf5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #40 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.2\n\nBump actions/cache from 5.0.1 to 5.0.2",
+      "timestamp": "2026-01-17T11:45:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/7a1b9565c4045d3b117665218d4ae6ec5ab04cf5"
+    },
+    {
+      "sha": "8f0d50254572085619808b463c583fbd0ac120cd",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/cache from 5.0.1 to 5.0.2\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.1 to 5.0.2.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/9255dc7a253b0ccc959486e2bca901246202afeb...8b402f58fbc84540c8b491a91e594a4576fec3d7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 5.0.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-17T11:02:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/8f0d50254572085619808b463c583fbd0ac120cd"
+    },
+    {
       "sha": "9498ca5d4c07c42e8df8abee15efe206be6447fb",
       "author": "JaredHatfield",
       "message": "Merge pull request #39 from UnitVectorY-Labs/bulkfilepr/53764b38260f\n\nUpdate .github/workflows/build-go.yml",

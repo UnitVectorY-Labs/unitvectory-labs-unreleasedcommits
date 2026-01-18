@@ -6,6 +6,41 @@
   "latest_release_time": "2025-10-21T00:11:52Z",
   "unreleased_commits": [
     {
+      "sha": "f43aced1b2f87ebec452f5c03e1b9b322df56c49",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #66 from UnitVectorY-Labs/go-v1.25.6\n\nUpdate Go version to 1.25.6",
+      "timestamp": "2026-01-17T21:01:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/f43aced1b2f87ebec452f5c03e1b9b322df56c49"
+    },
+    {
+      "sha": "07521500c67663b056a25006c4749648364e9dca",
+      "author": "JaredHatfield",
+      "message": "Merge branch 'main' into go-v1.25.6",
+      "timestamp": "2026-01-17T20:38:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/07521500c67663b056a25006c4749648364e9dca"
+    },
+    {
+      "sha": "c0da3049b839472c93dc37103492d5e96f86d825",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.6",
+      "timestamp": "2026-01-17T11:54:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/c0da3049b839472c93dc37103492d5e96f86d825"
+    },
+    {
+      "sha": "d0b8d84ee51e89e50bee033e3c0ed01a684a3e5d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #64 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.2\n\nBump actions/cache from 5.0.1 to 5.0.2",
+      "timestamp": "2026-01-17T11:46:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/d0b8d84ee51e89e50bee033e3c0ed01a684a3e5d"
+    },
+    {
+      "sha": "7c345455165cf7e27c1f99cd4937a5f70c6e7d09",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/cache from 5.0.1 to 5.0.2\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.1 to 5.0.2.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/9255dc7a253b0ccc959486e2bca901246202afeb...8b402f58fbc84540c8b491a91e594a4576fec3d7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 5.0.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-17T11:03:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/7c345455165cf7e27c1f99cd4937a5f70c6e7d09"
+    },
+    {
       "sha": "a306f1710ebba6c656a4f1662c14d6562581e83e",
       "author": "JaredHatfield",
       "message": "Merge pull request #63 from UnitVectorY-Labs/bulkfilepr/e2385084a07e\n\nUpdate .github/workflows/docker-build-dev.yml",

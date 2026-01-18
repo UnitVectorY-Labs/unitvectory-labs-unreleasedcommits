@@ -6,6 +6,69 @@
   "latest_release_time": "2025-11-22T16:11:27Z",
   "unreleased_commits": [
     {
+      "sha": "f8bf235ef633cb729825d731228ed1c8cd5f9a26",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #70 from UnitVectorY-Labs/dependabot/go_modules/cloud.google.com/go/firestore-1.21.0\n\nBump cloud.google.com/go/firestore from 1.20.0 to 1.21.0",
+      "timestamp": "2026-01-17T21:21:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/f8bf235ef633cb729825d731228ed1c8cd5f9a26"
+    },
+    {
+      "sha": "2b13193c86f9d521cdcdbce186f391518ad0d360",
+      "author": "dependabot[bot]",
+      "message": "Bump cloud.google.com/go/firestore from 1.20.0 to 1.21.0\n\nBumps [cloud.google.com/go/firestore](https://github.com/googleapis/google-cloud-go) from 1.20.0 to 1.21.0.\n- [Release notes](https://github.com/googleapis/google-cloud-go/releases)\n- [Changelog](https://github.com/googleapis/google-cloud-go/blob/main/documentai/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-cloud-go/compare/kms/v1.20.0...kms/v1.21.0)\n\n---\nupdated-dependencies:\n- dependency-name: cloud.google.com/go/firestore\n  dependency-version: 1.21.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-17T21:04:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/2b13193c86f9d521cdcdbce186f391518ad0d360"
+    },
+    {
+      "sha": "a4a59365e7c56e0ad1b1a694652d722fe50f2509",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #73 from UnitVectorY-Labs/go-v1.25.6\n\nUpdate Go version to 1.25.6",
+      "timestamp": "2026-01-17T21:02:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/a4a59365e7c56e0ad1b1a694652d722fe50f2509"
+    },
+    {
+      "sha": "f626e1872531fec2de02a3f7deefdb21703bd280",
+      "author": "JaredHatfield",
+      "message": "Merge branch 'main' into go-v1.25.6",
+      "timestamp": "2026-01-17T20:38:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/f626e1872531fec2de02a3f7deefdb21703bd280"
+    },
+    {
+      "sha": "72bf931fab2c64df714fb7c55277b4da2aa0dcd1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #71 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.260.0\n\nBump google.golang.org/api from 0.259.0 to 0.260.0",
+      "timestamp": "2026-01-17T17:34:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/72bf931fab2c64df714fb7c55277b4da2aa0dcd1"
+    },
+    {
+      "sha": "140a33da0eb76431878c9d72177695544ba69e78",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.6",
+      "timestamp": "2026-01-17T11:54:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/140a33da0eb76431878c9d72177695544ba69e78"
+    },
+    {
+      "sha": "5b7b62dfb9e6224023220bb69abe44cd91ec4a34",
+      "author": "dependabot[bot]",
+      "message": "Bump google.golang.org/api from 0.259.0 to 0.260.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.259.0 to 0.260.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.259.0...v0.260.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.260.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-17T11:49:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/5b7b62dfb9e6224023220bb69abe44cd91ec4a34"
+    },
+    {
+      "sha": "270551c25bf313413b807cd2e71b6856335745a7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #72 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.2\n\nBump actions/cache from 5.0.1 to 5.0.2",
+      "timestamp": "2026-01-17T11:47:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/270551c25bf313413b807cd2e71b6856335745a7"
+    },
+    {
+      "sha": "4f3e15d7a72d9a36ca972fccac2575019836da4a",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/cache from 5.0.1 to 5.0.2\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.1 to 5.0.2.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/9255dc7a253b0ccc959486e2bca901246202afeb...8b402f58fbc84540c8b491a91e594a4576fec3d7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 5.0.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-17T11:04:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/4f3e15d7a72d9a36ca972fccac2575019836da4a"
+    },
+    {
       "sha": "1d53b57e835f24c635466cddcf5f81b62804fb88",
       "author": "JaredHatfield",
       "message": "Merge pull request #68 from UnitVectorY-Labs/bulkfilepr/e2385084a07e\n\nUpdate .github/workflows/docker-build-dev.yml",
