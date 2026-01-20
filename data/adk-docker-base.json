@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-25T13:36:20Z",
   "unreleased_commits": [
     {
+      "sha": "6fa9e36c3294dda7276c32f569c7890572240715",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #38 from UnitVectorY-Labs/bulkfilepr/0db845d9db10\n\nUpdate .github/workflows/release-docker-ghcr.yml",
+      "timestamp": "2026-01-19T01:37:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/6fa9e36c3294dda7276c32f569c7890572240715"
+    },
+    {
+      "sha": "af5d3b654d3248b050bdf4daac4c7726b4cb65eb",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/release-docker-ghcr.yml",
+      "timestamp": "2026-01-19T01:22:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/af5d3b654d3248b050bdf4daac4c7726b4cb65eb"
+    },
+    {
       "sha": "300abf9a92945d53273b71612ef8813957953abe",
       "author": "JaredHatfield",
       "message": "Update GitHub Actions to use specific versions",

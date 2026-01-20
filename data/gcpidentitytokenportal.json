@@ -4,6 +4,21 @@
   "default_branch": "main",
   "latest_release_tag": "v0.5.0",
   "latest_release_time": "2026-01-18T02:43:27Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "9595cad96b99622648a5c3b174ed2890e4e8bad3",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #104 from UnitVectorY-Labs/bulkfilepr/0db845d9db10\n\nUpdate .github/workflows/release-docker-ghcr.yml",
+      "timestamp": "2026-01-19T01:37:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/9595cad96b99622648a5c3b174ed2890e4e8bad3"
+    },
+    {
+      "sha": "608ebbb71086395e5a07f4e93873a7d88e7e736c",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/release-docker-ghcr.yml",
+      "timestamp": "2026-01-19T01:22:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/608ebbb71086395e5a07f4e93873a7d88e7e736c"
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal"
 }

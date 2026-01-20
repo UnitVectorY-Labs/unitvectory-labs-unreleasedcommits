@@ -6,6 +6,34 @@
   "latest_release_time": "2025-11-22T16:02:58Z",
   "unreleased_commits": [
     {
+      "sha": "aee7e0c151d194a5f9951b4ee594c68a0ec39001",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #102 from UnitVectorY-Labs/dependabot/go_modules/cloud.google.com/go/kms-1.24.0\n\nBump cloud.google.com/go/kms from 1.23.2 to 1.24.0",
+      "timestamp": "2026-01-19T19:23:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/aee7e0c151d194a5f9951b4ee594c68a0ec39001"
+    },
+    {
+      "sha": "d07b39c0be8d64fe4cce8f764592fbfe9cab9c26",
+      "author": "dependabot[bot]",
+      "message": "Bump cloud.google.com/go/kms from 1.23.2 to 1.24.0\n\nBumps [cloud.google.com/go/kms](https://github.com/googleapis/google-cloud-go) from 1.23.2 to 1.24.0.\n- [Release notes](https://github.com/googleapis/google-cloud-go/releases)\n- [Changelog](https://github.com/googleapis/google-cloud-go/blob/main/documentai/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-cloud-go/compare/kms/v1.23.2...dlp/v1.24.0)\n\n---\nupdated-dependencies:\n- dependency-name: cloud.google.com/go/kms\n  dependency-version: 1.24.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-19T19:21:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/d07b39c0be8d64fe4cce8f764592fbfe9cab9c26"
+    },
+    {
+      "sha": "c6df1e5675a13b6efb5da1af2ca33fd106825931",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #106 from UnitVectorY-Labs/bulkfilepr/0db845d9db10\n\nUpdate .github/workflows/release-docker-ghcr.yml",
+      "timestamp": "2026-01-19T01:29:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/c6df1e5675a13b6efb5da1af2ca33fd106825931"
+    },
+    {
+      "sha": "a7c5751ba0c13d86cfb9a39d09a548a56c3ca99f",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/release-docker-ghcr.yml",
+      "timestamp": "2026-01-19T01:22:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/a7c5751ba0c13d86cfb9a39d09a548a56c3ca99f"
+    },
+    {
       "sha": "3eb7c6e69a8a14b06d32086751c97002e5af877b",
       "author": "JaredHatfield",
       "message": "Merge pull request #105 from UnitVectorY-Labs/go-v1.25.6\n\nUpdate Go version to 1.25.6",

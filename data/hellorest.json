@@ -6,6 +6,20 @@
   "latest_release_time": "2025-12-26T20:00:20Z",
   "unreleased_commits": [
     {
+      "sha": "5946369c674bce5bb632fac918d1912dce4020c5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #37 from UnitVectorY-Labs/bulkfilepr/0db845d9db10\n\nUpdate .github/workflows/release-docker-ghcr.yml",
+      "timestamp": "2026-01-19T01:28:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/5946369c674bce5bb632fac918d1912dce4020c5"
+    },
+    {
+      "sha": "91da79ec879ea5ac656ea24abdf0fa0ae8632e8f",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/release-docker-ghcr.yml",
+      "timestamp": "2026-01-19T01:21:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/91da79ec879ea5ac656ea24abdf0fa0ae8632e8f"
+    },
+    {
       "sha": "eb5365e78f6b1e309585e637ac67021fb1069ad7",
       "author": "JaredHatfield",
       "message": "Merge pull request #36 from UnitVectorY-Labs/go-v1.25.6\n\nUpdate Go version to 1.25.6",

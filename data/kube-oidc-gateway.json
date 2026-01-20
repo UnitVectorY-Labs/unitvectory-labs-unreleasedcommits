@@ -6,6 +6,13 @@
   "latest_release_time": "2026-01-13T00:03:59Z",
   "unreleased_commits": [
     {
+      "sha": "5fa5b1dcc5c462240c034a91878226f1f7365086",
+      "author": "JaredHatfield",
+      "message": "chore: update action versions in release workflow",
+      "timestamp": "2026-01-19T01:14:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/5fa5b1dcc5c462240c034a91878226f1f7365086"
+    },
+    {
       "sha": "fb8dc393bca02ec81246a2e73a837e19f474b246",
       "author": "JaredHatfield",
       "message": "Merge pull request #5 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.2\n\nBump actions/cache from 5.0.1 to 5.0.2",

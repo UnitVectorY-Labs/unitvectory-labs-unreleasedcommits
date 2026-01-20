@@ -6,6 +6,20 @@
   "latest_release_time": "2025-11-22T16:11:27Z",
   "unreleased_commits": [
     {
+      "sha": "d7348a0a4981f0e4aa6536ca408b9d98fbacb1d7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #74 from UnitVectorY-Labs/bulkfilepr/0db845d9db10\n\nUpdate .github/workflows/release-docker-ghcr.yml",
+      "timestamp": "2026-01-19T01:29:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/d7348a0a4981f0e4aa6536ca408b9d98fbacb1d7"
+    },
+    {
+      "sha": "4f1833c2d07ff9e4d5e69a08a4dda0b7e13baf86",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/release-docker-ghcr.yml",
+      "timestamp": "2026-01-19T01:22:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/4f1833c2d07ff9e4d5e69a08a4dda0b7e13baf86"
+    },
+    {
       "sha": "f8bf235ef633cb729825d731228ed1c8cd5f9a26",
       "author": "JaredHatfield",
       "message": "Merge pull request #70 from UnitVectorY-Labs/dependabot/go_modules/cloud.google.com/go/firestore-1.21.0\n\nBump cloud.google.com/go/firestore from 1.20.0 to 1.21.0",
