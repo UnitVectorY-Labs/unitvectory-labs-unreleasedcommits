@@ -6,6 +6,34 @@
   "latest_release_time": "2026-01-13T00:03:59Z",
   "unreleased_commits": [
     {
+      "sha": "610bb4e53e42d97da3a1f926c1e66951a3b0872e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #8 from UnitVectorY-Labs/bulkfilepr/850c7d578273\n\nUpdate .github/workflows/build-go.yml",
+      "timestamp": "2026-01-23T03:18:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/610bb4e53e42d97da3a1f926c1e66951a3b0872e"
+    },
+    {
+      "sha": "91e3919964b1b8c965aa19fabefbb1e872b8dbfb",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/build-go.yml",
+      "timestamp": "2026-01-23T02:48:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/91e3919964b1b8c965aa19fabefbb1e872b8dbfb"
+    },
+    {
+      "sha": "6a4446115fc269705b510ecbc1b7db665ae6566d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #7 from UnitVectorY-Labs/go-v1.25.6\n\nUpdate Go version to 1.25.6",
+      "timestamp": "2026-01-23T02:47:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/6a4446115fc269705b510ecbc1b7db665ae6566d"
+    },
+    {
+      "sha": "da00b2af8417920829c2aec92bde48620f907329",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.6",
+      "timestamp": "2026-01-23T02:36:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/da00b2af8417920829c2aec92bde48620f907329"
+    },
+    {
       "sha": "5fa5b1dcc5c462240c034a91878226f1f7365086",
       "author": "JaredHatfield",
       "message": "chore: update action versions in release workflow",

@@ -6,6 +6,20 @@
   "latest_release_time": "2025-11-22T16:02:58Z",
   "unreleased_commits": [
     {
+      "sha": "b27ced59b2322caac1cd7d646128a5f9ed16dd3d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #107 from UnitVectorY-Labs/bulkfilepr/850c7d578273\n\nUpdate .github/workflows/build-go.yml",
+      "timestamp": "2026-01-23T03:14:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/b27ced59b2322caac1cd7d646128a5f9ed16dd3d"
+    },
+    {
+      "sha": "82eccc989af791c1aeb8ddce6310c19f9f586470",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/build-go.yml",
+      "timestamp": "2026-01-23T02:45:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/82eccc989af791c1aeb8ddce6310c19f9f586470"
+    },
+    {
       "sha": "aee7e0c151d194a5f9951b4ee594c68a0ec39001",
       "author": "JaredHatfield",
       "message": "Merge pull request #102 from UnitVectorY-Labs/dependabot/go_modules/cloud.google.com/go/kms-1.24.0\n\nBump cloud.google.com/go/kms from 1.23.2 to 1.24.0",

@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-21T00:11:20Z",
   "unreleased_commits": [
     {
+      "sha": "3036788175825a369932af917c7d08c17ce79387",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #62 from UnitVectorY-Labs/bulkfilepr/850c7d578273\n\nUpdate .github/workflows/build-go.yml",
+      "timestamp": "2026-01-23T03:14:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/3036788175825a369932af917c7d08c17ce79387"
+    },
+    {
+      "sha": "88b0e46dcb922d62fe11f831ccb550e76d5e306c",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/build-go.yml",
+      "timestamp": "2026-01-23T02:46:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/88b0e46dcb922d62fe11f831ccb550e76d5e306c"
+    },
+    {
       "sha": "3c8c47618e7d2975e2be63e38233d8f7493323b4",
       "author": "JaredHatfield",
       "message": "Merge pull request #61 from UnitVectorY-Labs/bulkfilepr/0db845d9db10\n\nUpdate .github/workflows/release-docker-ghcr.yml",

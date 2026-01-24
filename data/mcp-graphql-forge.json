@@ -6,6 +6,20 @@
   "latest_release_time": "2025-12-17T03:12:52Z",
   "unreleased_commits": [
     {
+      "sha": "ca1668b338b7fe47b6ac72515e21e48a156c7cf8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #53 from UnitVectorY-Labs/bulkfilepr/850c7d578273\n\nUpdate .github/workflows/build-go.yml",
+      "timestamp": "2026-01-23T03:15:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/ca1668b338b7fe47b6ac72515e21e48a156c7cf8"
+    },
+    {
+      "sha": "85ddd5c61ea61d139c7ba9ae559f0d0c3d8b3f1d",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/build-go.yml",
+      "timestamp": "2026-01-23T02:45:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/85ddd5c61ea61d139c7ba9ae559f0d0c3d8b3f1d"
+    },
+    {
       "sha": "42452a3ff185b2370f61c1c2458ddbc8b9038659",
       "author": "JaredHatfield",
       "message": "Merge pull request #52 from UnitVectorY-Labs/go-v1.25.6\n\nUpdate Go version to 1.25.6",

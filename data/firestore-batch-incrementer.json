@@ -6,6 +6,20 @@
   "latest_release_time": "2025-11-22T16:11:27Z",
   "unreleased_commits": [
     {
+      "sha": "8fe6dee391cd6b1e80289bf4ffd52839d60d969a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #75 from UnitVectorY-Labs/bulkfilepr/850c7d578273\n\nUpdate .github/workflows/build-go.yml",
+      "timestamp": "2026-01-23T03:02:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/8fe6dee391cd6b1e80289bf4ffd52839d60d969a"
+    },
+    {
+      "sha": "98638b31966004f2950fecf0889222c985358873",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/build-go.yml",
+      "timestamp": "2026-01-23T02:45:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/98638b31966004f2950fecf0889222c985358873"
+    },
+    {
       "sha": "d7348a0a4981f0e4aa6536ca408b9d98fbacb1d7",
       "author": "JaredHatfield",
       "message": "Merge pull request #74 from UnitVectorY-Labs/bulkfilepr/0db845d9db10\n\nUpdate .github/workflows/release-docker-ghcr.yml",

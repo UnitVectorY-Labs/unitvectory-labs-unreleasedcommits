@@ -6,6 +6,20 @@
   "latest_release_time": "2026-01-18T02:43:27Z",
   "unreleased_commits": [
     {
+      "sha": "0d5a4860cc7b89f1f581027de659cb4465421533",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #105 from UnitVectorY-Labs/bulkfilepr/850c7d578273\n\nUpdate .github/workflows/build-go.yml",
+      "timestamp": "2026-01-23T03:14:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/0d5a4860cc7b89f1f581027de659cb4465421533"
+    },
+    {
+      "sha": "a8d495a87bbeef1802bda38e067b98eae08d8ec1",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/build-go.yml",
+      "timestamp": "2026-01-23T02:46:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/a8d495a87bbeef1802bda38e067b98eae08d8ec1"
+    },
+    {
       "sha": "9595cad96b99622648a5c3b174ed2890e4e8bad3",
       "author": "JaredHatfield",
       "message": "Merge pull request #104 from UnitVectorY-Labs/bulkfilepr/0db845d9db10\n\nUpdate .github/workflows/release-docker-ghcr.yml",

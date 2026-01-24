@@ -6,6 +6,20 @@
   "latest_release_time": "2025-11-29T18:36:20Z",
   "unreleased_commits": [
     {
+      "sha": "11335ada4a97e8b991846858df3e473f11d95309",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #41 from UnitVectorY-Labs/bulkfilepr/850c7d578273\n\nUpdate .github/workflows/build-go.yml",
+      "timestamp": "2026-01-23T03:15:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/11335ada4a97e8b991846858df3e473f11d95309"
+    },
+    {
+      "sha": "fcf0f64435e95138eb5d4f6672ee54dea3ceee63",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/build-go.yml",
+      "timestamp": "2026-01-23T02:46:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/fcf0f64435e95138eb5d4f6672ee54dea3ceee63"
+    },
+    {
       "sha": "98418ca98e21cc84a40629fdc56e06c58b4ec724",
       "author": "JaredHatfield",
       "message": "Merge pull request #40 from UnitVectorY-Labs/go-v1.25.6\n\nUpdate Go version to 1.25.6",
