@@ -6,6 +6,27 @@
   "latest_release_time": "2025-10-22T00:51:12Z",
   "unreleased_commits": [
     {
+      "sha": "a35e56d43ea35f02ffeaeb8475a4ee7b7852d9b2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #80 from UnitVectorY-Labs/just-the-docs-v0.12.0\n\nUpdate just-the-docs version to v0.12.0",
+      "timestamp": "2026-01-24T14:22:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/a35e56d43ea35f02ffeaeb8475a4ee7b7852d9b2"
+    },
+    {
+      "sha": "314ea14d4818a9c987e500f9666a47aac1a25952",
+      "author": "JaredHatfield",
+      "message": "Update just-the-docs version to v0.12.0",
+      "timestamp": "2026-01-24T14:17:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/314ea14d4818a9c987e500f9666a47aac1a25952"
+    },
+    {
+      "sha": "b18d530226a1cf4fa94597fbc4012e3000f9f204",
+      "author": "JaredHatfield",
+      "message": "Add .repver configuration for just-the-docs versioning",
+      "timestamp": "2026-01-24T13:30:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/b18d530226a1cf4fa94597fbc4012e3000f9f204"
+    },
+    {
       "sha": "c503a1e4894c26da327e264206c7e99eb91c25eb",
       "author": "JaredHatfield",
       "message": "Change runner for zizmor job to arc-runner-set",

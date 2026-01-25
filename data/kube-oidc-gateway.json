@@ -6,6 +6,34 @@
   "latest_release_time": "2026-01-13T00:03:59Z",
   "unreleased_commits": [
     {
+      "sha": "41995a7cd95937cb68d8547b03aa94233301a6ea",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #9 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-6.0.2\n\nchore(deps): bump actions/checkout from 6.0.1 to 6.0.2",
+      "timestamp": "2026-01-24T11:33:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/41995a7cd95937cb68d8547b03aa94233301a6ea"
+    },
+    {
+      "sha": "75608f003de055c4c7812fa18c3eef2f37bb2949",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/checkout from 6.0.1 to 6.0.2\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 6.0.1 to 6.0.2.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/8e8c483db84b4bee98b60c0593521ed34d9990e8...de0fac2e4500dabe0009e67214ff5f5447ce83dd)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: 6.0.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-24T11:31:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/75608f003de055c4c7812fa18c3eef2f37bb2949"
+    },
+    {
+      "sha": "def2781eee6fe4acb274e8417be47a8afda45109",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #10 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.31.11\n\nchore(deps): bump github/codeql-action from 4.31.10 to 4.31.11",
+      "timestamp": "2026-01-24T11:20:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/def2781eee6fe4acb274e8417be47a8afda45109"
+    },
+    {
+      "sha": "535c74988e935f703c295f8babab1726fa300a79",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action from 4.31.10 to 4.31.11\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.31.10 to 4.31.11.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/cdefb33c0f6224e58673d9004f47f7cb3e328b89...19b2f06db2b6f5108140aeb04014ef02b648f789)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.31.11\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-24T11:03:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/535c74988e935f703c295f8babab1726fa300a79"
+    },
+    {
       "sha": "610bb4e53e42d97da3a1f926c1e66951a3b0872e",
       "author": "JaredHatfield",
       "message": "Merge pull request #8 from UnitVectorY-Labs/bulkfilepr/850c7d578273\n\nUpdate .github/workflows/build-go.yml",

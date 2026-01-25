@@ -6,6 +6,20 @@
   "latest_release_time": "2025-11-29T14:36:30Z",
   "unreleased_commits": [
     {
+      "sha": "fd3615ef122748e99b60fdea852643b4b843633d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #168 from UnitVectorY-Labs/dependabot/maven/com.google.cloud-google-cloud-firestore-3.35.1\n\nBump com.google.cloud:google-cloud-firestore from 3.35.0 to 3.35.1",
+      "timestamp": "2026-01-24T11:45:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/fd3615ef122748e99b60fdea852643b4b843633d"
+    },
+    {
+      "sha": "8f1dbf7071d68c6267e8b15b45e287ff30064522",
+      "author": "dependabot[bot]",
+      "message": "Bump com.google.cloud:google-cloud-firestore from 3.35.0 to 3.35.1\n\nBumps [com.google.cloud:google-cloud-firestore](https://github.com/googleapis/java-firestore) from 3.35.0 to 3.35.1.\n- [Release notes](https://github.com/googleapis/java-firestore/releases)\n- [Changelog](https://github.com/googleapis/java-firestore/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/googleapis/java-firestore/compare/v3.35.0...v3.35.1)\n\n---\nupdated-dependencies:\n- dependency-name: com.google.cloud:google-cloud-firestore\n  dependency-version: 3.35.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-24T11:02:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/8f1dbf7071d68c6267e8b15b45e287ff30064522"
+    },
+    {
       "sha": "e7733688b4d67940cbeabb853ff7ae683029a158",
       "author": "JaredHatfield",
       "message": "Merge pull request #167 from UnitVectorY-Labs/dependabot/maven/com.google.cloud-google-cloud-firestore-3.35.0\n\nBump com.google.cloud:google-cloud-firestore from 3.34.0 to 3.35.0",

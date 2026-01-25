@@ -6,6 +6,27 @@
   "latest_release_time": "2025-11-22T16:12:01Z",
   "unreleased_commits": [
     {
+      "sha": "40e3cff98038c74533cdda6fcba5d64c3749eec1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #65 from UnitVectorY-Labs/just-the-docs-v0.12.0\n\nUpdate just-the-docs version to v0.12.0",
+      "timestamp": "2026-01-24T14:37:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/40e3cff98038c74533cdda6fcba5d64c3749eec1"
+    },
+    {
+      "sha": "4037f0d18487f55d6b2cbea97870b1d61528930d",
+      "author": "JaredHatfield",
+      "message": "Update just-the-docs version to v0.12.0",
+      "timestamp": "2026-01-24T14:17:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/4037f0d18487f55d6b2cbea97870b1d61528930d"
+    },
+    {
+      "sha": "7d36349d715e493aae5591b595145a28c90e2e5e",
+      "author": "JaredHatfield",
+      "message": "Add .repver configuration for just-the-docs versioning",
+      "timestamp": "2026-01-24T13:30:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/7d36349d715e493aae5591b595145a28c90e2e5e"
+    },
+    {
       "sha": "33d3310b84df5d510bd03b10f1e341ab2a0258cd",
       "author": "JaredHatfield",
       "message": "Update Codecov action version in build workflow",

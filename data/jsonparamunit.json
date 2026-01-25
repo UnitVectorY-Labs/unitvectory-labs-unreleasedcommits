@@ -6,6 +6,20 @@
   "latest_release_time": "2025-12-06T19:45:33Z",
   "unreleased_commits": [
     {
+      "sha": "74705bf92e3890bec90394948f3efc9c89bca442",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #132 from UnitVectorY-Labs/dependabot/maven/com.fasterxml.jackson.core-jackson-databind-2.21.0\n\nBump com.fasterxml.jackson.core:jackson-databind from 2.20.1 to 2.21.0",
+      "timestamp": "2026-01-24T11:45:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/74705bf92e3890bec90394948f3efc9c89bca442"
+    },
+    {
+      "sha": "f3e3d8dd83708935f818a675cbcbc76691b1b421",
+      "author": "dependabot[bot]",
+      "message": "Bump com.fasterxml.jackson.core:jackson-databind from 2.20.1 to 2.21.0\n\nBumps [com.fasterxml.jackson.core:jackson-databind](https://github.com/FasterXML/jackson) from 2.20.1 to 2.21.0.\n- [Commits](https://github.com/FasterXML/jackson/commits)\n\n---\nupdated-dependencies:\n- dependency-name: com.fasterxml.jackson.core:jackson-databind\n  dependency-version: 2.21.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-24T11:02:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/f3e3d8dd83708935f818a675cbcbc76691b1b421"
+    },
+    {
       "sha": "72607e48a43e18b385aabf5c2b2c72bb27b36ebe",
       "author": "JaredHatfield",
       "message": "Update GitHub Actions workflow for zizmor",
