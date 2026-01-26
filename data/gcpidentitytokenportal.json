@@ -6,6 +6,69 @@
   "latest_release_time": "2026-01-18T02:43:27Z",
   "unreleased_commits": [
     {
+      "sha": "2db53bdac68288da37d86474d6ad097c19cf8932",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #109 from UnitVectorY-Labs/copilot/add-version-string-exposure\n\nAdd versioning support and standard footer to web UI",
+      "timestamp": "2026-01-25T18:04:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/2db53bdac68288da37d86474d6ad097c19cf8932"
+    },
+    {
+      "sha": "436b3b3f5d1fbd29b067c6cbdcf999bbb0306660",
+      "author": "Copilot",
+      "message": "Use named template for consistency with ExecuteTemplate\n\nCo-authored-by: JaredHatfield \u003c208119+JaredHatfield@users.noreply.github.com\u003e",
+      "timestamp": "2026-01-25T15:19:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/436b3b3f5d1fbd29b067c6cbdcf999bbb0306660"
+    },
+    {
+      "sha": "94789eabc2fff83125754982d2c1a6192868ba73",
+      "author": "Copilot",
+      "message": "Add versioning support and standard footer to web UI\n\nCo-authored-by: JaredHatfield \u003c208119+JaredHatfield@users.noreply.github.com\u003e",
+      "timestamp": "2026-01-25T15:18:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/94789eabc2fff83125754982d2c1a6192868ba73"
+    },
+    {
+      "sha": "4bfe3f3c8a525fb1ea2a06f5fbeda66d83d95a67",
+      "author": "Copilot",
+      "message": "Initial plan",
+      "timestamp": "2026-01-25T15:13:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/4bfe3f3c8a525fb1ea2a06f5fbeda66d83d95a67"
+    },
+    {
+      "sha": "418c6a439b8dbe656be241f74f7b3c8ade96afbb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #108 from UnitVectorY-Labs/copilot/update-binary-dependencies\n\nEmbed templates into binary using Go embed package",
+      "timestamp": "2026-01-25T01:41:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/418c6a439b8dbe656be241f74f7b3c8ade96afbb"
+    },
+    {
+      "sha": "ff6835ff8cf201ba5491e65d3d3949c0686dda63",
+      "author": "Copilot",
+      "message": "Embed templates into binary using Go embed package\n\nCo-authored-by: JaredHatfield \u003c208119+JaredHatfield@users.noreply.github.com\u003e",
+      "timestamp": "2026-01-25T01:32:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/ff6835ff8cf201ba5491e65d3d3949c0686dda63"
+    },
+    {
+      "sha": "c69a60bde948830303823ee6ac3473b3f27c76a7",
+      "author": "Copilot",
+      "message": "Initial plan",
+      "timestamp": "2026-01-25T01:28:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/c69a60bde948830303823ee6ac3473b3f27c76a7"
+    },
+    {
+      "sha": "015b5d134988dfba911e9db62d433fbce943734d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #107 from UnitVectorY-Labs/distroless-debian13\n\nUpdate distroless base image from Debian 12 to Debian 13",
+      "timestamp": "2026-01-25T01:22:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/015b5d134988dfba911e9db62d433fbce943734d"
+    },
+    {
+      "sha": "b757971cef7f654af7a90ee768e47bc3e8e78dd4",
+      "author": "JaredHatfield",
+      "message": "Update distroless base image from Debian 12 to Debian 13",
+      "timestamp": "2026-01-25T01:17:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/b757971cef7f654af7a90ee768e47bc3e8e78dd4"
+    },
+    {
       "sha": "7661d17ed24a1804404fc62eb871e10826ab805d",
       "author": "JaredHatfield",
       "message": "Merge pull request #106 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.262.0\n\nBump google.golang.org/api from 0.260.0 to 0.262.0",

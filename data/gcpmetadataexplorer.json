@@ -6,6 +6,69 @@
   "latest_release_time": "2025-10-07T22:58:05Z",
   "unreleased_commits": [
     {
+      "sha": "dc698d2675b11cf91f25a21904a8e2ad8c0dd079",
+      "author": "JaredHatfield",
+      "message": "Add build argument for version injection\n\nAdded build argument for version injection to Dockerfile.",
+      "timestamp": "2026-01-25T19:11:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/dc698d2675b11cf91f25a21904a8e2ad8c0dd079"
+    },
+    {
+      "sha": "225b6acd21faf6772dad9c235240ff1a607c7bb3",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #41 from UnitVectorY-Labs/copilot/add-version-string-implementation\n\nAdd versioning and build standard for web application",
+      "timestamp": "2026-01-25T18:05:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/225b6acd21faf6772dad9c235240ff1a607c7bb3"
+    },
+    {
+      "sha": "942a2521838e9c3705105027bdab3566441a8be8",
+      "author": "Copilot",
+      "message": "Add versioning and build standard for web application\n\nCo-authored-by: JaredHatfield \u003c208119+JaredHatfield@users.noreply.github.com\u003e",
+      "timestamp": "2026-01-25T15:21:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/942a2521838e9c3705105027bdab3566441a8be8"
+    },
+    {
+      "sha": "20e938b0d8117f15c547f52a9d1ded351bd4c7d1",
+      "author": "Copilot",
+      "message": "Initial plan",
+      "timestamp": "2026-01-25T15:16:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/20e938b0d8117f15c547f52a9d1ded351bd4c7d1"
+    },
+    {
+      "sha": "58e09d56b60569a4026a31a6794b26c0de7d0541",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #40 from UnitVectorY-Labs/copilot/update-templates-and-static-files\n\nEmbed templates and static files into binary using go:embed",
+      "timestamp": "2026-01-25T01:41:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/58e09d56b60569a4026a31a6794b26c0de7d0541"
+    },
+    {
+      "sha": "6f6e07fd9e78ae75f82655c4ac2fa1892799355c",
+      "author": "Copilot",
+      "message": "Embed templates and static files into Go binary using embed package\n\nCo-authored-by: JaredHatfield \u003c208119+JaredHatfield@users.noreply.github.com\u003e",
+      "timestamp": "2026-01-25T01:30:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/6f6e07fd9e78ae75f82655c4ac2fa1892799355c"
+    },
+    {
+      "sha": "2be3ecfa5d21e17ab0e4c0bc9c1a16a1a85392d9",
+      "author": "Copilot",
+      "message": "Initial plan",
+      "timestamp": "2026-01-25T01:27:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/2be3ecfa5d21e17ab0e4c0bc9c1a16a1a85392d9"
+    },
+    {
+      "sha": "359a896b95eba8e9986d77421d1d7b88358f7d48",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #39 from UnitVectorY-Labs/distroless-debian13\n\nUpdate distroless base image from Debian 12 to Debian 13",
+      "timestamp": "2026-01-25T01:22:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/359a896b95eba8e9986d77421d1d7b88358f7d48"
+    },
+    {
+      "sha": "c1a0a39b850c87480554d67008cf533fbca2321c",
+      "author": "JaredHatfield",
+      "message": "Update distroless base image from Debian 12 to Debian 13",
+      "timestamp": "2026-01-25T01:17:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/c1a0a39b850c87480554d67008cf533fbca2321c"
+    },
+    {
       "sha": "0903d9943acd5143b3e76c06687bef68d50bc3b6",
       "author": "JaredHatfield",
       "message": "Merge pull request #38 from UnitVectorY-Labs/bulkfilepr/850c7d578273\n\nUpdate .github/workflows/build-go.yml",

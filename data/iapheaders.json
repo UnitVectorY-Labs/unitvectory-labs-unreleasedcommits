@@ -6,6 +6,62 @@
   "latest_release_time": "2025-11-22T16:00:36Z",
   "unreleased_commits": [
     {
+      "sha": "bf0c5437729601c5ec600c9551f031d4b3b2cfc8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #50 from UnitVectorY-Labs/copilot/add-versioning-build-standard\n\nAdd version display and build pipeline for version injection",
+      "timestamp": "2026-01-25T14:51:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/bf0c5437729601c5ec600c9551f031d4b3b2cfc8"
+    },
+    {
+      "sha": "5bb90dee2886643cd370163fa4f64be53fcf8972",
+      "author": "Copilot",
+      "message": "Add version display and build pipeline for version injection\n\nCo-authored-by: JaredHatfield \u003c208119+JaredHatfield@users.noreply.github.com\u003e",
+      "timestamp": "2026-01-25T14:30:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/5bb90dee2886643cd370163fa4f64be53fcf8972"
+    },
+    {
+      "sha": "f106bd4b1a5c753d567c6f9f7f39ffb5830178b3",
+      "author": "Copilot",
+      "message": "Initial plan",
+      "timestamp": "2026-01-25T14:25:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/f106bd4b1a5c753d567c6f9f7f39ffb5830178b3"
+    },
+    {
+      "sha": "4c2618ed023ea7ab44734e3c94580b3a5dc1ffea",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #49 from UnitVectorY-Labs/copilot/update-binary-dependencies\n\nEmbed static files and templates into binary using Go embed package",
+      "timestamp": "2026-01-25T01:41:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/4c2618ed023ea7ab44734e3c94580b3a5dc1ffea"
+    },
+    {
+      "sha": "ece2d95beaf38210f642c97d63850c41558e3e7a",
+      "author": "Copilot",
+      "message": "Embed static files and templates into binary using Go embed package\n\nCo-authored-by: JaredHatfield \u003c208119+JaredHatfield@users.noreply.github.com\u003e",
+      "timestamp": "2026-01-25T01:31:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/ece2d95beaf38210f642c97d63850c41558e3e7a"
+    },
+    {
+      "sha": "246159e118cbae799c5dcd202f1c9d5464448417",
+      "author": "Copilot",
+      "message": "Initial plan",
+      "timestamp": "2026-01-25T01:27:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/246159e118cbae799c5dcd202f1c9d5464448417"
+    },
+    {
+      "sha": "8fc280724d6198e1c8ebdc9e53379eb9902f330c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #48 from UnitVectorY-Labs/distroless-debian13\n\nUpdate distroless base image from Debian 12 to Debian 13",
+      "timestamp": "2026-01-25T01:22:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/8fc280724d6198e1c8ebdc9e53379eb9902f330c"
+    },
+    {
+      "sha": "8268baa16a2ad2e0d30a63f0907adc6aca47e3bb",
+      "author": "JaredHatfield",
+      "message": "Update distroless base image from Debian 12 to Debian 13",
+      "timestamp": "2026-01-25T01:17:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/8268baa16a2ad2e0d30a63f0907adc6aca47e3bb"
+    },
+    {
       "sha": "608aeac16eec19282ec2d8b4660c0af036b450a1",
       "author": "JaredHatfield",
       "message": "Merge pull request #47 from UnitVectorY-Labs/bulkfilepr/850c7d578273\n\nUpdate .github/workflows/build-go.yml",

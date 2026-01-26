@@ -6,6 +6,20 @@
   "latest_release_time": "2025-11-22T16:11:27Z",
   "unreleased_commits": [
     {
+      "sha": "39413c57df64728baeef2fc9a9a137573701a2b5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #77 from UnitVectorY-Labs/distroless-debian13\n\nUpdate distroless base image from Debian 12 to Debian 13",
+      "timestamp": "2026-01-25T01:22:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/39413c57df64728baeef2fc9a9a137573701a2b5"
+    },
+    {
+      "sha": "44b2a7df7da15be2b8634f88f4d656df8c553648",
+      "author": "JaredHatfield",
+      "message": "Update distroless base image from Debian 12 to Debian 13",
+      "timestamp": "2026-01-25T01:17:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/44b2a7df7da15be2b8634f88f4d656df8c553648"
+    },
+    {
       "sha": "13ab8b80de9715d4e8f66242ef0d3c494a478e2a",
       "author": "JaredHatfield",
       "message": "Merge pull request #76 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.262.0\n\nBump google.golang.org/api from 0.260.0 to 0.262.0",

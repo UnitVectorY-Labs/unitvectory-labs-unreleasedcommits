@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-21T00:11:20Z",
   "unreleased_commits": [
     {
+      "sha": "0f4d60facfe029acdeda6d9ba5dbf1d778e80a10",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #63 from UnitVectorY-Labs/distroless-debian13\n\nUpdate base image from Debian 12 to Debian 13Update distroless base i…",
+      "timestamp": "2026-01-25T01:22:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/0f4d60facfe029acdeda6d9ba5dbf1d778e80a10"
+    },
+    {
+      "sha": "b624af11b2a468d507c7c109959e042bcc461236",
+      "author": "JaredHatfield",
+      "message": "Update base image from Debian 12 to Debian 13Update distroless base image from Debian 12 to Debian 13",
+      "timestamp": "2026-01-25T01:17:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/b624af11b2a468d507c7c109959e042bcc461236"
+    },
+    {
       "sha": "3036788175825a369932af917c7d08c17ce79387",
       "author": "JaredHatfield",
       "message": "Merge pull request #62 from UnitVectorY-Labs/bulkfilepr/850c7d578273\n\nUpdate .github/workflows/build-go.yml",

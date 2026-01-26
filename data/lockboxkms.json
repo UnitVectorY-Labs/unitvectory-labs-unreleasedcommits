@@ -6,6 +6,90 @@
   "latest_release_time": "2025-11-22T16:02:58Z",
   "unreleased_commits": [
     {
+      "sha": "bdeb6ad6fd6b0f6bdbaec294af4c191e3aa3287c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #113 from UnitVectorY-Labs/copilot/update-environment-variable\n\nReplace GCP_PROJECT with GOOGLE_CLOUD_PROJECT",
+      "timestamp": "2026-01-25T18:21:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/bdeb6ad6fd6b0f6bdbaec294af4c191e3aa3287c"
+    },
+    {
+      "sha": "16301ac9d256e00579e9416c0a56690242ac3f45",
+      "author": "JaredHatfield",
+      "message": "Merge branch 'main' into copilot/update-environment-variable",
+      "timestamp": "2026-01-25T18:06:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/16301ac9d256e00579e9416c0a56690242ac3f45"
+    },
+    {
+      "sha": "df9922bd0ac7b6663b7c444ee2e6ea272bc96eac",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #112 from UnitVectorY-Labs/copilot/set-runtime-version-string\n\nImplement runtime version injection and footer display",
+      "timestamp": "2026-01-25T18:05:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/df9922bd0ac7b6663b7c444ee2e6ea272bc96eac"
+    },
+    {
+      "sha": "729c6f3ca7f5e5cdef5097bc5a93b0594c6fca6e",
+      "author": "Copilot",
+      "message": "Update environment variable from GCP_PROJECT to GOOGLE_CLOUD_PROJECT\n\nCo-authored-by: JaredHatfield \u003c208119+JaredHatfield@users.noreply.github.com\u003e",
+      "timestamp": "2026-01-25T17:40:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/729c6f3ca7f5e5cdef5097bc5a93b0594c6fca6e"
+    },
+    {
+      "sha": "8708f526b75255ebb631c5bfef27cddf5aee2d15",
+      "author": "Copilot",
+      "message": "Initial plan",
+      "timestamp": "2026-01-25T17:37:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/8708f526b75255ebb631c5bfef27cddf5aee2d15"
+    },
+    {
+      "sha": "be7bd9e6eb70466880052891cb4ee9c715622dd0",
+      "author": "Copilot",
+      "message": "feat: implement versioning and build standard with footer\n\n- Add Version variable in main.go with default \"dev\"\n- Add version template function for footer display\n- Log version at startup\n- Update Dockerfile with VERSION build arg and ldflags injection\n- Update docker-build-dev.yml to compute and pass VERSION\n- Update release-docker-ghcr.yml to pass VERSION from release tag\n- Add standard UnitVectorY-Labs footer with version display\n\nCo-authored-by: JaredHatfield \u003c208119+JaredHatfield@users.noreply.github.com\u003e",
+      "timestamp": "2026-01-25T15:33:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/be7bd9e6eb70466880052891cb4ee9c715622dd0"
+    },
+    {
+      "sha": "e4b3e9ddebdfb5e5b9160ca7a4e844a3f96a4d68",
+      "author": "Copilot",
+      "message": "Initial plan",
+      "timestamp": "2026-01-25T15:28:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/e4b3e9ddebdfb5e5b9160ca7a4e844a3f96a4d68"
+    },
+    {
+      "sha": "b4cba13542cbd748bc732756a7dc3fa9271cedc5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #111 from UnitVectorY-Labs/copilot/update-file-bundling-in-binary\n\nEmbed templates into binary using Go embed package",
+      "timestamp": "2026-01-25T01:41:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/b4cba13542cbd748bc732756a7dc3fa9271cedc5"
+    },
+    {
+      "sha": "25cb549201c989139e23c3d7081f3ba737214f50",
+      "author": "Copilot",
+      "message": "Embed templates into binary using Go embed package\n\nCo-authored-by: JaredHatfield \u003c208119+JaredHatfield@users.noreply.github.com\u003e",
+      "timestamp": "2026-01-25T01:30:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/25cb549201c989139e23c3d7081f3ba737214f50"
+    },
+    {
+      "sha": "d74d07f547fa2574debfd2eec8a73e0c78a6dec7",
+      "author": "Copilot",
+      "message": "Initial plan",
+      "timestamp": "2026-01-25T01:28:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/d74d07f547fa2574debfd2eec8a73e0c78a6dec7"
+    },
+    {
+      "sha": "7597478b9885c98b605fae678bb0e0b972f84b28",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #110 from UnitVectorY-Labs/distroless-debian13\n\nUpdate distroless base image from Debian 12 to Debian 13",
+      "timestamp": "2026-01-25T01:21:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/7597478b9885c98b605fae678bb0e0b972f84b28"
+    },
+    {
+      "sha": "cf380f111b68e1fb9a20a7d30f68f832346ffd11",
+      "author": "JaredHatfield",
+      "message": "Update distroless base image from Debian 12 to Debian 13",
+      "timestamp": "2026-01-25T01:17:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/cf380f111b68e1fb9a20a7d30f68f832346ffd11"
+    },
+    {
       "sha": "b3a1de05eee3ee54b95cc28e121044a4e863ebf3",
       "author": "JaredHatfield",
       "message": "Merge pull request #109 from UnitVectorY-Labs/dependabot/go_modules/cloud.google.com/go/kms-1.25.0\n\nBump cloud.google.com/go/kms from 1.24.0 to 1.25.0",

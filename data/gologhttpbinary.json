@@ -6,6 +6,20 @@
   "latest_release_time": "2025-10-14T01:35:46Z",
   "unreleased_commits": [
     {
+      "sha": "1ebbcbe8ae8755af0073c9a993c8167359a1ba51",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #37 from UnitVectorY-Labs/distroless-debian13\n\nUpdate distroless base image from Debian 12 to Debian 13",
+      "timestamp": "2026-01-25T01:22:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpbinary/commit/1ebbcbe8ae8755af0073c9a993c8167359a1ba51"
+    },
+    {
+      "sha": "446d4fc651d163f8eaee35d58579fc1dd8e97efc",
+      "author": "JaredHatfield",
+      "message": "Update distroless base image from Debian 12 to Debian 13",
+      "timestamp": "2026-01-25T01:17:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpbinary/commit/446d4fc651d163f8eaee35d58579fc1dd8e97efc"
+    },
+    {
       "sha": "b21afe1591765b3a2fff43ed0de6cb78456903a3",
       "author": "JaredHatfield",
       "message": "Merge pull request #36 from UnitVectorY-Labs/bulkfilepr/850c7d578273\n\nUpdate .github/workflows/build-go.yml",
