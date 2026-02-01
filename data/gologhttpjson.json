@@ -6,200 +6,292 @@
   "latest_release_time": "2025-10-14T01:36:17Z",
   "unreleased_commits": [
     {
+      "sha": "cb2786e17f377d990b2ef2672c2e4e5dce82edf2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #25 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-3.2.0\n\nBump actions/attest-build-provenance from 3.1.0 to 3.2.0",
+      "timestamp": "2026-01-31T12:59:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/cb2786e17f377d990b2ef2672c2e4e5dce82edf2",
+      "is_merge": true
+    },
+    {
+      "sha": "1c31ed390ea479f106d9a61cd4a7aa9b1c5c4f60",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #24 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-3.7.0\n\nBump docker/login-action from 3.6.0 to 3.7.0",
+      "timestamp": "2026-01-31T12:39:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/1c31ed390ea479f106d9a61cd4a7aa9b1c5c4f60",
+      "is_merge": true
+    },
+    {
+      "sha": "dc0561dfd54ee58ec4a67a9e1b456ffc8052b098",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #23 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.3\n\nBump actions/cache from 5.0.2 to 5.0.3",
+      "timestamp": "2026-01-31T12:38:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/dc0561dfd54ee58ec4a67a9e1b456ffc8052b098",
+      "is_merge": true
+    },
+    {
+      "sha": "7f7add94a4de28021d2ce82a2337543627d49711",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #26 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.2.1\n\nBump astral-sh/setup-uv from 7.2.0 to 7.2.1",
+      "timestamp": "2026-01-31T12:18:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/7f7add94a4de28021d2ce82a2337543627d49711",
+      "is_merge": true
+    },
+    {
+      "sha": "6bdd76018cf8ea3a8054c9043fbbc97250984802",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 7.2.0 to 7.2.1\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.2.0 to 7.2.1.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/61cb8a9741eeb8a550a1b8544337180c0fc8476b...803947b9bd8e9f986429fa0c5a41c367cd732b41)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.2.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-31T11:04:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/6bdd76018cf8ea3a8054c9043fbbc97250984802",
+      "is_merge": false
+    },
+    {
+      "sha": "f1e282ded0544ca96747efb1b9522ab6c66f72be",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/attest-build-provenance from 3.1.0 to 3.2.0\n\nBumps [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) from 3.1.0 to 3.2.0.\n- [Release notes](https://github.com/actions/attest-build-provenance/releases)\n- [Changelog](https://github.com/actions/attest-build-provenance/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest-build-provenance/compare/00014ed6ed5efc5b1ab7f7f34a39eb55d41aa4f8...96278af6caaf10aea03fd8d33a09a777ca52d62f)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest-build-provenance\n  dependency-version: 3.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-31T11:04:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/f1e282ded0544ca96747efb1b9522ab6c66f72be",
+      "is_merge": false
+    },
+    {
+      "sha": "014424293b18a4b749071ea43925eca5af333e28",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/login-action from 3.6.0 to 3.7.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 3.6.0 to 3.7.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/5e57cd118135c172c3672efd75eb46360885c0ef...c94ce9fb468520275223c153574b00df6fe4bcc9)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 3.7.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-31T11:04:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/014424293b18a4b749071ea43925eca5af333e28",
+      "is_merge": false
+    },
+    {
+      "sha": "48602430db8fe09dbcd66b19b09c1bd8be5d4ba3",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/cache from 5.0.2 to 5.0.3\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.2 to 5.0.3.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/8b402f58fbc84540c8b491a91e594a4576fec3d7...cdf6c1fa76f9f475f3d7449005a359c84ca0f306)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 5.0.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-31T11:04:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/48602430db8fe09dbcd66b19b09c1bd8be5d4ba3",
+      "is_merge": false
+    },
+    {
       "sha": "0c32ce313670043a9feca139f322e1932092a0cf",
       "author": "JaredHatfield",
       "message": "Merge pull request #22 from UnitVectorY-Labs/distroless-debian13\n\nUpdate distroless base image from Debian 12 to Debian 13",
       "timestamp": "2026-01-25T01:22:24Z",
-      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/0c32ce313670043a9feca139f322e1932092a0cf"
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/0c32ce313670043a9feca139f322e1932092a0cf",
+      "is_merge": true
     },
     {
       "sha": "83ef0d295df837c9026a9957f3d6a7e199a2404a",
       "author": "JaredHatfield",
       "message": "Update distroless base image from Debian 12 to Debian 13",
       "timestamp": "2026-01-25T01:17:19Z",
-      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/83ef0d295df837c9026a9957f3d6a7e199a2404a"
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/83ef0d295df837c9026a9957f3d6a7e199a2404a",
+      "is_merge": false
     },
     {
       "sha": "5620f362591bd0aa8af495b25f178dd30b812921",
       "author": "JaredHatfield",
       "message": "Merge pull request #21 from UnitVectorY-Labs/bulkfilepr/850c7d578273\n\nUpdate .github/workflows/build-go.yml",
       "timestamp": "2026-01-23T03:15:18Z",
-      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/5620f362591bd0aa8af495b25f178dd30b812921"
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/5620f362591bd0aa8af495b25f178dd30b812921",
+      "is_merge": true
     },
     {
       "sha": "3c104ef41296b2776d62dad1c64e68ce95bbefff",
       "author": "JaredHatfield",
       "message": "chore: update .github/workflows/build-go.yml",
       "timestamp": "2026-01-23T02:46:06Z",
-      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/3c104ef41296b2776d62dad1c64e68ce95bbefff"
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/3c104ef41296b2776d62dad1c64e68ce95bbefff",
+      "is_merge": false
     },
     {
       "sha": "8575cb353cd71f846654e66b532218e98e40d511",
       "author": "JaredHatfield",
       "message": "Merge pull request #20 from UnitVectorY-Labs/bulkfilepr/0db845d9db10\n\nUpdate .github/workflows/release-docker-ghcr.yml",
       "timestamp": "2026-01-19T01:37:53Z",
-      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/8575cb353cd71f846654e66b532218e98e40d511"
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/8575cb353cd71f846654e66b532218e98e40d511",
+      "is_merge": true
     },
     {
       "sha": "4aa4a59ee9114d63f85472eea8b1b57436880216",
       "author": "JaredHatfield",
       "message": "chore: update .github/workflows/release-docker-ghcr.yml",
       "timestamp": "2026-01-19T01:22:28Z",
-      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/4aa4a59ee9114d63f85472eea8b1b57436880216"
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/4aa4a59ee9114d63f85472eea8b1b57436880216",
+      "is_merge": false
     },
     {
       "sha": "c3fcc13b91dd308975de0be7082983ae9b873430",
       "author": "JaredHatfield",
       "message": "Merge pull request #19 from UnitVectorY-Labs/go-v1.25.6\n\nUpdate Go version to 1.25.6",
       "timestamp": "2026-01-17T21:03:12Z",
-      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/c3fcc13b91dd308975de0be7082983ae9b873430"
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/c3fcc13b91dd308975de0be7082983ae9b873430",
+      "is_merge": true
     },
     {
       "sha": "6555e58426053ef75eb56bdf8225403216439d24",
       "author": "JaredHatfield",
       "message": "Merge branch 'main' into go-v1.25.6",
       "timestamp": "2026-01-17T20:38:35Z",
-      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/6555e58426053ef75eb56bdf8225403216439d24"
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/6555e58426053ef75eb56bdf8225403216439d24",
+      "is_merge": true
     },
     {
       "sha": "e89ffcda8e5b71042764e4cd2d6fb2b6a121c053",
       "author": "JaredHatfield",
       "message": "Update Go version to 1.25.6",
       "timestamp": "2026-01-17T11:55:04Z",
-      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/e89ffcda8e5b71042764e4cd2d6fb2b6a121c053"
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/e89ffcda8e5b71042764e4cd2d6fb2b6a121c053",
+      "is_merge": false
     },
     {
       "sha": "641927d7929855eb5edb5b8d97d4ab6d21f895ff",
       "author": "JaredHatfield",
       "message": "Merge pull request #18 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.2\n\nBump actions/cache from 5.0.1 to 5.0.2",
       "timestamp": "2026-01-17T11:47:23Z",
-      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/641927d7929855eb5edb5b8d97d4ab6d21f895ff"
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/641927d7929855eb5edb5b8d97d4ab6d21f895ff",
+      "is_merge": true
     },
     {
       "sha": "24d7fb3652ef51f7ca6fd3e4777f8799ea1ab799",
       "author": "dependabot[bot]",
       "message": "Bump actions/cache from 5.0.1 to 5.0.2\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.1 to 5.0.2.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/9255dc7a253b0ccc959486e2bca901246202afeb...8b402f58fbc84540c8b491a91e594a4576fec3d7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 5.0.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-01-17T11:04:45Z",
-      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/24d7fb3652ef51f7ca6fd3e4777f8799ea1ab799"
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/24d7fb3652ef51f7ca6fd3e4777f8799ea1ab799",
+      "is_merge": false
     },
     {
       "sha": "1a8dbea044b7abf5237693c09c0e622be9b790ef",
       "author": "JaredHatfield",
       "message": "Merge pull request #16 from UnitVectorY-Labs/bulkfilepr/e2385084a07e\n\nUpdate .github/workflows/docker-build-dev.yml",
       "timestamp": "2026-01-16T02:29:03Z",
-      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/1a8dbea044b7abf5237693c09c0e622be9b790ef"
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/1a8dbea044b7abf5237693c09c0e622be9b790ef",
+      "is_merge": true
     },
     {
       "sha": "ca8f78f621b61984f46b77de54c4e9c7ea7ac286",
       "author": "JaredHatfield",
       "message": "chore: update .github/workflows/docker-build-dev.yml",
       "timestamp": "2026-01-16T02:19:32Z",
-      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/ca8f78f621b61984f46b77de54c4e9c7ea7ac286"
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/ca8f78f621b61984f46b77de54c4e9c7ea7ac286",
+      "is_merge": false
     },
     {
       "sha": "3588e2e4af1f6e9a1edf21c33da37bcb5e5f1851",
       "author": "JaredHatfield",
       "message": "Merge pull request #15 from UnitVectorY-Labs/bulkfilepr/53764b38260f\n\nUpdate .github/workflows/build-go.yml",
       "timestamp": "2026-01-15T04:16:08Z",
-      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/3588e2e4af1f6e9a1edf21c33da37bcb5e5f1851"
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/3588e2e4af1f6e9a1edf21c33da37bcb5e5f1851",
+      "is_merge": true
     },
     {
       "sha": "de069ab2812a58c523dc7a624bc3b627a91a57c8",
       "author": "JaredHatfield",
       "message": "chore: update .github/workflows/build-go.yml",
       "timestamp": "2026-01-15T03:47:54Z",
-      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/de069ab2812a58c523dc7a624bc3b627a91a57c8"
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/de069ab2812a58c523dc7a624bc3b627a91a57c8",
+      "is_merge": false
     },
     {
       "sha": "7219704818440115c226f011defe91a0302fb4f9",
       "author": "JaredHatfield",
       "message": "Update GitHub Actions workflow for zizmor",
       "timestamp": "2026-01-15T00:25:40Z",
-      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/7219704818440115c226f011defe91a0302fb4f9"
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/7219704818440115c226f011defe91a0302fb4f9",
+      "is_merge": false
     },
     {
       "sha": "4bb0ad6673f4cc902d8779e7321f368416059374",
       "author": "JaredHatfield",
       "message": "Change runner and action version in workflow",
       "timestamp": "2026-01-15T00:03:04Z",
-      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/4bb0ad6673f4cc902d8779e7321f368416059374"
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/4bb0ad6673f4cc902d8779e7321f368416059374",
+      "is_merge": false
     },
     {
       "sha": "9b74c4dc97e2b2ebd9977b810783a2faf6172056",
       "author": "JaredHatfield",
       "message": "Merge pull request #14 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5\n\nBump actions/cache from 4 to 5",
       "timestamp": "2025-12-13T11:24:41Z",
-      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/9b74c4dc97e2b2ebd9977b810783a2faf6172056"
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/9b74c4dc97e2b2ebd9977b810783a2faf6172056",
+      "is_merge": true
     },
     {
       "sha": "d725eddb647e08884371501b99042cda4d8507ef",
       "author": "dependabot[bot]",
       "message": "Bump actions/cache from 4 to 5\n\nBumps [actions/cache](https://github.com/actions/cache) from 4 to 5.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/v4...v5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: '5'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2025-12-13T11:06:39Z",
-      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/d725eddb647e08884371501b99042cda4d8507ef"
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/d725eddb647e08884371501b99042cda4d8507ef",
+      "is_merge": false
     },
     {
       "sha": "3daeea2d7e6e2d065ee736dea678f328f1d903bb",
       "author": "JaredHatfield",
       "message": "Merge pull request #13 from UnitVectorY-Labs/go-v1.25.5\n\nUpdate Go version to 1.25.5",
       "timestamp": "2025-12-06T14:51:08Z",
-      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/3daeea2d7e6e2d065ee736dea678f328f1d903bb"
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/3daeea2d7e6e2d065ee736dea678f328f1d903bb",
+      "is_merge": true
     },
     {
       "sha": "5b71179be3b89be8ca712f77c8afabb99edf64f5",
       "author": "JaredHatfield",
       "message": "Update Go version to 1.25.5",
       "timestamp": "2025-12-06T14:46:58Z",
-      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/5b71179be3b89be8ca712f77c8afabb99edf64f5"
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/5b71179be3b89be8ca712f77c8afabb99edf64f5",
+      "is_merge": false
     },
     {
       "sha": "0bdf04abf1971e65d29c097c92a33917ab368cc5",
       "author": "JaredHatfield",
       "message": "Fix badge image URL for license badge in README",
       "timestamp": "2025-11-30T23:54:22Z",
-      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/0bdf04abf1971e65d29c097c92a33917ab368cc5"
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/0bdf04abf1971e65d29c097c92a33917ab368cc5",
+      "is_merge": false
     },
     {
       "sha": "90621705c2454bc9148f4f908eb85d2b2f63a7ab",
       "author": "JaredHatfield",
       "message": "Merge pull request #11 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-6\n\nBump actions/checkout from 5 to 6",
       "timestamp": "2025-11-22T15:37:22Z",
-      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/90621705c2454bc9148f4f908eb85d2b2f63a7ab"
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/90621705c2454bc9148f4f908eb85d2b2f63a7ab",
+      "is_merge": true
     },
     {
       "sha": "543768aa5537ae12201551700fe616f3fbdf14f1",
       "author": "dependabot[bot]",
       "message": "Bump actions/checkout from 5 to 6\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 5 to 6.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/v5...v6)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '6'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2025-11-22T11:07:26Z",
-      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/543768aa5537ae12201551700fe616f3fbdf14f1"
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/543768aa5537ae12201551700fe616f3fbdf14f1",
+      "is_merge": false
     },
     {
       "sha": "c3eec292488d70f1ccd70036a4247dfc21765d26",
       "author": "JaredHatfield",
       "message": "Merge pull request #10 from UnitVectorY-Labs/go-v1.25.4\n\nUpdate Go version to 1.25.4",
       "timestamp": "2025-11-07T01:13:44Z",
-      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/c3eec292488d70f1ccd70036a4247dfc21765d26"
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/c3eec292488d70f1ccd70036a4247dfc21765d26",
+      "is_merge": true
     },
     {
       "sha": "27551b5a349a24582d5db32678e31c77219294f0",
       "author": "JaredHatfield",
       "message": "Update Go version to 1.25.4",
       "timestamp": "2025-11-07T01:07:09Z",
-      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/27551b5a349a24582d5db32678e31c77219294f0"
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/27551b5a349a24582d5db32678e31c77219294f0",
+      "is_merge": false
     },
     {
       "sha": "9c32a25ab852e7fb4c8d6f1a70a70c42b4fdccad",
       "author": "JaredHatfield",
       "message": "Merge pull request #9 from UnitVectorY-Labs/go-v1.25.3\n\nUpdate Go version to 1.25.3",
       "timestamp": "2025-10-17T01:41:59Z",
-      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/9c32a25ab852e7fb4c8d6f1a70a70c42b4fdccad"
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/9c32a25ab852e7fb4c8d6f1a70a70c42b4fdccad",
+      "is_merge": true
     },
     {
       "sha": "27d49d2ac587aac19a67078dfaa1a2b2657d5b74",
       "author": "JaredHatfield",
       "message": "Update Go version to 1.25.3",
       "timestamp": "2025-10-17T01:35:20Z",
-      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/27d49d2ac587aac19a67078dfaa1a2b2657d5b74"
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/27d49d2ac587aac19a67078dfaa1a2b2657d5b74",
+      "is_merge": false
     }
   ],
   "repository_url": "https://github.com/UnitVectorY-Labs/gologhttpjson"

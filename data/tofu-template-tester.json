@@ -6,158 +6,212 @@
   "latest_release_time": "2025-10-14T01:27:05Z",
   "unreleased_commits": [
     {
+      "sha": "6237a72ace1d6171860b590e1dad43a179d30e88",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #22 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.3\n\nBump actions/cache from 5.0.2 to 5.0.3",
+      "timestamp": "2026-01-31T12:57:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/6237a72ace1d6171860b590e1dad43a179d30e88",
+      "is_merge": true
+    },
+    {
+      "sha": "f45057a1e3391ae66f8b4c1fc21d567dd786d756",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/cache from 5.0.2 to 5.0.3\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.2 to 5.0.3.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/8b402f58fbc84540c8b491a91e594a4576fec3d7...cdf6c1fa76f9f475f3d7449005a359c84ca0f306)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 5.0.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-31T12:19:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/f45057a1e3391ae66f8b4c1fc21d567dd786d756",
+      "is_merge": false
+    },
+    {
+      "sha": "6f162b7189acca07dc5b1c58499ef9902e84f004",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #23 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.2.1\n\nBump astral-sh/setup-uv from 7.2.0 to 7.2.1",
+      "timestamp": "2026-01-31T12:18:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/6f162b7189acca07dc5b1c58499ef9902e84f004",
+      "is_merge": true
+    },
+    {
+      "sha": "aa8bc59629799c02b6e2b9e10e577c947af062f4",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 7.2.0 to 7.2.1\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.2.0 to 7.2.1.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/61cb8a9741eeb8a550a1b8544337180c0fc8476b...803947b9bd8e9f986429fa0c5a41c367cd732b41)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.2.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-31T11:03:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/aa8bc59629799c02b6e2b9e10e577c947af062f4",
+      "is_merge": false
+    },
+    {
       "sha": "33f7ff786dd12e8e7d4aea32f120709c0b565727",
       "author": "JaredHatfield",
       "message": "Merge pull request #21 from UnitVectorY-Labs/bulkfilepr/850c7d578273\n\nUpdate .github/workflows/build-go.yml",
       "timestamp": "2026-01-23T03:15:04Z",
-      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/33f7ff786dd12e8e7d4aea32f120709c0b565727"
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/33f7ff786dd12e8e7d4aea32f120709c0b565727",
+      "is_merge": true
     },
     {
       "sha": "aa56a701167b1f3e937bcac5c6c83c030ea3fcde",
       "author": "JaredHatfield",
       "message": "chore: update .github/workflows/build-go.yml",
       "timestamp": "2026-01-23T02:46:49Z",
-      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/aa56a701167b1f3e937bcac5c6c83c030ea3fcde"
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/aa56a701167b1f3e937bcac5c6c83c030ea3fcde",
+      "is_merge": false
     },
     {
       "sha": "38c781cbdcfe17f2766fc35141a9adee8d1e80c7",
       "author": "JaredHatfield",
       "message": "Merge pull request #20 from UnitVectorY-Labs/go-v1.25.6\n\nUpdate Go version to 1.25.6",
       "timestamp": "2026-01-17T21:02:50Z",
-      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/38c781cbdcfe17f2766fc35141a9adee8d1e80c7"
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/38c781cbdcfe17f2766fc35141a9adee8d1e80c7",
+      "is_merge": true
     },
     {
       "sha": "2ca34b6d1cc59ac19d8c86c8adbb911efe1d722b",
       "author": "JaredHatfield",
       "message": "Merge branch 'main' into go-v1.25.6",
       "timestamp": "2026-01-17T20:38:28Z",
-      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/2ca34b6d1cc59ac19d8c86c8adbb911efe1d722b"
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/2ca34b6d1cc59ac19d8c86c8adbb911efe1d722b",
+      "is_merge": true
     },
     {
       "sha": "71493b592c1ee425e68bba27919d27f8d6ed09ea",
       "author": "JaredHatfield",
       "message": "Update Go version to 1.25.6",
       "timestamp": "2026-01-17T11:54:41Z",
-      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/71493b592c1ee425e68bba27919d27f8d6ed09ea"
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/71493b592c1ee425e68bba27919d27f8d6ed09ea",
+      "is_merge": false
     },
     {
       "sha": "4409e3f3eb319676d3a471bc1c74fbb81e6f1267",
       "author": "JaredHatfield",
       "message": "Merge pull request #19 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.2\n\nBump actions/cache from 5.0.1 to 5.0.2",
       "timestamp": "2026-01-17T11:45:26Z",
-      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/4409e3f3eb319676d3a471bc1c74fbb81e6f1267"
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/4409e3f3eb319676d3a471bc1c74fbb81e6f1267",
+      "is_merge": true
     },
     {
       "sha": "0e67135f54f4e2aaf05ccce1a556fb2e41571ecd",
       "author": "dependabot[bot]",
       "message": "Bump actions/cache from 5.0.1 to 5.0.2\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.1 to 5.0.2.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/9255dc7a253b0ccc959486e2bca901246202afeb...8b402f58fbc84540c8b491a91e594a4576fec3d7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 5.0.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-01-17T11:02:58Z",
-      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/0e67135f54f4e2aaf05ccce1a556fb2e41571ecd"
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/0e67135f54f4e2aaf05ccce1a556fb2e41571ecd",
+      "is_merge": false
     },
     {
       "sha": "63bf4cbbbd94ff3ce05b1fbf095ab8a7646c09dd",
       "author": "JaredHatfield",
       "message": "Merge pull request #18 from UnitVectorY-Labs/bulkfilepr/53764b38260f\n\nUpdate .github/workflows/build-go.yml",
       "timestamp": "2026-01-15T04:24:59Z",
-      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/63bf4cbbbd94ff3ce05b1fbf095ab8a7646c09dd"
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/63bf4cbbbd94ff3ce05b1fbf095ab8a7646c09dd",
+      "is_merge": true
     },
     {
       "sha": "414b97edf698725b06fffbbaf638fcc5163a31da",
       "author": "JaredHatfield",
       "message": "chore: update .github/workflows/build-go.yml",
       "timestamp": "2026-01-15T03:52:02Z",
-      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/414b97edf698725b06fffbbaf638fcc5163a31da"
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/414b97edf698725b06fffbbaf638fcc5163a31da",
+      "is_merge": false
     },
     {
       "sha": "637251ee2cd94736696a513486fbb16663385607",
       "author": "JaredHatfield",
       "message": "Update GitHub Actions workflow for zizmor",
       "timestamp": "2026-01-15T00:33:53Z",
-      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/637251ee2cd94736696a513486fbb16663385607"
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/637251ee2cd94736696a513486fbb16663385607",
+      "is_merge": false
     },
     {
       "sha": "23b1ad0ff3311e2de7eb50abfc89a5eebf8276b2",
       "author": "JaredHatfield",
       "message": "Change runner and action version in workflow",
       "timestamp": "2026-01-15T00:07:58Z",
-      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/23b1ad0ff3311e2de7eb50abfc89a5eebf8276b2"
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/23b1ad0ff3311e2de7eb50abfc89a5eebf8276b2",
+      "is_merge": false
     },
     {
       "sha": "371fb74695e83d301a5b4f38fa57c15ccbfefff4",
       "author": "JaredHatfield",
       "message": "Merge pull request #17 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5\n\nBump actions/cache from 4 to 5",
       "timestamp": "2025-12-13T11:21:38Z",
-      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/371fb74695e83d301a5b4f38fa57c15ccbfefff4"
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/371fb74695e83d301a5b4f38fa57c15ccbfefff4",
+      "is_merge": true
     },
     {
       "sha": "cfc76572f61dd0a7c2d6d03de06ec080735ed1b0",
       "author": "dependabot[bot]",
       "message": "Bump actions/cache from 4 to 5\n\nBumps [actions/cache](https://github.com/actions/cache) from 4 to 5.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/v4...v5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: '5'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2025-12-13T11:05:38Z",
-      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/cfc76572f61dd0a7c2d6d03de06ec080735ed1b0"
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/cfc76572f61dd0a7c2d6d03de06ec080735ed1b0",
+      "is_merge": false
     },
     {
       "sha": "dbfddd58c3044fd62fc13e0db934f3edf7a8a6fb",
       "author": "JaredHatfield",
       "message": "Merge pull request #16 from UnitVectorY-Labs/go-v1.25.5\n\nUpdate Go version to 1.25.5",
       "timestamp": "2025-12-06T14:50:46Z",
-      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/dbfddd58c3044fd62fc13e0db934f3edf7a8a6fb"
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/dbfddd58c3044fd62fc13e0db934f3edf7a8a6fb",
+      "is_merge": true
     },
     {
       "sha": "82a6c162ca06eb963623df64b4670dfab243b345",
       "author": "JaredHatfield",
       "message": "Update Go version to 1.25.5",
       "timestamp": "2025-12-06T14:46:39Z",
-      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/82a6c162ca06eb963623df64b4670dfab243b345"
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/82a6c162ca06eb963623df64b4670dfab243b345",
+      "is_merge": false
     },
     {
       "sha": "4903beba96a5ef1812fa60fd2a77ca0a4ff69340",
       "author": "JaredHatfield",
       "message": "Fix badge image URL for license badge in README",
       "timestamp": "2025-11-30T23:52:40Z",
-      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/4903beba96a5ef1812fa60fd2a77ca0a4ff69340"
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/4903beba96a5ef1812fa60fd2a77ca0a4ff69340",
+      "is_merge": false
     },
     {
       "sha": "6d795d919f263e977ced17e431618b3706f4a753",
       "author": "JaredHatfield",
       "message": "Merge pull request #15 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-6\n\nBump actions/checkout from 5 to 6",
       "timestamp": "2025-11-22T15:36:42Z",
-      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/6d795d919f263e977ced17e431618b3706f4a753"
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/6d795d919f263e977ced17e431618b3706f4a753",
+      "is_merge": true
     },
     {
       "sha": "597f1711e64eaa2cfdf4e674454efd5270da3590",
       "author": "dependabot[bot]",
       "message": "Bump actions/checkout from 5 to 6\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 5 to 6.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/v5...v6)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '6'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2025-11-22T11:06:05Z",
-      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/597f1711e64eaa2cfdf4e674454efd5270da3590"
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/597f1711e64eaa2cfdf4e674454efd5270da3590",
+      "is_merge": false
     },
     {
       "sha": "ae98f391c6a46632a15d66a1a36a9e4e4c3c0976",
       "author": "JaredHatfield",
       "message": "Merge pull request #14 from UnitVectorY-Labs/go-v1.25.4\n\nUpdate Go version to 1.25.4",
       "timestamp": "2025-11-07T01:13:12Z",
-      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/ae98f391c6a46632a15d66a1a36a9e4e4c3c0976"
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/ae98f391c6a46632a15d66a1a36a9e4e4c3c0976",
+      "is_merge": true
     },
     {
       "sha": "ef2416f3b36ad4b35b567d91977ac6260f2c7e8e",
       "author": "JaredHatfield",
       "message": "Update Go version to 1.25.4",
       "timestamp": "2025-11-07T01:06:47Z",
-      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/ef2416f3b36ad4b35b567d91977ac6260f2c7e8e"
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/ef2416f3b36ad4b35b567d91977ac6260f2c7e8e",
+      "is_merge": false
     },
     {
       "sha": "517ff2fb638af0c2f1f3c4fcbd30b10a12e1f66d",
       "author": "JaredHatfield",
       "message": "Merge pull request #13 from UnitVectorY-Labs/go-v1.25.3\n\nUpdate Go version to 1.25.3",
       "timestamp": "2025-10-17T01:42:17Z",
-      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/517ff2fb638af0c2f1f3c4fcbd30b10a12e1f66d"
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/517ff2fb638af0c2f1f3c4fcbd30b10a12e1f66d",
+      "is_merge": true
     },
     {
       "sha": "33b47ad39807f4924a2a8f2394697376fdb74096",
       "author": "JaredHatfield",
       "message": "Update Go version to 1.25.3",
       "timestamp": "2025-10-17T01:34:55Z",
-      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/33b47ad39807f4924a2a8f2394697376fdb74096"
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/33b47ad39807f4924a2a8f2394697376fdb74096",
+      "is_merge": false
     }
   ],
   "repository_url": "https://github.com/UnitVectorY-Labs/tofu-template-tester"

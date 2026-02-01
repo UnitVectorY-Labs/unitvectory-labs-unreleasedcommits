@@ -6,109 +6,204 @@
   "latest_release_time": "2026-01-18T02:43:27Z",
   "unreleased_commits": [
     {
+      "sha": "8d1692da517bd1f0290c8c891f69c47a5074b6a0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #111 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-3.2.0\n\nBump actions/attest-build-provenance from 3.1.0 to 3.2.0",
+      "timestamp": "2026-01-31T14:10:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/8d1692da517bd1f0290c8c891f69c47a5074b6a0",
+      "is_merge": true
+    },
+    {
+      "sha": "a32c6407557e401f01a2bb06eca1e4c6d038c9ed",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/attest-build-provenance from 3.1.0 to 3.2.0\n\nBumps [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) from 3.1.0 to 3.2.0.\n- [Release notes](https://github.com/actions/attest-build-provenance/releases)\n- [Changelog](https://github.com/actions/attest-build-provenance/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest-build-provenance/compare/00014ed6ed5efc5b1ab7f7f34a39eb55d41aa4f8...96278af6caaf10aea03fd8d33a09a777ca52d62f)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest-build-provenance\n  dependency-version: 3.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-31T12:58:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/a32c6407557e401f01a2bb06eca1e4c6d038c9ed",
+      "is_merge": false
+    },
+    {
+      "sha": "521be091c3e24711073a620866c5a34be36356fb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #113 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-3.7.0\n\nBump docker/login-action from 3.6.0 to 3.7.0",
+      "timestamp": "2026-01-31T12:57:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/521be091c3e24711073a620866c5a34be36356fb",
+      "is_merge": true
+    },
+    {
+      "sha": "512167678a18a8d2151da1a047bf771f135f187b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #114 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.264.0\n\nBump google.golang.org/api from 0.262.0 to 0.264.0",
+      "timestamp": "2026-01-31T12:43:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/512167678a18a8d2151da1a047bf771f135f187b",
+      "is_merge": true
+    },
+    {
+      "sha": "9d211c98cf3edbb28e5a7ca09194c3364a169e0f",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/login-action from 3.6.0 to 3.7.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 3.6.0 to 3.7.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/5e57cd118135c172c3672efd75eb46360885c0ef...c94ce9fb468520275223c153574b00df6fe4bcc9)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 3.7.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-31T12:29:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/9d211c98cf3edbb28e5a7ca09194c3364a169e0f",
+      "is_merge": false
+    },
+    {
+      "sha": "982566881c6648a84684ba000eacce96d4a92cac",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #110 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.3\n\nBump actions/cache from 5.0.2 to 5.0.3",
+      "timestamp": "2026-01-31T12:28:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/982566881c6648a84684ba000eacce96d4a92cac",
+      "is_merge": true
+    },
+    {
+      "sha": "92c4af2119300c3fd8c078bde9450b2f14c2699c",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/cache from 5.0.2 to 5.0.3\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.2 to 5.0.3.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/8b402f58fbc84540c8b491a91e594a4576fec3d7...cdf6c1fa76f9f475f3d7449005a359c84ca0f306)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 5.0.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-31T12:18:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/92c4af2119300c3fd8c078bde9450b2f14c2699c",
+      "is_merge": false
+    },
+    {
+      "sha": "bebc8ff5808caec07fab4a4063425e778117e170",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #112 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.2.1\n\nBump astral-sh/setup-uv from 7.2.0 to 7.2.1",
+      "timestamp": "2026-01-31T12:17:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/bebc8ff5808caec07fab4a4063425e778117e170",
+      "is_merge": true
+    },
+    {
+      "sha": "4003cb56f602b14223ea9d40aeab62519c018a60",
+      "author": "dependabot[bot]",
+      "message": "Bump google.golang.org/api from 0.262.0 to 0.264.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.262.0 to 0.264.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.262.0...v0.264.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.264.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-31T11:06:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/4003cb56f602b14223ea9d40aeab62519c018a60",
+      "is_merge": false
+    },
+    {
+      "sha": "1688ce5f1c6b4a053302d99dff2cbf24798bf7f7",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 7.2.0 to 7.2.1\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.2.0 to 7.2.1.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/61cb8a9741eeb8a550a1b8544337180c0fc8476b...803947b9bd8e9f986429fa0c5a41c367cd732b41)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.2.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-31T11:04:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/1688ce5f1c6b4a053302d99dff2cbf24798bf7f7",
+      "is_merge": false
+    },
+    {
       "sha": "2db53bdac68288da37d86474d6ad097c19cf8932",
       "author": "JaredHatfield",
       "message": "Merge pull request #109 from UnitVectorY-Labs/copilot/add-version-string-exposure\n\nAdd versioning support and standard footer to web UI",
       "timestamp": "2026-01-25T18:04:47Z",
-      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/2db53bdac68288da37d86474d6ad097c19cf8932"
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/2db53bdac68288da37d86474d6ad097c19cf8932",
+      "is_merge": true
     },
     {
       "sha": "436b3b3f5d1fbd29b067c6cbdcf999bbb0306660",
       "author": "Copilot",
       "message": "Use named template for consistency with ExecuteTemplate\n\nCo-authored-by: JaredHatfield \u003c208119+JaredHatfield@users.noreply.github.com\u003e",
       "timestamp": "2026-01-25T15:19:23Z",
-      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/436b3b3f5d1fbd29b067c6cbdcf999bbb0306660"
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/436b3b3f5d1fbd29b067c6cbdcf999bbb0306660",
+      "is_merge": false
     },
     {
       "sha": "94789eabc2fff83125754982d2c1a6192868ba73",
       "author": "Copilot",
       "message": "Add versioning support and standard footer to web UI\n\nCo-authored-by: JaredHatfield \u003c208119+JaredHatfield@users.noreply.github.com\u003e",
       "timestamp": "2026-01-25T15:18:03Z",
-      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/94789eabc2fff83125754982d2c1a6192868ba73"
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/94789eabc2fff83125754982d2c1a6192868ba73",
+      "is_merge": false
     },
     {
       "sha": "4bfe3f3c8a525fb1ea2a06f5fbeda66d83d95a67",
       "author": "Copilot",
       "message": "Initial plan",
       "timestamp": "2026-01-25T15:13:27Z",
-      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/4bfe3f3c8a525fb1ea2a06f5fbeda66d83d95a67"
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/4bfe3f3c8a525fb1ea2a06f5fbeda66d83d95a67",
+      "is_merge": false
     },
     {
       "sha": "418c6a439b8dbe656be241f74f7b3c8ade96afbb",
       "author": "JaredHatfield",
       "message": "Merge pull request #108 from UnitVectorY-Labs/copilot/update-binary-dependencies\n\nEmbed templates into binary using Go embed package",
       "timestamp": "2026-01-25T01:41:34Z",
-      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/418c6a439b8dbe656be241f74f7b3c8ade96afbb"
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/418c6a439b8dbe656be241f74f7b3c8ade96afbb",
+      "is_merge": true
     },
     {
       "sha": "ff6835ff8cf201ba5491e65d3d3949c0686dda63",
       "author": "Copilot",
       "message": "Embed templates into binary using Go embed package\n\nCo-authored-by: JaredHatfield \u003c208119+JaredHatfield@users.noreply.github.com\u003e",
       "timestamp": "2026-01-25T01:32:01Z",
-      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/ff6835ff8cf201ba5491e65d3d3949c0686dda63"
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/ff6835ff8cf201ba5491e65d3d3949c0686dda63",
+      "is_merge": false
     },
     {
       "sha": "c69a60bde948830303823ee6ac3473b3f27c76a7",
       "author": "Copilot",
       "message": "Initial plan",
       "timestamp": "2026-01-25T01:28:32Z",
-      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/c69a60bde948830303823ee6ac3473b3f27c76a7"
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/c69a60bde948830303823ee6ac3473b3f27c76a7",
+      "is_merge": false
     },
     {
       "sha": "015b5d134988dfba911e9db62d433fbce943734d",
       "author": "JaredHatfield",
       "message": "Merge pull request #107 from UnitVectorY-Labs/distroless-debian13\n\nUpdate distroless base image from Debian 12 to Debian 13",
       "timestamp": "2026-01-25T01:22:04Z",
-      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/015b5d134988dfba911e9db62d433fbce943734d"
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/015b5d134988dfba911e9db62d433fbce943734d",
+      "is_merge": true
     },
     {
       "sha": "b757971cef7f654af7a90ee768e47bc3e8e78dd4",
       "author": "JaredHatfield",
       "message": "Update distroless base image from Debian 12 to Debian 13",
       "timestamp": "2026-01-25T01:17:26Z",
-      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/b757971cef7f654af7a90ee768e47bc3e8e78dd4"
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/b757971cef7f654af7a90ee768e47bc3e8e78dd4",
+      "is_merge": false
     },
     {
       "sha": "7661d17ed24a1804404fc62eb871e10826ab805d",
       "author": "JaredHatfield",
       "message": "Merge pull request #106 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.262.0\n\nBump google.golang.org/api from 0.260.0 to 0.262.0",
       "timestamp": "2026-01-24T11:22:05Z",
-      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/7661d17ed24a1804404fc62eb871e10826ab805d"
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/7661d17ed24a1804404fc62eb871e10826ab805d",
+      "is_merge": true
     },
     {
       "sha": "f4bb77b9ad528d883d34d0300a8cd33ddebfbd88",
       "author": "dependabot[bot]",
       "message": "Bump google.golang.org/api from 0.260.0 to 0.262.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.260.0 to 0.262.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.260.0...v0.262.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.262.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-01-24T11:03:05Z",
-      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/f4bb77b9ad528d883d34d0300a8cd33ddebfbd88"
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/f4bb77b9ad528d883d34d0300a8cd33ddebfbd88",
+      "is_merge": false
     },
     {
       "sha": "0d5a4860cc7b89f1f581027de659cb4465421533",
       "author": "JaredHatfield",
       "message": "Merge pull request #105 from UnitVectorY-Labs/bulkfilepr/850c7d578273\n\nUpdate .github/workflows/build-go.yml",
       "timestamp": "2026-01-23T03:14:34Z",
-      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/0d5a4860cc7b89f1f581027de659cb4465421533"
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/0d5a4860cc7b89f1f581027de659cb4465421533",
+      "is_merge": true
     },
     {
       "sha": "a8d495a87bbeef1802bda38e067b98eae08d8ec1",
       "author": "JaredHatfield",
       "message": "chore: update .github/workflows/build-go.yml",
       "timestamp": "2026-01-23T02:46:40Z",
-      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/a8d495a87bbeef1802bda38e067b98eae08d8ec1"
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/a8d495a87bbeef1802bda38e067b98eae08d8ec1",
+      "is_merge": false
     },
     {
       "sha": "9595cad96b99622648a5c3b174ed2890e4e8bad3",
       "author": "JaredHatfield",
       "message": "Merge pull request #104 from UnitVectorY-Labs/bulkfilepr/0db845d9db10\n\nUpdate .github/workflows/release-docker-ghcr.yml",
       "timestamp": "2026-01-19T01:37:28Z",
-      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/9595cad96b99622648a5c3b174ed2890e4e8bad3"
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/9595cad96b99622648a5c3b174ed2890e4e8bad3",
+      "is_merge": true
     },
     {
       "sha": "608ebbb71086395e5a07f4e93873a7d88e7e736c",
       "author": "JaredHatfield",
       "message": "chore: update .github/workflows/release-docker-ghcr.yml",
       "timestamp": "2026-01-19T01:22:41Z",
-      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/608ebbb71086395e5a07f4e93873a7d88e7e736c"
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/608ebbb71086395e5a07f4e93873a7d88e7e736c",
+      "is_merge": false
     }
   ],
   "repository_url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal"

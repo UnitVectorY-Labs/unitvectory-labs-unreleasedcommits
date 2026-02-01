@@ -6,130 +6,236 @@
   "latest_release_time": "2026-01-13T00:03:59Z",
   "unreleased_commits": [
     {
+      "sha": "b3a368f8101965953e1d25f6ba390647c867ca90",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #15 from UnitVectorY-Labs/copilot/improve-readme-documentation\n\nImprove README.md: remove broken links and inline essential documentation",
+      "timestamp": "2026-01-31T22:45:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/b3a368f8101965953e1d25f6ba390647c867ca90",
+      "is_merge": true
+    },
+    {
+      "sha": "88532ac1c28e2d1460ccca22ab4182e970fa0681",
+      "author": "Copilot",
+      "message": "Improve README.md documentation and remove references to non-existent files\n\nCo-authored-by: JaredHatfield \u003c208119+JaredHatfield@users.noreply.github.com\u003e",
+      "timestamp": "2026-01-31T22:27:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/88532ac1c28e2d1460ccca22ab4182e970fa0681",
+      "is_merge": false
+    },
+    {
+      "sha": "e1453a2f6b713521c2face84874897839ddc0f43",
+      "author": "Copilot",
+      "message": "Initial plan",
+      "timestamp": "2026-01-31T22:24:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/e1453a2f6b713521c2face84874897839ddc0f43",
+      "is_merge": false
+    },
+    {
+      "sha": "0d203bf23c225ad99c40a40d06f398b6573e2eb0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #14 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.32.0\n\nchore(deps): bump github/codeql-action from 4.31.11 to 4.32.0",
+      "timestamp": "2026-01-31T12:41:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/0d203bf23c225ad99c40a40d06f398b6573e2eb0",
+      "is_merge": true
+    },
+    {
+      "sha": "e1ef643aa92e352b3e46e74e1deef26842b38e02",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #12 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-3.7.0\n\nchore(deps): bump docker/login-action from 3.6.0 to 3.7.0",
+      "timestamp": "2026-01-31T12:39:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/e1ef643aa92e352b3e46e74e1deef26842b38e02",
+      "is_merge": true
+    },
+    {
+      "sha": "1ed220a2a47664f7304fb0cad3719d4a60831fc3",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #13 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.3\n\nchore(deps): bump actions/cache from 5.0.2 to 5.0.3",
+      "timestamp": "2026-01-31T12:38:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/1ed220a2a47664f7304fb0cad3719d4a60831fc3",
+      "is_merge": true
+    },
+    {
+      "sha": "a2c33fe7b9698cf7b6bb6553dec43a313c30983c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #11 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.2.1\n\nchore(deps): bump astral-sh/setup-uv from 7.2.0 to 7.2.1",
+      "timestamp": "2026-01-31T12:18:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/a2c33fe7b9698cf7b6bb6553dec43a313c30983c",
+      "is_merge": true
+    },
+    {
+      "sha": "4a3acaddcb3ef431ab8c5660c20e06f9ab9420d8",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action from 4.31.11 to 4.32.0\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.31.11 to 4.32.0.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/19b2f06db2b6f5108140aeb04014ef02b648f789...b20883b0cd1f46c72ae0ba6d1090936928f9fa30)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.32.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-31T11:06:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/4a3acaddcb3ef431ab8c5660c20e06f9ab9420d8",
+      "is_merge": false
+    },
+    {
+      "sha": "debaa6f8b3e9e601c1336cdf74f97c71ca986880",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/cache from 5.0.2 to 5.0.3\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.2 to 5.0.3.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/8b402f58fbc84540c8b491a91e594a4576fec3d7...cdf6c1fa76f9f475f3d7449005a359c84ca0f306)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 5.0.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-31T11:04:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/debaa6f8b3e9e601c1336cdf74f97c71ca986880",
+      "is_merge": false
+    },
+    {
+      "sha": "9889aa8d2e55fc24789c2f717129372b0ce2f424",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/login-action from 3.6.0 to 3.7.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 3.6.0 to 3.7.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/5e57cd118135c172c3672efd75eb46360885c0ef...c94ce9fb468520275223c153574b00df6fe4bcc9)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 3.7.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-31T11:04:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/9889aa8d2e55fc24789c2f717129372b0ce2f424",
+      "is_merge": false
+    },
+    {
+      "sha": "3bf10b711d409c78f6aa2983e77921926974a2b6",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 7.2.0 to 7.2.1\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.2.0 to 7.2.1.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/61cb8a9741eeb8a550a1b8544337180c0fc8476b...803947b9bd8e9f986429fa0c5a41c367cd732b41)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.2.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-31T11:04:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/3bf10b711d409c78f6aa2983e77921926974a2b6",
+      "is_merge": false
+    },
+    {
       "sha": "41995a7cd95937cb68d8547b03aa94233301a6ea",
       "author": "JaredHatfield",
       "message": "Merge pull request #9 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-6.0.2\n\nchore(deps): bump actions/checkout from 6.0.1 to 6.0.2",
       "timestamp": "2026-01-24T11:33:15Z",
-      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/41995a7cd95937cb68d8547b03aa94233301a6ea"
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/41995a7cd95937cb68d8547b03aa94233301a6ea",
+      "is_merge": true
     },
     {
       "sha": "75608f003de055c4c7812fa18c3eef2f37bb2949",
       "author": "dependabot[bot]",
       "message": "chore(deps): bump actions/checkout from 6.0.1 to 6.0.2\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 6.0.1 to 6.0.2.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/8e8c483db84b4bee98b60c0593521ed34d9990e8...de0fac2e4500dabe0009e67214ff5f5447ce83dd)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: 6.0.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-01-24T11:31:11Z",
-      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/75608f003de055c4c7812fa18c3eef2f37bb2949"
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/75608f003de055c4c7812fa18c3eef2f37bb2949",
+      "is_merge": false
     },
     {
       "sha": "def2781eee6fe4acb274e8417be47a8afda45109",
       "author": "JaredHatfield",
       "message": "Merge pull request #10 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.31.11\n\nchore(deps): bump github/codeql-action from 4.31.10 to 4.31.11",
       "timestamp": "2026-01-24T11:20:00Z",
-      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/def2781eee6fe4acb274e8417be47a8afda45109"
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/def2781eee6fe4acb274e8417be47a8afda45109",
+      "is_merge": true
     },
     {
       "sha": "535c74988e935f703c295f8babab1726fa300a79",
       "author": "dependabot[bot]",
       "message": "chore(deps): bump github/codeql-action from 4.31.10 to 4.31.11\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.31.10 to 4.31.11.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/cdefb33c0f6224e58673d9004f47f7cb3e328b89...19b2f06db2b6f5108140aeb04014ef02b648f789)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.31.11\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-01-24T11:03:50Z",
-      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/535c74988e935f703c295f8babab1726fa300a79"
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/535c74988e935f703c295f8babab1726fa300a79",
+      "is_merge": false
     },
     {
       "sha": "610bb4e53e42d97da3a1f926c1e66951a3b0872e",
       "author": "JaredHatfield",
       "message": "Merge pull request #8 from UnitVectorY-Labs/bulkfilepr/850c7d578273\n\nUpdate .github/workflows/build-go.yml",
       "timestamp": "2026-01-23T03:18:53Z",
-      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/610bb4e53e42d97da3a1f926c1e66951a3b0872e"
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/610bb4e53e42d97da3a1f926c1e66951a3b0872e",
+      "is_merge": true
     },
     {
       "sha": "91e3919964b1b8c965aa19fabefbb1e872b8dbfb",
       "author": "JaredHatfield",
       "message": "chore: update .github/workflows/build-go.yml",
       "timestamp": "2026-01-23T02:48:47Z",
-      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/91e3919964b1b8c965aa19fabefbb1e872b8dbfb"
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/91e3919964b1b8c965aa19fabefbb1e872b8dbfb",
+      "is_merge": false
     },
     {
       "sha": "6a4446115fc269705b510ecbc1b7db665ae6566d",
       "author": "JaredHatfield",
       "message": "Merge pull request #7 from UnitVectorY-Labs/go-v1.25.6\n\nUpdate Go version to 1.25.6",
       "timestamp": "2026-01-23T02:47:59Z",
-      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/6a4446115fc269705b510ecbc1b7db665ae6566d"
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/6a4446115fc269705b510ecbc1b7db665ae6566d",
+      "is_merge": true
     },
     {
       "sha": "da00b2af8417920829c2aec92bde48620f907329",
       "author": "JaredHatfield",
       "message": "Update Go version to 1.25.6",
       "timestamp": "2026-01-23T02:36:10Z",
-      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/da00b2af8417920829c2aec92bde48620f907329"
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/da00b2af8417920829c2aec92bde48620f907329",
+      "is_merge": false
     },
     {
       "sha": "5fa5b1dcc5c462240c034a91878226f1f7365086",
       "author": "JaredHatfield",
       "message": "chore: update action versions in release workflow",
       "timestamp": "2026-01-19T01:14:32Z",
-      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/5fa5b1dcc5c462240c034a91878226f1f7365086"
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/5fa5b1dcc5c462240c034a91878226f1f7365086",
+      "is_merge": false
     },
     {
       "sha": "fb8dc393bca02ec81246a2e73a837e19f474b246",
       "author": "JaredHatfield",
       "message": "Merge pull request #5 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.2\n\nBump actions/cache from 5.0.1 to 5.0.2",
       "timestamp": "2026-01-17T11:45:54Z",
-      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/fb8dc393bca02ec81246a2e73a837e19f474b246"
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/fb8dc393bca02ec81246a2e73a837e19f474b246",
+      "is_merge": true
     },
     {
       "sha": "3adb1ce74d78ea8d7e4ba8b2b5a0a897a43b7d71",
       "author": "dependabot[bot]",
       "message": "Bump actions/cache from 5.0.1 to 5.0.2\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.1 to 5.0.2.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/9255dc7a253b0ccc959486e2bca901246202afeb...8b402f58fbc84540c8b491a91e594a4576fec3d7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 5.0.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-01-17T11:04:22Z",
-      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/3adb1ce74d78ea8d7e4ba8b2b5a0a897a43b7d71"
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/3adb1ce74d78ea8d7e4ba8b2b5a0a897a43b7d71",
+      "is_merge": false
     },
     {
       "sha": "4075e2beff61e1bad6a2530a4fcd4ca8124aeef0",
       "author": "JaredHatfield",
       "message": "Merge pull request #4 from UnitVectorY-Labs/bulkfilepr/e2385084a07e\n\nUpdate .github/workflows/docker-build-dev.yml",
       "timestamp": "2026-01-16T02:28:19Z",
-      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/4075e2beff61e1bad6a2530a4fcd4ca8124aeef0"
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/4075e2beff61e1bad6a2530a4fcd4ca8124aeef0",
+      "is_merge": true
     },
     {
       "sha": "e4dd79461b1e0d5cff0efb65edb364ab738e5c28",
       "author": "JaredHatfield",
       "message": "chore: update .github/workflows/docker-build-dev.yml",
       "timestamp": "2026-01-16T02:19:03Z",
-      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/e4dd79461b1e0d5cff0efb65edb364ab738e5c28"
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/e4dd79461b1e0d5cff0efb65edb364ab738e5c28",
+      "is_merge": false
     },
     {
       "sha": "5a2a7273c75a9aadb1ae6b88b3ef360b2c28a994",
       "author": "JaredHatfield",
       "message": "Merge pull request #3 from UnitVectorY-Labs/bulkfilepr/53764b38260f\n\nUpdate .github/workflows/build-go.yml",
       "timestamp": "2026-01-15T04:24:19Z",
-      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/5a2a7273c75a9aadb1ae6b88b3ef360b2c28a994"
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/5a2a7273c75a9aadb1ae6b88b3ef360b2c28a994",
+      "is_merge": true
     },
     {
       "sha": "9a169cd3f7f005b68991c85915e7ea56a3adc836",
       "author": "JaredHatfield",
       "message": "chore: update .github/workflows/build-go.yml",
       "timestamp": "2026-01-15T03:51:21Z",
-      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/9a169cd3f7f005b68991c85915e7ea56a3adc836"
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/9a169cd3f7f005b68991c85915e7ea56a3adc836",
+      "is_merge": false
     },
     {
       "sha": "4ede7a037bb40dda97926af07f2f3ac3b2bec7a1",
       "author": "JaredHatfield",
       "message": "Update GitHub Actions workflow for zizmor",
       "timestamp": "2026-01-15T01:46:31Z",
-      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/4ede7a037bb40dda97926af07f2f3ac3b2bec7a1"
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/4ede7a037bb40dda97926af07f2f3ac3b2bec7a1",
+      "is_merge": false
     },
     {
       "sha": "75d29135ec02d10ec3ca40623cb6ea583a969e20",
       "author": "JaredHatfield",
       "message": "Change runner and action version in workflow",
       "timestamp": "2026-01-15T01:46:04Z",
-      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/75d29135ec02d10ec3ca40623cb6ea583a969e20"
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/75d29135ec02d10ec3ca40623cb6ea583a969e20",
+      "is_merge": false
     },
     {
       "sha": "3b17c3b1b7010d9b28ad9a285bb50846ed2be1b7",
       "author": "JaredHatfield",
       "message": "Add badges for release, license, and status",
       "timestamp": "2026-01-13T00:08:41Z",
-      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/3b17c3b1b7010d9b28ad9a285bb50846ed2be1b7"
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/3b17c3b1b7010d9b28ad9a285bb50846ed2be1b7",
+      "is_merge": false
     }
   ],
   "repository_url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway"

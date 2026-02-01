@@ -6,263 +6,364 @@
   "latest_release_time": "2025-11-22T16:11:27Z",
   "unreleased_commits": [
     {
+      "sha": "21d76ebc71db9c9aea1a534a357f6f2e44fc921b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #78 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-3.2.0\n\nBump actions/attest-build-provenance from 3.1.0 to 3.2.0",
+      "timestamp": "2026-01-31T14:10:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/21d76ebc71db9c9aea1a534a357f6f2e44fc921b",
+      "is_merge": true
+    },
+    {
+      "sha": "3bd81ac43ae44bd68722db9901d203188fde1d03",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/attest-build-provenance from 3.1.0 to 3.2.0\n\nBumps [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) from 3.1.0 to 3.2.0.\n- [Release notes](https://github.com/actions/attest-build-provenance/releases)\n- [Changelog](https://github.com/actions/attest-build-provenance/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest-build-provenance/compare/00014ed6ed5efc5b1ab7f7f34a39eb55d41aa4f8...96278af6caaf10aea03fd8d33a09a777ca52d62f)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest-build-provenance\n  dependency-version: 3.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-31T12:58:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/3bd81ac43ae44bd68722db9901d203188fde1d03",
+      "is_merge": false
+    },
+    {
+      "sha": "e41eb5c8cc2e1cbc27098ee7fb1486fe32ea9bfb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #80 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-3.7.0\n\nBump docker/login-action from 3.6.0 to 3.7.0",
+      "timestamp": "2026-01-31T12:58:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/e41eb5c8cc2e1cbc27098ee7fb1486fe32ea9bfb",
+      "is_merge": true
+    },
+    {
+      "sha": "a1e05d7fb4eb2ed1b43122b7c7347960f453a3a0",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/login-action from 3.6.0 to 3.7.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 3.6.0 to 3.7.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/5e57cd118135c172c3672efd75eb46360885c0ef...c94ce9fb468520275223c153574b00df6fe4bcc9)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 3.7.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-31T12:39:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/a1e05d7fb4eb2ed1b43122b7c7347960f453a3a0",
+      "is_merge": false
+    },
+    {
+      "sha": "c222a3e17588c634badfc6801b81741ad8abf827",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #81 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.3\n\nBump actions/cache from 5.0.2 to 5.0.3",
+      "timestamp": "2026-01-31T12:38:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/c222a3e17588c634badfc6801b81741ad8abf827",
+      "is_merge": true
+    },
+    {
+      "sha": "39d5b18c10082a28d5dc728a1e7287dc02db3e88",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/cache from 5.0.2 to 5.0.3\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.2 to 5.0.3.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/8b402f58fbc84540c8b491a91e594a4576fec3d7...cdf6c1fa76f9f475f3d7449005a359c84ca0f306)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 5.0.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-31T12:19:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/39d5b18c10082a28d5dc728a1e7287dc02db3e88",
+      "is_merge": false
+    },
+    {
+      "sha": "cbe5605396a1c91292ff93fcd8cc3de511a477a1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #79 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.2.1\n\nBump astral-sh/setup-uv from 7.2.0 to 7.2.1",
+      "timestamp": "2026-01-31T12:18:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/cbe5605396a1c91292ff93fcd8cc3de511a477a1",
+      "is_merge": true
+    },
+    {
+      "sha": "044210b392c61cff9463983670002ea206820eb2",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 7.2.0 to 7.2.1\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.2.0 to 7.2.1.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/61cb8a9741eeb8a550a1b8544337180c0fc8476b...803947b9bd8e9f986429fa0c5a41c367cd732b41)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.2.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-31T11:04:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/044210b392c61cff9463983670002ea206820eb2",
+      "is_merge": false
+    },
+    {
       "sha": "39413c57df64728baeef2fc9a9a137573701a2b5",
       "author": "JaredHatfield",
       "message": "Merge pull request #77 from UnitVectorY-Labs/distroless-debian13\n\nUpdate distroless base image from Debian 12 to Debian 13",
       "timestamp": "2026-01-25T01:22:20Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/39413c57df64728baeef2fc9a9a137573701a2b5"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/39413c57df64728baeef2fc9a9a137573701a2b5",
+      "is_merge": true
     },
     {
       "sha": "44b2a7df7da15be2b8634f88f4d656df8c553648",
       "author": "JaredHatfield",
       "message": "Update distroless base image from Debian 12 to Debian 13",
       "timestamp": "2026-01-25T01:17:20Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/44b2a7df7da15be2b8634f88f4d656df8c553648"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/44b2a7df7da15be2b8634f88f4d656df8c553648",
+      "is_merge": false
     },
     {
       "sha": "13ab8b80de9715d4e8f66242ef0d3c494a478e2a",
       "author": "JaredHatfield",
       "message": "Merge pull request #76 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.262.0\n\nBump google.golang.org/api from 0.260.0 to 0.262.0",
       "timestamp": "2026-01-24T11:22:14Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/13ab8b80de9715d4e8f66242ef0d3c494a478e2a"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/13ab8b80de9715d4e8f66242ef0d3c494a478e2a",
+      "is_merge": true
     },
     {
       "sha": "6a70fe2f4778f36b0ca4de54c126c9a3192d3738",
       "author": "dependabot[bot]",
       "message": "Bump google.golang.org/api from 0.260.0 to 0.262.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.260.0 to 0.262.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.260.0...v0.262.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.262.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-01-24T11:04:07Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/6a70fe2f4778f36b0ca4de54c126c9a3192d3738"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/6a70fe2f4778f36b0ca4de54c126c9a3192d3738",
+      "is_merge": false
     },
     {
       "sha": "8fe6dee391cd6b1e80289bf4ffd52839d60d969a",
       "author": "JaredHatfield",
       "message": "Merge pull request #75 from UnitVectorY-Labs/bulkfilepr/850c7d578273\n\nUpdate .github/workflows/build-go.yml",
       "timestamp": "2026-01-23T03:02:56Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/8fe6dee391cd6b1e80289bf4ffd52839d60d969a"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/8fe6dee391cd6b1e80289bf4ffd52839d60d969a",
+      "is_merge": true
     },
     {
       "sha": "98638b31966004f2950fecf0889222c985358873",
       "author": "JaredHatfield",
       "message": "chore: update .github/workflows/build-go.yml",
       "timestamp": "2026-01-23T02:45:34Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/98638b31966004f2950fecf0889222c985358873"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/98638b31966004f2950fecf0889222c985358873",
+      "is_merge": false
     },
     {
       "sha": "d7348a0a4981f0e4aa6536ca408b9d98fbacb1d7",
       "author": "JaredHatfield",
       "message": "Merge pull request #74 from UnitVectorY-Labs/bulkfilepr/0db845d9db10\n\nUpdate .github/workflows/release-docker-ghcr.yml",
       "timestamp": "2026-01-19T01:29:02Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/d7348a0a4981f0e4aa6536ca408b9d98fbacb1d7"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/d7348a0a4981f0e4aa6536ca408b9d98fbacb1d7",
+      "is_merge": true
     },
     {
       "sha": "4f1833c2d07ff9e4d5e69a08a4dda0b7e13baf86",
       "author": "JaredHatfield",
       "message": "chore: update .github/workflows/release-docker-ghcr.yml",
       "timestamp": "2026-01-19T01:22:00Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/4f1833c2d07ff9e4d5e69a08a4dda0b7e13baf86"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/4f1833c2d07ff9e4d5e69a08a4dda0b7e13baf86",
+      "is_merge": false
     },
     {
       "sha": "f8bf235ef633cb729825d731228ed1c8cd5f9a26",
       "author": "JaredHatfield",
       "message": "Merge pull request #70 from UnitVectorY-Labs/dependabot/go_modules/cloud.google.com/go/firestore-1.21.0\n\nBump cloud.google.com/go/firestore from 1.20.0 to 1.21.0",
       "timestamp": "2026-01-17T21:21:29Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/f8bf235ef633cb729825d731228ed1c8cd5f9a26"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/f8bf235ef633cb729825d731228ed1c8cd5f9a26",
+      "is_merge": true
     },
     {
       "sha": "2b13193c86f9d521cdcdbce186f391518ad0d360",
       "author": "dependabot[bot]",
       "message": "Bump cloud.google.com/go/firestore from 1.20.0 to 1.21.0\n\nBumps [cloud.google.com/go/firestore](https://github.com/googleapis/google-cloud-go) from 1.20.0 to 1.21.0.\n- [Release notes](https://github.com/googleapis/google-cloud-go/releases)\n- [Changelog](https://github.com/googleapis/google-cloud-go/blob/main/documentai/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-cloud-go/compare/kms/v1.20.0...kms/v1.21.0)\n\n---\nupdated-dependencies:\n- dependency-name: cloud.google.com/go/firestore\n  dependency-version: 1.21.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-01-17T21:04:22Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/2b13193c86f9d521cdcdbce186f391518ad0d360"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/2b13193c86f9d521cdcdbce186f391518ad0d360",
+      "is_merge": false
     },
     {
       "sha": "a4a59365e7c56e0ad1b1a694652d722fe50f2509",
       "author": "JaredHatfield",
       "message": "Merge pull request #73 from UnitVectorY-Labs/go-v1.25.6\n\nUpdate Go version to 1.25.6",
       "timestamp": "2026-01-17T21:02:43Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/a4a59365e7c56e0ad1b1a694652d722fe50f2509"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/a4a59365e7c56e0ad1b1a694652d722fe50f2509",
+      "is_merge": true
     },
     {
       "sha": "f626e1872531fec2de02a3f7deefdb21703bd280",
       "author": "JaredHatfield",
       "message": "Merge branch 'main' into go-v1.25.6",
       "timestamp": "2026-01-17T20:38:25Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/f626e1872531fec2de02a3f7deefdb21703bd280"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/f626e1872531fec2de02a3f7deefdb21703bd280",
+      "is_merge": true
     },
     {
       "sha": "72bf931fab2c64df714fb7c55277b4da2aa0dcd1",
       "author": "JaredHatfield",
       "message": "Merge pull request #71 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.260.0\n\nBump google.golang.org/api from 0.259.0 to 0.260.0",
       "timestamp": "2026-01-17T17:34:49Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/72bf931fab2c64df714fb7c55277b4da2aa0dcd1"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/72bf931fab2c64df714fb7c55277b4da2aa0dcd1",
+      "is_merge": true
     },
     {
       "sha": "140a33da0eb76431878c9d72177695544ba69e78",
       "author": "JaredHatfield",
       "message": "Update Go version to 1.25.6",
       "timestamp": "2026-01-17T11:54:21Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/140a33da0eb76431878c9d72177695544ba69e78"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/140a33da0eb76431878c9d72177695544ba69e78",
+      "is_merge": false
     },
     {
       "sha": "5b7b62dfb9e6224023220bb69abe44cd91ec4a34",
       "author": "dependabot[bot]",
       "message": "Bump google.golang.org/api from 0.259.0 to 0.260.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.259.0 to 0.260.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.259.0...v0.260.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.260.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-01-17T11:49:33Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/5b7b62dfb9e6224023220bb69abe44cd91ec4a34"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/5b7b62dfb9e6224023220bb69abe44cd91ec4a34",
+      "is_merge": false
     },
     {
       "sha": "270551c25bf313413b807cd2e71b6856335745a7",
       "author": "JaredHatfield",
       "message": "Merge pull request #72 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.2\n\nBump actions/cache from 5.0.1 to 5.0.2",
       "timestamp": "2026-01-17T11:47:17Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/270551c25bf313413b807cd2e71b6856335745a7"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/270551c25bf313413b807cd2e71b6856335745a7",
+      "is_merge": true
     },
     {
       "sha": "4f3e15d7a72d9a36ca972fccac2575019836da4a",
       "author": "dependabot[bot]",
       "message": "Bump actions/cache from 5.0.1 to 5.0.2\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.1 to 5.0.2.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/9255dc7a253b0ccc959486e2bca901246202afeb...8b402f58fbc84540c8b491a91e594a4576fec3d7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 5.0.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-01-17T11:04:35Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/4f3e15d7a72d9a36ca972fccac2575019836da4a"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/4f3e15d7a72d9a36ca972fccac2575019836da4a",
+      "is_merge": false
     },
     {
       "sha": "1d53b57e835f24c635466cddcf5f81b62804fb88",
       "author": "JaredHatfield",
       "message": "Merge pull request #68 from UnitVectorY-Labs/bulkfilepr/e2385084a07e\n\nUpdate .github/workflows/docker-build-dev.yml",
       "timestamp": "2026-01-16T02:30:41Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/1d53b57e835f24c635466cddcf5f81b62804fb88"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/1d53b57e835f24c635466cddcf5f81b62804fb88",
+      "is_merge": true
     },
     {
       "sha": "641189873c2bb895c4dee4e3977729007f0f2b79",
       "author": "JaredHatfield",
       "message": "Merge branch 'main' into bulkfilepr/e2385084a07e",
       "timestamp": "2026-01-16T02:27:52Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/641189873c2bb895c4dee4e3977729007f0f2b79"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/641189873c2bb895c4dee4e3977729007f0f2b79",
+      "is_merge": true
     },
     {
       "sha": "36bde9ff89846f183c094f0eda893137fa6697e2",
       "author": "JaredHatfield",
       "message": "chore: update .github/workflows/docker-build-dev.yml",
       "timestamp": "2026-01-16T02:18:51Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/36bde9ff89846f183c094f0eda893137fa6697e2"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/36bde9ff89846f183c094f0eda893137fa6697e2",
+      "is_merge": false
     },
     {
       "sha": "e8a07c847e62fa2d21ffe3e872f3170315a5592a",
       "author": "JaredHatfield",
       "message": "Merge pull request #67 from UnitVectorY-Labs/bulkfilepr/53764b38260f\n\nUpdate .github/workflows/build-go.yml",
       "timestamp": "2026-01-15T04:07:20Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/e8a07c847e62fa2d21ffe3e872f3170315a5592a"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/e8a07c847e62fa2d21ffe3e872f3170315a5592a",
+      "is_merge": true
     },
     {
       "sha": "ea8b12aad8b6884972a4262a302a24630880c9ef",
       "author": "JaredHatfield",
       "message": "chore: update .github/workflows/build-go.yml",
       "timestamp": "2026-01-15T03:47:28Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/ea8b12aad8b6884972a4262a302a24630880c9ef"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/ea8b12aad8b6884972a4262a302a24630880c9ef",
+      "is_merge": false
     },
     {
       "sha": "f1216b037b62eb4f8e12d2b2fe37ade7b3a2e012",
       "author": "JaredHatfield",
       "message": "Update GitHub Actions workflow for zizmor",
       "timestamp": "2026-01-15T00:23:21Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/f1216b037b62eb4f8e12d2b2fe37ade7b3a2e012"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/f1216b037b62eb4f8e12d2b2fe37ade7b3a2e012",
+      "is_merge": false
     },
     {
       "sha": "45c20e0b2ec7cc2f19ddb3f2b8b96d1309e2d3c5",
       "author": "JaredHatfield",
       "message": "Change runner and action version in workflow",
       "timestamp": "2026-01-14T23:59:47Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/45c20e0b2ec7cc2f19ddb3f2b8b96d1309e2d3c5"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/45c20e0b2ec7cc2f19ddb3f2b8b96d1309e2d3c5",
+      "is_merge": false
     },
     {
       "sha": "12bf0bf66cca9072b25fc2c84091bcd810fa5503",
       "author": "JaredHatfield",
       "message": "Merge pull request #66 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.259.0\n\nBump google.golang.org/api from 0.258.0 to 0.259.0",
       "timestamp": "2026-01-10T12:55:51Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/12bf0bf66cca9072b25fc2c84091bcd810fa5503"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/12bf0bf66cca9072b25fc2c84091bcd810fa5503",
+      "is_merge": true
     },
     {
       "sha": "429becb14901b616d009f4ee28a58bdde57655d9",
       "author": "dependabot[bot]",
       "message": "Bump google.golang.org/api from 0.258.0 to 0.259.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.258.0 to 0.259.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.258.0...v0.259.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.259.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-01-10T11:02:30Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/429becb14901b616d009f4ee28a58bdde57655d9"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/429becb14901b616d009f4ee28a58bdde57655d9",
+      "is_merge": false
     },
     {
       "sha": "cd5e547ec0b26a563abe9e6027497cc2480496f1",
       "author": "JaredHatfield",
       "message": "Merge pull request #65 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/grpc-1.78.0\n\nBump google.golang.org/grpc from 1.77.0 to 1.78.0",
       "timestamp": "2025-12-27T14:13:01Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/cd5e547ec0b26a563abe9e6027497cc2480496f1"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/cd5e547ec0b26a563abe9e6027497cc2480496f1",
+      "is_merge": true
     },
     {
       "sha": "8cbce083d108a2cae945120896fd773006824a45",
       "author": "dependabot[bot]",
       "message": "Bump google.golang.org/grpc from 1.77.0 to 1.78.0\n\nBumps [google.golang.org/grpc](https://github.com/grpc/grpc-go) from 1.77.0 to 1.78.0.\n- [Release notes](https://github.com/grpc/grpc-go/releases)\n- [Commits](https://github.com/grpc/grpc-go/compare/v1.77.0...v1.78.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/grpc\n  dependency-version: 1.78.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2025-12-27T11:05:20Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/8cbce083d108a2cae945120896fd773006824a45"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/8cbce083d108a2cae945120896fd773006824a45",
+      "is_merge": false
     },
     {
       "sha": "a17891f5d5c2c90b0b4e63f168c32583f607fc5a",
       "author": "JaredHatfield",
       "message": "Merge pull request #64 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.258.0\n\nBump google.golang.org/api from 0.257.0 to 0.258.0",
       "timestamp": "2025-12-20T11:32:40Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/a17891f5d5c2c90b0b4e63f168c32583f607fc5a"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/a17891f5d5c2c90b0b4e63f168c32583f607fc5a",
+      "is_merge": true
     },
     {
       "sha": "920361719ff1695799dbea56230a3adbbdd30b92",
       "author": "dependabot[bot]",
       "message": "Bump google.golang.org/api from 0.257.0 to 0.258.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.257.0 to 0.258.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.257.0...v0.258.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.258.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2025-12-20T11:04:58Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/920361719ff1695799dbea56230a3adbbdd30b92"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/920361719ff1695799dbea56230a3adbbdd30b92",
+      "is_merge": false
     },
     {
       "sha": "c7f09a27c1864eecaef897b8cc6c9193b1dba183",
       "author": "JaredHatfield",
       "message": "Merge pull request #63 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5\n\nBump actions/cache from 4 to 5",
       "timestamp": "2025-12-13T11:21:17Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/c7f09a27c1864eecaef897b8cc6c9193b1dba183"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/c7f09a27c1864eecaef897b8cc6c9193b1dba183",
+      "is_merge": true
     },
     {
       "sha": "07073962e68f5aca84281567fe253f4b2e1d8a7f",
       "author": "dependabot[bot]",
       "message": "Bump actions/cache from 4 to 5\n\nBumps [actions/cache](https://github.com/actions/cache) from 4 to 5.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/v4...v5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: '5'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2025-12-13T11:04:25Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/07073962e68f5aca84281567fe253f4b2e1d8a7f"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/07073962e68f5aca84281567fe253f4b2e1d8a7f",
+      "is_merge": false
     },
     {
       "sha": "ebf4e23abdf9ee1a1c4d5b99e8f34608e072d9a2",
       "author": "JaredHatfield",
       "message": "Merge pull request #62 from UnitVectorY-Labs/go-v1.25.5\n\nUpdate Go version to 1.25.5",
       "timestamp": "2025-12-06T14:50:28Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/ebf4e23abdf9ee1a1c4d5b99e8f34608e072d9a2"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/ebf4e23abdf9ee1a1c4d5b99e8f34608e072d9a2",
+      "is_merge": true
     },
     {
       "sha": "1cf8950c004622f343b09c4a3d4e97911715376c",
       "author": "JaredHatfield",
       "message": "Update Go version to 1.25.5",
       "timestamp": "2025-12-06T14:46:32Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/1cf8950c004622f343b09c4a3d4e97911715376c"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/1cf8950c004622f343b09c4a3d4e97911715376c",
+      "is_merge": false
     },
     {
       "sha": "6919f896c45eceb50e2d6557e65acedade320a29",
       "author": "JaredHatfield",
       "message": "Merge pull request #61 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.257.0\n\nBump google.golang.org/api from 0.256.0 to 0.257.0",
       "timestamp": "2025-12-06T14:39:15Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/6919f896c45eceb50e2d6557e65acedade320a29"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/6919f896c45eceb50e2d6557e65acedade320a29",
+      "is_merge": true
     },
     {
       "sha": "e999d2d5d2a35d9fe5e08f2447b7972933f399bc",
       "author": "dependabot[bot]",
       "message": "Bump google.golang.org/api from 0.256.0 to 0.257.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.256.0 to 0.257.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.256.0...v0.257.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.257.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2025-12-06T11:04:27Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/e999d2d5d2a35d9fe5e08f2447b7972933f399bc"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/e999d2d5d2a35d9fe5e08f2447b7972933f399bc",
+      "is_merge": false
     },
     {
       "sha": "77653db087be09f3bbe27b26a3c519f776d6aed9",
       "author": "JaredHatfield",
       "message": "Fix badge image URL for license badge in README",
       "timestamp": "2025-11-30T23:58:42Z",
-      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/77653db087be09f3bbe27b26a3c519f776d6aed9"
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/77653db087be09f3bbe27b26a3c519f776d6aed9",
+      "is_merge": false
     }
   ],
   "repository_url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer"

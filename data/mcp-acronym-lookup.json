@@ -6,130 +6,180 @@
   "latest_release_time": "2025-11-29T18:36:20Z",
   "unreleased_commits": [
     {
+      "sha": "ef9ef4c432e9025c12efc8552f999a47b0c2a981",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #42 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.3\n\nBump actions/cache from 5.0.2 to 5.0.3",
+      "timestamp": "2026-01-31T12:57:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/ef9ef4c432e9025c12efc8552f999a47b0c2a981",
+      "is_merge": true
+    },
+    {
+      "sha": "4557b8bc6eb09688794158c891008896187a6237",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/cache from 5.0.2 to 5.0.3\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.2 to 5.0.3.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/8b402f58fbc84540c8b491a91e594a4576fec3d7...cdf6c1fa76f9f475f3d7449005a359c84ca0f306)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 5.0.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-31T12:19:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/4557b8bc6eb09688794158c891008896187a6237",
+      "is_merge": false
+    },
+    {
+      "sha": "cdf7407238b2b661e437b6c9a4975032dcab0d6a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #43 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.2.1\n\nBump astral-sh/setup-uv from 7.2.0 to 7.2.1",
+      "timestamp": "2026-01-31T12:18:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/cdf7407238b2b661e437b6c9a4975032dcab0d6a",
+      "is_merge": true
+    },
+    {
+      "sha": "a40ba76069349064cf9304da8560925c0f55562f",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 7.2.0 to 7.2.1\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.2.0 to 7.2.1.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/61cb8a9741eeb8a550a1b8544337180c0fc8476b...803947b9bd8e9f986429fa0c5a41c367cd732b41)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.2.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-31T11:08:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/a40ba76069349064cf9304da8560925c0f55562f",
+      "is_merge": false
+    },
+    {
       "sha": "11335ada4a97e8b991846858df3e473f11d95309",
       "author": "JaredHatfield",
       "message": "Merge pull request #41 from UnitVectorY-Labs/bulkfilepr/850c7d578273\n\nUpdate .github/workflows/build-go.yml",
       "timestamp": "2026-01-23T03:15:02Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/11335ada4a97e8b991846858df3e473f11d95309"
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/11335ada4a97e8b991846858df3e473f11d95309",
+      "is_merge": true
     },
     {
       "sha": "fcf0f64435e95138eb5d4f6672ee54dea3ceee63",
       "author": "JaredHatfield",
       "message": "chore: update .github/workflows/build-go.yml",
       "timestamp": "2026-01-23T02:46:47Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/fcf0f64435e95138eb5d4f6672ee54dea3ceee63"
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/fcf0f64435e95138eb5d4f6672ee54dea3ceee63",
+      "is_merge": false
     },
     {
       "sha": "98418ca98e21cc84a40629fdc56e06c58b4ec724",
       "author": "JaredHatfield",
       "message": "Merge pull request #40 from UnitVectorY-Labs/go-v1.25.6\n\nUpdate Go version to 1.25.6",
       "timestamp": "2026-01-17T21:02:48Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/98418ca98e21cc84a40629fdc56e06c58b4ec724"
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/98418ca98e21cc84a40629fdc56e06c58b4ec724",
+      "is_merge": true
     },
     {
       "sha": "943abbb23f399de23a56237b0250ce111ea80c85",
       "author": "JaredHatfield",
       "message": "Merge branch 'main' into go-v1.25.6",
       "timestamp": "2026-01-17T20:38:27Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/943abbb23f399de23a56237b0250ce111ea80c85"
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/943abbb23f399de23a56237b0250ce111ea80c85",
+      "is_merge": true
     },
     {
       "sha": "10c6e0de989c562d38bb9170d3bd3c3e6eca774f",
       "author": "JaredHatfield",
       "message": "Update Go version to 1.25.6",
       "timestamp": "2026-01-17T11:54:24Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/10c6e0de989c562d38bb9170d3bd3c3e6eca774f"
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/10c6e0de989c562d38bb9170d3bd3c3e6eca774f",
+      "is_merge": false
     },
     {
       "sha": "173931b7a9709990470a71ec283f01268469cbf3",
       "author": "JaredHatfield",
       "message": "Merge pull request #39 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.2\n\nBump actions/cache from 5.0.1 to 5.0.2",
       "timestamp": "2026-01-17T11:45:17Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/173931b7a9709990470a71ec283f01268469cbf3"
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/173931b7a9709990470a71ec283f01268469cbf3",
+      "is_merge": true
     },
     {
       "sha": "c3b875b1fee16dd72c3f3da9a12ada4abc695a76",
       "author": "dependabot[bot]",
       "message": "Bump actions/cache from 5.0.1 to 5.0.2\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.1 to 5.0.2.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/9255dc7a253b0ccc959486e2bca901246202afeb...8b402f58fbc84540c8b491a91e594a4576fec3d7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 5.0.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-01-17T11:03:13Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/c3b875b1fee16dd72c3f3da9a12ada4abc695a76"
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/c3b875b1fee16dd72c3f3da9a12ada4abc695a76",
+      "is_merge": false
     },
     {
       "sha": "417c19fe14b769e4a19e71bccac24f0390e7a015",
       "author": "JaredHatfield",
       "message": "Merge pull request #38 from UnitVectorY-Labs/bulkfilepr/53764b38260f\n\nUpdate .github/workflows/build-go.yml",
       "timestamp": "2026-01-15T04:16:02Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/417c19fe14b769e4a19e71bccac24f0390e7a015"
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/417c19fe14b769e4a19e71bccac24f0390e7a015",
+      "is_merge": true
     },
     {
       "sha": "101e8d5a0808576c11e2c2b548c6635cc8dd9f17",
       "author": "JaredHatfield",
       "message": "chore: update .github/workflows/build-go.yml",
       "timestamp": "2026-01-15T03:51:28Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/101e8d5a0808576c11e2c2b548c6635cc8dd9f17"
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/101e8d5a0808576c11e2c2b548c6635cc8dd9f17",
+      "is_merge": false
     },
     {
       "sha": "a5b8d438cb09a0a77e4b82c6fbd3322b382a35fe",
       "author": "JaredHatfield",
       "message": "Update GitHub Actions workflow for zizmor",
       "timestamp": "2026-01-15T00:31:19Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/a5b8d438cb09a0a77e4b82c6fbd3322b382a35fe"
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/a5b8d438cb09a0a77e4b82c6fbd3322b382a35fe",
+      "is_merge": false
     },
     {
       "sha": "c53edc0acea425314c7a593b96530c5199e1fc91",
       "author": "JaredHatfield",
       "message": "Change runner and action version in workflow",
       "timestamp": "2026-01-15T00:05:21Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/c53edc0acea425314c7a593b96530c5199e1fc91"
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/c53edc0acea425314c7a593b96530c5199e1fc91",
+      "is_merge": false
     },
     {
       "sha": "84774b95ee32d5d80015ee7fb4bec8d0d7d9fab7",
       "author": "JaredHatfield",
       "message": "Merge pull request #37 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5\n\nBump actions/cache from 4 to 5",
       "timestamp": "2025-12-13T11:22:15Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/84774b95ee32d5d80015ee7fb4bec8d0d7d9fab7"
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/84774b95ee32d5d80015ee7fb4bec8d0d7d9fab7",
+      "is_merge": true
     },
     {
       "sha": "7a3352271173f42c3ee0cac676e0d87b228e3008",
       "author": "dependabot[bot]",
       "message": "Bump actions/cache from 4 to 5\n\nBumps [actions/cache](https://github.com/actions/cache) from 4 to 5.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/v4...v5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: '5'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2025-12-13T11:04:54Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/7a3352271173f42c3ee0cac676e0d87b228e3008"
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/7a3352271173f42c3ee0cac676e0d87b228e3008",
+      "is_merge": false
     },
     {
       "sha": "c172b6400837f81653c3a95f28f8b35823ec1f91",
       "author": "JaredHatfield",
       "message": "Merge pull request #36 from UnitVectorY-Labs/go-v1.25.5\n\nUpdate Go version to 1.25.5",
       "timestamp": "2025-12-06T14:51:18Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/c172b6400837f81653c3a95f28f8b35823ec1f91"
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/c172b6400837f81653c3a95f28f8b35823ec1f91",
+      "is_merge": true
     },
     {
       "sha": "5762e2784d1c4503132784f996beb72b80336a9d",
       "author": "JaredHatfield",
       "message": "Update Go version to 1.25.5",
       "timestamp": "2025-12-06T14:46:34Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/5762e2784d1c4503132784f996beb72b80336a9d"
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/5762e2784d1c4503132784f996beb72b80336a9d",
+      "is_merge": false
     },
     {
       "sha": "937ce4c541c6647fe950e276a70fd06b411dfd08",
       "author": "JaredHatfield",
       "message": "Merge pull request #35 from UnitVectorY-Labs/dependabot/go_modules/github.com/mark3labs/mcp-go-0.43.2\n\nBump github.com/mark3labs/mcp-go from 0.43.1 to 0.43.2",
       "timestamp": "2025-12-06T14:40:00Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/937ce4c541c6647fe950e276a70fd06b411dfd08"
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/937ce4c541c6647fe950e276a70fd06b411dfd08",
+      "is_merge": true
     },
     {
       "sha": "25f2ef836fcb1ad63bff38ba5959b54886359a46",
       "author": "dependabot[bot]",
       "message": "Bump github.com/mark3labs/mcp-go from 0.43.1 to 0.43.2\n\nBumps [github.com/mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) from 0.43.1 to 0.43.2.\n- [Release notes](https://github.com/mark3labs/mcp-go/releases)\n- [Commits](https://github.com/mark3labs/mcp-go/compare/v0.43.1...v0.43.2)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/mark3labs/mcp-go\n  dependency-version: 0.43.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2025-12-06T11:04:28Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/25f2ef836fcb1ad63bff38ba5959b54886359a46"
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/25f2ef836fcb1ad63bff38ba5959b54886359a46",
+      "is_merge": false
     },
     {
       "sha": "b877dc8e699db51e6a07a9a402f6b89cee17d0ad",
       "author": "JaredHatfield",
       "message": "Fix badge image URL for license badge in README",
       "timestamp": "2025-11-30T23:59:20Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/b877dc8e699db51e6a07a9a402f6b89cee17d0ad"
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/b877dc8e699db51e6a07a9a402f6b89cee17d0ad",
+      "is_merge": false
     }
   ],
   "repository_url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup"

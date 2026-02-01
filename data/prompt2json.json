@@ -6,81 +6,124 @@
   "latest_release_time": "2026-01-06T23:26:27Z",
   "unreleased_commits": [
     {
+      "sha": "f5d1e299181754f0cd7234ea7e780f94a9690bb3",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #15 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.3\n\nBump actions/cache from 5.0.2 to 5.0.3",
+      "timestamp": "2026-01-31T12:38:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/f5d1e299181754f0cd7234ea7e780f94a9690bb3",
+      "is_merge": true
+    },
+    {
+      "sha": "91ce371504498d03c9256175e942366ee5753ee7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #14 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.2.1\n\nBump astral-sh/setup-uv from 7.2.0 to 7.2.1",
+      "timestamp": "2026-01-31T12:18:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/91ce371504498d03c9256175e942366ee5753ee7",
+      "is_merge": true
+    },
+    {
+      "sha": "2923fd4baa25adb86c74cb2610a9b8c3aee9d93d",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/cache from 5.0.2 to 5.0.3\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.2 to 5.0.3.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/8b402f58fbc84540c8b491a91e594a4576fec3d7...cdf6c1fa76f9f475f3d7449005a359c84ca0f306)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 5.0.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-31T11:04:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/2923fd4baa25adb86c74cb2610a9b8c3aee9d93d",
+      "is_merge": false
+    },
+    {
+      "sha": "fd383c35a6150ddaee9f1b4c2728b2d5cc4be2ad",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 7.2.0 to 7.2.1\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.2.0 to 7.2.1.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/61cb8a9741eeb8a550a1b8544337180c0fc8476b...803947b9bd8e9f986429fa0c5a41c367cd732b41)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.2.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-31T11:04:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/fd383c35a6150ddaee9f1b4c2728b2d5cc4be2ad",
+      "is_merge": false
+    },
+    {
       "sha": "44ff45592667a8a1ab1e0ae360f3c9f870d87300",
       "author": "JaredHatfield",
       "message": "Merge pull request #13 from UnitVectorY-Labs/bulkfilepr/850c7d578273\n\nUpdate .github/workflows/build-go.yml",
       "timestamp": "2026-01-23T03:15:23Z",
-      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/44ff45592667a8a1ab1e0ae360f3c9f870d87300"
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/44ff45592667a8a1ab1e0ae360f3c9f870d87300",
+      "is_merge": true
     },
     {
       "sha": "6702012bcf1d36c7b50101b808ca459e368a1150",
       "author": "JaredHatfield",
       "message": "chore: update .github/workflows/build-go.yml",
       "timestamp": "2026-01-23T02:46:56Z",
-      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/6702012bcf1d36c7b50101b808ca459e368a1150"
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/6702012bcf1d36c7b50101b808ca459e368a1150",
+      "is_merge": false
     },
     {
       "sha": "ae59178a7f21025b1d2712f2496ce4f5180950a7",
       "author": "JaredHatfield",
       "message": "Merge pull request #12 from UnitVectorY-Labs/go-v1.25.6\n\nUpdate Go version to 1.25.6",
       "timestamp": "2026-01-17T21:03:22Z",
-      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/ae59178a7f21025b1d2712f2496ce4f5180950a7"
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/ae59178a7f21025b1d2712f2496ce4f5180950a7",
+      "is_merge": true
     },
     {
       "sha": "0a4e252ed327a75ba1f44ef747ed845a467f332f",
       "author": "JaredHatfield",
       "message": "Merge branch 'main' into go-v1.25.6",
       "timestamp": "2026-01-17T20:38:38Z",
-      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/0a4e252ed327a75ba1f44ef747ed845a467f332f"
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/0a4e252ed327a75ba1f44ef747ed845a467f332f",
+      "is_merge": true
     },
     {
       "sha": "44ed29031cba3f7a76ef623c4f590820e7b9cfd0",
       "author": "JaredHatfield",
       "message": "Update Go version to 1.25.6",
       "timestamp": "2026-01-17T11:55:19Z",
-      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/44ed29031cba3f7a76ef623c4f590820e7b9cfd0"
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/44ed29031cba3f7a76ef623c4f590820e7b9cfd0",
+      "is_merge": false
     },
     {
       "sha": "e2cf181dd57bcd170b6a43d2ee8e8c6f4b778f8d",
       "author": "JaredHatfield",
       "message": "Merge pull request #11 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.2\n\nBump actions/cache from 5.0.1 to 5.0.2",
       "timestamp": "2026-01-17T11:46:51Z",
-      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/e2cf181dd57bcd170b6a43d2ee8e8c6f4b778f8d"
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/e2cf181dd57bcd170b6a43d2ee8e8c6f4b778f8d",
+      "is_merge": true
     },
     {
       "sha": "d3e4b69d735a0eb8b356b5c14b1409639ebef04d",
       "author": "dependabot[bot]",
       "message": "Bump actions/cache from 5.0.1 to 5.0.2\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.1 to 5.0.2.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/9255dc7a253b0ccc959486e2bca901246202afeb...8b402f58fbc84540c8b491a91e594a4576fec3d7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 5.0.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-01-17T11:04:01Z",
-      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/d3e4b69d735a0eb8b356b5c14b1409639ebef04d"
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/d3e4b69d735a0eb8b356b5c14b1409639ebef04d",
+      "is_merge": false
     },
     {
       "sha": "73441077a9a6a86bfd45be2d34313834de3f1764",
       "author": "JaredHatfield",
       "message": "Merge pull request #10 from UnitVectorY-Labs/bulkfilepr/53764b38260f\n\nUpdate .github/workflows/build-go.yml",
       "timestamp": "2026-01-15T04:19:25Z",
-      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/73441077a9a6a86bfd45be2d34313834de3f1764"
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/73441077a9a6a86bfd45be2d34313834de3f1764",
+      "is_merge": true
     },
     {
       "sha": "817c016bf5043cc407304fe8f3646f6511bb860d",
       "author": "JaredHatfield",
       "message": "chore: update .github/workflows/build-go.yml",
       "timestamp": "2026-01-15T03:51:52Z",
-      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/817c016bf5043cc407304fe8f3646f6511bb860d"
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/817c016bf5043cc407304fe8f3646f6511bb860d",
+      "is_merge": false
     },
     {
       "sha": "accbc8c7bc8c0da7d93d1712029825143d2e255d",
       "author": "JaredHatfield",
       "message": "Update GitHub Actions workflow for zizmor",
       "timestamp": "2026-01-15T00:32:18Z",
-      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/accbc8c7bc8c0da7d93d1712029825143d2e255d"
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/accbc8c7bc8c0da7d93d1712029825143d2e255d",
+      "is_merge": false
     },
     {
       "sha": "fc4aba1a3200bbea13a63d0cccea8adeb267466b",
       "author": "JaredHatfield",
       "message": "Change runner and action version in workflow",
       "timestamp": "2026-01-15T00:06:23Z",
-      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/fc4aba1a3200bbea13a63d0cccea8adeb267466b"
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/fc4aba1a3200bbea13a63d0cccea8adeb267466b",
+      "is_merge": false
     }
   ],
   "repository_url": "https://github.com/UnitVectorY-Labs/prompt2json"

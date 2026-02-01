@@ -6,200 +6,260 @@
   "latest_release_time": "2025-10-09T02:24:52Z",
   "unreleased_commits": [
     {
+      "sha": "dfd07560968fc4828de0a127376ab1fc2784c3cf",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #24 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.3\n\nBump actions/cache from 5.0.2 to 5.0.3",
+      "timestamp": "2026-01-31T12:38:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/dfd07560968fc4828de0a127376ab1fc2784c3cf",
+      "is_merge": true
+    },
+    {
+      "sha": "183832348c8463ad1014ead49727f8d7c2d5092c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #25 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.2.1\n\nBump astral-sh/setup-uv from 7.2.0 to 7.2.1",
+      "timestamp": "2026-01-31T12:17:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/183832348c8463ad1014ead49727f8d7c2d5092c",
+      "is_merge": true
+    },
+    {
+      "sha": "01ce969e708df2628c1c3c51d749214b899bbd80",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 7.2.0 to 7.2.1\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.2.0 to 7.2.1.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/61cb8a9741eeb8a550a1b8544337180c0fc8476b...803947b9bd8e9f986429fa0c5a41c367cd732b41)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.2.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-31T11:07:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/01ce969e708df2628c1c3c51d749214b899bbd80",
+      "is_merge": false
+    },
+    {
+      "sha": "b38e0cb9531139089f361ec1e25a96f0251cfef9",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/cache from 5.0.2 to 5.0.3\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.2 to 5.0.3.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/8b402f58fbc84540c8b491a91e594a4576fec3d7...cdf6c1fa76f9f475f3d7449005a359c84ca0f306)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 5.0.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-31T11:07:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/b38e0cb9531139089f361ec1e25a96f0251cfef9",
+      "is_merge": false
+    },
+    {
       "sha": "808795b99ec2ccdcae93cc287a8153ce685670e2",
       "author": "JaredHatfield",
       "message": "Merge pull request #23 from UnitVectorY-Labs/bulkfilepr/850c7d578273\n\nUpdate .github/workflows/build-go.yml",
       "timestamp": "2026-01-23T03:14:56Z",
-      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/808795b99ec2ccdcae93cc287a8153ce685670e2"
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/808795b99ec2ccdcae93cc287a8153ce685670e2",
+      "is_merge": true
     },
     {
       "sha": "759f0c0bff103ded5602a81c2366b3b41570bf89",
       "author": "JaredHatfield",
       "message": "chore: update .github/workflows/build-go.yml",
       "timestamp": "2026-01-23T02:45:31Z",
-      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/759f0c0bff103ded5602a81c2366b3b41570bf89"
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/759f0c0bff103ded5602a81c2366b3b41570bf89",
+      "is_merge": false
     },
     {
       "sha": "ceac767ec7d9f77066345d5139a05012603c82d1",
       "author": "JaredHatfield",
       "message": "Merge pull request #22 from UnitVectorY-Labs/go-v1.25.6\n\nUpdate Go version to 1.25.6",
       "timestamp": "2026-01-17T21:02:37Z",
-      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/ceac767ec7d9f77066345d5139a05012603c82d1"
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/ceac767ec7d9f77066345d5139a05012603c82d1",
+      "is_merge": true
     },
     {
       "sha": "a8dba4d40973f05dccc7cd6db3a1fcf96023b90c",
       "author": "JaredHatfield",
       "message": "Merge branch 'main' into go-v1.25.6",
       "timestamp": "2026-01-17T20:38:24Z",
-      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/a8dba4d40973f05dccc7cd6db3a1fcf96023b90c"
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/a8dba4d40973f05dccc7cd6db3a1fcf96023b90c",
+      "is_merge": true
     },
     {
       "sha": "55c7a7d397186f68bd78f46f68be148ca7b64574",
       "author": "JaredHatfield",
       "message": "Update Go version to 1.25.6",
       "timestamp": "2026-01-17T11:53:25Z",
-      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/55c7a7d397186f68bd78f46f68be148ca7b64574"
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/55c7a7d397186f68bd78f46f68be148ca7b64574",
+      "is_merge": false
     },
     {
       "sha": "2820b866dce4bcef95d5f349faa34e5fe5d0e4cf",
       "author": "JaredHatfield",
       "message": "Merge pull request #21 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.2\n\nBump actions/cache from 5.0.1 to 5.0.2",
       "timestamp": "2026-01-17T11:47:11Z",
-      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/2820b866dce4bcef95d5f349faa34e5fe5d0e4cf"
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/2820b866dce4bcef95d5f349faa34e5fe5d0e4cf",
+      "is_merge": true
     },
     {
       "sha": "470dcddcb49a57c491aaf3306fcf22ae4ef59a7c",
       "author": "dependabot[bot]",
       "message": "Bump actions/cache from 5.0.1 to 5.0.2\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.1 to 5.0.2.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/9255dc7a253b0ccc959486e2bca901246202afeb...8b402f58fbc84540c8b491a91e594a4576fec3d7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 5.0.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-01-17T11:04:03Z",
-      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/470dcddcb49a57c491aaf3306fcf22ae4ef59a7c"
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/470dcddcb49a57c491aaf3306fcf22ae4ef59a7c",
+      "is_merge": false
     },
     {
       "sha": "4e8edee0606bc4e33683675c29368648b3e23724",
       "author": "JaredHatfield",
       "message": "Merge pull request #20 from UnitVectorY-Labs/bulkfilepr/53764b38260f\n\nUpdate .github/workflows/build-go.yml",
       "timestamp": "2026-01-15T04:20:52Z",
-      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/4e8edee0606bc4e33683675c29368648b3e23724"
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/4e8edee0606bc4e33683675c29368648b3e23724",
+      "is_merge": true
     },
     {
       "sha": "e5df2798c0bba34d1e42769c4a951c7e1372d4d1",
       "author": "JaredHatfield",
       "message": "chore: update .github/workflows/build-go.yml",
       "timestamp": "2026-01-15T03:52:08Z",
-      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/e5df2798c0bba34d1e42769c4a951c7e1372d4d1"
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/e5df2798c0bba34d1e42769c4a951c7e1372d4d1",
+      "is_merge": false
     },
     {
       "sha": "7ce9647489c951fa881152f547660e6055f2b355",
       "author": "JaredHatfield",
       "message": "Update GitHub Actions workflow for zizmor",
       "timestamp": "2026-01-15T00:34:18Z",
-      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/7ce9647489c951fa881152f547660e6055f2b355"
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/7ce9647489c951fa881152f547660e6055f2b355",
+      "is_merge": false
     },
     {
       "sha": "25bc9f1c3ae5f2c868de72cec77c44598614ef0d",
       "author": "JaredHatfield",
       "message": "Change runner and action version in workflow",
       "timestamp": "2026-01-15T00:08:43Z",
-      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/25bc9f1c3ae5f2c868de72cec77c44598614ef0d"
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/25bc9f1c3ae5f2c868de72cec77c44598614ef0d",
+      "is_merge": false
     },
     {
       "sha": "98d787203eba2fb04cf7e8a6409e490f82b3b961",
       "author": "JaredHatfield",
       "message": "Merge pull request #19 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5\n\nBump actions/cache from 4 to 5",
       "timestamp": "2025-12-13T11:19:35Z",
-      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/98d787203eba2fb04cf7e8a6409e490f82b3b961"
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/98d787203eba2fb04cf7e8a6409e490f82b3b961",
+      "is_merge": true
     },
     {
       "sha": "b105bff8b9ce03417faa992c46fab91bfe8e64e8",
       "author": "dependabot[bot]",
       "message": "Bump actions/cache from 4 to 5\n\nBumps [actions/cache](https://github.com/actions/cache) from 4 to 5.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/v4...v5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: '5'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2025-12-13T11:04:31Z",
-      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/b105bff8b9ce03417faa992c46fab91bfe8e64e8"
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/b105bff8b9ce03417faa992c46fab91bfe8e64e8",
+      "is_merge": false
     },
     {
       "sha": "8174df124cf9db8d7eb09517ea52a6c94442104b",
       "author": "JaredHatfield",
       "message": "Merge pull request #18 from UnitVectorY-Labs/go-v1.25.5\n\nUpdate Go version to 1.25.5",
       "timestamp": "2025-12-06T14:49:44Z",
-      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/8174df124cf9db8d7eb09517ea52a6c94442104b"
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/8174df124cf9db8d7eb09517ea52a6c94442104b",
+      "is_merge": true
     },
     {
       "sha": "69896b915bd8675dcaa886b8440f954a31c58550",
       "author": "JaredHatfield",
       "message": "Update Go version to 1.25.5",
       "timestamp": "2025-12-06T14:45:47Z",
-      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/69896b915bd8675dcaa886b8440f954a31c58550"
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/69896b915bd8675dcaa886b8440f954a31c58550",
+      "is_merge": false
     },
     {
       "sha": "36a98eae666ede7ca7e4753bbe9261ddd8fe672a",
       "author": "JaredHatfield",
       "message": "Fix badge image URL for license badge in README",
       "timestamp": "2025-11-30T23:51:45Z",
-      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/36a98eae666ede7ca7e4753bbe9261ddd8fe672a"
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/36a98eae666ede7ca7e4753bbe9261ddd8fe672a",
+      "is_merge": false
     },
     {
       "sha": "84ec2ecfc5d7b1e4860134f6e7cd213dd4ec72ca",
       "author": "JaredHatfield",
       "message": "Merge pull request #17 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-6\n\nBump actions/checkout from 5 to 6",
       "timestamp": "2025-11-22T15:33:33Z",
-      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/84ec2ecfc5d7b1e4860134f6e7cd213dd4ec72ca"
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/84ec2ecfc5d7b1e4860134f6e7cd213dd4ec72ca",
+      "is_merge": true
     },
     {
       "sha": "b2b56f7546e6783673c8af2815097ad7345a4095",
       "author": "dependabot[bot]",
       "message": "Bump actions/checkout from 5 to 6\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 5 to 6.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/v5...v6)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '6'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2025-11-22T11:04:21Z",
-      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/b2b56f7546e6783673c8af2815097ad7345a4095"
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/b2b56f7546e6783673c8af2815097ad7345a4095",
+      "is_merge": false
     },
     {
       "sha": "1848774a8528c0b1197861af7d031167df9dc1b1",
       "author": "JaredHatfield",
       "message": "Merge pull request #16 from UnitVectorY-Labs/go-v1.25.4\n\nUpdate Go version to 1.25.4",
       "timestamp": "2025-11-07T01:11:52Z",
-      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/1848774a8528c0b1197861af7d031167df9dc1b1"
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/1848774a8528c0b1197861af7d031167df9dc1b1",
+      "is_merge": true
     },
     {
       "sha": "5088fa80e3baa0c6a62d2b77ffba684db36ee7f9",
       "author": "JaredHatfield",
       "message": "Update Go version to 1.25.4",
       "timestamp": "2025-11-07T01:05:47Z",
-      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/5088fa80e3baa0c6a62d2b77ffba684db36ee7f9"
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/5088fa80e3baa0c6a62d2b77ffba684db36ee7f9",
+      "is_merge": false
     },
     {
       "sha": "ceb1083a5aa6c48821c0904fe20e6df85c635462",
       "author": "JaredHatfield",
       "message": "Merge pull request #15 from UnitVectorY-Labs/go-v1.25.3\n\nUpdate Go version to 1.25.3",
       "timestamp": "2025-10-17T01:43:42Z",
-      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/ceb1083a5aa6c48821c0904fe20e6df85c635462"
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/ceb1083a5aa6c48821c0904fe20e6df85c635462",
+      "is_merge": true
     },
     {
       "sha": "6a1f1def004e26028a259796c145b380bf389205",
       "author": "JaredHatfield",
       "message": "Update Go version to 1.25.3",
       "timestamp": "2025-10-17T01:33:45Z",
-      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/6a1f1def004e26028a259796c145b380bf389205"
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/6a1f1def004e26028a259796c145b380bf389205",
+      "is_merge": false
     },
     {
       "sha": "97092e759fff9f2eccb229a3fa523e179724b9be",
       "author": "JaredHatfield",
       "message": "Merge pull request #14 from UnitVectorY-Labs/go-v1.25.2\n\nUpdate Go version to 1.25.2",
       "timestamp": "2025-10-12T15:00:15Z",
-      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/97092e759fff9f2eccb229a3fa523e179724b9be"
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/97092e759fff9f2eccb229a3fa523e179724b9be",
+      "is_merge": true
     },
     {
       "sha": "38441b08665db2b265191f6c33ac101efc871903",
       "author": "JaredHatfield",
       "message": "Update Go version to 1.25.2",
       "timestamp": "2025-10-12T14:55:46Z",
-      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/38441b08665db2b265191f6c33ac101efc871903"
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/38441b08665db2b265191f6c33ac101efc871903",
+      "is_merge": false
     },
     {
       "sha": "e95dc7afeb9f52b6d0f845e235bb89f0e2f786ab",
       "author": "JaredHatfield",
       "message": "Merge pull request #13 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7\n\nBump astral-sh/setup-uv from 6 to 7",
       "timestamp": "2025-10-11T13:20:25Z",
-      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/e95dc7afeb9f52b6d0f845e235bb89f0e2f786ab"
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/e95dc7afeb9f52b6d0f845e235bb89f0e2f786ab",
+      "is_merge": true
     },
     {
       "sha": "588c774a27b57a8efe6e1db84078f376795fd8f2",
       "author": "dependabot[bot]",
       "message": "Bump astral-sh/setup-uv from 6 to 7\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 6 to 7.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/v6...v7)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2025-10-11T13:05:59Z",
-      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/588c774a27b57a8efe6e1db84078f376795fd8f2"
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/588c774a27b57a8efe6e1db84078f376795fd8f2",
+      "is_merge": false
     },
     {
       "sha": "9f98c7f1ffbc2e7457a8a2880a92f4f60407387a",
       "author": "JaredHatfield",
       "message": "Merge pull request #12 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4\n\nBump github/codeql-action from 3 to 4",
       "timestamp": "2025-10-11T13:04:54Z",
-      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/9f98c7f1ffbc2e7457a8a2880a92f4f60407387a"
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/9f98c7f1ffbc2e7457a8a2880a92f4f60407387a",
+      "is_merge": true
     },
     {
       "sha": "1e04094a7b94835a04da5992611eaf9d8fc54135",
       "author": "dependabot[bot]",
       "message": "Bump github/codeql-action from 3 to 4\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 3 to 4.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/v3...v4)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: '4'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2025-10-11T10:08:22Z",
-      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/1e04094a7b94835a04da5992611eaf9d8fc54135"
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/1e04094a7b94835a04da5992611eaf9d8fc54135",
+      "is_merge": false
     }
   ],
   "repository_url": "https://github.com/UnitVectorY-Labs/yamlequal"
