@@ -6,6 +6,54 @@
   "latest_release_time": "2026-01-24T15:37:40Z",
   "unreleased_commits": [
     {
+      "sha": "39f39a664e40ad24f4fec3b50c996444abfcab09",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #47 from UnitVectorY-Labs/go-v1.25.7\n\nUpdate Go version to 1.25.7",
+      "timestamp": "2026-02-07T12:56:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/39f39a664e40ad24f4fec3b50c996444abfcab09",
+      "is_merge": true
+    },
+    {
+      "sha": "ccefeadeb227f407aebe0814ca48161e8224a984",
+      "author": "JaredHatfield",
+      "message": "Merge branch 'main' into go-v1.25.7",
+      "timestamp": "2026-02-07T12:46:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/ccefeadeb227f407aebe0814ca48161e8224a984",
+      "is_merge": true
+    },
+    {
+      "sha": "22264e4c8f60809edd4043c6f4cf5b6da6926d0b",
+      "author": "JaredHatfield",
+      "message": "Change runner to ubuntu-latest for build job",
+      "timestamp": "2026-02-07T12:00:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/22264e4c8f60809edd4043c6f4cf5b6da6926d0b",
+      "is_merge": false
+    },
+    {
+      "sha": "469f071b589d18dcf4dcf6bd70c0e125af0f2631",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #46 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.3.0\n\nBump astral-sh/setup-uv from 7.2.1 to 7.3.0",
+      "timestamp": "2026-02-07T11:49:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/469f071b589d18dcf4dcf6bd70c0e125af0f2631",
+      "is_merge": true
+    },
+    {
+      "sha": "ff52b53122b021089adb647a32e42b763df1bd29",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.7",
+      "timestamp": "2026-02-07T11:40:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/ff52b53122b021089adb647a32e42b763df1bd29",
+      "is_merge": false
+    },
+    {
+      "sha": "4222ad2f92b969f03db5507a2389cbc2f9e85167",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 7.2.1 to 7.3.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.2.1 to 7.3.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/803947b9bd8e9f986429fa0c5a41c367cd732b41...eac588ad8def6316056a12d4907a9d4d84ff7a3b)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.3.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-07T11:02:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/4222ad2f92b969f03db5507a2389cbc2f9e85167",
+      "is_merge": false
+    },
+    {
       "sha": "fe6a18a122fb1c945434cd865fef20e91211fee0",
       "author": "JaredHatfield",
       "message": "Merge pull request #45 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.3\n\nBump actions/cache from 5.0.2 to 5.0.3",

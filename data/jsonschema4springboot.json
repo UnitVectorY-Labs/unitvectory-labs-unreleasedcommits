@@ -6,6 +6,38 @@
   "latest_release_time": "2025-11-29T14:51:22Z",
   "unreleased_commits": [
     {
+      "sha": "9d0a55d6f454f5dbfed020a5f82756ddb3c58811",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #164 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-compiler-plugin-3.15.0\n\nBump org.apache.maven.plugins:maven-compiler-plugin from 3.14.1 to 3.15.0",
+      "timestamp": "2026-02-07T12:03:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/9d0a55d6f454f5dbfed020a5f82756ddb3c58811",
+      "is_merge": true
+    },
+    {
+      "sha": "7d0957e78bc7fc371cebfb4b80ea57e5032d4eb5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #163 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.3.0\n\nBump astral-sh/setup-uv from 7.2.1 to 7.3.0",
+      "timestamp": "2026-02-07T11:49:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/7d0957e78bc7fc371cebfb4b80ea57e5032d4eb5",
+      "is_merge": true
+    },
+    {
+      "sha": "15f34c82800bf57a09f6031ab1dc056e5f637cd9",
+      "author": "dependabot[bot]",
+      "message": "Bump org.apache.maven.plugins:maven-compiler-plugin\n\nBumps [org.apache.maven.plugins:maven-compiler-plugin](https://github.com/apache/maven-compiler-plugin) from 3.14.1 to 3.15.0.\n- [Release notes](https://github.com/apache/maven-compiler-plugin/releases)\n- [Commits](https://github.com/apache/maven-compiler-plugin/compare/maven-compiler-plugin-3.14.1...maven-compiler-plugin-3.15.0)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-compiler-plugin\n  dependency-version: 3.15.0\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-07T11:02:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/15f34c82800bf57a09f6031ab1dc056e5f637cd9",
+      "is_merge": false
+    },
+    {
+      "sha": "059771ec9bcd6b4e0422778e3399d6bf4d515488",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 7.2.1 to 7.3.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.2.1 to 7.3.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/803947b9bd8e9f986429fa0c5a41c367cd732b41...eac588ad8def6316056a12d4907a9d4d84ff7a3b)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.3.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-07T11:02:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/059771ec9bcd6b4e0422778e3399d6bf4d515488",
+      "is_merge": false
+    },
+    {
       "sha": "baf6664947e66102a9f84268f8120200aa6a7a4b",
       "author": "JaredHatfield",
       "message": "Merge pull request #162 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.2.1\n\nBump astral-sh/setup-uv from 7.2.0 to 7.2.1",

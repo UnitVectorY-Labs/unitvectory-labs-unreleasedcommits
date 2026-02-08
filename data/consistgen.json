@@ -6,6 +6,38 @@
   "latest_release_time": "2025-10-20T23:04:50Z",
   "unreleased_commits": [
     {
+      "sha": "8959e5f7035cf684261ff9af3192c1429bd51c4b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #66 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-compiler-plugin-3.15.0\n\nBump org.apache.maven.plugins:maven-compiler-plugin from 3.14.1 to 3.15.0",
+      "timestamp": "2026-02-07T12:04:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/8959e5f7035cf684261ff9af3192c1429bd51c4b",
+      "is_merge": true
+    },
+    {
+      "sha": "ed5fb68822ae6e7db97fba1cbbb5e7e7ec317ca4",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #67 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.3.0\n\nBump astral-sh/setup-uv from 7.2.1 to 7.3.0",
+      "timestamp": "2026-02-07T11:50:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/ed5fb68822ae6e7db97fba1cbbb5e7e7ec317ca4",
+      "is_merge": true
+    },
+    {
+      "sha": "790b6718244e926f6bfc2b14fa2ddf99d70e7498",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 7.2.1 to 7.3.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.2.1 to 7.3.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/803947b9bd8e9f986429fa0c5a41c367cd732b41...eac588ad8def6316056a12d4907a9d4d84ff7a3b)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.3.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-07T11:07:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/790b6718244e926f6bfc2b14fa2ddf99d70e7498",
+      "is_merge": false
+    },
+    {
+      "sha": "adc5011fe565362b35e922a4f16c8371a1a0aa51",
+      "author": "dependabot[bot]",
+      "message": "Bump org.apache.maven.plugins:maven-compiler-plugin\n\nBumps [org.apache.maven.plugins:maven-compiler-plugin](https://github.com/apache/maven-compiler-plugin) from 3.14.1 to 3.15.0.\n- [Release notes](https://github.com/apache/maven-compiler-plugin/releases)\n- [Commits](https://github.com/apache/maven-compiler-plugin/compare/maven-compiler-plugin-3.14.1...maven-compiler-plugin-3.15.0)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-compiler-plugin\n  dependency-version: 3.15.0\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-07T11:07:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/adc5011fe565362b35e922a4f16c8371a1a0aa51",
+      "is_merge": false
+    },
+    {
       "sha": "d753c659aa8c95b922b69e32cd230c69222cdbeb",
       "author": "JaredHatfield",
       "message": "Merge pull request #65 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.2.1\n\nBump astral-sh/setup-uv from 7.2.0 to 7.2.1",

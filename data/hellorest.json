@@ -6,6 +6,86 @@
   "latest_release_time": "2025-12-26T20:00:20Z",
   "unreleased_commits": [
     {
+      "sha": "1ebfce2a5434b04e0fc9cbd9b46f175f8bb07c9e",
+      "author": "JaredHatfield",
+      "message": "Remove OIDC token and rollout trigger from workflow\n\nRemoved OIDC token retrieval and rollout trigger steps from the Docker build workflow.",
+      "timestamp": "2026-02-07T18:26:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/1ebfce2a5434b04e0fc9cbd9b46f175f8bb07c9e",
+      "is_merge": false
+    },
+    {
+      "sha": "012a67558f21ca053bba514a877138580a4cdf7e",
+      "author": "JaredHatfield",
+      "message": "Add OIDC token retrieval and rollout trigger steps",
+      "timestamp": "2026-02-07T16:31:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/012a67558f21ca053bba514a877138580a4cdf7e",
+      "is_merge": false
+    },
+    {
+      "sha": "950dfeabe8f7944709cce412d8fbbe3fec416eb5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #50 from UnitVectorY-Labs/go-v1.25.7\n\nUpdate Go version to 1.25.7",
+      "timestamp": "2026-02-07T12:56:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/950dfeabe8f7944709cce412d8fbbe3fec416eb5",
+      "is_merge": true
+    },
+    {
+      "sha": "b684d3d35d2fca35412e1bfc0fead53d152c635c",
+      "author": "JaredHatfield",
+      "message": "Merge branch 'main' into go-v1.25.7",
+      "timestamp": "2026-02-07T12:46:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/b684d3d35d2fca35412e1bfc0fead53d152c635c",
+      "is_merge": true
+    },
+    {
+      "sha": "43567fce21bb2edb11b6ae9b5ccffa18ffe22a94",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #48 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.32.2\n\nBump github/codeql-action from 4.32.0 to 4.32.2",
+      "timestamp": "2026-02-07T12:07:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/43567fce21bb2edb11b6ae9b5ccffa18ffe22a94",
+      "is_merge": true
+    },
+    {
+      "sha": "b00d4817d11446a107e747688cfd8156a2fc1c86",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action from 4.32.0 to 4.32.2\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.32.0 to 4.32.2.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/b20883b0cd1f46c72ae0ba6d1090936928f9fa30...45cbd0c69e560cd9e7cd7f8c32362050c9b7ded2)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.32.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-07T11:59:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/b00d4817d11446a107e747688cfd8156a2fc1c86",
+      "is_merge": false
+    },
+    {
+      "sha": "78fc556d97afd4101e72e72b37291af0fdb547df",
+      "author": "JaredHatfield",
+      "message": "Change runner to ubuntu-latest for build job",
+      "timestamp": "2026-02-07T11:58:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/78fc556d97afd4101e72e72b37291af0fdb547df",
+      "is_merge": false
+    },
+    {
+      "sha": "9a95cfae43446a8d8481dc7e50d3f128ba6c2fc8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #47 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.3.0\n\nBump astral-sh/setup-uv from 7.2.1 to 7.3.0",
+      "timestamp": "2026-02-07T11:50:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/9a95cfae43446a8d8481dc7e50d3f128ba6c2fc8",
+      "is_merge": true
+    },
+    {
+      "sha": "7e5b36ba18d5338e99f3ae047070c00544075825",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.25.7",
+      "timestamp": "2026-02-07T11:40:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/7e5b36ba18d5338e99f3ae047070c00544075825",
+      "is_merge": false
+    },
+    {
+      "sha": "c6e5afd6dc2e907883a7b7c716809251c9ff6830",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 7.2.1 to 7.3.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.2.1 to 7.3.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/803947b9bd8e9f986429fa0c5a41c367cd732b41...eac588ad8def6316056a12d4907a9d4d84ff7a3b)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.3.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-07T11:04:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/c6e5afd6dc2e907883a7b7c716809251c9ff6830",
+      "is_merge": false
+    },
+    {
       "sha": "0d2440e056899f84764a1c04a22342bd8055057b",
       "author": "JaredHatfield",
       "message": "Merge pull request #44 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-3.2.0\n\nBump actions/attest-build-provenance from 3.1.0 to 3.2.0",
