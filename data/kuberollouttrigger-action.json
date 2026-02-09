@@ -1,0 +1,34 @@
+{
+  "owner": "UnitVectorY-Labs",
+  "name": "kuberollouttrigger-action",
+  "default_branch": "main",
+  "latest_release_tag": "v0.1.0",
+  "latest_release_time": "2026-02-08T02:53:36Z",
+  "unreleased_commits": [
+    {
+      "sha": "4f1a188ad40a398e0e033d4251258909569595c8",
+      "author": "JaredHatfield",
+      "message": "Update dependabot configuration for npm support",
+      "timestamp": "2026-02-08T20:06:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/4f1a188ad40a398e0e033d4251258909569595c8",
+      "is_merge": false
+    },
+    {
+      "sha": "9bca9e514f3224eea831ecc6e7601a15510c3bae",
+      "author": "JaredHatfield",
+      "message": "Change Dependabot configuration documentation link\n\nUpdated the documentation link for Dependabot configuration.",
+      "timestamp": "2026-02-08T20:06:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/9bca9e514f3224eea831ecc6e7601a15510c3bae",
+      "is_merge": false
+    },
+    {
+      "sha": "bce05f3d0fb693bbbbf92d7ccf70672617cda4c0",
+      "author": "JaredHatfield",
+      "message": "Update README with detailed action description\n\nClarified the description of the kuberollouttrigger-action to specify its purpose in continuous deployment.",
+      "timestamp": "2026-02-08T03:02:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/bce05f3d0fb693bbbbf92d7ccf70672617cda4c0",
+      "is_merge": false
+    }
+  ],
+  "repository_url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action"
+}

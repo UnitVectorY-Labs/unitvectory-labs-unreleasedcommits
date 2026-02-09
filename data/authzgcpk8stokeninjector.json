@@ -6,6 +6,30 @@
   "latest_release_time": "2025-10-21T00:11:20Z",
   "unreleased_commits": [
     {
+      "sha": "fdbcc258936bda14ef213074f3a995b9570451ce",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #71 from UnitVectorY-Labs/bulkfilepr/06ed74aea916\n\nUpdate .github/workflows/build-go.yml",
+      "timestamp": "2026-02-08T23:12:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/fdbcc258936bda14ef213074f3a995b9570451ce",
+      "is_merge": true
+    },
+    {
+      "sha": "723093694ba9f13c8e3f4a586b7771cf781d531f",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/build-go.yml",
+      "timestamp": "2026-02-08T23:03:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/723093694ba9f13c8e3f4a586b7771cf781d531f",
+      "is_merge": false
+    },
+    {
+      "sha": "9c873d207c311871ffb343fde3961afbefce86e2",
+      "author": "JaredHatfield",
+      "message": "Update dependabot.yml",
+      "timestamp": "2026-02-08T20:11:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/9c873d207c311871ffb343fde3961afbefce86e2",
+      "is_merge": false
+    },
+    {
       "sha": "be24ac1f88d6b4924f487dedc3e6ca3cd499eb6f",
       "author": "JaredHatfield",
       "message": "Merge pull request #70 from UnitVectorY-Labs/go-v1.25.7\n\nUpdate Go version to 1.25.7",

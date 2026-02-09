@@ -6,6 +6,30 @@
   "latest_release_time": "2025-10-22T00:48:38Z",
   "unreleased_commits": [
     {
+      "sha": "6a77d6f6eea7683d4ebeba6dcaf02cfc146a99eb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #39 from UnitVectorY-Labs/bulkfilepr/06ed74aea916\n\nUpdate .github/workflows/build-go.yml",
+      "timestamp": "2026-02-08T23:13:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/6a77d6f6eea7683d4ebeba6dcaf02cfc146a99eb",
+      "is_merge": true
+    },
+    {
+      "sha": "c37d18309419ca386d2c736f434a7d16e94a5c31",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/build-go.yml",
+      "timestamp": "2026-02-08T23:02:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/c37d18309419ca386d2c736f434a7d16e94a5c31",
+      "is_merge": false
+    },
+    {
+      "sha": "70d77ecd34e1404048c5eddc03894ba2630fd37c",
+      "author": "JaredHatfield",
+      "message": "Update dependabot.yml",
+      "timestamp": "2026-02-08T19:45:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/70d77ecd34e1404048c5eddc03894ba2630fd37c",
+      "is_merge": false
+    },
+    {
       "sha": "90031e98d3026544554e28823ccd55b1da417475",
       "author": "JaredHatfield",
       "message": "Merge pull request #38 from UnitVectorY-Labs/go-v1.25.7\n\nUpdate Go version to 1.25.7",

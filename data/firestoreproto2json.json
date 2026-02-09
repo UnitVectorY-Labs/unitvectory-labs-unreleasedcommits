@@ -6,6 +6,14 @@
   "latest_release_time": "2025-11-29T14:40:13Z",
   "unreleased_commits": [
     {
+      "sha": "63de92e0360dc623424bd6cc49bb16dcb25d0c31",
+      "author": "JaredHatfield",
+      "message": "Update dependabot.yml",
+      "timestamp": "2026-02-08T19:57:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/63de92e0360dc623424bd6cc49bb16dcb25d0c31",
+      "is_merge": false
+    },
+    {
       "sha": "a79a450986b846a3126af4747d83bcccfc3e8a16",
       "author": "JaredHatfield",
       "message": "Merge pull request #132 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-compiler-plugin-3.15.0\n\nBump org.apache.maven.plugins:maven-compiler-plugin from 3.14.1 to 3.15.0",

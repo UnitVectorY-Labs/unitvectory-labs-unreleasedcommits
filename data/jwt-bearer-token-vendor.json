@@ -6,6 +6,22 @@
   "latest_release_time": "2025-12-06T18:46:02Z",
   "unreleased_commits": [
     {
+      "sha": "3a8167a5ec7ec2b4cd44171618062ca0e3f8e351",
+      "author": "JaredHatfield",
+      "message": "Update dependabot configuration for npm",
+      "timestamp": "2026-02-08T20:06:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/jwt-bearer-token-vendor/commit/3a8167a5ec7ec2b4cd44171618062ca0e3f8e351",
+      "is_merge": false
+    },
+    {
+      "sha": "fc8636208cb0ddf2986bfeedb11608acb1188d5b",
+      "author": "JaredHatfield",
+      "message": "Update Dependabot configuration URL",
+      "timestamp": "2026-02-08T20:06:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/jwt-bearer-token-vendor/commit/fc8636208cb0ddf2986bfeedb11608acb1188d5b",
+      "is_merge": false
+    },
+    {
       "sha": "c632ef866823ee31f499340da982f0d54f99b246",
       "author": "JaredHatfield",
       "message": "Merge pull request #25 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.3.0\n\nBump astral-sh/setup-uv from 7.2.1 to 7.3.0",

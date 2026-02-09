@@ -6,6 +6,14 @@
   "latest_release_time": "2025-10-22T00:51:12Z",
   "unreleased_commits": [
     {
+      "sha": "465ebcc45662bedbb00a181f81fde2849e028d88",
+      "author": "JaredHatfield",
+      "message": "Update dependabot.yml",
+      "timestamp": "2026-02-08T19:56:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/465ebcc45662bedbb00a181f81fde2849e028d88",
+      "is_merge": false
+    },
+    {
       "sha": "39f3fa2245bc76c382ad9b849ddb247c45a142ae",
       "author": "JaredHatfield",
       "message": "Merge pull request #83 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-compiler-plugin-3.15.0\n\nBump org.apache.maven.plugins:maven-compiler-plugin from 3.14.1 to 3.15.0",

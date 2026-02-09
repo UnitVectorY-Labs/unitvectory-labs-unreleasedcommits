@@ -6,6 +6,30 @@
   "latest_release_time": "2025-10-08T00:02:14Z",
   "unreleased_commits": [
     {
+      "sha": "731e45af1439e962d03c1b3139d60f5937ddacc4",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #35 from UnitVectorY-Labs/bulkfilepr/06ed74aea916\n\nUpdate .github/workflows/build-go.yml",
+      "timestamp": "2026-02-08T23:13:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/731e45af1439e962d03c1b3139d60f5937ddacc4",
+      "is_merge": true
+    },
+    {
+      "sha": "cc269cbbdafd4b4c6284f6bcbe0d910119a1f2b1",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/build-go.yml",
+      "timestamp": "2026-02-08T23:04:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/cc269cbbdafd4b4c6284f6bcbe0d910119a1f2b1",
+      "is_merge": false
+    },
+    {
+      "sha": "17b5c740b813d9e1e99ede3428ce6feed30471c8",
+      "author": "JaredHatfield",
+      "message": "Update dependabot.yml",
+      "timestamp": "2026-02-08T19:45:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/17b5c740b813d9e1e99ede3428ce6feed30471c8",
+      "is_merge": false
+    },
+    {
       "sha": "f282c6f79e9fd67d446e1d6cc5e8141f06439f2c",
       "author": "JaredHatfield",
       "message": "Merge pull request #33 from UnitVectorY-Labs/go-v1.25.7\n\nUpdate Go version to 1.25.7",

@@ -6,6 +6,30 @@
   "latest_release_time": "2025-10-14T01:37:54Z",
   "unreleased_commits": [
     {
+      "sha": "b7664739687dbb8e297220ca934bfdd6a84ab959",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #30 from UnitVectorY-Labs/bulkfilepr/06ed74aea916\n\nUpdate .github/workflows/build-go.yml",
+      "timestamp": "2026-02-08T23:12:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/b7664739687dbb8e297220ca934bfdd6a84ab959",
+      "is_merge": true
+    },
+    {
+      "sha": "e73a0f333d484fde0215ec9de31a011b7ecc065f",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/build-go.yml",
+      "timestamp": "2026-02-08T23:03:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/e73a0f333d484fde0215ec9de31a011b7ecc065f",
+      "is_merge": false
+    },
+    {
+      "sha": "78e55bb6fea34142f62b4e5e8668449c4ea39910",
+      "author": "JaredHatfield",
+      "message": "Update dependabot.yml",
+      "timestamp": "2026-02-08T19:44:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/78e55bb6fea34142f62b4e5e8668449c4ea39910",
+      "is_merge": false
+    },
+    {
       "sha": "2ad37d528617ed800a68f89d101a18c1abb14782",
       "author": "JaredHatfield",
       "message": "Merge pull request #29 from UnitVectorY-Labs/go-v1.25.7\n\nUpdate Go version to 1.25.7",

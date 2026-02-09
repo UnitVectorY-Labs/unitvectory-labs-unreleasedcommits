@@ -6,6 +6,22 @@
   "latest_release_time": "2026-01-13T00:03:59Z",
   "unreleased_commits": [
     {
+      "sha": "deaccb183858d4632a7d876e64341494e32d3270",
+      "author": "JaredHatfield",
+      "message": "Update dependabot.yml",
+      "timestamp": "2026-02-08T20:11:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/deaccb183858d4632a7d876e64341494e32d3270",
+      "is_merge": false
+    },
+    {
+      "sha": "231b1505fee2da313cfd64a8c98204ae7b0ae16e",
+      "author": "JaredHatfield",
+      "message": "Add Go Report Card badge to README\n\nAdded Go Report Card badge to README.",
+      "timestamp": "2026-02-08T03:10:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/231b1505fee2da313cfd64a8c98204ae7b0ae16e",
+      "is_merge": false
+    },
+    {
       "sha": "fb6665d50e86186b487a56d1c1e9878af478a04c",
       "author": "JaredHatfield",
       "message": "Merge pull request #19 from UnitVectorY-Labs/go-v1.25.7\n\nUpdate Go version to 1.25.7",

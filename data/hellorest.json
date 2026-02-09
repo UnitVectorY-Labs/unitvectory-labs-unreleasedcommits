@@ -6,6 +6,22 @@
   "latest_release_time": "2025-12-26T20:00:20Z",
   "unreleased_commits": [
     {
+      "sha": "d8d80b1e249bc9bf4a9693fdb9c4f425e04aa2d2",
+      "author": "JaredHatfield",
+      "message": "Update dependabot.yml",
+      "timestamp": "2026-02-08T20:11:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/d8d80b1e249bc9bf4a9693fdb9c4f425e04aa2d2",
+      "is_merge": false
+    },
+    {
+      "sha": "0a4400caa17cc504bfd1359ff1d8511648ce567d",
+      "author": "JaredHatfield",
+      "message": "Add trigger-rollout job to Docker build workflow\n\nAdded a new job to trigger rollout after build and push.",
+      "timestamp": "2026-02-08T03:00:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/0a4400caa17cc504bfd1359ff1d8511648ce567d",
+      "is_merge": false
+    },
+    {
       "sha": "1ebfce2a5434b04e0fc9cbd9b46f175f8bb07c9e",
       "author": "JaredHatfield",
       "message": "Remove OIDC token and rollout trigger from workflow\n\nRemoved OIDC token retrieval and rollout trigger steps from the Docker build workflow.",

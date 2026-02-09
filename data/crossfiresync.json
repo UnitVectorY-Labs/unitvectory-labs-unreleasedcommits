@@ -6,6 +6,22 @@
   "latest_release_time": "2025-10-26T12:30:45Z",
   "unreleased_commits": [
     {
+      "sha": "e8af516b526087f133605867a529ef9d1f3ff4c9",
+      "author": "JaredHatfield",
+      "message": "Update dependabot.yml",
+      "timestamp": "2026-02-08T19:56:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/e8af516b526087f133605867a529ef9d1f3ff4c9",
+      "is_merge": false
+    },
+    {
+      "sha": "b178e95feae707346733f77fde234e3293c3a5a8",
+      "author": "JaredHatfield",
+      "message": "Delete .devcontainer/devcontainer.json",
+      "timestamp": "2026-02-08T19:53:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/b178e95feae707346733f77fde234e3293c3a5a8",
+      "is_merge": false
+    },
+    {
       "sha": "06f4b5e3816e5d69efe9018f01270afb149fb49e",
       "author": "JaredHatfield",
       "message": "Merge pull request #162 from UnitVectorY-Labs/dependabot/maven/com.google.cloud-libraries-bom-26.75.0\n\nBump com.google.cloud:libraries-bom from 26.74.0 to 26.75.0",

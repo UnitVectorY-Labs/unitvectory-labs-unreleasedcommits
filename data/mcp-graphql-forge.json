@@ -6,6 +6,30 @@
   "latest_release_time": "2025-12-17T03:12:52Z",
   "unreleased_commits": [
     {
+      "sha": "79d87ea9f50d4b39e3f31a195a3b45ba60aa44d0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #58 from UnitVectorY-Labs/bulkfilepr/06ed74aea916\n\nUpdate .github/workflows/build-go.yml",
+      "timestamp": "2026-02-08T23:12:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/79d87ea9f50d4b39e3f31a195a3b45ba60aa44d0",
+      "is_merge": true
+    },
+    {
+      "sha": "c500c1da4a8849a39db0c87932d3b9a617690682",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/build-go.yml",
+      "timestamp": "2026-02-08T23:03:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/c500c1da4a8849a39db0c87932d3b9a617690682",
+      "is_merge": false
+    },
+    {
+      "sha": "0fa875840e375dd226c80679c6debe9325eb1ae3",
+      "author": "JaredHatfield",
+      "message": "Update dependabot.yml",
+      "timestamp": "2026-02-08T19:44:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/0fa875840e375dd226c80679c6debe9325eb1ae3",
+      "is_merge": false
+    },
+    {
       "sha": "9928eb8790064740fe2f6afed962056f439c535d",
       "author": "JaredHatfield",
       "message": "Merge pull request #57 from UnitVectorY-Labs/go-v1.25.7\n\nUpdate Go version to 1.25.7",

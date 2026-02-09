@@ -6,6 +6,30 @@
   "latest_release_time": "2025-10-14T01:27:05Z",
   "unreleased_commits": [
     {
+      "sha": "49c350854de94b2a7dff8a0c0959f9e537622c6c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #26 from UnitVectorY-Labs/bulkfilepr/06ed74aea916\n\nUpdate .github/workflows/build-go.yml",
+      "timestamp": "2026-02-08T23:13:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/49c350854de94b2a7dff8a0c0959f9e537622c6c",
+      "is_merge": true
+    },
+    {
+      "sha": "8302c491a095b2bc37acdbdc99aaa8e429ce731a",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/build-go.yml",
+      "timestamp": "2026-02-08T23:04:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/8302c491a095b2bc37acdbdc99aaa8e429ce731a",
+      "is_merge": false
+    },
+    {
+      "sha": "564a664f5be33bb9f8cd01ae89b53630d40f51e3",
+      "author": "JaredHatfield",
+      "message": "Update dependabot.yml",
+      "timestamp": "2026-02-08T19:45:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/564a664f5be33bb9f8cd01ae89b53630d40f51e3",
+      "is_merge": false
+    },
+    {
       "sha": "be720764d3444835f3400f8c1ccc68f38f770201",
       "author": "JaredHatfield",
       "message": "Merge pull request #25 from UnitVectorY-Labs/go-v1.25.7\n\nUpdate Go version to 1.25.7",

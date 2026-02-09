@@ -6,6 +6,30 @@
   "latest_release_time": "2026-01-01T19:27:46Z",
   "unreleased_commits": [
     {
+      "sha": "093cd034e130fb67cfe64a17e638338968b95696",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #13 from UnitVectorY-Labs/bulkfilepr/06ed74aea916\n\nUpdate .github/workflows/build-go.yml",
+      "timestamp": "2026-02-08T23:13:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpvalidate/commit/093cd034e130fb67cfe64a17e638338968b95696",
+      "is_merge": true
+    },
+    {
+      "sha": "a11e53845165c120644b413d4047c238ab696dc1",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/build-go.yml",
+      "timestamp": "2026-02-08T23:04:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpvalidate/commit/a11e53845165c120644b413d4047c238ab696dc1",
+      "is_merge": false
+    },
+    {
+      "sha": "aa729e38d6af658b33c1322083852989ceedf389",
+      "author": "JaredHatfield",
+      "message": "Update dependabot.yml",
+      "timestamp": "2026-02-08T19:44:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpvalidate/commit/aa729e38d6af658b33c1322083852989ceedf389",
+      "is_merge": false
+    },
+    {
       "sha": "3891e5ab363822720ebee12a8e8d0a1d23bf82c2",
       "author": "JaredHatfield",
       "message": "Merge pull request #11 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.3.0\n\nBump astral-sh/setup-uv from 7.2.1 to 7.3.0",

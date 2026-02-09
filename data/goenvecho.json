@@ -6,6 +6,38 @@
   "latest_release_time": "2026-01-03T18:06:29Z",
   "unreleased_commits": [
     {
+      "sha": "ffc091b2961770d7b9c868d698025db282f3e414",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #46 from UnitVectorY-Labs/bulkfilepr/06ed74aea916\n\nUpdate .github/workflows/build-go.yml",
+      "timestamp": "2026-02-08T23:11:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/ffc091b2961770d7b9c868d698025db282f3e414",
+      "is_merge": true
+    },
+    {
+      "sha": "9837cc77f56663f78df3b2e4b5201a458338527a",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/build-go.yml",
+      "timestamp": "2026-02-08T23:04:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/9837cc77f56663f78df3b2e4b5201a458338527a",
+      "is_merge": false
+    },
+    {
+      "sha": "edc5ebf5be109dbd7ee3c0900f46448d886b91b1",
+      "author": "JaredHatfield",
+      "message": "Update dependabot.yml",
+      "timestamp": "2026-02-08T20:11:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/edc5ebf5be109dbd7ee3c0900f46448d886b91b1",
+      "is_merge": false
+    },
+    {
+      "sha": "603be7c0e1aa1c6ae56b15e8ffc64bf714bc09be",
+      "author": "JaredHatfield",
+      "message": "Update Docker build workflow with rollout trigger\n\nUpdated checkout action version and added rollout trigger steps.",
+      "timestamp": "2026-02-08T03:35:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/603be7c0e1aa1c6ae56b15e8ffc64bf714bc09be",
+      "is_merge": false
+    },
+    {
       "sha": "689aa5899cda5d374252e865db7acb039f79962a",
       "author": "JaredHatfield",
       "message": "Merge pull request #45 from UnitVectorY-Labs/go-v1.25.7\n\nUpdate Go version to 1.25.7",
