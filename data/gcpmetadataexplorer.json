@@ -6,6 +6,22 @@
   "latest_release_time": "2025-10-07T22:58:05Z",
   "unreleased_commits": [
     {
+      "sha": "b801928d77f14087a0798569725553f4d553db1f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #49 from UnitVectorY-Labs/version-fix\n\nfix: set build version from build info if not defined",
+      "timestamp": "2026-02-09T02:52:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/b801928d77f14087a0798569725553f4d553db1f",
+      "is_merge": true
+    },
+    {
+      "sha": "08ea4a8639711179927d6a22f90258d8f4241b36",
+      "author": "JaredHatfield",
+      "message": "fix: set build version from build info if not defined",
+      "timestamp": "2026-02-09T02:46:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/08ea4a8639711179927d6a22f90258d8f4241b36",
+      "is_merge": false
+    },
+    {
       "sha": "1d3b2c634812b4e77a0f957f13056b42de69489f",
       "author": "JaredHatfield",
       "message": "Merge pull request #48 from UnitVectorY-Labs/bulkfilepr/06ed74aea916\n\nUpdate .github/workflows/build-go.yml",

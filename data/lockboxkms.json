@@ -6,6 +6,30 @@
   "latest_release_time": "2025-11-22T16:02:58Z",
   "unreleased_commits": [
     {
+      "sha": "e894198307d110ccc10e04b6d9aa804e960a8986",
+      "author": "JaredHatfield",
+      "message": "fix: update actions/checkout version and add rollout trigger steps",
+      "timestamp": "2026-02-09T23:12:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/e894198307d110ccc10e04b6d9aa804e960a8986",
+      "is_merge": false
+    },
+    {
+      "sha": "45e34f821c27adecc27429f315354569d334430e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #124 from UnitVectorY-Labs/version-fix\n\nfix: set build version from build info if not defined",
+      "timestamp": "2026-02-09T02:54:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/45e34f821c27adecc27429f315354569d334430e",
+      "is_merge": true
+    },
+    {
+      "sha": "0ad144ff413e168c67f6848536ffc451caafbf01",
+      "author": "JaredHatfield",
+      "message": "fix: set build version from build info if not defined",
+      "timestamp": "2026-02-09T02:47:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/0ad144ff413e168c67f6848536ffc451caafbf01",
+      "is_merge": false
+    },
+    {
       "sha": "6c1826e8d112ef9c5c14269efc3ea6fe96adc319",
       "author": "JaredHatfield",
       "message": "Merge pull request #123 from UnitVectorY-Labs/bulkfilepr/06ed74aea916\n\nUpdate .github/workflows/build-go.yml",

@@ -6,6 +6,30 @@
   "latest_release_time": "2025-11-22T16:00:36Z",
   "unreleased_commits": [
     {
+      "sha": "ac7c084eeaa137665af125e5363c30edf3c8f71c",
+      "author": "JaredHatfield",
+      "message": "fix: update actions/checkout version and add rollout trigger steps",
+      "timestamp": "2026-02-09T23:05:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/ac7c084eeaa137665af125e5363c30edf3c8f71c",
+      "is_merge": false
+    },
+    {
+      "sha": "3c13693adb57ed2bb59864014a8fbd96e5c588da",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #59 from UnitVectorY-Labs/version-fix\n\nfix: set build version from build info if not defined",
+      "timestamp": "2026-02-09T02:52:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/3c13693adb57ed2bb59864014a8fbd96e5c588da",
+      "is_merge": true
+    },
+    {
+      "sha": "a0988816463d7563643f87eaf5b0c019b1dad75c",
+      "author": "JaredHatfield",
+      "message": "fix: set build version from build info if not defined",
+      "timestamp": "2026-02-09T02:46:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/a0988816463d7563643f87eaf5b0c019b1dad75c",
+      "is_merge": false
+    },
+    {
       "sha": "ab4485c0481bda0506417cd9d2ecc98051822b76",
       "author": "JaredHatfield",
       "message": "Merge pull request #58 from UnitVectorY-Labs/bulkfilepr/06ed74aea916\n\nUpdate .github/workflows/build-go.yml",

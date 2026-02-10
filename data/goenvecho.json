@@ -6,6 +6,22 @@
   "latest_release_time": "2026-01-03T18:06:29Z",
   "unreleased_commits": [
     {
+      "sha": "2068d5d50c5c7ddc4ab2a818cf07cbfdece502d2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #47 from UnitVectorY-Labs/version\n\nfeat: add versioning support to Docker build and application",
+      "timestamp": "2026-02-09T22:41:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/2068d5d50c5c7ddc4ab2a818cf07cbfdece502d2",
+      "is_merge": true
+    },
+    {
+      "sha": "bac6b23f521c0858582556b9033e4fae2d9da71c",
+      "author": "JaredHatfield",
+      "message": "feat: add versioning support to Docker build and application",
+      "timestamp": "2026-02-09T22:39:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/bac6b23f521c0858582556b9033e4fae2d9da71c",
+      "is_merge": false
+    },
+    {
       "sha": "ffc091b2961770d7b9c868d698025db282f3e414",
       "author": "JaredHatfield",
       "message": "Merge pull request #46 from UnitVectorY-Labs/bulkfilepr/06ed74aea916\n\nUpdate .github/workflows/build-go.yml",

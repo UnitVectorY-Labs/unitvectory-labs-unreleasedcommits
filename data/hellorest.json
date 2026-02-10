@@ -6,6 +6,22 @@
   "latest_release_time": "2025-12-26T20:00:20Z",
   "unreleased_commits": [
     {
+      "sha": "68ec49d4a2f1c5ed396c6f3afeb41eb23677d6a0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #51 from UnitVectorY-Labs/version\n\nfeat: add versioning support to Docker build and application",
+      "timestamp": "2026-02-09T22:53:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/68ec49d4a2f1c5ed396c6f3afeb41eb23677d6a0",
+      "is_merge": true
+    },
+    {
+      "sha": "37cbfd8a7c8caad65c42d43451202af6065f1172",
+      "author": "JaredHatfield",
+      "message": "feat: add versioning support to Docker build and application",
+      "timestamp": "2026-02-09T22:51:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/37cbfd8a7c8caad65c42d43451202af6065f1172",
+      "is_merge": false
+    },
+    {
       "sha": "d8d80b1e249bc9bf4a9693fdb9c4f425e04aa2d2",
       "author": "JaredHatfield",
       "message": "Update dependabot.yml",

@@ -2,25 +2,8 @@
   "owner": "UnitVectorY-Labs",
   "name": "bulkfilepr",
   "default_branch": "main",
-  "latest_release_tag": "v0.2.0",
-  "latest_release_time": "2026-02-08T22:34:19Z",
-  "unreleased_commits": [
-    {
-      "sha": "3ccaadc899cca519de8a81fb3dab62c3f04027ae",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #12 from UnitVectorY-Labs/bulkfilepr/06ed74aea916\n\nUpdate .github/workflows/build-go.yml",
-      "timestamp": "2026-02-08T23:14:00Z",
-      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/3ccaadc899cca519de8a81fb3dab62c3f04027ae",
-      "is_merge": true
-    },
-    {
-      "sha": "bb646ddd07d950adc66245537b61b80cf863cbdc",
-      "author": "JaredHatfield",
-      "message": "chore: update .github/workflows/build-go.yml",
-      "timestamp": "2026-02-08T23:04:16Z",
-      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/bb646ddd07d950adc66245537b61b80cf863cbdc",
-      "is_merge": false
-    }
-  ],
+  "latest_release_tag": "v0.2.2",
+  "latest_release_time": "2026-02-09T02:18:16Z",
+  "unreleased_commits": null,
   "repository_url": "https://github.com/UnitVectorY-Labs/bulkfilepr"
 }
