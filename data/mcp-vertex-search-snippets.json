@@ -4,6 +4,23 @@
   "default_branch": "main",
   "latest_release_tag": "v0.2.0",
   "latest_release_time": "2026-02-09T03:05:26Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "99af807f231588d2797fe3eb6dcb6a6219774e72",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #37 from UnitVectorY-Labs/bulkfilepr/c9b4e5a2c624\n\nUpdate .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:29:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/99af807f231588d2797fe3eb6dcb6a6219774e72",
+      "is_merge": true
+    },
+    {
+      "sha": "e7cb7ac036b1e25507c902736ca5d75ceba210eb",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:20:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/e7cb7ac036b1e25507c902736ca5d75ceba210eb",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets"
 }

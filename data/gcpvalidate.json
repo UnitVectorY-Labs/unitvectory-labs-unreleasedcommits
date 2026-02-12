@@ -6,6 +6,22 @@
   "latest_release_time": "2026-01-01T19:27:46Z",
   "unreleased_commits": [
     {
+      "sha": "113f69388049e90b007a561e8b2939a99bdb7b21",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #14 from UnitVectorY-Labs/bulkfilepr/c9b4e5a2c624\n\nUpdate .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:29:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpvalidate/commit/113f69388049e90b007a561e8b2939a99bdb7b21",
+      "is_merge": true
+    },
+    {
+      "sha": "189f4ae2b0cb47e15b86352e104513a7af6065d8",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:20:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpvalidate/commit/189f4ae2b0cb47e15b86352e104513a7af6065d8",
+      "is_merge": false
+    },
+    {
       "sha": "093cd034e130fb67cfe64a17e638338968b95696",
       "author": "JaredHatfield",
       "message": "Merge pull request #13 from UnitVectorY-Labs/bulkfilepr/06ed74aea916\n\nUpdate .github/workflows/build-go.yml",

@@ -6,6 +6,14 @@
   "latest_release_time": "2026-01-13T00:03:59Z",
   "unreleased_commits": [
     {
+      "sha": "e813dd249e6fd97c90c20076fa9c95a82c6dd5f8",
+      "author": "JaredHatfield",
+      "message": "Enhance Docker build process and version handling\n\n- Update Dockerfile to inject version at build time\n- Modify main.go to log the application version and set it from build info if not provided\n- Refactor GitHub Actions workflow for multi-architecture support and improved concurrency",
+      "timestamp": "2026-02-11T01:32:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/e813dd249e6fd97c90c20076fa9c95a82c6dd5f8",
+      "is_merge": false
+    },
+    {
       "sha": "deaccb183858d4632a7d876e64341494e32d3270",
       "author": "JaredHatfield",
       "message": "Update dependabot.yml",

@@ -6,6 +6,30 @@
   "latest_release_time": "2025-10-21T00:11:20Z",
   "unreleased_commits": [
     {
+      "sha": "19d0ef3064becc4a6c3f3b6fcdf44f7ff3a374bc",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #72 from UnitVectorY-Labs/bulkfilepr/c9b4e5a2c624\n\nUpdate .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:28:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/19d0ef3064becc4a6c3f3b6fcdf44f7ff3a374bc",
+      "is_merge": true
+    },
+    {
+      "sha": "5b29038a4e7ffd66d7e38698da10f57c45a4ce04",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:19:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/5b29038a4e7ffd66d7e38698da10f57c45a4ce04",
+      "is_merge": false
+    },
+    {
+      "sha": "a2131cc9b6f0b89b5b5866df27da04b7a22557f3",
+      "author": "JaredHatfield",
+      "message": "feat: enhance Docker workflow for multi-arch builds and versioning\n\n- Updated Dockerfile to support version injection during build\n- Modified GitHub Actions workflow to build and push multi-arch Docker images\n- Added version logging in main application",
+      "timestamp": "2026-02-11T01:53:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/a2131cc9b6f0b89b5b5866df27da04b7a22557f3",
+      "is_merge": false
+    },
+    {
       "sha": "fdbcc258936bda14ef213074f3a995b9570451ce",
       "author": "JaredHatfield",
       "message": "Merge pull request #71 from UnitVectorY-Labs/bulkfilepr/06ed74aea916\n\nUpdate .github/workflows/build-go.yml",

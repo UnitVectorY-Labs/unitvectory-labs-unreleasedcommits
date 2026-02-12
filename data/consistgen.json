@@ -6,6 +6,22 @@
   "latest_release_time": "2025-10-20T23:04:50Z",
   "unreleased_commits": [
     {
+      "sha": "dd33841933a958f72a414533cfe311bacc640fac",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #68 from UnitVectorY-Labs/bulkfilepr/c9b4e5a2c624\n\nUpdate .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:27:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/dd33841933a958f72a414533cfe311bacc640fac",
+      "is_merge": true
+    },
+    {
+      "sha": "e93458fb99fcfd27077ee3e534a0ac0a81a452ce",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:17:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/e93458fb99fcfd27077ee3e534a0ac0a81a452ce",
+      "is_merge": false
+    },
+    {
       "sha": "146f2c40392f44b71a906d3f38493c8f58643296",
       "author": "JaredHatfield",
       "message": "Update dependabot.yml",

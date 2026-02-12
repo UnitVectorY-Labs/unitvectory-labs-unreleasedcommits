@@ -6,6 +6,30 @@
   "latest_release_time": "2025-12-06T19:53:32Z",
   "unreleased_commits": [
     {
+      "sha": "9e11363a509c877404996524826254c5d9112055",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #26 from UnitVectorY-Labs/bulkfilepr/c9b4e5a2c624\n\nUpdate .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:29:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/9e11363a509c877404996524826254c5d9112055",
+      "is_merge": true
+    },
+    {
+      "sha": "1f84f1290eb39ded73f0c978f9301fb552b792d5",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:19:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/1f84f1290eb39ded73f0c978f9301fb552b792d5",
+      "is_merge": false
+    },
+    {
+      "sha": "b1148d1d7038449d0fb5aeede4afbcedc3c1374e",
+      "author": "JaredHatfield",
+      "message": "feat: enhance Docker workflow for multi-architecture builds and versioning\n\n- Updated Dockerfile to support version injection and run as non-root user.\n- Modified GitHub Actions workflow to build and push multi-arch Docker images.\n- Added logic to set application version based on build info in main.go.",
+      "timestamp": "2026-02-11T02:23:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/b1148d1d7038449d0fb5aeede4afbcedc3c1374e",
+      "is_merge": false
+    },
+    {
       "sha": "197e8faa176d29edd44e6ca5de49079326b3fef8",
       "author": "JaredHatfield",
       "message": "Merge pull request #25 from UnitVectorY-Labs/bulkfilepr/06ed74aea916\n\nUpdate .github/workflows/build-go.yml",

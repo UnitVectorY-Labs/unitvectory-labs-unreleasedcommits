@@ -6,6 +6,30 @@
   "latest_release_time": "2026-01-03T18:06:29Z",
   "unreleased_commits": [
     {
+      "sha": "41a6bbd4bf95e8cde13f9a77d317d9a53d76e63d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #48 from UnitVectorY-Labs/bulkfilepr/c9b4e5a2c624\n\nUpdate .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:28:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/41a6bbd4bf95e8cde13f9a77d317d9a53d76e63d",
+      "is_merge": true
+    },
+    {
+      "sha": "07d1931ff9b02ec8c3f684a32dba319b8777c8b3",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:20:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/07d1931ff9b02ec8c3f684a32dba319b8777c8b3",
+      "is_merge": false
+    },
+    {
+      "sha": "c01cb350abc0dfc09e0d3ed525a3b216a4fc3b9c",
+      "author": "JaredHatfield",
+      "message": "Refactor Docker build workflow for multi-architecture",
+      "timestamp": "2026-02-11T01:22:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/c01cb350abc0dfc09e0d3ed525a3b216a4fc3b9c",
+      "is_merge": false
+    },
+    {
       "sha": "2068d5d50c5c7ddc4ab2a818cf07cbfdece502d2",
       "author": "JaredHatfield",
       "message": "Merge pull request #47 from UnitVectorY-Labs/version\n\nfeat: add versioning support to Docker build and application",

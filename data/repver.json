@@ -4,6 +4,23 @@
   "default_branch": "main",
   "latest_release_tag": "v0.4.0",
   "latest_release_time": "2026-02-09T03:04:55Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "1c29aee272f81220b50f1272e64a5727faea696d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #34 from UnitVectorY-Labs/bulkfilepr/c9b4e5a2c624\n\nUpdate .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:29:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/1c29aee272f81220b50f1272e64a5727faea696d",
+      "is_merge": true
+    },
+    {
+      "sha": "e1861974081a27c6a447a8fd603bdd64106d8afe",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:16:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/e1861974081a27c6a447a8fd603bdd64106d8afe",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/repver"
 }

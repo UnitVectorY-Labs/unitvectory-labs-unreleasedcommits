@@ -4,6 +4,23 @@
   "default_branch": "main",
   "latest_release_tag": "v0.3.0",
   "latest_release_time": "2026-02-09T03:06:25Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "c51e445e0c6a7ddb60d0fd01972f37efe71bb4a2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #41 from UnitVectorY-Labs/bulkfilepr/c9b4e5a2c624\n\nUpdate .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:29:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/c51e445e0c6a7ddb60d0fd01972f37efe71bb4a2",
+      "is_merge": true
+    },
+    {
+      "sha": "3415906fa7e6b77047938cb8c589f213d8a07924",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:16:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/3415906fa7e6b77047938cb8c589f213d8a07924",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs"
 }

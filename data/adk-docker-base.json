@@ -6,6 +6,22 @@
   "latest_release_time": "2025-10-25T13:36:20Z",
   "unreleased_commits": [
     {
+      "sha": "5163609116193436ebf9327d81564ff542213586",
+      "author": "JaredHatfield",
+      "message": "Enhance Docker build workflow for multi-arch support\n\nRefactor Docker build workflow to support multi-architecture builds and improve concurrency management.",
+      "timestamp": "2026-02-11T01:37:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/5163609116193436ebf9327d81564ff542213586",
+      "is_merge": false
+    },
+    {
+      "sha": "39c92d438a9374d63481cb1468f895e0ab14572c",
+      "author": "JaredHatfield",
+      "message": "Add VERSION build argument to Dockerfile\n\nAdded a build argument for version injection.",
+      "timestamp": "2026-02-11T01:36:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/39c92d438a9374d63481cb1468f895e0ab14572c",
+      "is_merge": false
+    },
+    {
       "sha": "ad695687da9804f2761f2caaaf6b2a6f316e026b",
       "author": "JaredHatfield",
       "message": "Update dependabot configuration for pip ecosystem",

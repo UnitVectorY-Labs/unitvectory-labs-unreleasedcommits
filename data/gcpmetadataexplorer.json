@@ -6,6 +6,30 @@
   "latest_release_time": "2025-10-07T22:58:05Z",
   "unreleased_commits": [
     {
+      "sha": "85c24b07d36a06396965437e7aead8b9afbda66f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #50 from UnitVectorY-Labs/bulkfilepr/c9b4e5a2c624\n\nUpdate .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:28:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/85c24b07d36a06396965437e7aead8b9afbda66f",
+      "is_merge": true
+    },
+    {
+      "sha": "7e3c4fb92f45be29c538943207ff564af63b29e3",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:19:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/7e3c4fb92f45be29c538943207ff564af63b29e3",
+      "is_merge": false
+    },
+    {
+      "sha": "16a5fdbff128f1de094b58771bcbb76d002dd724",
+      "author": "JaredHatfield",
+      "message": "feat: enhance Docker workflow for multi-architecture builds and update Dockerfile user permissions",
+      "timestamp": "2026-02-11T01:50:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/16a5fdbff128f1de094b58771bcbb76d002dd724",
+      "is_merge": false
+    },
+    {
       "sha": "b801928d77f14087a0798569725553f4d553db1f",
       "author": "JaredHatfield",
       "message": "Merge pull request #49 from UnitVectorY-Labs/version-fix\n\nfix: set build version from build info if not defined",

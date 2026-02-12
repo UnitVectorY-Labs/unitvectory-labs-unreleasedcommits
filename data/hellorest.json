@@ -6,6 +6,38 @@
   "latest_release_time": "2025-12-26T20:00:20Z",
   "unreleased_commits": [
     {
+      "sha": "8bf2c62949e089ba6c39b814d766f073bf2f7019",
+      "author": "JaredHatfield",
+      "message": "Change dependency from cleanup to manifest in rollout",
+      "timestamp": "2026-02-11T01:06:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/8bf2c62949e089ba6c39b814d766f073bf2f7019",
+      "is_merge": false
+    },
+    {
+      "sha": "cb32e91169a8fbf8efbf4e20e075fe90ab51b476",
+      "author": "JaredHatfield",
+      "message": "Modify Docker image tag to include multiple architectures\n\nUpdated Docker build workflow to use multiple tags for the image.",
+      "timestamp": "2026-02-11T01:04:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/cb32e91169a8fbf8efbf4e20e075fe90ab51b476",
+      "is_merge": false
+    },
+    {
+      "sha": "941ad4ae300e68ad340773bdda3319f6b0f1b514",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #52 from UnitVectorY-Labs/multi-arch-builds\n\nfeat: enhance Docker build workflow for multi-architecture support",
+      "timestamp": "2026-02-11T00:59:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/941ad4ae300e68ad340773bdda3319f6b0f1b514",
+      "is_merge": true
+    },
+    {
+      "sha": "22d1b4a4545cdf448e98d88dc95f7952ac6456e5",
+      "author": "JaredHatfield",
+      "message": "feat: enhance Docker build workflow for multi-architecture support",
+      "timestamp": "2026-02-11T00:52:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/22d1b4a4545cdf448e98d88dc95f7952ac6456e5",
+      "is_merge": false
+    },
+    {
       "sha": "68ec49d4a2f1c5ed396c6f3afeb41eb23677d6a0",
       "author": "JaredHatfield",
       "message": "Merge pull request #51 from UnitVectorY-Labs/version\n\nfeat: add versioning support to Docker build and application",

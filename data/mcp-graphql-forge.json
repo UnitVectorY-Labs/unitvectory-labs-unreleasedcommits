@@ -4,6 +4,23 @@
   "default_branch": "main",
   "latest_release_tag": "v0.10.0",
   "latest_release_time": "2026-02-09T03:03:04Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "cf644085bc5609953885611a2e1f7ca3cee0186e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #60 from UnitVectorY-Labs/bulkfilepr/c9b4e5a2c624\n\nUpdate .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:29:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/cf644085bc5609953885611a2e1f7ca3cee0186e",
+      "is_merge": true
+    },
+    {
+      "sha": "a5bba598adb714cc3f72c1fe61ba951c56811420",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:18:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/a5bba598adb714cc3f72c1fe61ba951c56811420",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge"
 }

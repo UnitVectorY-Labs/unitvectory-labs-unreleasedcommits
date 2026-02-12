@@ -6,6 +6,30 @@
   "latest_release_time": "2025-10-21T00:11:52Z",
   "unreleased_commits": [
     {
+      "sha": "d6f1887be26988754d70e26e31578ab563f83864",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #78 from UnitVectorY-Labs/bulkfilepr/c9b4e5a2c624\n\nUpdate .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:27:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/d6f1887be26988754d70e26e31578ab563f83864",
+      "is_merge": true
+    },
+    {
+      "sha": "616f1dcc3809287685723e46b69a1de0f30b9a08",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:20:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/616f1dcc3809287685723e46b69a1de0f30b9a08",
+      "is_merge": false
+    },
+    {
+      "sha": "41d77965055df8e865508aa9495b9f51038d59a7",
+      "author": "JaredHatfield",
+      "message": "feat: enhance Docker workflow for multi-arch builds and versioning\n\n- Updated Dockerfile to support version injection during build\n- Modified GitHub Actions workflow to build and push multi-arch Docker images\n- Added logic to set application version based on build info",
+      "timestamp": "2026-02-11T01:55:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/41d77965055df8e865508aa9495b9f51038d59a7",
+      "is_merge": false
+    },
+    {
       "sha": "542868d036b2a6e01444e2f29b38901dc9d89aaf",
       "author": "JaredHatfield",
       "message": "Merge pull request #77 from UnitVectorY-Labs/bulkfilepr/06ed74aea916\n\nUpdate .github/workflows/build-go.yml",

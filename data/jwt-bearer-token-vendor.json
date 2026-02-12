@@ -6,6 +6,22 @@
   "latest_release_time": "2025-12-06T18:46:02Z",
   "unreleased_commits": [
     {
+      "sha": "68f3fdbc29b1583d8bdef14a4c40dfe879e9fc11",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #26 from UnitVectorY-Labs/bulkfilepr/c9b4e5a2c624\n\nUpdate .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:27:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/jwt-bearer-token-vendor/commit/68f3fdbc29b1583d8bdef14a4c40dfe879e9fc11",
+      "is_merge": true
+    },
+    {
+      "sha": "b01d77536063b928deaac6c60bee11006810bd4f",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:17:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/jwt-bearer-token-vendor/commit/b01d77536063b928deaac6c60bee11006810bd4f",
+      "is_merge": false
+    },
+    {
       "sha": "3a8167a5ec7ec2b4cd44171618062ca0e3f8e351",
       "author": "JaredHatfield",
       "message": "Update dependabot configuration for npm",

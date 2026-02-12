@@ -6,6 +6,22 @@
   "latest_release_time": "2025-10-22T00:51:12Z",
   "unreleased_commits": [
     {
+      "sha": "4cfd41a4c16b50b81891d65e7e036abd2e0e7184",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #85 from UnitVectorY-Labs/bulkfilepr/c9b4e5a2c624\n\nUpdate .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:26:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/4cfd41a4c16b50b81891d65e7e036abd2e0e7184",
+      "is_merge": true
+    },
+    {
+      "sha": "61e70c78404797d341bbc27e7c6162bfbcf5e130",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:16:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/61e70c78404797d341bbc27e7c6162bfbcf5e130",
+      "is_merge": false
+    },
+    {
       "sha": "465ebcc45662bedbb00a181f81fde2849e028d88",
       "author": "JaredHatfield",
       "message": "Update dependabot.yml",

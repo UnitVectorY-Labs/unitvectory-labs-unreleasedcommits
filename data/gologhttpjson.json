@@ -6,6 +6,30 @@
   "latest_release_time": "2025-10-14T01:36:17Z",
   "unreleased_commits": [
     {
+      "sha": "097295ea8d042de81df829e704ab0325fad0bb37",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #31 from UnitVectorY-Labs/bulkfilepr/c9b4e5a2c624\n\nUpdate .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:29:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/097295ea8d042de81df829e704ab0325fad0bb37",
+      "is_merge": true
+    },
+    {
+      "sha": "8d77f9a30ac358ed3d5189b5f6a300fa666a6798",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:19:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/8d77f9a30ac358ed3d5189b5f6a300fa666a6798",
+      "is_merge": false
+    },
+    {
+      "sha": "6173f0976300c2f64b0fb7156cd8e8ef5a4657af",
+      "author": "JaredHatfield",
+      "message": "feat: enhance Docker workflow for multi-arch builds and versioning\n\n- Updated Dockerfile to support version injection during build\n- Modified GitHub Actions workflow to build and push multi-arch Docker images\n- Added application version header in HTTP responses\n- Improved version handling in main.go to utilize build info",
+      "timestamp": "2026-02-11T02:36:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/6173f0976300c2f64b0fb7156cd8e8ef5a4657af",
+      "is_merge": false
+    },
+    {
       "sha": "e73734c357f25a8ade628b05bb9c6d4494a0d333",
       "author": "JaredHatfield",
       "message": "Merge pull request #30 from UnitVectorY-Labs/bulkfilepr/06ed74aea916\n\nUpdate .github/workflows/build-go.yml",

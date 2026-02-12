@@ -4,6 +4,23 @@
   "default_branch": "main",
   "latest_release_tag": "v0.3.0",
   "latest_release_time": "2026-02-09T03:03:26Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "22251db9b9d9b39797bb91196bc83d020bce888f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #48 from UnitVectorY-Labs/bulkfilepr/c9b4e5a2c624\n\nUpdate .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:29:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/22251db9b9d9b39797bb91196bc83d020bce888f",
+      "is_merge": true
+    },
+    {
+      "sha": "0360f6b1e8aba278b91bda26c4228c97e06b2e34",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:20:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/0360f6b1e8aba278b91bda26c4228c97e06b2e34",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup"
 }

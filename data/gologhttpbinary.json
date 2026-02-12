@@ -6,6 +6,14 @@
   "latest_release_time": "2025-10-14T01:35:46Z",
   "unreleased_commits": [
     {
+      "sha": "bec1b3936f11bc594c9c11d0e25110d4d5abf2e5",
+      "author": "JaredHatfield",
+      "message": "feat: enhance Docker build process and inject version at build time",
+      "timestamp": "2026-02-11T02:30:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpbinary/commit/bec1b3936f11bc594c9c11d0e25110d4d5abf2e5",
+      "is_merge": false
+    },
+    {
       "sha": "8932473f3aa746dff35ca7bd12d57f6c27f5559d",
       "author": "JaredHatfield",
       "message": "Merge pull request #45 from UnitVectorY-Labs/bulkfilepr/06ed74aea916\n\nUpdate .github/workflows/build-go.yml",

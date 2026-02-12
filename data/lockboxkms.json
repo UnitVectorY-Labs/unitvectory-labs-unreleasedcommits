@@ -6,6 +6,30 @@
   "latest_release_time": "2025-11-22T16:02:58Z",
   "unreleased_commits": [
     {
+      "sha": "9cfd257b589faa981ffb87700c55ddcb104a20d4",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #125 from UnitVectorY-Labs/bulkfilepr/c9b4e5a2c624\n\nUpdate .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:27:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/9cfd257b589faa981ffb87700c55ddcb104a20d4",
+      "is_merge": true
+    },
+    {
+      "sha": "834eddc255d070355563e8e9d90a405337fa5f0f",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:17:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/834eddc255d070355563e8e9d90a405337fa5f0f",
+      "is_merge": false
+    },
+    {
+      "sha": "44ee3ce5455868ff33bf1f7f59a8a6b731372c46",
+      "author": "JaredHatfield",
+      "message": "Refactor Docker workflow for multi-architecture builds",
+      "timestamp": "2026-02-11T01:20:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/44ee3ce5455868ff33bf1f7f59a8a6b731372c46",
+      "is_merge": false
+    },
+    {
       "sha": "e894198307d110ccc10e04b6d9aa804e960a8986",
       "author": "JaredHatfield",
       "message": "fix: update actions/checkout version and add rollout trigger steps",

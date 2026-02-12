@@ -4,6 +4,23 @@
   "default_branch": "main",
   "latest_release_tag": "v0.2.0",
   "latest_release_time": "2026-02-09T03:04:14Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "80d31406bc4012b1181a979041033eb229cb918e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #28 from UnitVectorY-Labs/bulkfilepr/c9b4e5a2c624\n\nUpdate .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:29:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/80d31406bc4012b1181a979041033eb229cb918e",
+      "is_merge": true
+    },
+    {
+      "sha": "bb53a22d7facdd46f1e412f5edea4240bd91c0ab",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:20:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/bb53a22d7facdd46f1e412f5edea4240bd91c0ab",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/tofu-template-tester"
 }

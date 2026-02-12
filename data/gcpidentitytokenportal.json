@@ -6,6 +6,30 @@
   "latest_release_time": "2026-01-18T02:43:27Z",
   "unreleased_commits": [
     {
+      "sha": "51371ca5199a2825fb457cd9ecd66a090ed13593",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #121 from UnitVectorY-Labs/bulkfilepr/c9b4e5a2c624\n\nUpdate .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:28:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/51371ca5199a2825fb457cd9ecd66a090ed13593",
+      "is_merge": true
+    },
+    {
+      "sha": "464c39e09856c94a83888330b15a3f74d6e2b307",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:20:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/464c39e09856c94a83888330b15a3f74d6e2b307",
+      "is_merge": false
+    },
+    {
+      "sha": "8e02bba8b662d96d63c9ac32f2ca6532d2f8b2a1",
+      "author": "JaredHatfield",
+      "message": "chore: update Dockerfile and main.go for multi-arch support and version handling",
+      "timestamp": "2026-02-11T01:48:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/8e02bba8b662d96d63c9ac32f2ca6532d2f8b2a1",
+      "is_merge": false
+    },
+    {
       "sha": "6974d917839d86d2a9020c6752e5ca0e06b3d4f5",
       "author": "JaredHatfield",
       "message": "Merge pull request #119 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/oauth2-0.35.0\n\nBump golang.org/x/oauth2 from 0.34.0 to 0.35.0",

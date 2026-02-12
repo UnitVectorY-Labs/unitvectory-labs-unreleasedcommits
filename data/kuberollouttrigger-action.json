@@ -4,6 +4,15 @@
   "default_branch": "main",
   "latest_release_tag": "v0.2.0",
   "latest_release_time": "2026-02-11T00:29:08Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "f7af1f92020659be8f5813a69db2eed27cdf92fe",
+      "author": "JaredHatfield",
+      "message": "Update actions/checkout and codeql-action versions",
+      "timestamp": "2026-02-12T00:13:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/f7af1f92020659be8f5813a69db2eed27cdf92fe",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action"
 }

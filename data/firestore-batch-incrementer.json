@@ -6,6 +6,30 @@
   "latest_release_time": "2025-11-22T16:11:27Z",
   "unreleased_commits": [
     {
+      "sha": "1dfeca71b8d2bc2a3bbe0d3475defc373487ba55",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #87 from UnitVectorY-Labs/bulkfilepr/c9b4e5a2c624\n\nUpdate .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:29:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/1dfeca71b8d2bc2a3bbe0d3475defc373487ba55",
+      "is_merge": true
+    },
+    {
+      "sha": "3e3eb1b48a686f9a542e26029f1170da1942c8bc",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/zizmor.yml",
+      "timestamp": "2026-02-12T00:17:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/3e3eb1b48a686f9a542e26029f1170da1942c8bc",
+      "is_merge": false
+    },
+    {
+      "sha": "4ba748501a87c4e4e4124df10750c3109c7b1f32",
+      "author": "JaredHatfield",
+      "message": "feat: enhance Docker workflow for multi-architecture builds and versioning",
+      "timestamp": "2026-02-11T02:14:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/4ba748501a87c4e4e4124df10750c3109c7b1f32",
+      "is_merge": false
+    },
+    {
       "sha": "3b0068493d4082cdd2a35e3abdadcdef8ff313f0",
       "author": "JaredHatfield",
       "message": "Merge pull request #86 from UnitVectorY-Labs/bulkfilepr/06ed74aea916\n\nUpdate .github/workflows/build-go.yml",
