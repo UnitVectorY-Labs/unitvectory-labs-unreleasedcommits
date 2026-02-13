@@ -6,6 +6,22 @@
   "latest_release_time": "2026-02-09T03:06:25Z",
   "unreleased_commits": [
     {
+      "sha": "06594dba0373e73ddde951dc72ded15b3ebe0903",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #42 from UnitVectorY-Labs/bulkfilepr/1f3ba2012d7e\n\nUpdate .github/workflows/release-go-github.yml",
+      "timestamp": "2026-02-12T00:52:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/06594dba0373e73ddde951dc72ded15b3ebe0903",
+      "is_merge": true
+    },
+    {
+      "sha": "ecdbc8eb6f0d0042ac2ed6add9f24e311be7357e",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/release-go-github.yml",
+      "timestamp": "2026-02-12T00:47:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/ecdbc8eb6f0d0042ac2ed6add9f24e311be7357e",
+      "is_merge": false
+    },
+    {
       "sha": "c51e445e0c6a7ddb60d0fd01972f37efe71bb4a2",
       "author": "JaredHatfield",
       "message": "Merge pull request #41 from UnitVectorY-Labs/bulkfilepr/c9b4e5a2c624\n\nUpdate .github/workflows/zizmor.yml",

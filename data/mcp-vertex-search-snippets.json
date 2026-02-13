@@ -6,6 +6,22 @@
   "latest_release_time": "2026-02-09T03:05:26Z",
   "unreleased_commits": [
     {
+      "sha": "d37e1dc15344b19377550011680edbe282272149",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #38 from UnitVectorY-Labs/bulkfilepr/1f3ba2012d7e\n\nUpdate .github/workflows/release-go-github.yml",
+      "timestamp": "2026-02-12T00:52:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/d37e1dc15344b19377550011680edbe282272149",
+      "is_merge": true
+    },
+    {
+      "sha": "902c307ab1eed67b9341ebbf99cab3e5184226ca",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/release-go-github.yml",
+      "timestamp": "2026-02-12T00:48:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/902c307ab1eed67b9341ebbf99cab3e5184226ca",
+      "is_merge": false
+    },
+    {
       "sha": "99af807f231588d2797fe3eb6dcb6a6219774e72",
       "author": "JaredHatfield",
       "message": "Merge pull request #37 from UnitVectorY-Labs/bulkfilepr/c9b4e5a2c624\n\nUpdate .github/workflows/zizmor.yml",

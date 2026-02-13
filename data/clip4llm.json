@@ -6,6 +6,22 @@
   "latest_release_time": "2026-02-09T03:03:53Z",
   "unreleased_commits": [
     {
+      "sha": "6d260901e1a823fd5f181f4a68c23d52004e7a7c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #51 from UnitVectorY-Labs/bulkfilepr/1f3ba2012d7e\n\nUpdate .github/workflows/release-go-github.yml",
+      "timestamp": "2026-02-12T00:52:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/6d260901e1a823fd5f181f4a68c23d52004e7a7c",
+      "is_merge": true
+    },
+    {
+      "sha": "6cbbd232de9c8c55ea164d39fa85921dfacbadf4",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/release-go-github.yml",
+      "timestamp": "2026-02-12T00:47:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/6cbbd232de9c8c55ea164d39fa85921dfacbadf4",
+      "is_merge": false
+    },
+    {
       "sha": "804aefd1143efa8060584eb053de480360b84b15",
       "author": "JaredHatfield",
       "message": "Merge pull request #50 from UnitVectorY-Labs/bulkfilepr/c9b4e5a2c624\n\nUpdate .github/workflows/zizmor.yml",
