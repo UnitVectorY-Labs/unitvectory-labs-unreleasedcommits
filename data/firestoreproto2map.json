@@ -6,6 +6,22 @@
   "latest_release_time": "2025-11-29T14:36:30Z",
   "unreleased_commits": [
     {
+      "sha": "3b0452195a67dbfe671e561f6123bad66bfc685f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #174 from UnitVectorY-Labs/dependabot/maven/com.google.cloud-google-cloud-firestore-3.37.0\n\nBump com.google.cloud:google-cloud-firestore from 3.36.0 to 3.37.0",
+      "timestamp": "2026-02-14T14:22:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/3b0452195a67dbfe671e561f6123bad66bfc685f",
+      "is_merge": true
+    },
+    {
+      "sha": "9dc10daffdf800019d7a0d36ee735f6ba2b91b34",
+      "author": "dependabot[bot]",
+      "message": "Bump com.google.cloud:google-cloud-firestore from 3.36.0 to 3.37.0\n\nBumps [com.google.cloud:google-cloud-firestore](https://github.com/googleapis/java-firestore) from 3.36.0 to 3.37.0.\n- [Release notes](https://github.com/googleapis/java-firestore/releases)\n- [Changelog](https://github.com/googleapis/java-firestore/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/googleapis/java-firestore/compare/v3.36.0...v3.37.0)\n\n---\nupdated-dependencies:\n- dependency-name: com.google.cloud:google-cloud-firestore\n  dependency-version: 3.37.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-14T11:02:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/9dc10daffdf800019d7a0d36ee735f6ba2b91b34",
+      "is_merge": false
+    },
+    {
       "sha": "faa647bced6bdb5d01d5ba6cf0ca76c0463fe912",
       "author": "JaredHatfield",
       "message": "Merge pull request #173 from UnitVectorY-Labs/bulkfilepr/c9b4e5a2c624\n\nUpdate .github/workflows/zizmor.yml",

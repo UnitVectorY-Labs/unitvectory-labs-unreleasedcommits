@@ -6,6 +6,22 @@
   "latest_release_time": "2025-11-29T14:51:22Z",
   "unreleased_commits": [
     {
+      "sha": "83a2f98921de528faaaa22d57ed801ae2a59724a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #166 from UnitVectorY-Labs/dependabot/maven/org.springframework-spring-web-6.2.16\n\nBump org.springframework:spring-web from 6.2.15 to 6.2.16",
+      "timestamp": "2026-02-14T14:22:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/83a2f98921de528faaaa22d57ed801ae2a59724a",
+      "is_merge": true
+    },
+    {
+      "sha": "3ea9df5d8a64813f9772e0f9cfa08ed9ee76fe15",
+      "author": "dependabot[bot]",
+      "message": "Bump org.springframework:spring-web from 6.2.15 to 6.2.16\n\nBumps [org.springframework:spring-web](https://github.com/spring-projects/spring-framework) from 6.2.15 to 6.2.16.\n- [Release notes](https://github.com/spring-projects/spring-framework/releases)\n- [Commits](https://github.com/spring-projects/spring-framework/compare/v6.2.15...v6.2.16)\n\n---\nupdated-dependencies:\n- dependency-name: org.springframework:spring-web\n  dependency-version: 6.2.16\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-14T11:02:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/3ea9df5d8a64813f9772e0f9cfa08ed9ee76fe15",
+      "is_merge": false
+    },
+    {
       "sha": "e7b003109a77fa75bc4ed70f4116755f9210d0ac",
       "author": "JaredHatfield",
       "message": "Merge pull request #165 from UnitVectorY-Labs/bulkfilepr/c9b4e5a2c624\n\nUpdate .github/workflows/zizmor.yml",

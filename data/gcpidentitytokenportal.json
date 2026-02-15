@@ -6,6 +6,38 @@
   "latest_release_time": "2026-01-18T02:43:27Z",
   "unreleased_commits": [
     {
+      "sha": "454e507ab09c60c27168ad0fa067ec06be3f0419",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #124 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.266.0\n\nchore(deps): bump google.golang.org/api from 0.265.0 to 0.266.0",
+      "timestamp": "2026-02-14T14:21:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/454e507ab09c60c27168ad0fa067ec06be3f0419",
+      "is_merge": true
+    },
+    {
+      "sha": "0d702c5e12dc0c318c1ddedfd584ce4f93621cf6",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/api from 0.265.0 to 0.266.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.265.0 to 0.266.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.265.0...v0.266.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.266.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-14T14:20:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/0d702c5e12dc0c318c1ddedfd584ce4f93621cf6",
+      "is_merge": false
+    },
+    {
+      "sha": "2ce1d92b7967a60aeae1e1b4471aceee045a06cd",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #123 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-6.19.2\n\nchore(deps): bump docker/build-push-action from 6.18.0 to 6.19.2",
+      "timestamp": "2026-02-14T14:14:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/2ce1d92b7967a60aeae1e1b4471aceee045a06cd",
+      "is_merge": true
+    },
+    {
+      "sha": "811ad9eb4a920f1f75cae42429c1b12a9d282b12",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/build-push-action from 6.18.0 to 6.19.2\n\nBumps [docker/build-push-action](https://github.com/docker/build-push-action) from 6.18.0 to 6.19.2.\n- [Release notes](https://github.com/docker/build-push-action/releases)\n- [Commits](https://github.com/docker/build-push-action/compare/263435318d21b8e681c14492fe198d362a7d2c83...10e90e3645eae34f1e60eeb005ba3a3d33f178e8)\n\n---\nupdated-dependencies:\n- dependency-name: docker/build-push-action\n  dependency-version: 6.19.2\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-14T11:02:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/811ad9eb4a920f1f75cae42429c1b12a9d282b12",
+      "is_merge": false
+    },
+    {
       "sha": "51371ca5199a2825fb457cd9ecd66a090ed13593",
       "author": "JaredHatfield",
       "message": "Merge pull request #121 from UnitVectorY-Labs/bulkfilepr/c9b4e5a2c624\n\nUpdate .github/workflows/zizmor.yml",

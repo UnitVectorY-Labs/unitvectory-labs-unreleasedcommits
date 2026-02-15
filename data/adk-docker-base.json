@@ -6,6 +6,54 @@
   "latest_release_time": "2025-10-25T13:36:20Z",
   "unreleased_commits": [
     {
+      "sha": "d5a137cdc12bac842a7a0b8fd7a5f6dc5d7a7cdb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #49 from UnitVectorY-Labs/dependabot/pip/google-adk-1.25.0\n\nBump google-adk from 1.17.0 to 1.25.0",
+      "timestamp": "2026-02-14T14:22:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/d5a137cdc12bac842a7a0b8fd7a5f6dc5d7a7cdb",
+      "is_merge": true
+    },
+    {
+      "sha": "adda9176ebbb0ee10e0d93a010cc3e39739c3ec5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #50 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.32.3\n\nBump github/codeql-action from 4.32.2 to 4.32.3",
+      "timestamp": "2026-02-14T14:16:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/adda9176ebbb0ee10e0d93a010cc3e39739c3ec5",
+      "is_merge": true
+    },
+    {
+      "sha": "32f1ce75a4608873a29b357221460e0d109e23cc",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #51 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-6.19.2\n\nBump docker/build-push-action from 6.18.0 to 6.19.2",
+      "timestamp": "2026-02-14T14:14:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/32f1ce75a4608873a29b357221460e0d109e23cc",
+      "is_merge": true
+    },
+    {
+      "sha": "83d640e80fc066aaf66dd888cc0fb9a920a56aa5",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/build-push-action from 6.18.0 to 6.19.2\n\nBumps [docker/build-push-action](https://github.com/docker/build-push-action) from 6.18.0 to 6.19.2.\n- [Release notes](https://github.com/docker/build-push-action/releases)\n- [Commits](https://github.com/docker/build-push-action/compare/263435318d21b8e681c14492fe198d362a7d2c83...10e90e3645eae34f1e60eeb005ba3a3d33f178e8)\n\n---\nupdated-dependencies:\n- dependency-name: docker/build-push-action\n  dependency-version: 6.19.2\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-14T11:03:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/83d640e80fc066aaf66dd888cc0fb9a920a56aa5",
+      "is_merge": false
+    },
+    {
+      "sha": "3db6f724ac20bac98c4e7a6f524dfa30ee4aa211",
+      "author": "dependabot[bot]",
+      "message": "Bump google-adk from 1.17.0 to 1.25.0\n\nBumps [google-adk](https://github.com/google/adk-python) from 1.17.0 to 1.25.0.\n- [Release notes](https://github.com/google/adk-python/releases)\n- [Changelog](https://github.com/google/adk-python/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/google/adk-python/compare/v1.17.0...v1.25.0)\n\n---\nupdated-dependencies:\n- dependency-name: google-adk\n  dependency-version: 1.25.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-14T11:02:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/3db6f724ac20bac98c4e7a6f524dfa30ee4aa211",
+      "is_merge": false
+    },
+    {
+      "sha": "1ddc87c679f81a5d2bedf9b617392a8a24e7fa59",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action from 4.32.2 to 4.32.3\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.32.2 to 4.32.3.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/45cbd0c69e560cd9e7cd7f8c32362050c9b7ded2...9e907b5e64f6b83e7804b09294d44122997950d6)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.32.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-14T11:02:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/1ddc87c679f81a5d2bedf9b617392a8a24e7fa59",
+      "is_merge": false
+    },
+    {
       "sha": "5163609116193436ebf9327d81564ff542213586",
       "author": "JaredHatfield",
       "message": "Enhance Docker build workflow for multi-arch support\n\nRefactor Docker build workflow to support multi-architecture builds and improve concurrency management.",

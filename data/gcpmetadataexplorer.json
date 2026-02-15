@@ -6,6 +6,22 @@
   "latest_release_time": "2025-10-07T22:58:05Z",
   "unreleased_commits": [
     {
+      "sha": "e3387a35ceb82c0fced970d5fcaa4ff1c7432d3d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #52 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-6.19.2\n\nBump docker/build-push-action from 6.18.0 to 6.19.2",
+      "timestamp": "2026-02-14T14:14:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/e3387a35ceb82c0fced970d5fcaa4ff1c7432d3d",
+      "is_merge": true
+    },
+    {
+      "sha": "42a8a265f920b37a64ffa9deed37a82752f24123",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/build-push-action from 6.18.0 to 6.19.2\n\nBumps [docker/build-push-action](https://github.com/docker/build-push-action) from 6.18.0 to 6.19.2.\n- [Release notes](https://github.com/docker/build-push-action/releases)\n- [Commits](https://github.com/docker/build-push-action/compare/263435318d21b8e681c14492fe198d362a7d2c83...10e90e3645eae34f1e60eeb005ba3a3d33f178e8)\n\n---\nupdated-dependencies:\n- dependency-name: docker/build-push-action\n  dependency-version: 6.19.2\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-14T11:02:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/42a8a265f920b37a64ffa9deed37a82752f24123",
+      "is_merge": false
+    },
+    {
       "sha": "85c24b07d36a06396965437e7aead8b9afbda66f",
       "author": "JaredHatfield",
       "message": "Merge pull request #50 from UnitVectorY-Labs/bulkfilepr/c9b4e5a2c624\n\nUpdate .github/workflows/zizmor.yml",
