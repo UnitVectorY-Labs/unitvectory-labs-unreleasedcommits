@@ -6,6 +6,22 @@
   "latest_release_time": "2026-01-13T00:03:59Z",
   "unreleased_commits": [
     {
+      "sha": "a0101a29f3e8fb586e7355c5dca49e6f2c0d5485",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #23 from UnitVectorY-Labs/go-v1.26.0\n\nUpdate Go version to 1.26.0",
+      "timestamp": "2026-02-15T17:40:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/a0101a29f3e8fb586e7355c5dca49e6f2c0d5485",
+      "is_merge": true
+    },
+    {
+      "sha": "b1b3403557cd5f1575628f464c5f23425189f35d",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.26.0",
+      "timestamp": "2026-02-15T17:27:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/b1b3403557cd5f1575628f464c5f23425189f35d",
+      "is_merge": false
+    },
+    {
       "sha": "7c4c84e085ac7101b526feedf58258e1f866c0a6",
       "author": "JaredHatfield",
       "message": "Merge pull request #21 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.32.3\n\nchore(deps): bump github/codeql-action from 4.32.2 to 4.32.3",

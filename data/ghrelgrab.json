@@ -6,6 +6,22 @@
   "latest_release_time": "2025-12-06T19:53:32Z",
   "unreleased_commits": [
     {
+      "sha": "22376b786632f139583b693a42e063ac9f5924da",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #30 from UnitVectorY-Labs/go-v1.26.0\n\nUpdate Go version to 1.26.0",
+      "timestamp": "2026-02-15T17:40:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/22376b786632f139583b693a42e063ac9f5924da",
+      "is_merge": true
+    },
+    {
+      "sha": "47991adb8f40a984889727c3a61d92a03c086dfb",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.26.0",
+      "timestamp": "2026-02-15T17:26:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/47991adb8f40a984889727c3a61d92a03c086dfb",
+      "is_merge": false
+    },
+    {
       "sha": "9ac9fed87ce613c0a60aff13ca16cfbe543aed11",
       "author": "JaredHatfield",
       "message": "Merge pull request #28 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-3.2.0\n\nBump actions/attest-build-provenance from 3.1.0 to 3.2.0",

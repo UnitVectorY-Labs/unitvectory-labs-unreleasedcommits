@@ -6,6 +6,30 @@
   "latest_release_time": "2025-10-09T02:24:52Z",
   "unreleased_commits": [
     {
+      "sha": "61539847afce78333d93a02743f8c910df3667e8",
+      "author": "JaredHatfield",
+      "message": "Using any instead of interface{}",
+      "timestamp": "2026-02-15T18:40:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/61539847afce78333d93a02743f8c910df3667e8",
+      "is_merge": false
+    },
+    {
+      "sha": "1a5823a5b7605c6a82198110c3bba08fffbceb03",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #30 from UnitVectorY-Labs/go-v1.26.0\n\nUpdate Go version to 1.26.0",
+      "timestamp": "2026-02-15T17:39:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/1a5823a5b7605c6a82198110c3bba08fffbceb03",
+      "is_merge": true
+    },
+    {
+      "sha": "62546d18b65906321324a54d93b66f94e5f77ffe",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.26.0",
+      "timestamp": "2026-02-15T17:28:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/62546d18b65906321324a54d93b66f94e5f77ffe",
+      "is_merge": false
+    },
+    {
       "sha": "4840cc0efe9c6c282889f46688922fea27669123",
       "author": "JaredHatfield",
       "message": "Merge pull request #29 from UnitVectorY-Labs/bulkfilepr/c9b4e5a2c624\n\nUpdate .github/workflows/zizmor.yml",

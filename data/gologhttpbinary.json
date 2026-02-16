@@ -6,6 +6,22 @@
   "latest_release_time": "2025-10-14T01:35:46Z",
   "unreleased_commits": [
     {
+      "sha": "d6c76344dee459ce694d7db7b66d3a3cf7727d15",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #48 from UnitVectorY-Labs/go-v1.26.0\n\nUpdate Go version to 1.26.0",
+      "timestamp": "2026-02-15T17:39:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpbinary/commit/d6c76344dee459ce694d7db7b66d3a3cf7727d15",
+      "is_merge": true
+    },
+    {
+      "sha": "81f4efaae6cde61f2529b726e8b26dc428eb1e89",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.26.0",
+      "timestamp": "2026-02-15T17:26:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpbinary/commit/81f4efaae6cde61f2529b726e8b26dc428eb1e89",
+      "is_merge": false
+    },
+    {
       "sha": "9256e4f21ef655201b45e87131fffda41a3c42d6",
       "author": "JaredHatfield",
       "message": "Merge pull request #46 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-6.19.2\n\nBump docker/build-push-action from 6.18.0 to 6.19.2",

@@ -6,6 +6,22 @@
   "latest_release_time": "2026-02-09T03:04:14Z",
   "unreleased_commits": [
     {
+      "sha": "d07dce83fb02063547d4dd8fbc39e09b91731cb9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #30 from UnitVectorY-Labs/go-v1.26.0\n\nUpdate Go version to 1.26.0",
+      "timestamp": "2026-02-15T17:40:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/d07dce83fb02063547d4dd8fbc39e09b91731cb9",
+      "is_merge": true
+    },
+    {
+      "sha": "4d06589a4df732a74bfc76693fc5a0b1073c133c",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.26.0",
+      "timestamp": "2026-02-15T17:27:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/4d06589a4df732a74bfc76693fc5a0b1073c133c",
+      "is_merge": false
+    },
+    {
       "sha": "1abc5f246ad3c8f27ce299ec93e015604e86c874",
       "author": "JaredHatfield",
       "message": "Merge pull request #29 from UnitVectorY-Labs/bulkfilepr/1f3ba2012d7e\n\nUpdate .github/workflows/release-go-github.yml",

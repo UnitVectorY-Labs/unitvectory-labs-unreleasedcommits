@@ -6,6 +6,30 @@
   "latest_release_time": "2026-02-09T03:03:53Z",
   "unreleased_commits": [
     {
+      "sha": "0bf4c16d247395ed5b9f0c1a6ce9f49217abedc0",
+      "author": "JaredHatfield",
+      "message": "Go fix use slices.Contains",
+      "timestamp": "2026-02-15T18:38:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/0bf4c16d247395ed5b9f0c1a6ce9f49217abedc0",
+      "is_merge": false
+    },
+    {
+      "sha": "655330e553c5f1661a9821df0dad181458718c31",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #52 from UnitVectorY-Labs/go-v1.26.0\n\nUpdate Go version to 1.26.0",
+      "timestamp": "2026-02-15T17:38:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/655330e553c5f1661a9821df0dad181458718c31",
+      "is_merge": true
+    },
+    {
+      "sha": "90ba4d0dabeb2dc498265e1ae87c1de301d4840b",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.26.0",
+      "timestamp": "2026-02-15T17:26:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/90ba4d0dabeb2dc498265e1ae87c1de301d4840b",
+      "is_merge": false
+    },
+    {
       "sha": "6d260901e1a823fd5f181f4a68c23d52004e7a7c",
       "author": "JaredHatfield",
       "message": "Merge pull request #51 from UnitVectorY-Labs/bulkfilepr/1f3ba2012d7e\n\nUpdate .github/workflows/release-go-github.yml",

@@ -6,6 +6,22 @@
   "latest_release_time": "2026-02-09T03:05:56Z",
   "unreleased_commits": [
     {
+      "sha": "b5847837ce6967329b2874e0db076fbc37639c5d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #75 from UnitVectorY-Labs/go-v1.26.0\n\nUpdate Go version to 1.26.0",
+      "timestamp": "2026-02-15T17:39:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/b5847837ce6967329b2874e0db076fbc37639c5d",
+      "is_merge": true
+    },
+    {
+      "sha": "3695ad6a712f7e522d39c7d8bee88dd9943637d2",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.26.0",
+      "timestamp": "2026-02-15T17:28:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/3695ad6a712f7e522d39c7d8bee88dd9943637d2",
+      "is_merge": false
+    },
+    {
       "sha": "2df22db0f932b10d78734ea7e451107b9cbe8c83",
       "author": "JaredHatfield",
       "message": "Merge pull request #74 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/term-0.40.0\n\nBump golang.org/x/term from 0.39.0 to 0.40.0",

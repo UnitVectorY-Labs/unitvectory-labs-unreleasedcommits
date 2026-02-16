@@ -6,6 +6,22 @@
   "latest_release_time": "2025-10-21T00:11:20Z",
   "unreleased_commits": [
     {
+      "sha": "7311aeadb3bcd7c27fff3af48f448d0988f82a68",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #76 from UnitVectorY-Labs/go-v1.26.0\n\nUpdate Go version to 1.26.0",
+      "timestamp": "2026-02-15T17:39:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/7311aeadb3bcd7c27fff3af48f448d0988f82a68",
+      "is_merge": true
+    },
+    {
+      "sha": "4582c7269964a90011f4e60006d5b8794dc4a840",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.26.0",
+      "timestamp": "2026-02-15T17:26:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/4582c7269964a90011f4e60006d5b8794dc4a840",
+      "is_merge": false
+    },
+    {
       "sha": "66961fcb6b4bb4669fb78275782670a108133244",
       "author": "JaredHatfield",
       "message": "Merge pull request #74 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/grpc-1.79.1\n\nBump google.golang.org/grpc from 1.78.0 to 1.79.1",
