@@ -2,55 +2,15 @@
   "owner": "UnitVectorY-Labs",
   "name": "repver",
   "default_branch": "main",
-  "latest_release_tag": "v0.4.0",
-  "latest_release_time": "2026-02-09T03:04:55Z",
+  "latest_release_tag": "v0.5.0",
+  "latest_release_time": "2026-02-20T00:31:13Z",
   "unreleased_commits": [
     {
-      "sha": "6c043d3eacda8ebe43c8e710e255e70b70192965",
+      "sha": "c3e9f9e652f2007f3b9538d2120cac7611a76a6f",
       "author": "JaredHatfield",
-      "message": "Merge pull request #36 from UnitVectorY-Labs/go-v1.26.0\n\nUpdate Go version to 1.26.0",
-      "timestamp": "2026-02-15T17:39:51Z",
-      "url": "https://github.com/UnitVectorY-Labs/repver/commit/6c043d3eacda8ebe43c8e710e255e70b70192965",
-      "is_merge": true
-    },
-    {
-      "sha": "a716a2ca77c9019eb8c748686307bfb3b9647b39",
-      "author": "JaredHatfield",
-      "message": "Update Go version to 1.26.0",
-      "timestamp": "2026-02-15T17:27:44Z",
-      "url": "https://github.com/UnitVectorY-Labs/repver/commit/a716a2ca77c9019eb8c748686307bfb3b9647b39",
-      "is_merge": false
-    },
-    {
-      "sha": "825cae374e7078a56422ac18164452b82897b2d2",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #35 from UnitVectorY-Labs/bulkfilepr/1f3ba2012d7e\n\nUpdate .github/workflows/release-go-github.yml",
-      "timestamp": "2026-02-12T00:52:33Z",
-      "url": "https://github.com/UnitVectorY-Labs/repver/commit/825cae374e7078a56422ac18164452b82897b2d2",
-      "is_merge": true
-    },
-    {
-      "sha": "9387f1754fb3818e22260384a35a15a162f9ec3f",
-      "author": "JaredHatfield",
-      "message": "chore: update .github/workflows/release-go-github.yml",
-      "timestamp": "2026-02-12T00:47:26Z",
-      "url": "https://github.com/UnitVectorY-Labs/repver/commit/9387f1754fb3818e22260384a35a15a162f9ec3f",
-      "is_merge": false
-    },
-    {
-      "sha": "1c29aee272f81220b50f1272e64a5727faea696d",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #34 from UnitVectorY-Labs/bulkfilepr/c9b4e5a2c624\n\nUpdate .github/workflows/zizmor.yml",
-      "timestamp": "2026-02-12T00:29:00Z",
-      "url": "https://github.com/UnitVectorY-Labs/repver/commit/1c29aee272f81220b50f1272e64a5727faea696d",
-      "is_merge": true
-    },
-    {
-      "sha": "e1861974081a27c6a447a8fd603bdd64106d8afe",
-      "author": "JaredHatfield",
-      "message": "chore: update .github/workflows/zizmor.yml",
-      "timestamp": "2026-02-12T00:16:52Z",
-      "url": "https://github.com/UnitVectorY-Labs/repver/commit/e1861974081a27c6a447a8fd603bdd64106d8afe",
+      "message": "Update .repver to simplify version transformation\n\nRemoved patch version transformation from .repver configuration.",
+      "timestamp": "2026-02-20T00:46:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/c3e9f9e652f2007f3b9538d2120cac7611a76a6f",
       "is_merge": false
     }
   ],
