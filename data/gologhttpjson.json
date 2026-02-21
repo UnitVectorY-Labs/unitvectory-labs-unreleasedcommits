@@ -6,6 +6,22 @@
   "latest_release_time": "2025-10-14T01:36:17Z",
   "unreleased_commits": [
     {
+      "sha": "dfd1732ae918bf789f068416f7df351faa271bea",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #35 from UnitVectorY-Labs/bulkfilepr/267203763563\n\nUpdate .repver",
+      "timestamp": "2026-02-20T01:14:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/dfd1732ae918bf789f068416f7df351faa271bea",
+      "is_merge": true
+    },
+    {
+      "sha": "5c618c2a59f97ac6e340e84b8b437b8ad5c7e7f0",
+      "author": "JaredHatfield",
+      "message": "chore: update .repver",
+      "timestamp": "2026-02-20T00:59:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/5c618c2a59f97ac6e340e84b8b437b8ad5c7e7f0",
+      "is_merge": false
+    },
+    {
       "sha": "e15c8677b4b7f03a49b7a70d840da8785b9d8f57",
       "author": "JaredHatfield",
       "message": "Merge pull request #34 from UnitVectorY-Labs/go-v1.26.0\n\nUpdate Go version to 1.26.0",

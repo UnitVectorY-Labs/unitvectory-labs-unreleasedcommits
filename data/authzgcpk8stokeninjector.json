@@ -6,6 +6,22 @@
   "latest_release_time": "2025-10-21T00:11:20Z",
   "unreleased_commits": [
     {
+      "sha": "756e91ad31047ed440a3b35b05bc3bd806addbd5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #77 from UnitVectorY-Labs/bulkfilepr/267203763563\n\nUpdate .repver",
+      "timestamp": "2026-02-20T01:13:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/756e91ad31047ed440a3b35b05bc3bd806addbd5",
+      "is_merge": true
+    },
+    {
+      "sha": "177b149c3754a61da2ea19860b4ee9645b690ec2",
+      "author": "JaredHatfield",
+      "message": "chore: update .repver",
+      "timestamp": "2026-02-20T00:59:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/177b149c3754a61da2ea19860b4ee9645b690ec2",
+      "is_merge": false
+    },
+    {
       "sha": "7311aeadb3bcd7c27fff3af48f448d0988f82a68",
       "author": "JaredHatfield",
       "message": "Merge pull request #76 from UnitVectorY-Labs/go-v1.26.0\n\nUpdate Go version to 1.26.0",

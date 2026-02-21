@@ -6,6 +6,14 @@
   "latest_release_time": "2026-02-09T03:03:53Z",
   "unreleased_commits": [
     {
+      "sha": "4f9d53f8ebc6f778f20feae3aa944933a926337e",
+      "author": "JaredHatfield",
+      "message": "Update branch name format in .repver configuration",
+      "timestamp": "2026-02-20T00:56:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/4f9d53f8ebc6f778f20feae3aa944933a926337e",
+      "is_merge": false
+    },
+    {
       "sha": "0bf4c16d247395ed5b9f0c1a6ce9f49217abedc0",
       "author": "JaredHatfield",
       "message": "Go fix use slices.Contains",

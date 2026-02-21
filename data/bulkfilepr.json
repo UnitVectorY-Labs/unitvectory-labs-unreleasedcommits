@@ -6,6 +6,70 @@
   "latest_release_time": "2026-02-09T02:18:16Z",
   "unreleased_commits": [
     {
+      "sha": "9566482ae3766cfc3d6337e51ec7d2881b49b745",
+      "author": "JaredHatfield",
+      "message": "Update INSTALL.md",
+      "timestamp": "2026-02-20T01:52:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/9566482ae3766cfc3d6337e51ec7d2881b49b745",
+      "is_merge": false
+    },
+    {
+      "sha": "5402880cfd79fedf366291ad2eb4b178274023e1",
+      "author": "JaredHatfield",
+      "message": "Fixed docs navigation",
+      "timestamp": "2026-02-20T01:41:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/5402880cfd79fedf366291ad2eb4b178274023e1",
+      "is_merge": false
+    },
+    {
+      "sha": "e9b4cd89bc5f0336a8865df87a9428ac624262fe",
+      "author": "JaredHatfield",
+      "message": "Add justthedocsversion configuration to .repver",
+      "timestamp": "2026-02-20T01:38:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/e9b4cd89bc5f0336a8865df87a9428ac624262fe",
+      "is_merge": false
+    },
+    {
+      "sha": "1372d44fe0b3dbbf2ea2e115569867ac66d302f6",
+      "author": "JaredHatfield",
+      "message": "Create CNAME",
+      "timestamp": "2026-02-20T01:36:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/1372d44fe0b3dbbf2ea2e115569867ac66d302f6",
+      "is_merge": false
+    },
+    {
+      "sha": "3ee36bb54bd28227ff308f9c3393d6a3b6676ced",
+      "author": "JaredHatfield",
+      "message": "Create CNAME",
+      "timestamp": "2026-02-20T01:36:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/3ee36bb54bd28227ff308f9c3393d6a3b6676ced",
+      "is_merge": false
+    },
+    {
+      "sha": "270a6f67d2119684f1428872f33dc01de52fae38",
+      "author": "JaredHatfield",
+      "message": "Create _config.yml for documentation setup\n\nAdd configuration for bulkfilepr documentation site",
+      "timestamp": "2026-02-20T01:34:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/270a6f67d2119684f1428872f33dc01de52fae38",
+      "is_merge": false
+    },
+    {
+      "sha": "5e08b3cab3d81959338b4197b2fead589e3ba83c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #17 from UnitVectorY-Labs/bulkfilepr/5f5c8a538826\n\nUpdate .repver",
+      "timestamp": "2026-02-20T01:12:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/5e08b3cab3d81959338b4197b2fead589e3ba83c",
+      "is_merge": true
+    },
+    {
+      "sha": "15685b92b9acbdfe89c0711759c2db9b8d2d51c9",
+      "author": "JaredHatfield",
+      "message": "chore: update .repver",
+      "timestamp": "2026-02-20T01:05:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/15685b92b9acbdfe89c0711759c2db9b8d2d51c9",
+      "is_merge": false
+    },
+    {
       "sha": "d00f5b814997803c2bd70b9f5194539ea35a4f7a",
       "author": "JaredHatfield",
       "message": "Merge pull request #16 from UnitVectorY-Labs/go-v1.26.0\n\nUpdate Go version to 1.26.0",

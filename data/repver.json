@@ -6,6 +6,14 @@
   "latest_release_time": "2026-02-20T00:31:13Z",
   "unreleased_commits": [
     {
+      "sha": "a57884c79968a35296de01fffe04c0dc9521bd50",
+      "author": "JaredHatfield",
+      "message": "Update mermaid library version to 11.12.3",
+      "timestamp": "2026-02-20T01:24:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/a57884c79968a35296de01fffe04c0dc9521bd50",
+      "is_merge": false
+    },
+    {
       "sha": "c3e9f9e652f2007f3b9538d2120cac7611a76a6f",
       "author": "JaredHatfield",
       "message": "Update .repver to simplify version transformation\n\nRemoved patch version transformation from .repver configuration.",

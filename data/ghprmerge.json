@@ -6,6 +6,38 @@
   "latest_release_time": "2026-02-09T03:02:24Z",
   "unreleased_commits": [
     {
+      "sha": "97e89f6594761fbd77394b620c4b917ae76aaed8",
+      "author": "JaredHatfield",
+      "message": "Update INSTALL.md by removing Go version requirements\n\nRemoved requirements section for building from source.",
+      "timestamp": "2026-02-20T01:52:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/97e89f6594761fbd77394b620c4b917ae76aaed8",
+      "is_merge": false
+    },
+    {
+      "sha": "22b89f86ac128108a97e033673750c017f54039f",
+      "author": "JaredHatfield",
+      "message": "Fixed documentation deployment",
+      "timestamp": "2026-02-20T01:49:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/22b89f86ac128108a97e033673750c017f54039f",
+      "is_merge": false
+    },
+    {
+      "sha": "7bd652bf418f2c563ab70befe6e5cbbd1e2ae16b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #19 from UnitVectorY-Labs/bulkfilepr/5f5c8a538826\n\nUpdate .repver",
+      "timestamp": "2026-02-20T01:12:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/7bd652bf418f2c563ab70befe6e5cbbd1e2ae16b",
+      "is_merge": true
+    },
+    {
+      "sha": "1635624fa6f3f2f37e5fa9872fb3d890e2e1c6e6",
+      "author": "JaredHatfield",
+      "message": "chore: update .repver",
+      "timestamp": "2026-02-20T01:05:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/1635624fa6f3f2f37e5fa9872fb3d890e2e1c6e6",
+      "is_merge": false
+    },
+    {
       "sha": "89dfb7d714644e881ea4649eac25d1339360f5a1",
       "author": "JaredHatfield",
       "message": "Merge pull request #18 from UnitVectorY-Labs/go-v1.26.0\n\nUpdate Go version to 1.26.0",

@@ -6,6 +6,22 @@
   "latest_release_time": "2026-01-13T00:03:59Z",
   "unreleased_commits": [
     {
+      "sha": "b24bd7e955229ff1f807c76f24754b049c2f1c8e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #24 from UnitVectorY-Labs/bulkfilepr/267203763563\n\nUpdate .repver",
+      "timestamp": "2026-02-20T01:14:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/b24bd7e955229ff1f807c76f24754b049c2f1c8e",
+      "is_merge": true
+    },
+    {
+      "sha": "c52da337f54c0b07b4b3016466ddaff189ce439c",
+      "author": "JaredHatfield",
+      "message": "chore: update .repver",
+      "timestamp": "2026-02-20T00:59:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/c52da337f54c0b07b4b3016466ddaff189ce439c",
+      "is_merge": false
+    },
+    {
       "sha": "a0101a29f3e8fb586e7355c5dca49e6f2c0d5485",
       "author": "JaredHatfield",
       "message": "Merge pull request #23 from UnitVectorY-Labs/go-v1.26.0\n\nUpdate Go version to 1.26.0",

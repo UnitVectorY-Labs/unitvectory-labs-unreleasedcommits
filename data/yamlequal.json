@@ -6,6 +6,22 @@
   "latest_release_time": "2025-10-09T02:24:52Z",
   "unreleased_commits": [
     {
+      "sha": "e94a2f153aa8e0caa6d4a57cf603ab1914ac2f3a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #31 from UnitVectorY-Labs/bulkfilepr/5f5c8a538826\n\nUpdate .repver",
+      "timestamp": "2026-02-20T01:12:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/e94a2f153aa8e0caa6d4a57cf603ab1914ac2f3a",
+      "is_merge": true
+    },
+    {
+      "sha": "d12e6c5fdc1de77cb04c781b7dfcb0a4da6e1e8c",
+      "author": "JaredHatfield",
+      "message": "chore: update .repver",
+      "timestamp": "2026-02-20T01:05:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/d12e6c5fdc1de77cb04c781b7dfcb0a4da6e1e8c",
+      "is_merge": false
+    },
+    {
       "sha": "61539847afce78333d93a02743f8c910df3667e8",
       "author": "JaredHatfield",
       "message": "Using any instead of interface{}",

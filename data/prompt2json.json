@@ -4,6 +4,23 @@
   "default_branch": "main",
   "latest_release_tag": "v0.5.0",
   "latest_release_time": "2026-02-19T00:30:39Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "bf72fcdbb195dbe504ce4b48ae871ca4d688a1b3",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #26 from UnitVectorY-Labs/bulkfilepr/5f5c8a538826\n\nUpdate .repver",
+      "timestamp": "2026-02-20T01:12:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/bf72fcdbb195dbe504ce4b48ae871ca4d688a1b3",
+      "is_merge": true
+    },
+    {
+      "sha": "d8ae6393785fb563447258c8d1cba30402b47735",
+      "author": "JaredHatfield",
+      "message": "chore: update .repver",
+      "timestamp": "2026-02-20T01:05:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/d8ae6393785fb563447258c8d1cba30402b47735",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/prompt2json"
 }

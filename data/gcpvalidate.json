@@ -6,6 +6,14 @@
   "latest_release_time": "2026-01-01T19:27:46Z",
   "unreleased_commits": [
     {
+      "sha": "16fc6b9a33bdb64ca552e5b2846e41cc4bb1d7e0",
+      "author": "JaredHatfield",
+      "message": "Refactor branch naming conventions in .repver",
+      "timestamp": "2026-02-20T00:49:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpvalidate/commit/16fc6b9a33bdb64ca552e5b2846e41cc4bb1d7e0",
+      "is_merge": false
+    },
+    {
       "sha": "96cbfa1111a2b25204faebae0098cbe1bba9b784",
       "author": "JaredHatfield",
       "message": "Merge pull request #15 from UnitVectorY-Labs/go-v1.26.0\n\nUpdate Go version to 1.26.0",

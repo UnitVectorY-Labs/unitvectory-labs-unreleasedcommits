@@ -6,6 +6,22 @@
   "latest_release_time": "2025-11-22T16:11:27Z",
   "unreleased_commits": [
     {
+      "sha": "bd353630bf79f2bed9eab1693828b44f7df04558",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #93 from UnitVectorY-Labs/bulkfilepr/267203763563\n\nUpdate .repver",
+      "timestamp": "2026-02-20T01:13:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/bd353630bf79f2bed9eab1693828b44f7df04558",
+      "is_merge": true
+    },
+    {
+      "sha": "ee2a3e5dbe9ef9e32cb6cd1977a293ef33eabc2a",
+      "author": "JaredHatfield",
+      "message": "chore: update .repver",
+      "timestamp": "2026-02-20T00:59:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/ee2a3e5dbe9ef9e32cb6cd1977a293ef33eabc2a",
+      "is_merge": false
+    },
+    {
       "sha": "2d0314ccffb6fd3b3b5aa0221e6d4840c63eae39",
       "author": "JaredHatfield",
       "message": "Merge pull request #92 from UnitVectorY-Labs/go-v1.26.0\n\nUpdate Go version to 1.26.0",

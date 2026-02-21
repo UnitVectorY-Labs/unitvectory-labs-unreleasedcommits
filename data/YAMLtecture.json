@@ -6,6 +6,22 @@
   "latest_release_time": "2026-02-09T03:05:56Z",
   "unreleased_commits": [
     {
+      "sha": "1e7a45cec298726a722486c17ad171882d4c4673",
+      "author": "JaredHatfield",
+      "message": "Update mermaid library version to 11.12.3",
+      "timestamp": "2026-02-20T01:23:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/1e7a45cec298726a722486c17ad171882d4c4673",
+      "is_merge": false
+    },
+    {
+      "sha": "f7c2e95ea050e71fed08f575fd85e9834580e799",
+      "author": "JaredHatfield",
+      "message": "Refactor branch naming conventions in .repver",
+      "timestamp": "2026-02-20T00:49:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/f7c2e95ea050e71fed08f575fd85e9834580e799",
+      "is_merge": false
+    },
+    {
       "sha": "b5847837ce6967329b2874e0db076fbc37639c5d",
       "author": "JaredHatfield",
       "message": "Merge pull request #75 from UnitVectorY-Labs/go-v1.26.0\n\nUpdate Go version to 1.26.0",
