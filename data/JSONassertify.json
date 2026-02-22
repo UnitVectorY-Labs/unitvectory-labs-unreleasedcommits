@@ -6,6 +6,38 @@
   "latest_release_time": "2025-10-22T00:51:12Z",
   "unreleased_commits": [
     {
+      "sha": "f67be44b678439e7334993e0c61090de857bd630",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #87 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-api-6.0.3\n\nBump org.junit.jupiter:junit-jupiter-api from 6.0.2 to 6.0.3",
+      "timestamp": "2026-02-21T18:54:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/f67be44b678439e7334993e0c61090de857bd630",
+      "is_merge": true
+    },
+    {
+      "sha": "85b34e132ab05807255311e4c5b219be48092f94",
+      "author": "dependabot[bot]",
+      "message": "Bump org.junit.jupiter:junit-jupiter-api from 6.0.2 to 6.0.3\n\nBumps [org.junit.jupiter:junit-jupiter-api](https://github.com/junit-team/junit-framework) from 6.0.2 to 6.0.3.\n- [Release notes](https://github.com/junit-team/junit-framework/releases)\n- [Commits](https://github.com/junit-team/junit-framework/compare/r6.0.2...r6.0.3)\n\n---\nupdated-dependencies:\n- dependency-name: org.junit.jupiter:junit-jupiter-api\n  dependency-version: 6.0.3\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-21T12:02:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/85b34e132ab05807255311e4c5b219be48092f94",
+      "is_merge": false
+    },
+    {
+      "sha": "b0f287a4ced4c834bcf3c6ab6f9b80a5f3ce3dc7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #86 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.5.5\n\nBump org.apache.maven.plugins:maven-surefire-plugin from 3.5.4 to 3.5.5",
+      "timestamp": "2026-02-21T11:54:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/b0f287a4ced4c834bcf3c6ab6f9b80a5f3ce3dc7",
+      "is_merge": true
+    },
+    {
+      "sha": "842a8236d9613c7b436a8e23eb5da1c64b662c7a",
+      "author": "dependabot[bot]",
+      "message": "Bump org.apache.maven.plugins:maven-surefire-plugin from 3.5.4 to 3.5.5\n\nBumps [org.apache.maven.plugins:maven-surefire-plugin](https://github.com/apache/maven-surefire) from 3.5.4 to 3.5.5.\n- [Release notes](https://github.com/apache/maven-surefire/releases)\n- [Commits](https://github.com/apache/maven-surefire/compare/surefire-3.5.4...surefire-3.5.5)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-surefire-plugin\n  dependency-version: 3.5.5\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-21T11:02:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/842a8236d9613c7b436a8e23eb5da1c64b662c7a",
+      "is_merge": false
+    },
+    {
       "sha": "0f370bdbb5207c5c5b36b00f2a75a0d94f8832ff",
       "author": "JaredHatfield",
       "message": "Change branch name format in .repver",

@@ -6,6 +6,22 @@
   "latest_release_time": "2026-02-09T03:03:04Z",
   "unreleased_commits": [
     {
+      "sha": "917693f809a82aa88c412e0b8bfaa4feaec50de2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #65 from UnitVectorY-Labs/dependabot/go_modules/github.com/mark3labs/mcp-go-0.44.0\n\nBump github.com/mark3labs/mcp-go from 0.43.2 to 0.44.0",
+      "timestamp": "2026-02-21T11:57:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/917693f809a82aa88c412e0b8bfaa4feaec50de2",
+      "is_merge": true
+    },
+    {
+      "sha": "550c6a513eb7b14e641a387d82a8f9599259fdcc",
+      "author": "dependabot[bot]",
+      "message": "Bump github.com/mark3labs/mcp-go from 0.43.2 to 0.44.0\n\nBumps [github.com/mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) from 0.43.2 to 0.44.0.\n- [Release notes](https://github.com/mark3labs/mcp-go/releases)\n- [Commits](https://github.com/mark3labs/mcp-go/compare/v0.43.2...v0.44.0)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/mark3labs/mcp-go\n  dependency-version: 0.44.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-21T11:03:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/550c6a513eb7b14e641a387d82a8f9599259fdcc",
+      "is_merge": false
+    },
+    {
       "sha": "a85a31b03a496831279679f39dfc7a65c08008bb",
       "author": "JaredHatfield",
       "message": "Merge pull request #64 from UnitVectorY-Labs/bulkfilepr/5f5c8a538826\n\nUpdate .repver",

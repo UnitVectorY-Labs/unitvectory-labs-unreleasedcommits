@@ -6,6 +6,38 @@
   "latest_release_time": "2025-11-29T14:51:22Z",
   "unreleased_commits": [
     {
+      "sha": "10affa29560e780d9f2bf1c976bbe3fdecd99036",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #167 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-params-5.14.3\n\nBump org.junit.jupiter:junit-jupiter-params from 5.14.2 to 5.14.3",
+      "timestamp": "2026-02-21T11:59:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/10affa29560e780d9f2bf1c976bbe3fdecd99036",
+      "is_merge": true
+    },
+    {
+      "sha": "46a21f9e5e8edbb1708156758bc6381f9a723ca0",
+      "author": "dependabot[bot]",
+      "message": "Bump org.junit.jupiter:junit-jupiter-params from 5.14.2 to 5.14.3\n\nBumps [org.junit.jupiter:junit-jupiter-params](https://github.com/junit-team/junit-framework) from 5.14.2 to 5.14.3.\n- [Release notes](https://github.com/junit-team/junit-framework/releases)\n- [Commits](https://github.com/junit-team/junit-framework/compare/r5.14.2...r5.14.3)\n\n---\nupdated-dependencies:\n- dependency-name: org.junit.jupiter:junit-jupiter-params\n  dependency-version: 5.14.3\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-21T11:54:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/46a21f9e5e8edbb1708156758bc6381f9a723ca0",
+      "is_merge": false
+    },
+    {
+      "sha": "a0a072ac927ce659a00ddf1da1ec46780b5eff44",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #168 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.5.5\n\nBump org.apache.maven.plugins:maven-surefire-plugin from 3.5.4 to 3.5.5",
+      "timestamp": "2026-02-21T11:53:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/a0a072ac927ce659a00ddf1da1ec46780b5eff44",
+      "is_merge": true
+    },
+    {
+      "sha": "b32b5bcd6417a31f8aecdd52f81a5d9c72e5c3b5",
+      "author": "dependabot[bot]",
+      "message": "Bump org.apache.maven.plugins:maven-surefire-plugin from 3.5.4 to 3.5.5\n\nBumps [org.apache.maven.plugins:maven-surefire-plugin](https://github.com/apache/maven-surefire) from 3.5.4 to 3.5.5.\n- [Release notes](https://github.com/apache/maven-surefire/releases)\n- [Commits](https://github.com/apache/maven-surefire/compare/surefire-3.5.4...surefire-3.5.5)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-surefire-plugin\n  dependency-version: 3.5.5\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-21T11:02:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/b32b5bcd6417a31f8aecdd52f81a5d9c72e5c3b5",
+      "is_merge": false
+    },
+    {
       "sha": "83a2f98921de528faaaa22d57ed801ae2a59724a",
       "author": "JaredHatfield",
       "message": "Merge pull request #166 from UnitVectorY-Labs/dependabot/maven/org.springframework-spring-web-6.2.16\n\nBump org.springframework:spring-web from 6.2.15 to 6.2.16",

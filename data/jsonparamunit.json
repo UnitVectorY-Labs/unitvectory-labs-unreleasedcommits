@@ -6,6 +6,38 @@
   "latest_release_time": "2025-12-06T19:45:33Z",
   "unreleased_commits": [
     {
+      "sha": "cab1e5c0c40c163192001128385e49c3c28e8501",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #138 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-params-5.14.3\n\nBump org.junit.jupiter:junit-jupiter-params from 5.14.2 to 5.14.3",
+      "timestamp": "2026-02-21T11:59:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/cab1e5c0c40c163192001128385e49c3c28e8501",
+      "is_merge": true
+    },
+    {
+      "sha": "cb6af395262f0d9ec81ff6e786762dc6ca327453",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #137 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.5.5\n\nBump org.apache.maven.plugins:maven-surefire-plugin from 3.5.4 to 3.5.5",
+      "timestamp": "2026-02-21T11:53:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/cb6af395262f0d9ec81ff6e786762dc6ca327453",
+      "is_merge": true
+    },
+    {
+      "sha": "c8a35cd282c6bb7661afeb299fafaf0ed60d4d8b",
+      "author": "dependabot[bot]",
+      "message": "Bump org.junit.jupiter:junit-jupiter-params from 5.14.2 to 5.14.3\n\nBumps [org.junit.jupiter:junit-jupiter-params](https://github.com/junit-team/junit-framework) from 5.14.2 to 5.14.3.\n- [Release notes](https://github.com/junit-team/junit-framework/releases)\n- [Commits](https://github.com/junit-team/junit-framework/compare/r5.14.2...r5.14.3)\n\n---\nupdated-dependencies:\n- dependency-name: org.junit.jupiter:junit-jupiter-params\n  dependency-version: 5.14.3\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-21T11:02:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/c8a35cd282c6bb7661afeb299fafaf0ed60d4d8b",
+      "is_merge": false
+    },
+    {
+      "sha": "6563323ee742e84b5e57897448043a1a91fc6e31",
+      "author": "dependabot[bot]",
+      "message": "Bump org.apache.maven.plugins:maven-surefire-plugin from 3.5.4 to 3.5.5\n\nBumps [org.apache.maven.plugins:maven-surefire-plugin](https://github.com/apache/maven-surefire) from 3.5.4 to 3.5.5.\n- [Release notes](https://github.com/apache/maven-surefire/releases)\n- [Commits](https://github.com/apache/maven-surefire/compare/surefire-3.5.4...surefire-3.5.5)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-surefire-plugin\n  dependency-version: 3.5.5\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-21T11:02:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/6563323ee742e84b5e57897448043a1a91fc6e31",
+      "is_merge": false
+    },
+    {
       "sha": "ae2eeb3fe6327ec6018f302cf184971ac10c7a2a",
       "author": "JaredHatfield",
       "message": "Merge pull request #136 from UnitVectorY-Labs/bulkfilepr/c9b4e5a2c624\n\nUpdate .github/workflows/zizmor.yml",

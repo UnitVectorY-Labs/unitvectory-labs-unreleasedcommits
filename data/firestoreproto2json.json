@@ -6,6 +6,38 @@
   "latest_release_time": "2025-11-29T14:40:13Z",
   "unreleased_commits": [
     {
+      "sha": "7a6235c38e1a8bf660a85a3f42f0a89ee3e0835c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #134 from UnitVectorY-Labs/dependabot/maven/org.junit-junit-bom-5.14.3\n\nBump org.junit:junit-bom from 5.14.2 to 5.14.3",
+      "timestamp": "2026-02-21T11:59:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/7a6235c38e1a8bf660a85a3f42f0a89ee3e0835c",
+      "is_merge": true
+    },
+    {
+      "sha": "f6f136ffb29417487e6538da52af17cc94a264ac",
+      "author": "dependabot[bot]",
+      "message": "Bump org.junit:junit-bom from 5.14.2 to 5.14.3\n\nBumps [org.junit:junit-bom](https://github.com/junit-team/junit-framework) from 5.14.2 to 5.14.3.\n- [Release notes](https://github.com/junit-team/junit-framework/releases)\n- [Commits](https://github.com/junit-team/junit-framework/compare/r5.14.2...r5.14.3)\n\n---\nupdated-dependencies:\n- dependency-name: org.junit:junit-bom\n  dependency-version: 5.14.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-21T11:54:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/f6f136ffb29417487e6538da52af17cc94a264ac",
+      "is_merge": false
+    },
+    {
+      "sha": "00fad834361e3927e8eb254c391806f8c3cd5fdb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #135 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.5.5\n\nBump org.apache.maven.plugins:maven-surefire-plugin from 3.5.4 to 3.5.5",
+      "timestamp": "2026-02-21T11:53:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/00fad834361e3927e8eb254c391806f8c3cd5fdb",
+      "is_merge": true
+    },
+    {
+      "sha": "62956d66e2952eb22b69b4d4685c670bc2615cee",
+      "author": "dependabot[bot]",
+      "message": "Bump org.apache.maven.plugins:maven-surefire-plugin from 3.5.4 to 3.5.5\n\nBumps [org.apache.maven.plugins:maven-surefire-plugin](https://github.com/apache/maven-surefire) from 3.5.4 to 3.5.5.\n- [Release notes](https://github.com/apache/maven-surefire/releases)\n- [Commits](https://github.com/apache/maven-surefire/compare/surefire-3.5.4...surefire-3.5.5)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-surefire-plugin\n  dependency-version: 3.5.5\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-21T11:02:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/62956d66e2952eb22b69b4d4685c670bc2615cee",
+      "is_merge": false
+    },
+    {
       "sha": "9138b707795645175ec07f859ceb2218c84c5604",
       "author": "JaredHatfield",
       "message": "Merge pull request #133 from UnitVectorY-Labs/bulkfilepr/c9b4e5a2c624\n\nUpdate .github/workflows/zizmor.yml",
