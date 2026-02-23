@@ -6,6 +6,22 @@
   "latest_release_time": "2026-02-19T00:30:39Z",
   "unreleased_commits": [
     {
+      "sha": "21b7ca61b675b263ab8be11ba391b51f1e731fcc",
+      "author": "JaredHatfield",
+      "message": "Ignoring .env",
+      "timestamp": "2026-02-22T21:43:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/21b7ca61b675b263ab8be11ba391b51f1e731fcc",
+      "is_merge": false
+    },
+    {
+      "sha": "8da97e69d3bbd0ea0de1644b5ae21a473af57358",
+      "author": "JaredHatfield",
+      "message": "Add diagram to README for prompt2json\n\nAdded a diagram to illustrate prompt2json functionality.",
+      "timestamp": "2026-02-22T14:14:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/8da97e69d3bbd0ea0de1644b5ae21a473af57358",
+      "is_merge": false
+    },
+    {
       "sha": "bf72fcdbb195dbe504ce4b48ae871ca4d688a1b3",
       "author": "JaredHatfield",
       "message": "Merge pull request #26 from UnitVectorY-Labs/bulkfilepr/5f5c8a538826\n\nUpdate .repver",
