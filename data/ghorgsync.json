@@ -1,0 +1,18 @@
+{
+  "owner": "UnitVectorY-Labs",
+  "name": "ghorgsync",
+  "default_branch": "main",
+  "latest_release_tag": "v0.1.0",
+  "latest_release_time": "2026-02-23T02:40:31Z",
+  "unreleased_commits": [
+    {
+      "sha": "b34e012468fd8f5cce8ec2a9319cb95803ca68b3",
+      "author": "JaredHatfield",
+      "message": "Add badges to README for project status and reports\n\nAdded badges for release, license, status, and Go report card.",
+      "timestamp": "2026-02-23T02:42:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/b34e012468fd8f5cce8ec2a9319cb95803ca68b3",
+      "is_merge": false
+    }
+  ],
+  "repository_url": "https://github.com/UnitVectorY-Labs/ghorgsync"
+}
