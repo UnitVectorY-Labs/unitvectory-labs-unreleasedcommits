@@ -6,6 +6,22 @@
   "latest_release_time": "2025-10-20T23:04:50Z",
   "unreleased_commits": [
     {
+      "sha": "637b65865050a291cadb0c93660b0d12742bb7e9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #70 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-api-5.14.3\n\nBump org.junit.jupiter:junit-jupiter-api from 5.14.2 to 5.14.3",
+      "timestamp": "2026-02-24T02:09:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/637b65865050a291cadb0c93660b0d12742bb7e9",
+      "is_merge": true
+    },
+    {
+      "sha": "927a290f7d60ed1be6b8bf01a2f99ceb34b55160",
+      "author": "dependabot[bot]",
+      "message": "Bump org.junit.jupiter:junit-jupiter-api from 5.14.2 to 5.14.3\n\nBumps [org.junit.jupiter:junit-jupiter-api](https://github.com/junit-team/junit-framework) from 5.14.2 to 5.14.3.\n- [Release notes](https://github.com/junit-team/junit-framework/releases)\n- [Commits](https://github.com/junit-team/junit-framework/compare/r5.14.2...r5.14.3)\n\n---\nupdated-dependencies:\n- dependency-name: org.junit.jupiter:junit-jupiter-api\n  dependency-version: 5.14.3\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-21T11:55:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/927a290f7d60ed1be6b8bf01a2f99ceb34b55160",
+      "is_merge": false
+    },
+    {
       "sha": "c1ef70c54e9d1b938b7c27af4c8220af93c0ce6b",
       "author": "JaredHatfield",
       "message": "Merge pull request #69 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.5.5\n\nBump org.apache.maven.plugins:maven-surefire-plugin from 3.5.4 to 3.5.5",

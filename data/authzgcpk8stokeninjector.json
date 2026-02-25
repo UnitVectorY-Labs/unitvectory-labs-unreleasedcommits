@@ -6,6 +6,22 @@
   "latest_release_time": "2025-10-21T00:11:20Z",
   "unreleased_commits": [
     {
+      "sha": "8f5e2b6b228ba8d9201e6e3696606be8fd162224",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #78 from UnitVectorY-Labs/dependabot/go_modules/github.com/envoyproxy/go-control-plane/envoy-1.37.0\n\nBump github.com/envoyproxy/go-control-plane/envoy from 1.36.0 to 1.37.0",
+      "timestamp": "2026-02-24T02:11:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/8f5e2b6b228ba8d9201e6e3696606be8fd162224",
+      "is_merge": true
+    },
+    {
+      "sha": "c183b24cb8a47ea4d222a5bce47b5885c5e2a70b",
+      "author": "dependabot[bot]",
+      "message": "Bump github.com/envoyproxy/go-control-plane/envoy from 1.36.0 to 1.37.0\n\nBumps [github.com/envoyproxy/go-control-plane/envoy](https://github.com/envoyproxy/go-control-plane) from 1.36.0 to 1.37.0.\n- [Release notes](https://github.com/envoyproxy/go-control-plane/releases)\n- [Changelog](https://github.com/envoyproxy/go-control-plane/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/envoyproxy/go-control-plane/compare/envoy/v1.36.0...envoy/v1.37.0)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/envoyproxy/go-control-plane/envoy\n  dependency-version: 1.37.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-21T11:03:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/c183b24cb8a47ea4d222a5bce47b5885c5e2a70b",
+      "is_merge": false
+    },
+    {
       "sha": "756e91ad31047ed440a3b35b05bc3bd806addbd5",
       "author": "JaredHatfield",
       "message": "Merge pull request #77 from UnitVectorY-Labs/bulkfilepr/267203763563\n\nUpdate .repver",
