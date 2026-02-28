@@ -6,6 +6,46 @@
   "latest_release_time": "2026-02-09T03:05:56Z",
   "unreleased_commits": [
     {
+      "sha": "edd2be723b5b18d897337dbeeafb461f31a0777e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #76 from UnitVectorY-Labs/copilot/add-docs-examples-section\n\nAdd Examples documentation section with test-validated use cases",
+      "timestamp": "2026-02-27T02:41:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/edd2be723b5b18d897337dbeeafb461f31a0777e",
+      "is_merge": true
+    },
+    {
+      "sha": "bbe25414b49366bd0115ef4bda7c1fccd9aad7ff",
+      "author": "JaredHatfield",
+      "message": "Add .gitignore for Ruby/Jekyll docs artifacts",
+      "timestamp": "2026-02-27T02:38:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/bbe25414b49366bd0115ef4bda7c1fccd9aad7ff",
+      "is_merge": false
+    },
+    {
+      "sha": "cdf4b40c69406e89e49ec66a6e0c3912391a5e33",
+      "author": "JaredHatfield",
+      "message": "Create Justfile with build, test, and docs commands\n\nAdd Justfile with commands for building, testing, and serving documentation.",
+      "timestamp": "2026-02-27T02:38:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/cdf4b40c69406e89e49ec66a6e0c3912391a5e33",
+      "is_merge": false
+    },
+    {
+      "sha": "f052a6c46aa6aa4681accd0b146e27b3c8150bcb",
+      "author": "Copilot",
+      "message": "Add Examples documentation section with 5 examples and tests\n\nCo-authored-by: JaredHatfield \u003c208119+JaredHatfield@users.noreply.github.com\u003e",
+      "timestamp": "2026-02-27T02:29:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/f052a6c46aa6aa4681accd0b146e27b3c8150bcb",
+      "is_merge": false
+    },
+    {
+      "sha": "546ec68de70795f406360d80f4daa71a952963e6",
+      "author": "Copilot",
+      "message": "Initial plan",
+      "timestamp": "2026-02-27T02:24:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/546ec68de70795f406360d80f4daa71a952963e6",
+      "is_merge": false
+    },
+    {
       "sha": "1e7a45cec298726a722486c17ad171882d4c4673",
       "author": "JaredHatfield",
       "message": "Update mermaid library version to 11.12.3",
