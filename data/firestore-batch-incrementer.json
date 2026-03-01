@@ -6,6 +6,54 @@
   "latest_release_time": "2025-11-22T16:11:27Z",
   "unreleased_commits": [
     {
+      "sha": "eb1877fd5d24169ed71bd5850b9710eb87f052de",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #97 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.269.0\n\nchore(deps): bump google.golang.org/api from 0.267.0 to 0.269.0",
+      "timestamp": "2026-02-28T13:27:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/eb1877fd5d24169ed71bd5850b9710eb87f052de",
+      "is_merge": true
+    },
+    {
+      "sha": "9700595c312335e487a8d104a36083211945f8c9",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/api from 0.267.0 to 0.269.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.267.0 to 0.269.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.267.0...v0.269.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.269.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-28T13:26:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/9700595c312335e487a8d104a36083211945f8c9",
+      "is_merge": false
+    },
+    {
+      "sha": "eeaf5e0309b0793d467abf5353a9ba0e9f2b417e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #95 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.3.0\n\nchore(deps): bump actions/setup-go from 6.2.0 to 6.3.0",
+      "timestamp": "2026-02-28T13:21:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/eeaf5e0309b0793d467abf5353a9ba0e9f2b417e",
+      "is_merge": true
+    },
+    {
+      "sha": "0f672f605ef6dfbb3b34f1c86e03fb3d0266bcbe",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/setup-go from 6.2.0 to 6.3.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.2.0 to 6.3.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/7a3fe6cf4cb3a834922a1244abfce67bcef6a0c5...4b73464bb391d4059bd26b0524d20df3927bd417)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 6.3.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-28T13:11:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/0f672f605ef6dfbb3b34f1c86e03fb3d0266bcbe",
+      "is_merge": false
+    },
+    {
+      "sha": "b366ef297d680a63eab762391d46f3cda9414649",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #96 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.3.1\n\nchore(deps): bump astral-sh/setup-uv from 7.3.0 to 7.3.1",
+      "timestamp": "2026-02-28T13:10:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/b366ef297d680a63eab762391d46f3cda9414649",
+      "is_merge": true
+    },
+    {
+      "sha": "be2080ae0f5c40d18c7fb19be9be6a0c6b3a20a3",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 7.3.0 to 7.3.1\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.3.0 to 7.3.1.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/eac588ad8def6316056a12d4907a9d4d84ff7a3b...5a095e7a2014a4212f075830d4f7277575a9d098)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.3.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-28T11:05:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/be2080ae0f5c40d18c7fb19be9be6a0c6b3a20a3",
+      "is_merge": false
+    },
+    {
       "sha": "3c1489041e210228478bab0a22bd0651d3731c24",
       "author": "JaredHatfield",
       "message": "Merge pull request #94 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.267.0\n\nchore(deps): bump google.golang.org/api from 0.266.0 to 0.267.0",

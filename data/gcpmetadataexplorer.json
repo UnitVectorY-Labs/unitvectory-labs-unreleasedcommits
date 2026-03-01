@@ -6,6 +6,38 @@
   "latest_release_time": "2025-10-07T22:58:05Z",
   "unreleased_commits": [
     {
+      "sha": "616d59a1086aa2e64cb8a76444e1c62c6eba2d55",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #56 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.3.0\n\nBump actions/setup-go from 6.2.0 to 6.3.0",
+      "timestamp": "2026-02-28T13:21:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/616d59a1086aa2e64cb8a76444e1c62c6eba2d55",
+      "is_merge": true
+    },
+    {
+      "sha": "c6e760d4cf5dfb4deb9419c6ecdb114f5daa9cea",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/setup-go from 6.2.0 to 6.3.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.2.0 to 6.3.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/7a3fe6cf4cb3a834922a1244abfce67bcef6a0c5...4b73464bb391d4059bd26b0524d20df3927bd417)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 6.3.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-28T13:11:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/c6e760d4cf5dfb4deb9419c6ecdb114f5daa9cea",
+      "is_merge": false
+    },
+    {
+      "sha": "d6808e6fb917b3f2561e825b3d4f12e00f72b825",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #57 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.3.1\n\nBump astral-sh/setup-uv from 7.3.0 to 7.3.1",
+      "timestamp": "2026-02-28T13:09:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/d6808e6fb917b3f2561e825b3d4f12e00f72b825",
+      "is_merge": true
+    },
+    {
+      "sha": "648044f6988dbff649eb53114fd84e6b0f2bcd88",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 7.3.0 to 7.3.1\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.3.0 to 7.3.1.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/eac588ad8def6316056a12d4907a9d4d84ff7a3b...5a095e7a2014a4212f075830d4f7277575a9d098)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.3.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-28T11:07:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/648044f6988dbff649eb53114fd84e6b0f2bcd88",
+      "is_merge": false
+    },
+    {
       "sha": "14eaf362c94959eb330263ff63a5b22e7d10ac4f",
       "author": "JaredHatfield",
       "message": "Merge pull request #54 from UnitVectorY-Labs/bulkfilepr/267203763563\n\nUpdate .repver",

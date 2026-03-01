@@ -6,6 +6,38 @@
   "latest_release_time": "2025-12-06T18:46:02Z",
   "unreleased_commits": [
     {
+      "sha": "a2e0e6ed5fa023cc229d88f910e39f644ad59707",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #29 from UnitVectorY-Labs/dependabot/github_actions/actions/upload-artifact-7\n\nBump actions/upload-artifact from 6 to 7",
+      "timestamp": "2026-02-28T13:28:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/jwt-bearer-token-vendor/commit/a2e0e6ed5fa023cc229d88f910e39f644ad59707",
+      "is_merge": true
+    },
+    {
+      "sha": "9859b592160c380ca7ed2e9944f253235884d516",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/upload-artifact from 6 to 7\n\nBumps [actions/upload-artifact](https://github.com/actions/upload-artifact) from 6 to 7.\n- [Release notes](https://github.com/actions/upload-artifact/releases)\n- [Commits](https://github.com/actions/upload-artifact/compare/v6...v7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/upload-artifact\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-28T13:09:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/jwt-bearer-token-vendor/commit/9859b592160c380ca7ed2e9944f253235884d516",
+      "is_merge": false
+    },
+    {
+      "sha": "162e6b903489fbdd8ef3cf7d605588611cc83781",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #28 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.3.1\n\nBump astral-sh/setup-uv from 7.3.0 to 7.3.1",
+      "timestamp": "2026-02-28T13:08:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/jwt-bearer-token-vendor/commit/162e6b903489fbdd8ef3cf7d605588611cc83781",
+      "is_merge": true
+    },
+    {
+      "sha": "6b82291e230be258406153a1af6d8e38bfb51291",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 7.3.0 to 7.3.1\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.3.0 to 7.3.1.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/eac588ad8def6316056a12d4907a9d4d84ff7a3b...5a095e7a2014a4212f075830d4f7277575a9d098)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.3.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-28T11:02:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/jwt-bearer-token-vendor/commit/6b82291e230be258406153a1af6d8e38bfb51291",
+      "is_merge": false
+    },
+    {
       "sha": "68f3fdbc29b1583d8bdef14a4c40dfe879e9fc11",
       "author": "JaredHatfield",
       "message": "Merge pull request #26 from UnitVectorY-Labs/bulkfilepr/c9b4e5a2c624\n\nUpdate .github/workflows/zizmor.yml",

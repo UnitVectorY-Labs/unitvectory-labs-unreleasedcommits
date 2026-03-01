@@ -6,6 +6,38 @@
   "latest_release_time": "2026-02-11T00:29:08Z",
   "unreleased_commits": [
     {
+      "sha": "7b5678c54fced6d0e4b956fd3e3e04929e6b5238",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #5 from UnitVectorY-Labs/dependabot/github_actions/actions/upload-artifact-7\n\nBump actions/upload-artifact from 6 to 7",
+      "timestamp": "2026-02-28T13:28:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/7b5678c54fced6d0e4b956fd3e3e04929e6b5238",
+      "is_merge": true
+    },
+    {
+      "sha": "c08ca60c6ff02f0cecc4b7a3979701641c0c08d3",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #4 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.3.1\n\nBump astral-sh/setup-uv from 7.3.0 to 7.3.1",
+      "timestamp": "2026-02-28T13:11:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/c08ca60c6ff02f0cecc4b7a3979701641c0c08d3",
+      "is_merge": true
+    },
+    {
+      "sha": "605591e0147dc6d9f42140eb539665f1890542d1",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/upload-artifact from 6 to 7\n\nBumps [actions/upload-artifact](https://github.com/actions/upload-artifact) from 6 to 7.\n- [Release notes](https://github.com/actions/upload-artifact/releases)\n- [Commits](https://github.com/actions/upload-artifact/compare/v6...v7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/upload-artifact\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-28T11:05:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/605591e0147dc6d9f42140eb539665f1890542d1",
+      "is_merge": false
+    },
+    {
+      "sha": "f6d8841a0c9e3e29b4f955747d66b025213b562d",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 7.3.0 to 7.3.1\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.3.0 to 7.3.1.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/eac588ad8def6316056a12d4907a9d4d84ff7a3b...5a095e7a2014a4212f075830d4f7277575a9d098)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.3.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-28T11:05:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/f6d8841a0c9e3e29b4f955747d66b025213b562d",
+      "is_merge": false
+    },
+    {
       "sha": "f7af1f92020659be8f5813a69db2eed27cdf92fe",
       "author": "JaredHatfield",
       "message": "Update actions/checkout and codeql-action versions",

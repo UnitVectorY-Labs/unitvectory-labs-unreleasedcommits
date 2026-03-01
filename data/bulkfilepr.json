@@ -4,6 +4,55 @@
   "default_branch": "main",
   "latest_release_tag": "v0.2.3",
   "latest_release_time": "2026-02-25T01:34:46Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "b60a21d185a33513e08602f3c7af6b69612484d8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #21 from UnitVectorY-Labs/bulkfilepr/ae491ca1cc81\n\nUpdate .github/workflows/release-go-github.yml",
+      "timestamp": "2026-02-28T15:15:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/b60a21d185a33513e08602f3c7af6b69612484d8",
+      "is_merge": true
+    },
+    {
+      "sha": "005e18120aeb81a430047f57166c36327f71fc7b",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/release-go-github.yml",
+      "timestamp": "2026-02-28T15:06:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/005e18120aeb81a430047f57166c36327f71fc7b",
+      "is_merge": false
+    },
+    {
+      "sha": "f6b6bf6728171bebe1fde76a7f89b9c9b890bdf3",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #18 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.3.0\n\nBump actions/setup-go from 6.2.0 to 6.3.0",
+      "timestamp": "2026-02-28T13:22:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/f6b6bf6728171bebe1fde76a7f89b9c9b890bdf3",
+      "is_merge": true
+    },
+    {
+      "sha": "5e6c7d2c080a28e3796b2aa7eb257ea41d210fd9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #19 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.3.1\n\nBump astral-sh/setup-uv from 7.3.0 to 7.3.1",
+      "timestamp": "2026-02-28T13:11:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/5e6c7d2c080a28e3796b2aa7eb257ea41d210fd9",
+      "is_merge": true
+    },
+    {
+      "sha": "ea56f704099973a8f83bd1edc5bb40972e58c1a3",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 7.3.0 to 7.3.1\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.3.0 to 7.3.1.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/eac588ad8def6316056a12d4907a9d4d84ff7a3b...5a095e7a2014a4212f075830d4f7277575a9d098)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.3.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-28T11:04:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/ea56f704099973a8f83bd1edc5bb40972e58c1a3",
+      "is_merge": false
+    },
+    {
+      "sha": "e84dcafdac11a1a0390f8f81f1073ff770f428bf",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/setup-go from 6.2.0 to 6.3.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.2.0 to 6.3.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/7a3fe6cf4cb3a834922a1244abfce67bcef6a0c5...4b73464bb391d4059bd26b0524d20df3927bd417)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 6.3.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-28T11:04:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/e84dcafdac11a1a0390f8f81f1073ff770f428bf",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/bulkfilepr"
 }

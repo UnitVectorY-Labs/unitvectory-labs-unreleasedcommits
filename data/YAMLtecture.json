@@ -6,6 +6,54 @@
   "latest_release_time": "2026-02-09T03:05:56Z",
   "unreleased_commits": [
     {
+      "sha": "f562c1e9318f178f2c1759aacd77a5283fe9b030",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #80 from UnitVectorY-Labs/bulkfilepr/ae491ca1cc81\n\nUpdate .github/workflows/release-go-github.yml",
+      "timestamp": "2026-02-28T15:14:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/f562c1e9318f178f2c1759aacd77a5283fe9b030",
+      "is_merge": true
+    },
+    {
+      "sha": "e8cd0ddf87fd9995bbbc9bd511bfc1247ff2b7e9",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/release-go-github.yml",
+      "timestamp": "2026-02-28T15:07:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/e8cd0ddf87fd9995bbbc9bd511bfc1247ff2b7e9",
+      "is_merge": false
+    },
+    {
+      "sha": "3b97d2b6f6223cd645c1fc20a4ba2afaae9da757",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #79 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.3.0\n\nBump actions/setup-go from 6.2.0 to 6.3.0",
+      "timestamp": "2026-02-28T13:21:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/3b97d2b6f6223cd645c1fc20a4ba2afaae9da757",
+      "is_merge": true
+    },
+    {
+      "sha": "f636ccf37a32b623c693c54c60ad9f6dd65f21d0",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/setup-go from 6.2.0 to 6.3.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.2.0 to 6.3.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/7a3fe6cf4cb3a834922a1244abfce67bcef6a0c5...4b73464bb391d4059bd26b0524d20df3927bd417)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 6.3.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-28T13:12:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/f636ccf37a32b623c693c54c60ad9f6dd65f21d0",
+      "is_merge": false
+    },
+    {
+      "sha": "c9fbbc573389ac80dc3163d390e3df3f39c357d5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #78 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.3.1\n\nBump astral-sh/setup-uv from 7.3.0 to 7.3.1",
+      "timestamp": "2026-02-28T13:09:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/c9fbbc573389ac80dc3163d390e3df3f39c357d5",
+      "is_merge": true
+    },
+    {
+      "sha": "3e438e0887ff975f2e98f67bcc94cd7356626be0",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 7.3.0 to 7.3.1\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.3.0 to 7.3.1.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/eac588ad8def6316056a12d4907a9d4d84ff7a3b...5a095e7a2014a4212f075830d4f7277575a9d098)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.3.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-28T11:06:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/3e438e0887ff975f2e98f67bcc94cd7356626be0",
+      "is_merge": false
+    },
+    {
       "sha": "edd2be723b5b18d897337dbeeafb461f31a0777e",
       "author": "JaredHatfield",
       "message": "Merge pull request #76 from UnitVectorY-Labs/copilot/add-docs-examples-section\n\nAdd Examples documentation section with test-validated use cases",

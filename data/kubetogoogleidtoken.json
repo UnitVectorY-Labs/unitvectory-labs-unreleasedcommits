@@ -6,6 +6,38 @@
   "latest_release_time": "2025-11-12T01:30:20Z",
   "unreleased_commits": [
     {
+      "sha": "087fc7169a551c7dea2de967af300aa2cb14add9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #77 from UnitVectorY-Labs/dependabot/maven/org.mockito-mockito-core-5.22.0\n\nBump org.mockito:mockito-core from 5.21.0 to 5.22.0",
+      "timestamp": "2026-02-28T13:28:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/087fc7169a551c7dea2de967af300aa2cb14add9",
+      "is_merge": true
+    },
+    {
+      "sha": "b32d95f6cfdf9feb8c340c5cb14abe0d2c82cdf1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #76 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.3.1\n\nBump astral-sh/setup-uv from 7.3.0 to 7.3.1",
+      "timestamp": "2026-02-28T13:09:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/b32d95f6cfdf9feb8c340c5cb14abe0d2c82cdf1",
+      "is_merge": true
+    },
+    {
+      "sha": "8978ffd8e14f143561c248cf227b9f3692997f75",
+      "author": "dependabot[bot]",
+      "message": "Bump org.mockito:mockito-core from 5.21.0 to 5.22.0\n\nBumps [org.mockito:mockito-core](https://github.com/mockito/mockito) from 5.21.0 to 5.22.0.\n- [Release notes](https://github.com/mockito/mockito/releases)\n- [Commits](https://github.com/mockito/mockito/compare/v5.21.0...v5.22.0)\n\n---\nupdated-dependencies:\n- dependency-name: org.mockito:mockito-core\n  dependency-version: 5.22.0\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-28T11:05:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/8978ffd8e14f143561c248cf227b9f3692997f75",
+      "is_merge": false
+    },
+    {
+      "sha": "b56fe2cfedd1633054936235365319023359d173",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 7.3.0 to 7.3.1\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.3.0 to 7.3.1.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/eac588ad8def6316056a12d4907a9d4d84ff7a3b...5a095e7a2014a4212f075830d4f7277575a9d098)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.3.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-28T11:04:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/b56fe2cfedd1633054936235365319023359d173",
+      "is_merge": false
+    },
+    {
       "sha": "38d029760d21eaf86b2a8872fc3f39cc9e458116",
       "author": "JaredHatfield",
       "message": "Merge pull request #73 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-engine-5.14.3\n\nBump org.junit.jupiter:junit-jupiter-engine from 5.14.2 to 5.14.3",

@@ -6,6 +6,22 @@
   "latest_release_time": "2025-11-29T14:40:13Z",
   "unreleased_commits": [
     {
+      "sha": "702790a1dd652b01b5d654434ddd73b7dda51574",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #137 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.3.1\n\nBump astral-sh/setup-uv from 7.3.0 to 7.3.1",
+      "timestamp": "2026-02-28T13:07:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/702790a1dd652b01b5d654434ddd73b7dda51574",
+      "is_merge": true
+    },
+    {
+      "sha": "ae7376a29d474ac3497e8ca8274b0cc05860612a",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 7.3.0 to 7.3.1\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.3.0 to 7.3.1.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/eac588ad8def6316056a12d4907a9d4d84ff7a3b...5a095e7a2014a4212f075830d4f7277575a9d098)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.3.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-28T11:02:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/ae7376a29d474ac3497e8ca8274b0cc05860612a",
+      "is_merge": false
+    },
+    {
       "sha": "7a6235c38e1a8bf660a85a3f42f0a89ee3e0835c",
       "author": "JaredHatfield",
       "message": "Merge pull request #134 from UnitVectorY-Labs/dependabot/maven/org.junit-junit-bom-5.14.3\n\nBump org.junit:junit-bom from 5.14.2 to 5.14.3",

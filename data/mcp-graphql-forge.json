@@ -6,6 +6,70 @@
   "latest_release_time": "2026-02-09T03:03:04Z",
   "unreleased_commits": [
     {
+      "sha": "325230237af12c0b8d1ffb716f805b8c583dc2a1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #70 from UnitVectorY-Labs/bulkfilepr/ae491ca1cc81\n\nUpdate .github/workflows/release-go-github.yml",
+      "timestamp": "2026-02-28T15:14:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/325230237af12c0b8d1ffb716f805b8c583dc2a1",
+      "is_merge": true
+    },
+    {
+      "sha": "3d67973c3431fbe00c07d9dd2c56ba9ad3cf85f3",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/release-go-github.yml",
+      "timestamp": "2026-02-28T15:06:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/3d67973c3431fbe00c07d9dd2c56ba9ad3cf85f3",
+      "is_merge": false
+    },
+    {
+      "sha": "717dab4f2fa952bee94bc53d3804adaade6e4d7f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #69 from UnitVectorY-Labs/dependabot/go_modules/github.com/mark3labs/mcp-go-0.44.1\n\nBump github.com/mark3labs/mcp-go from 0.44.0 to 0.44.1",
+      "timestamp": "2026-02-28T13:27:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/717dab4f2fa952bee94bc53d3804adaade6e4d7f",
+      "is_merge": true
+    },
+    {
+      "sha": "d833233a2d82dd0622fa5468d36b260de25177bc",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #66 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.3.0\n\nBump actions/setup-go from 6.2.0 to 6.3.0",
+      "timestamp": "2026-02-28T13:21:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/d833233a2d82dd0622fa5468d36b260de25177bc",
+      "is_merge": true
+    },
+    {
+      "sha": "8db6eb5a6519281ca6025a1f6fa81e3f5451c1ef",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/setup-go from 6.2.0 to 6.3.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.2.0 to 6.3.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/7a3fe6cf4cb3a834922a1244abfce67bcef6a0c5...4b73464bb391d4059bd26b0524d20df3927bd417)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 6.3.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-28T13:12:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/8db6eb5a6519281ca6025a1f6fa81e3f5451c1ef",
+      "is_merge": false
+    },
+    {
+      "sha": "8d5fa829883885fc2df6f0ec43398a2cc27cb381",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #68 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.3.1\n\nBump astral-sh/setup-uv from 7.3.0 to 7.3.1",
+      "timestamp": "2026-02-28T13:10:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/8d5fa829883885fc2df6f0ec43398a2cc27cb381",
+      "is_merge": true
+    },
+    {
+      "sha": "f7bf04bb4ee05a1adfdb4fcf55ca39453f816eb4",
+      "author": "dependabot[bot]",
+      "message": "Bump github.com/mark3labs/mcp-go from 0.44.0 to 0.44.1\n\nBumps [github.com/mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) from 0.44.0 to 0.44.1.\n- [Release notes](https://github.com/mark3labs/mcp-go/releases)\n- [Commits](https://github.com/mark3labs/mcp-go/compare/v0.44.0...v0.44.1)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/mark3labs/mcp-go\n  dependency-version: 0.44.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-28T11:04:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/f7bf04bb4ee05a1adfdb4fcf55ca39453f816eb4",
+      "is_merge": false
+    },
+    {
+      "sha": "d49cb63354ffc1532dcb7d118823475bff74f7e3",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 7.3.0 to 7.3.1\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.3.0 to 7.3.1.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/eac588ad8def6316056a12d4907a9d4d84ff7a3b...5a095e7a2014a4212f075830d4f7277575a9d098)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.3.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-28T11:04:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/d49cb63354ffc1532dcb7d118823475bff74f7e3",
+      "is_merge": false
+    },
+    {
       "sha": "917693f809a82aa88c412e0b8bfaa4feaec50de2",
       "author": "JaredHatfield",
       "message": "Merge pull request #65 from UnitVectorY-Labs/dependabot/go_modules/github.com/mark3labs/mcp-go-0.44.0\n\nBump github.com/mark3labs/mcp-go from 0.43.2 to 0.44.0",

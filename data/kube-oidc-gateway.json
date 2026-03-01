@@ -6,6 +6,38 @@
   "latest_release_time": "2026-01-13T00:03:59Z",
   "unreleased_commits": [
     {
+      "sha": "f37e518481546c88e624b22e5e139428988d0069",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #27 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.3.0\n\nchore(deps): bump actions/setup-go from 6.2.0 to 6.3.0",
+      "timestamp": "2026-02-28T13:22:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/f37e518481546c88e624b22e5e139428988d0069",
+      "is_merge": true
+    },
+    {
+      "sha": "c54f500b778b7f164690ca1ba6a12a1f088aafe7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #28 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.3.1\n\nchore(deps): bump astral-sh/setup-uv from 7.3.0 to 7.3.1",
+      "timestamp": "2026-02-28T13:10:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/c54f500b778b7f164690ca1ba6a12a1f088aafe7",
+      "is_merge": true
+    },
+    {
+      "sha": "ff1c8f47c5b3d51822fb46c5f8d13f90a9029201",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 7.3.0 to 7.3.1\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.3.0 to 7.3.1.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/eac588ad8def6316056a12d4907a9d4d84ff7a3b...5a095e7a2014a4212f075830d4f7277575a9d098)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.3.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-28T11:06:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/ff1c8f47c5b3d51822fb46c5f8d13f90a9029201",
+      "is_merge": false
+    },
+    {
+      "sha": "f5f42bf99c5822d7f191a24f9031c8511f262bb2",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/setup-go from 6.2.0 to 6.3.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.2.0 to 6.3.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/7a3fe6cf4cb3a834922a1244abfce67bcef6a0c5...4b73464bb391d4059bd26b0524d20df3927bd417)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 6.3.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-28T11:04:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/f5f42bf99c5822d7f191a24f9031c8511f262bb2",
+      "is_merge": false
+    },
+    {
       "sha": "0c49cb088513cfd2a205de4765e8cac7dd110a35",
       "author": "JaredHatfield",
       "message": "Merge pull request #25 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.32.4\n\nchore(deps): bump github/codeql-action from 4.32.3 to 4.32.4",
