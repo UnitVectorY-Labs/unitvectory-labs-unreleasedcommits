@@ -6,6 +6,14 @@
   "latest_release_time": "2026-02-09T03:05:56Z",
   "unreleased_commits": [
     {
+      "sha": "9c097455f03bc9dd71a08d7ae90c91a9bc72b667",
+      "author": "JaredHatfield",
+      "message": "Add .clip4llm to exclude specific files",
+      "timestamp": "2026-03-01T13:44:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/9c097455f03bc9dd71a08d7ae90c91a9bc72b667",
+      "is_merge": false
+    },
+    {
       "sha": "f562c1e9318f178f2c1759aacd77a5283fe9b030",
       "author": "JaredHatfield",
       "message": "Merge pull request #80 from UnitVectorY-Labs/bulkfilepr/ae491ca1cc81\n\nUpdate .github/workflows/release-go-github.yml",

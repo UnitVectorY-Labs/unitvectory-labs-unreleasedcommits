@@ -6,6 +6,14 @@
   "latest_release_time": "2026-02-25T23:07:41Z",
   "unreleased_commits": [
     {
+      "sha": "dfb262c06651b4907dcc4d068edba1f730952ecc",
+      "author": "JaredHatfield",
+      "message": "Add .clip4llm to exclude certain files",
+      "timestamp": "2026-03-01T13:44:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/dfb262c06651b4907dcc4d068edba1f730952ecc",
+      "is_merge": false
+    },
+    {
       "sha": "5d1e11947ee45a62137245ac546ea0fdac0713da",
       "author": "JaredHatfield",
       "message": "Merge pull request #9 from UnitVectorY-Labs/bulkfilepr/ae491ca1cc81\n\nUpdate .github/workflows/release-go-github.yml",
