@@ -6,6 +6,70 @@
   "latest_release_time": "2025-12-06T19:53:32Z",
   "unreleased_commits": [
     {
+      "sha": "2867231b584c1b9d7edccb3aa3db14cadce9e1ec",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #38 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-7.0.0\n\nBump docker/build-push-action from 6.19.2 to 7.0.0",
+      "timestamp": "2026-03-07T15:02:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/2867231b584c1b9d7edccb3aa3db14cadce9e1ec",
+      "is_merge": true
+    },
+    {
+      "sha": "bfa03b1ded30f282169e0fb6510b48e29b5329eb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #39 from UnitVectorY-Labs/dependabot/github_actions/docker/metadata-action-6.0.0\n\nBump docker/metadata-action from 5.10.0 to 6.0.0",
+      "timestamp": "2026-03-07T14:54:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/bfa03b1ded30f282169e0fb6510b48e29b5329eb",
+      "is_merge": true
+    },
+    {
+      "sha": "5be2555a911a60b061b577117472bc291df5979a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #37 from UnitVectorY-Labs/dependabot/github_actions/docker/setup-buildx-action-4.0.0\n\nBump docker/setup-buildx-action from 3.12.0 to 4.0.0",
+      "timestamp": "2026-03-07T12:56:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/5be2555a911a60b061b577117472bc291df5979a",
+      "is_merge": true
+    },
+    {
+      "sha": "a4919564acf07f93dbe53f7119d3cfc674429a20",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/setup-buildx-action from 3.12.0 to 4.0.0\n\nBumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 3.12.0 to 4.0.0.\n- [Release notes](https://github.com/docker/setup-buildx-action/releases)\n- [Commits](https://github.com/docker/setup-buildx-action/compare/8d2750c68a42422c14e847fe6c8ac0403b4cbd6f...4d04d5d9486b7bd6fa91e7baf45bbb4f8b9deedd)\n\n---\nupdated-dependencies:\n- dependency-name: docker/setup-buildx-action\n  dependency-version: 4.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-07T12:51:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/a4919564acf07f93dbe53f7119d3cfc674429a20",
+      "is_merge": false
+    },
+    {
+      "sha": "c7b545df479a98b6e9ac8ada8750f98bd7f6681c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #36 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.0.0\n\nBump docker/login-action from 3.7.0 to 4.0.0",
+      "timestamp": "2026-03-07T12:47:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/c7b545df479a98b6e9ac8ada8750f98bd7f6681c",
+      "is_merge": true
+    },
+    {
+      "sha": "34bab2537ce56816de52f6729adb8bd267ea24b8",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/metadata-action from 5.10.0 to 6.0.0\n\nBumps [docker/metadata-action](https://github.com/docker/metadata-action) from 5.10.0 to 6.0.0.\n- [Release notes](https://github.com/docker/metadata-action/releases)\n- [Commits](https://github.com/docker/metadata-action/compare/c299e40c65443455700f0fdfc63efafe5b349051...030e881283bb7a6894de51c315a6bfe6a94e05cf)\n\n---\nupdated-dependencies:\n- dependency-name: docker/metadata-action\n  dependency-version: 6.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-07T11:03:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/34bab2537ce56816de52f6729adb8bd267ea24b8",
+      "is_merge": false
+    },
+    {
+      "sha": "7c2bf4cfbd0cfa24afe3bc0969a1d82592238bb2",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/build-push-action from 6.19.2 to 7.0.0\n\nBumps [docker/build-push-action](https://github.com/docker/build-push-action) from 6.19.2 to 7.0.0.\n- [Release notes](https://github.com/docker/build-push-action/releases)\n- [Commits](https://github.com/docker/build-push-action/compare/10e90e3645eae34f1e60eeb005ba3a3d33f178e8...d08e5c354a6adb9ed34480a06d141179aa583294)\n\n---\nupdated-dependencies:\n- dependency-name: docker/build-push-action\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-07T11:03:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/7c2bf4cfbd0cfa24afe3bc0969a1d82592238bb2",
+      "is_merge": false
+    },
+    {
+      "sha": "2a135f55ffa052aa945b5553fc017a0324cc1073",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/login-action from 3.7.0 to 4.0.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 3.7.0 to 4.0.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/c94ce9fb468520275223c153574b00df6fe4bcc9...b45d80f862d83dbcd57f89517bcf500b2ab88fb2)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-07T11:03:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/2a135f55ffa052aa945b5553fc017a0324cc1073",
+      "is_merge": false
+    },
+    {
       "sha": "3f343332b31b0b9b3319029215d5c556327e9d20",
       "author": "JaredHatfield",
       "message": "Merge pull request #35 from UnitVectorY-Labs/bulkfilepr/ae491ca1cc81\n\nUpdate .github/workflows/release-go-github.yml",

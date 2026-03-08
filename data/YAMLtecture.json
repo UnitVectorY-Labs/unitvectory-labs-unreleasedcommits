@@ -6,6 +6,22 @@
   "latest_release_time": "2026-02-09T03:05:56Z",
   "unreleased_commits": [
     {
+      "sha": "010e5569d6eff806572383784082e6e8d133ea4b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #81 from UnitVectorY-Labs/dependabot/go_modules/github.com/UnitVectorY-Labs/yamlequal-0.1.0\n\nBump github.com/UnitVectorY-Labs/yamlequal from 0.0.3 to 0.1.0",
+      "timestamp": "2026-03-07T12:50:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/010e5569d6eff806572383784082e6e8d133ea4b",
+      "is_merge": true
+    },
+    {
+      "sha": "05cc01e537a76eaffb19c019998c17f68cccf39e",
+      "author": "dependabot[bot]",
+      "message": "Bump github.com/UnitVectorY-Labs/yamlequal from 0.0.3 to 0.1.0\n\nBumps [github.com/UnitVectorY-Labs/yamlequal](https://github.com/UnitVectorY-Labs/yamlequal) from 0.0.3 to 0.1.0.\n- [Release notes](https://github.com/UnitVectorY-Labs/yamlequal/releases)\n- [Commits](https://github.com/UnitVectorY-Labs/yamlequal/compare/v0.0.3...v0.1.0)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/UnitVectorY-Labs/yamlequal\n  dependency-version: 0.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-07T11:03:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/05cc01e537a76eaffb19c019998c17f68cccf39e",
+      "is_merge": false
+    },
+    {
       "sha": "9c097455f03bc9dd71a08d7ae90c91a9bc72b667",
       "author": "JaredHatfield",
       "message": "Add .clip4llm to exclude specific files",

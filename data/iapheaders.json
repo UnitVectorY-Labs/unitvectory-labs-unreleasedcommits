@@ -6,6 +6,70 @@
   "latest_release_time": "2025-11-22T16:00:36Z",
   "unreleased_commits": [
     {
+      "sha": "6c066302d013e0e36556ada1996a630421eb5b10",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #71 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-7.0.0\n\nBump docker/build-push-action from 6.19.2 to 7.0.0",
+      "timestamp": "2026-03-07T15:01:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/6c066302d013e0e36556ada1996a630421eb5b10",
+      "is_merge": true
+    },
+    {
+      "sha": "2488a4b8937ee1893cc715bc05e9f22359ea102f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #70 from UnitVectorY-Labs/dependabot/github_actions/docker/metadata-action-6.0.0\n\nBump docker/metadata-action from 5.10.0 to 6.0.0",
+      "timestamp": "2026-03-07T14:53:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/2488a4b8937ee1893cc715bc05e9f22359ea102f",
+      "is_merge": true
+    },
+    {
+      "sha": "feddd81195813a03e70030a32d12093525ac1e3b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #68 from UnitVectorY-Labs/dependabot/github_actions/docker/setup-buildx-action-4.0.0\n\nBump docker/setup-buildx-action from 3.12.0 to 4.0.0",
+      "timestamp": "2026-03-07T12:55:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/feddd81195813a03e70030a32d12093525ac1e3b",
+      "is_merge": true
+    },
+    {
+      "sha": "a6032a6df048f5d6f8fd7e3c42c5cb4e224e907f",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/setup-buildx-action from 3.12.0 to 4.0.0\n\nBumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 3.12.0 to 4.0.0.\n- [Release notes](https://github.com/docker/setup-buildx-action/releases)\n- [Commits](https://github.com/docker/setup-buildx-action/compare/8d2750c68a42422c14e847fe6c8ac0403b4cbd6f...4d04d5d9486b7bd6fa91e7baf45bbb4f8b9deedd)\n\n---\nupdated-dependencies:\n- dependency-name: docker/setup-buildx-action\n  dependency-version: 4.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-07T12:50:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/a6032a6df048f5d6f8fd7e3c42c5cb4e224e907f",
+      "is_merge": false
+    },
+    {
+      "sha": "4f39c9d0045628ad5206996f14070e8c44ab847d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #69 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.0.0\n\nBump docker/login-action from 3.7.0 to 4.0.0",
+      "timestamp": "2026-03-07T12:47:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/4f39c9d0045628ad5206996f14070e8c44ab847d",
+      "is_merge": true
+    },
+    {
+      "sha": "4671559be51fc91c36addcf7746d35fe0bb3047f",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/build-push-action from 6.19.2 to 7.0.0\n\nBumps [docker/build-push-action](https://github.com/docker/build-push-action) from 6.19.2 to 7.0.0.\n- [Release notes](https://github.com/docker/build-push-action/releases)\n- [Commits](https://github.com/docker/build-push-action/compare/10e90e3645eae34f1e60eeb005ba3a3d33f178e8...d08e5c354a6adb9ed34480a06d141179aa583294)\n\n---\nupdated-dependencies:\n- dependency-name: docker/build-push-action\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-07T11:03:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/4671559be51fc91c36addcf7746d35fe0bb3047f",
+      "is_merge": false
+    },
+    {
+      "sha": "9ae3d85fb956937e3b3a7efe8d78a19040c751fc",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/metadata-action from 5.10.0 to 6.0.0\n\nBumps [docker/metadata-action](https://github.com/docker/metadata-action) from 5.10.0 to 6.0.0.\n- [Release notes](https://github.com/docker/metadata-action/releases)\n- [Commits](https://github.com/docker/metadata-action/compare/c299e40c65443455700f0fdfc63efafe5b349051...030e881283bb7a6894de51c315a6bfe6a94e05cf)\n\n---\nupdated-dependencies:\n- dependency-name: docker/metadata-action\n  dependency-version: 6.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-07T11:02:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/9ae3d85fb956937e3b3a7efe8d78a19040c751fc",
+      "is_merge": false
+    },
+    {
+      "sha": "5b089d108bdc44e6db60fbc93925f13eee3f2b64",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/login-action from 3.7.0 to 4.0.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 3.7.0 to 4.0.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/c94ce9fb468520275223c153574b00df6fe4bcc9...b45d80f862d83dbcd57f89517bcf500b2ab88fb2)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-07T11:02:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/5b089d108bdc44e6db60fbc93925f13eee3f2b64",
+      "is_merge": false
+    },
+    {
       "sha": "7c3649a98a1d4e3e84807498d62de4340c9e42a4",
       "author": "JaredHatfield",
       "message": "Merge pull request #67 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.3.0\n\nBump actions/setup-go from 6.2.0 to 6.3.0",

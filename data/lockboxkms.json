@@ -6,6 +6,70 @@
   "latest_release_time": "2025-11-22T16:02:58Z",
   "unreleased_commits": [
     {
+      "sha": "e82307c34672c2fab6fb26ce0f918d5126f50d5f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #139 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-7.0.0\n\nchore(deps): bump docker/build-push-action from 6.19.2 to 7.0.0",
+      "timestamp": "2026-03-07T15:01:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/e82307c34672c2fab6fb26ce0f918d5126f50d5f",
+      "is_merge": true
+    },
+    {
+      "sha": "f4f87d56db9d99b7b2fcf84bfd90a23f4bd01bff",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/build-push-action from 6.19.2 to 7.0.0\n\nBumps [docker/build-push-action](https://github.com/docker/build-push-action) from 6.19.2 to 7.0.0.\n- [Release notes](https://github.com/docker/build-push-action/releases)\n- [Commits](https://github.com/docker/build-push-action/compare/10e90e3645eae34f1e60eeb005ba3a3d33f178e8...d08e5c354a6adb9ed34480a06d141179aa583294)\n\n---\nupdated-dependencies:\n- dependency-name: docker/build-push-action\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-07T14:54:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/f4f87d56db9d99b7b2fcf84bfd90a23f4bd01bff",
+      "is_merge": false
+    },
+    {
+      "sha": "7540f825784a43e97041cec70271189bd3d886bc",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #138 from UnitVectorY-Labs/dependabot/github_actions/docker/metadata-action-6.0.0\n\nchore(deps): bump docker/metadata-action from 5.10.0 to 6.0.0",
+      "timestamp": "2026-03-07T14:53:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/7540f825784a43e97041cec70271189bd3d886bc",
+      "is_merge": true
+    },
+    {
+      "sha": "8aa44bb35557ea131b0821de47d8b6013de270ff",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/metadata-action from 5.10.0 to 6.0.0\n\nBumps [docker/metadata-action](https://github.com/docker/metadata-action) from 5.10.0 to 6.0.0.\n- [Release notes](https://github.com/docker/metadata-action/releases)\n- [Commits](https://github.com/docker/metadata-action/compare/c299e40c65443455700f0fdfc63efafe5b349051...030e881283bb7a6894de51c315a6bfe6a94e05cf)\n\n---\nupdated-dependencies:\n- dependency-name: docker/metadata-action\n  dependency-version: 6.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-07T12:56:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/8aa44bb35557ea131b0821de47d8b6013de270ff",
+      "is_merge": false
+    },
+    {
+      "sha": "be4505323022c0477080c2240bc7ab0c21e18825",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #141 from UnitVectorY-Labs/dependabot/github_actions/docker/setup-buildx-action-4.0.0\n\nchore(deps): bump docker/setup-buildx-action from 3.12.0 to 4.0.0",
+      "timestamp": "2026-03-07T12:55:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/be4505323022c0477080c2240bc7ab0c21e18825",
+      "is_merge": true
+    },
+    {
+      "sha": "92ccbcdc0166dbc3fe9a3f6b8d2cb02e49aaf9eb",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/setup-buildx-action from 3.12.0 to 4.0.0\n\nBumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 3.12.0 to 4.0.0.\n- [Release notes](https://github.com/docker/setup-buildx-action/releases)\n- [Commits](https://github.com/docker/setup-buildx-action/compare/8d2750c68a42422c14e847fe6c8ac0403b4cbd6f...4d04d5d9486b7bd6fa91e7baf45bbb4f8b9deedd)\n\n---\nupdated-dependencies:\n- dependency-name: docker/setup-buildx-action\n  dependency-version: 4.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-07T12:49:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/92ccbcdc0166dbc3fe9a3f6b8d2cb02e49aaf9eb",
+      "is_merge": false
+    },
+    {
+      "sha": "ab456064c614f6d12ffdee6094911b82b22d65e5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #140 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.0.0\n\nchore(deps): bump docker/login-action from 3.7.0 to 4.0.0",
+      "timestamp": "2026-03-07T12:47:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/ab456064c614f6d12ffdee6094911b82b22d65e5",
+      "is_merge": true
+    },
+    {
+      "sha": "cd1878ffaa86191041ef7f5f1e58d738139b2af3",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/login-action from 3.7.0 to 4.0.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 3.7.0 to 4.0.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/c94ce9fb468520275223c153574b00df6fe4bcc9...b45d80f862d83dbcd57f89517bcf500b2ab88fb2)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-07T11:03:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/cd1878ffaa86191041ef7f5f1e58d738139b2af3",
+      "is_merge": false
+    },
+    {
       "sha": "5955c35498c9696e0558a3f527a5d7319251b3c7",
       "author": "JaredHatfield",
       "message": "Merge pull request #134 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.269.0\n\nchore(deps): bump google.golang.org/api from 0.267.0 to 0.269.0",

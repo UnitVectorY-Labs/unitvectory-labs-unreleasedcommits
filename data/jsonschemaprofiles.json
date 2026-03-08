@@ -4,6 +4,23 @@
   "default_branch": "main",
   "latest_release_tag": "v0.1.0",
   "latest_release_time": "2026-03-05T02:21:10Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "9237a85c994fd82f6f16c3a0682f0b2b05ee64d4",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #2 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/text-0.34.0\n\nbuild(deps): bump golang.org/x/text from 0.14.0 to 0.34.0",
+      "timestamp": "2026-03-07T15:01:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/9237a85c994fd82f6f16c3a0682f0b2b05ee64d4",
+      "is_merge": true
+    },
+    {
+      "sha": "293b342c74c69f726acd6e1e014797a62e6df53a",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump golang.org/x/text from 0.14.0 to 0.34.0\n\nBumps [golang.org/x/text](https://github.com/golang/text) from 0.14.0 to 0.34.0.\n- [Release notes](https://github.com/golang/text/releases)\n- [Commits](https://github.com/golang/text/compare/v0.14.0...v0.34.0)\n\n---\nupdated-dependencies:\n- dependency-name: golang.org/x/text\n  dependency-version: 0.34.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-07T11:06:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/293b342c74c69f726acd6e1e014797a62e6df53a",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles"
 }

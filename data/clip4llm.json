@@ -6,6 +6,22 @@
   "latest_release_time": "2026-02-09T03:03:53Z",
   "unreleased_commits": [
     {
+      "sha": "96a67c0d182d2868af063e7c7e5af27f1f2f9482",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #57 from UnitVectorY-Labs/dependabot/go_modules/github.com/UnitVectorY-Labs/isplaintextfile-0.1.0\n\nBump github.com/UnitVectorY-Labs/isplaintextfile from 0.0.4 to 0.1.0",
+      "timestamp": "2026-03-07T15:07:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/96a67c0d182d2868af063e7c7e5af27f1f2f9482",
+      "is_merge": true
+    },
+    {
+      "sha": "a87153209f1ca2174ef806ba6695972016559706",
+      "author": "dependabot[bot]",
+      "message": "Bump github.com/UnitVectorY-Labs/isplaintextfile from 0.0.4 to 0.1.0\n\nBumps [github.com/UnitVectorY-Labs/isplaintextfile](https://github.com/UnitVectorY-Labs/isplaintextfile) from 0.0.4 to 0.1.0.\n- [Release notes](https://github.com/UnitVectorY-Labs/isplaintextfile/releases)\n- [Commits](https://github.com/UnitVectorY-Labs/isplaintextfile/compare/v0.0.4...v0.1.0)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/UnitVectorY-Labs/isplaintextfile\n  dependency-version: 0.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-07T11:02:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/a87153209f1ca2174ef806ba6695972016559706",
+      "is_merge": false
+    },
+    {
       "sha": "db5aba14cd684fce20cf628562e36d7a4dd37bb7",
       "author": "JaredHatfield",
       "message": "Merge pull request #56 from UnitVectorY-Labs/bulkfilepr/ae491ca1cc81\n\nUpdate .github/workflows/release-go-github.yml",

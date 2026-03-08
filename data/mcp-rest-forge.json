@@ -6,6 +6,22 @@
   "latest_release_time": "2026-02-26T01:29:40Z",
   "unreleased_commits": [
     {
+      "sha": "c83dc5ffb5f44303d5bc045863668ed510f934b8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #8 from UnitVectorY-Labs/dependabot/go_modules/github.com/mark3labs/mcp-go-0.45.0\n\nbuild(deps): bump github.com/mark3labs/mcp-go from 0.44.1 to 0.45.0",
+      "timestamp": "2026-03-07T12:49:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/c83dc5ffb5f44303d5bc045863668ed510f934b8",
+      "is_merge": true
+    },
+    {
+      "sha": "46c8969eb45c98a61cf2b76fd11f18d553a98df0",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github.com/mark3labs/mcp-go from 0.44.1 to 0.45.0\n\nBumps [github.com/mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) from 0.44.1 to 0.45.0.\n- [Release notes](https://github.com/mark3labs/mcp-go/releases)\n- [Commits](https://github.com/mark3labs/mcp-go/compare/v0.44.1...v0.45.0)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/mark3labs/mcp-go\n  dependency-version: 0.45.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-07T11:04:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/46c8969eb45c98a61cf2b76fd11f18d553a98df0",
+      "is_merge": false
+    },
+    {
       "sha": "47a2e19f09a321d0e3234e9de17fee18c5b891a7",
       "author": "JaredHatfield",
       "message": "Merge pull request #7 from UnitVectorY-Labs/bulkfilepr/ae491ca1cc81\n\nUpdate .github/workflows/release-go-github.yml",

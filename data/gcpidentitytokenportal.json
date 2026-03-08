@@ -6,6 +6,70 @@
   "latest_release_time": "2026-01-18T02:43:27Z",
   "unreleased_commits": [
     {
+      "sha": "24e62da328d0186187dcfd8f8d28ac74e0e14d76",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #133 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-7.0.0\n\nchore(deps): bump docker/build-push-action from 6.19.2 to 7.0.0",
+      "timestamp": "2026-03-07T15:01:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/24e62da328d0186187dcfd8f8d28ac74e0e14d76",
+      "is_merge": true
+    },
+    {
+      "sha": "a0ca9b821fd872dff006a47e47ab0a4625aa4fe7",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/build-push-action from 6.19.2 to 7.0.0\n\nBumps [docker/build-push-action](https://github.com/docker/build-push-action) from 6.19.2 to 7.0.0.\n- [Release notes](https://github.com/docker/build-push-action/releases)\n- [Commits](https://github.com/docker/build-push-action/compare/10e90e3645eae34f1e60eeb005ba3a3d33f178e8...d08e5c354a6adb9ed34480a06d141179aa583294)\n\n---\nupdated-dependencies:\n- dependency-name: docker/build-push-action\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-07T14:54:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/a0ca9b821fd872dff006a47e47ab0a4625aa4fe7",
+      "is_merge": false
+    },
+    {
+      "sha": "6ce860505a1fa0383789bc3b6735f4239a53017e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #132 from UnitVectorY-Labs/dependabot/github_actions/docker/metadata-action-6.0.0\n\nchore(deps): bump docker/metadata-action from 5.10.0 to 6.0.0",
+      "timestamp": "2026-03-07T14:53:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/6ce860505a1fa0383789bc3b6735f4239a53017e",
+      "is_merge": true
+    },
+    {
+      "sha": "3c8e139930dcf137795be4564addd63a842ebb44",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/metadata-action from 5.10.0 to 6.0.0\n\nBumps [docker/metadata-action](https://github.com/docker/metadata-action) from 5.10.0 to 6.0.0.\n- [Release notes](https://github.com/docker/metadata-action/releases)\n- [Commits](https://github.com/docker/metadata-action/compare/c299e40c65443455700f0fdfc63efafe5b349051...030e881283bb7a6894de51c315a6bfe6a94e05cf)\n\n---\nupdated-dependencies:\n- dependency-name: docker/metadata-action\n  dependency-version: 6.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-07T13:02:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/3c8e139930dcf137795be4564addd63a842ebb44",
+      "is_merge": false
+    },
+    {
+      "sha": "c8611cfa096275fa6e92aa3725372b60e79ede59",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #134 from UnitVectorY-Labs/dependabot/github_actions/docker/setup-buildx-action-4.0.0\n\nchore(deps): bump docker/setup-buildx-action from 3.12.0 to 4.0.0",
+      "timestamp": "2026-03-07T12:55:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/c8611cfa096275fa6e92aa3725372b60e79ede59",
+      "is_merge": true
+    },
+    {
+      "sha": "f66c31d6fc7179de660d3a216d840edee00ebef0",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/setup-buildx-action from 3.12.0 to 4.0.0\n\nBumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 3.12.0 to 4.0.0.\n- [Release notes](https://github.com/docker/setup-buildx-action/releases)\n- [Commits](https://github.com/docker/setup-buildx-action/compare/8d2750c68a42422c14e847fe6c8ac0403b4cbd6f...4d04d5d9486b7bd6fa91e7baf45bbb4f8b9deedd)\n\n---\nupdated-dependencies:\n- dependency-name: docker/setup-buildx-action\n  dependency-version: 4.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-07T12:49:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/f66c31d6fc7179de660d3a216d840edee00ebef0",
+      "is_merge": false
+    },
+    {
+      "sha": "c2dd2f4c69b3121cc2a45e366e5dcf4db60cc8b8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #135 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.0.0\n\nchore(deps): bump docker/login-action from 3.7.0 to 4.0.0",
+      "timestamp": "2026-03-07T12:47:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/c2dd2f4c69b3121cc2a45e366e5dcf4db60cc8b8",
+      "is_merge": true
+    },
+    {
+      "sha": "84a40bd9579b5454ca8d545811890f208b8c0a6f",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/login-action from 3.7.0 to 4.0.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 3.7.0 to 4.0.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/c94ce9fb468520275223c153574b00df6fe4bcc9...b45d80f862d83dbcd57f89517bcf500b2ab88fb2)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-07T11:03:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/84a40bd9579b5454ca8d545811890f208b8c0a6f",
+      "is_merge": false
+    },
+    {
       "sha": "4b3dcc20ce8ebb837196cabc5837b591190066b5",
       "author": "JaredHatfield",
       "message": "Merge pull request #130 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.269.0\n\nchore(deps): bump google.golang.org/api from 0.267.0 to 0.269.0",

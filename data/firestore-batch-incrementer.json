@@ -6,6 +6,86 @@
   "latest_release_time": "2025-11-22T16:11:27Z",
   "unreleased_commits": [
     {
+      "sha": "7062970604ba8492d781177e3ddbe7d1253c219f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #102 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/grpc-1.79.2\n\nchore(deps): bump google.golang.org/grpc from 1.79.1 to 1.79.2",
+      "timestamp": "2026-03-07T15:07:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/7062970604ba8492d781177e3ddbe7d1253c219f",
+      "is_merge": true
+    },
+    {
+      "sha": "433776610bed2d698e21b40414d7e032094615db",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/grpc from 1.79.1 to 1.79.2\n\nBumps [google.golang.org/grpc](https://github.com/grpc/grpc-go) from 1.79.1 to 1.79.2.\n- [Release notes](https://github.com/grpc/grpc-go/releases)\n- [Commits](https://github.com/grpc/grpc-go/compare/v1.79.1...v1.79.2)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/grpc\n  dependency-version: 1.79.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-07T15:05:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/433776610bed2d698e21b40414d7e032094615db",
+      "is_merge": false
+    },
+    {
+      "sha": "ba65a7d30ec11530482534038b9c8152d76758da",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #101 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-7.0.0\n\nchore(deps): bump docker/build-push-action from 6.19.2 to 7.0.0",
+      "timestamp": "2026-03-07T15:01:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/ba65a7d30ec11530482534038b9c8152d76758da",
+      "is_merge": true
+    },
+    {
+      "sha": "fbdac3b99c015b52f060f7b1cec1c8b8229c372f",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/build-push-action from 6.19.2 to 7.0.0\n\nBumps [docker/build-push-action](https://github.com/docker/build-push-action) from 6.19.2 to 7.0.0.\n- [Release notes](https://github.com/docker/build-push-action/releases)\n- [Commits](https://github.com/docker/build-push-action/compare/10e90e3645eae34f1e60eeb005ba3a3d33f178e8...d08e5c354a6adb9ed34480a06d141179aa583294)\n\n---\nupdated-dependencies:\n- dependency-name: docker/build-push-action\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-07T14:55:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/fbdac3b99c015b52f060f7b1cec1c8b8229c372f",
+      "is_merge": false
+    },
+    {
+      "sha": "b39625d2eafcbba365ff958f4b031e24958cb42d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #100 from UnitVectorY-Labs/dependabot/github_actions/docker/metadata-action-6.0.0\n\nchore(deps): bump docker/metadata-action from 5.10.0 to 6.0.0",
+      "timestamp": "2026-03-07T14:54:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/b39625d2eafcbba365ff958f4b031e24958cb42d",
+      "is_merge": true
+    },
+    {
+      "sha": "7d2dd40b79fed5cffe7895de4c83e22346bfeca3",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/metadata-action from 5.10.0 to 6.0.0\n\nBumps [docker/metadata-action](https://github.com/docker/metadata-action) from 5.10.0 to 6.0.0.\n- [Release notes](https://github.com/docker/metadata-action/releases)\n- [Commits](https://github.com/docker/metadata-action/compare/c299e40c65443455700f0fdfc63efafe5b349051...030e881283bb7a6894de51c315a6bfe6a94e05cf)\n\n---\nupdated-dependencies:\n- dependency-name: docker/metadata-action\n  dependency-version: 6.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-07T12:58:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/7d2dd40b79fed5cffe7895de4c83e22346bfeca3",
+      "is_merge": false
+    },
+    {
+      "sha": "a0194bb64b6b98c6de14a578282281e24c7ddbed",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #104 from UnitVectorY-Labs/dependabot/github_actions/docker/setup-buildx-action-4.0.0\n\nchore(deps): bump docker/setup-buildx-action from 3.12.0 to 4.0.0",
+      "timestamp": "2026-03-07T12:56:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/a0194bb64b6b98c6de14a578282281e24c7ddbed",
+      "is_merge": true
+    },
+    {
+      "sha": "a924e9a20574eb3add5cf9633c26c6ec4b8d3e9b",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/setup-buildx-action from 3.12.0 to 4.0.0\n\nBumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 3.12.0 to 4.0.0.\n- [Release notes](https://github.com/docker/setup-buildx-action/releases)\n- [Commits](https://github.com/docker/setup-buildx-action/compare/8d2750c68a42422c14e847fe6c8ac0403b4cbd6f...4d04d5d9486b7bd6fa91e7baf45bbb4f8b9deedd)\n\n---\nupdated-dependencies:\n- dependency-name: docker/setup-buildx-action\n  dependency-version: 4.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-07T12:54:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/a924e9a20574eb3add5cf9633c26c6ec4b8d3e9b",
+      "is_merge": false
+    },
+    {
+      "sha": "4cdf361be0696e76ff3999bdf61b76e94521384e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #103 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.0.0\n\nchore(deps): bump docker/login-action from 3.7.0 to 4.0.0",
+      "timestamp": "2026-03-07T12:47:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/4cdf361be0696e76ff3999bdf61b76e94521384e",
+      "is_merge": true
+    },
+    {
+      "sha": "8be50470c2257dc1c6da9fb4ab546bcfe7a22748",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/login-action from 3.7.0 to 4.0.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 3.7.0 to 4.0.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/c94ce9fb468520275223c153574b00df6fe4bcc9...b45d80f862d83dbcd57f89517bcf500b2ab88fb2)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-07T11:05:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/8be50470c2257dc1c6da9fb4ab546bcfe7a22748",
+      "is_merge": false
+    },
+    {
       "sha": "eb1877fd5d24169ed71bd5850b9710eb87f052de",
       "author": "JaredHatfield",
       "message": "Merge pull request #97 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.269.0\n\nchore(deps): bump google.golang.org/api from 0.267.0 to 0.269.0",
