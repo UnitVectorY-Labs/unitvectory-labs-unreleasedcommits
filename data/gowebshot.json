@@ -4,6 +4,15 @@
   "default_branch": "main",
   "latest_release_tag": "v0.1.0",
   "latest_release_time": "2026-03-07T16:44:40Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "9a2a007b21bb12148cb95da0466310f94161c32f",
+      "author": "JaredHatfield",
+      "message": "Add project badges to README\n\nAdded badges for GitHub release, license, status, and Go Report Card.",
+      "timestamp": "2026-03-08T22:50:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/9a2a007b21bb12148cb95da0466310f94161c32f",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/gowebshot"
 }

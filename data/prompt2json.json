@@ -4,6 +4,31 @@
   "default_branch": "main",
   "latest_release_tag": "v0.6.0",
   "latest_release_time": "2026-03-06T02:07:49Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "c37a07e2d5ffbfb82684618c1dc6e00919ad2a20",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #34 from UnitVectorY-Labs/docs-fix\n\nAdd additionalProperties: false to JSON schemas in documentation and examples",
+      "timestamp": "2026-03-08T12:55:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/c37a07e2d5ffbfb82684618c1dc6e00919ad2a20",
+      "is_merge": true
+    },
+    {
+      "sha": "5125755a8edaa3f219a0761789c31fbac61f7b52",
+      "author": "JaredHatfield",
+      "message": "Delete docs_test.go",
+      "timestamp": "2026-03-08T12:53:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/5125755a8edaa3f219a0761789c31fbac61f7b52",
+      "is_merge": false
+    },
+    {
+      "sha": "d72e1a8e8a24f694d941e5bd0133e9eef7695edd",
+      "author": "JaredHatfield",
+      "message": "Add additionalProperties: false to JSON schemas in documentation and examples",
+      "timestamp": "2026-03-08T12:51:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/d72e1a8e8a24f694d941e5bd0133e9eef7695edd",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/prompt2json"
 }
