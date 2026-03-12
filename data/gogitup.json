@@ -2,8 +2,8 @@
   "owner": "UnitVectorY-Labs",
   "name": "gogitup",
   "default_branch": "main",
-  "latest_release_tag": "v0.1.4",
-  "latest_release_time": "2026-03-02T23:19:03Z",
+  "latest_release_tag": "v0.1.5",
+  "latest_release_time": "2026-03-11T10:44:43Z",
   "unreleased_commits": null,
   "repository_url": "https://github.com/UnitVectorY-Labs/gogitup"
 }
