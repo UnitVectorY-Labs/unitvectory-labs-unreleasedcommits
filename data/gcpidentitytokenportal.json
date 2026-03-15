@@ -6,6 +6,86 @@
   "latest_release_time": "2026-01-18T02:43:27Z",
   "unreleased_commits": [
     {
+      "sha": "6d880fb118158a1f3af7fd331f3b6a2525665293",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #138 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.271.0\n\nchore(deps): bump google.golang.org/api from 0.269.0 to 0.271.0",
+      "timestamp": "2026-03-15T00:23:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/6d880fb118158a1f3af7fd331f3b6a2525665293",
+      "is_merge": true
+    },
+    {
+      "sha": "a08969d404dc3aa5b541947f263e25560f472e59",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/api from 0.269.0 to 0.271.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.269.0 to 0.271.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.269.0...v0.271.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.271.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-15T00:21:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/a08969d404dc3aa5b541947f263e25560f472e59",
+      "is_merge": false
+    },
+    {
+      "sha": "0df82697be221c19ce81cbd301dd3e4d85aeb70c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #139 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/oauth2-0.36.0\n\nchore(deps): bump golang.org/x/oauth2 from 0.35.0 to 0.36.0",
+      "timestamp": "2026-03-15T00:20:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/0df82697be221c19ce81cbd301dd3e4d85aeb70c",
+      "is_merge": true
+    },
+    {
+      "sha": "9e20942514990ea3b49b2e5fc36493783c9d97b7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #131 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-4.1.0\n\nchore(deps): bump actions/attest-build-provenance from 3.2.0 to 4.1.0",
+      "timestamp": "2026-03-15T00:15:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/9e20942514990ea3b49b2e5fc36493783c9d97b7",
+      "is_merge": true
+    },
+    {
+      "sha": "9139b28b0b73db306cdff931db05ceeb56174b3e",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump golang.org/x/oauth2 from 0.35.0 to 0.36.0\n\nBumps [golang.org/x/oauth2](https://github.com/golang/oauth2) from 0.35.0 to 0.36.0.\n- [Commits](https://github.com/golang/oauth2/compare/v0.35.0...v0.36.0)\n\n---\nupdated-dependencies:\n- dependency-name: golang.org/x/oauth2\n  dependency-version: 0.36.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-14T13:22:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/9139b28b0b73db306cdff931db05ceeb56174b3e",
+      "is_merge": false
+    },
+    {
+      "sha": "fa9321d98802cdbe3a4edeebdcc28b91941be1cd",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/attest-build-provenance from 3.2.0 to 4.1.0\n\nBumps [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) from 3.2.0 to 4.1.0.\n- [Release notes](https://github.com/actions/attest-build-provenance/releases)\n- [Changelog](https://github.com/actions/attest-build-provenance/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest-build-provenance/compare/96278af6caaf10aea03fd8d33a09a777ca52d62f...a2bbfa25375fe432b6a289bc6b6cd05ecd0c4c32)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest-build-provenance\n  dependency-version: 4.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-14T13:21:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/fa9321d98802cdbe3a4edeebdcc28b91941be1cd",
+      "is_merge": false
+    },
+    {
+      "sha": "f74bbae78df1e75697e847330917f719913c2f41",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #140 from UnitVectorY-Labs/repver/go-v1.26.1\n\nUpdate Go version to 1.26.1",
+      "timestamp": "2026-03-14T13:20:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/f74bbae78df1e75697e847330917f719913c2f41",
+      "is_merge": true
+    },
+    {
+      "sha": "a09e1adc656878ad03c12be1ed52966be0090c8d",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.26.1",
+      "timestamp": "2026-03-14T13:11:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/a09e1adc656878ad03c12be1ed52966be0090c8d",
+      "is_merge": false
+    },
+    {
+      "sha": "e82d49e16ec84494267d4db36fbf55a80509c884",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #137 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.5.0\n\nchore(deps): bump astral-sh/setup-uv from 7.3.1 to 7.5.0",
+      "timestamp": "2026-03-14T11:25:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/e82d49e16ec84494267d4db36fbf55a80509c884",
+      "is_merge": true
+    },
+    {
+      "sha": "6b20a2b5780f016a671e345accfda027386ae948",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 7.3.1 to 7.5.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.3.1 to 7.5.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/5a095e7a2014a4212f075830d4f7277575a9d098...e06108dd0aef18192324c70427afc47652e63a82)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.5.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-14T10:03:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/6b20a2b5780f016a671e345accfda027386ae948",
+      "is_merge": false
+    },
+    {
       "sha": "24e62da328d0186187dcfd8f8d28ac74e0e14d76",
       "author": "JaredHatfield",
       "message": "Merge pull request #133 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-7.0.0\n\nchore(deps): bump docker/build-push-action from 6.19.2 to 7.0.0",

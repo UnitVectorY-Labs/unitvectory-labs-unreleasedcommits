@@ -6,6 +6,30 @@
   "latest_release_time": "2025-10-25T13:36:20Z",
   "unreleased_commits": [
     {
+      "sha": "79dc38f83a8d428f2c7989e5bb5f4769ca3d4476",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #55 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-4.1.0\n\nBump actions/attest-build-provenance from 3.2.0 to 4.1.0",
+      "timestamp": "2026-03-15T00:16:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/79dc38f83a8d428f2c7989e5bb5f4769ca3d4476",
+      "is_merge": true
+    },
+    {
+      "sha": "2d21476c431b01c7c8b577700a0f79dc783f429b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #62 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.5.0\n\nBump astral-sh/setup-uv from 7.3.1 to 7.5.0",
+      "timestamp": "2026-03-14T11:26:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/2d21476c431b01c7c8b577700a0f79dc783f429b",
+      "is_merge": true
+    },
+    {
+      "sha": "96fe1178a12187ac14fa71f522e5867e3ac9b38e",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 7.3.1 to 7.5.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.3.1 to 7.5.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/5a095e7a2014a4212f075830d4f7277575a9d098...e06108dd0aef18192324c70427afc47652e63a82)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.5.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-14T10:04:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/96fe1178a12187ac14fa71f522e5867e3ac9b38e",
+      "is_merge": false
+    },
+    {
       "sha": "9df8f070a84e16d43adaa652f956b99ff635ad56",
       "author": "JaredHatfield",
       "message": "Merge pull request #61 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-7.0.0\n\nBump docker/build-push-action from 6.19.2 to 7.0.0",
@@ -92,6 +116,14 @@
       "timestamp": "2026-02-28T13:10:04Z",
       "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/f067fc7bf223a8420034d9e936ea18312fb40a1e",
       "is_merge": true
+    },
+    {
+      "sha": "9bd8bdad4ee72ad88586e6556320be6c669dc5b6",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/attest-build-provenance from 3.2.0 to 4.1.0\n\nBumps [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) from 3.2.0 to 4.1.0.\n- [Release notes](https://github.com/actions/attest-build-provenance/releases)\n- [Changelog](https://github.com/actions/attest-build-provenance/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest-build-provenance/compare/96278af6caaf10aea03fd8d33a09a777ca52d62f...a2bbfa25375fe432b6a289bc6b6cd05ecd0c4c32)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest-build-provenance\n  dependency-version: 4.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-28T11:04:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/9bd8bdad4ee72ad88586e6556320be6c669dc5b6",
+      "is_merge": false
     },
     {
       "sha": "735366ca115a9a75ed8580f987ee476b2ec39df0",

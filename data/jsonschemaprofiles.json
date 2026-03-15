@@ -6,6 +6,54 @@
   "latest_release_time": "2026-03-05T02:21:10Z",
   "unreleased_commits": [
     {
+      "sha": "57d66e12d111278bb8a851c299ae26ee13328e63",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #4 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/text-0.35.0\n\nbuild(deps): bump golang.org/x/text from 0.34.0 to 0.35.0",
+      "timestamp": "2026-03-15T00:22:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/57d66e12d111278bb8a851c299ae26ee13328e63",
+      "is_merge": true
+    },
+    {
+      "sha": "2651bfbe125ff71a039cd65157384e2354a98691",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #5 from UnitVectorY-Labs/repver/go-v1.26.1\n\nUpdate Go version to 1.26.1",
+      "timestamp": "2026-03-14T13:21:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/2651bfbe125ff71a039cd65157384e2354a98691",
+      "is_merge": true
+    },
+    {
+      "sha": "d65bd6b34ee84bc2388882392d82ede6aff94a29",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.26.1",
+      "timestamp": "2026-03-14T13:12:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/d65bd6b34ee84bc2388882392d82ede6aff94a29",
+      "is_merge": false
+    },
+    {
+      "sha": "4828419e3130089ce6d85332a6d9688ef18225a6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #3 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.5.0\n\nbuild(deps): bump astral-sh/setup-uv from 7.3.1 to 7.5.0",
+      "timestamp": "2026-03-14T11:28:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/4828419e3130089ce6d85332a6d9688ef18225a6",
+      "is_merge": true
+    },
+    {
+      "sha": "3c2279272ce624346c4fc6b8b3bcda5d9e3de66b",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump golang.org/x/text from 0.34.0 to 0.35.0\n\nBumps [golang.org/x/text](https://github.com/golang/text) from 0.34.0 to 0.35.0.\n- [Release notes](https://github.com/golang/text/releases)\n- [Commits](https://github.com/golang/text/compare/v0.34.0...v0.35.0)\n\n---\nupdated-dependencies:\n- dependency-name: golang.org/x/text\n  dependency-version: 0.35.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-14T10:05:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/3c2279272ce624346c4fc6b8b3bcda5d9e3de66b",
+      "is_merge": false
+    },
+    {
+      "sha": "59142f99b6248c9702f1e3f2a8c65fc1a6e0ec8f",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 7.3.1 to 7.5.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.3.1 to 7.5.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/5a095e7a2014a4212f075830d4f7277575a9d098...e06108dd0aef18192324c70427afc47652e63a82)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.5.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-14T10:04:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/59142f99b6248c9702f1e3f2a8c65fc1a6e0ec8f",
+      "is_merge": false
+    },
+    {
       "sha": "9237a85c994fd82f6f16c3a0682f0b2b05ee64d4",
       "author": "JaredHatfield",
       "message": "Merge pull request #2 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/text-0.34.0\n\nbuild(deps): bump golang.org/x/text from 0.14.0 to 0.34.0",

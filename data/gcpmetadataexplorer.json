@@ -6,6 +6,54 @@
   "latest_release_time": "2025-10-07T22:58:05Z",
   "unreleased_commits": [
     {
+      "sha": "98ca9befa497b204251f2655f8c964861ddee109",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #55 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-4.1.0\n\nBump actions/attest-build-provenance from 3.2.0 to 4.1.0",
+      "timestamp": "2026-03-15T00:16:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/98ca9befa497b204251f2655f8c964861ddee109",
+      "is_merge": true
+    },
+    {
+      "sha": "7f08c58599c1eab2248e1db9cbbad53682136923",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/attest-build-provenance from 3.2.0 to 4.1.0\n\nBumps [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) from 3.2.0 to 4.1.0.\n- [Release notes](https://github.com/actions/attest-build-provenance/releases)\n- [Changelog](https://github.com/actions/attest-build-provenance/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest-build-provenance/compare/96278af6caaf10aea03fd8d33a09a777ca52d62f...a2bbfa25375fe432b6a289bc6b6cd05ecd0c4c32)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest-build-provenance\n  dependency-version: 4.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-14T13:21:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/7f08c58599c1eab2248e1db9cbbad53682136923",
+      "is_merge": false
+    },
+    {
+      "sha": "317a38f829a78dec35c638592b0d5e3b66f59892",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #64 from UnitVectorY-Labs/repver/go-v1.26.1\n\nUpdate Go version to 1.26.1",
+      "timestamp": "2026-03-14T13:20:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/317a38f829a78dec35c638592b0d5e3b66f59892",
+      "is_merge": true
+    },
+    {
+      "sha": "79ccbbb9bdca2f1f1e9aa097db70e1ec5255997f",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.26.1",
+      "timestamp": "2026-03-14T13:11:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/79ccbbb9bdca2f1f1e9aa097db70e1ec5255997f",
+      "is_merge": false
+    },
+    {
+      "sha": "906d5ace2621cf633cf0dd13d1739b60f256f35b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #63 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.5.0\n\nBump astral-sh/setup-uv from 7.3.1 to 7.5.0",
+      "timestamp": "2026-03-14T11:25:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/906d5ace2621cf633cf0dd13d1739b60f256f35b",
+      "is_merge": true
+    },
+    {
+      "sha": "a5d093c355b0ae647b47aa43deca496c83b52592",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 7.3.1 to 7.5.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.3.1 to 7.5.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/5a095e7a2014a4212f075830d4f7277575a9d098...e06108dd0aef18192324c70427afc47652e63a82)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.5.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-14T10:04:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/a5d093c355b0ae647b47aa43deca496c83b52592",
+      "is_merge": false
+    },
+    {
       "sha": "7bbe194f7a791ad5d852c475c1ac987ef8cb71dd",
       "author": "JaredHatfield",
       "message": "Merge pull request #59 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-7.0.0\n\nBump docker/build-push-action from 6.19.2 to 7.0.0",

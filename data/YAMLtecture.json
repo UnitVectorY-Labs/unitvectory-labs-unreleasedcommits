@@ -6,6 +6,54 @@
   "latest_release_time": "2026-02-09T03:05:56Z",
   "unreleased_commits": [
     {
+      "sha": "7c063cd1c540891c058f6eafcf91a4b941c7a444",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #82 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/term-0.41.0\n\nBump golang.org/x/term from 0.40.0 to 0.41.0",
+      "timestamp": "2026-03-15T00:29:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/7c063cd1c540891c058f6eafcf91a4b941c7a444",
+      "is_merge": true
+    },
+    {
+      "sha": "b2043a47c48e03699f200598be8d248e3b647b1b",
+      "author": "dependabot[bot]",
+      "message": "Bump golang.org/x/term from 0.40.0 to 0.41.0\n\nBumps [golang.org/x/term](https://github.com/golang/term) from 0.40.0 to 0.41.0.\n- [Commits](https://github.com/golang/term/compare/v0.40.0...v0.41.0)\n\n---\nupdated-dependencies:\n- dependency-name: golang.org/x/term\n  dependency-version: 0.41.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-14T19:34:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/b2043a47c48e03699f200598be8d248e3b647b1b",
+      "is_merge": false
+    },
+    {
+      "sha": "15bb357768e80c5bee379e100301820ca9f5d5f2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #84 from UnitVectorY-Labs/repver/go-v1.26.1\n\nUpdate Go version to 1.26.1",
+      "timestamp": "2026-03-14T19:33:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/15bb357768e80c5bee379e100301820ca9f5d5f2",
+      "is_merge": true
+    },
+    {
+      "sha": "ef862f76b5e285c8f413e540e0f333309bdbeb1f",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.26.1",
+      "timestamp": "2026-03-14T14:14:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/ef862f76b5e285c8f413e540e0f333309bdbeb1f",
+      "is_merge": false
+    },
+    {
+      "sha": "977ac234e03f28675212c36581f258e3829a15ea",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #83 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.5.0\n\nBump astral-sh/setup-uv from 7.3.1 to 7.5.0",
+      "timestamp": "2026-03-14T11:25:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/977ac234e03f28675212c36581f258e3829a15ea",
+      "is_merge": true
+    },
+    {
+      "sha": "0f97eeedb6a60eeabfbcd39d82f36fc9c715b1e7",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 7.3.1 to 7.5.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.3.1 to 7.5.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/5a095e7a2014a4212f075830d4f7277575a9d098...e06108dd0aef18192324c70427afc47652e63a82)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.5.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-14T10:04:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/0f97eeedb6a60eeabfbcd39d82f36fc9c715b1e7",
+      "is_merge": false
+    },
+    {
       "sha": "010e5569d6eff806572383784082e6e8d133ea4b",
       "author": "JaredHatfield",
       "message": "Merge pull request #81 from UnitVectorY-Labs/dependabot/go_modules/github.com/UnitVectorY-Labs/yamlequal-0.1.0\n\nBump github.com/UnitVectorY-Labs/yamlequal from 0.0.3 to 0.1.0",

@@ -6,6 +6,38 @@
   "latest_release_time": "2025-11-29T14:40:13Z",
   "unreleased_commits": [
     {
+      "sha": "4b86f934f02ca26fd93cc1ad39e9489e36c3a1eb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #138 from UnitVectorY-Labs/dependabot/maven/org.projectlombok-lombok-1.18.44\n\nBump org.projectlombok:lombok from 1.18.42 to 1.18.44",
+      "timestamp": "2026-03-15T00:18:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/4b86f934f02ca26fd93cc1ad39e9489e36c3a1eb",
+      "is_merge": true
+    },
+    {
+      "sha": "9f1e8ceb9b7d52c48f9fec3226e486bfac1eb878",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #139 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.5.0\n\nBump astral-sh/setup-uv from 7.3.1 to 7.5.0",
+      "timestamp": "2026-03-14T11:23:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/9f1e8ceb9b7d52c48f9fec3226e486bfac1eb878",
+      "is_merge": true
+    },
+    {
+      "sha": "e83a96d09ac921fb3d6210a64de3d7b2918ff479",
+      "author": "dependabot[bot]",
+      "message": "Bump org.projectlombok:lombok from 1.18.42 to 1.18.44\n\nBumps [org.projectlombok:lombok](https://github.com/projectlombok/lombok) from 1.18.42 to 1.18.44.\n- [Changelog](https://github.com/projectlombok/lombok/blob/master/doc/changelog.markdown)\n- [Commits](https://github.com/projectlombok/lombok/compare/v1.18.42...v1.18.44)\n\n---\nupdated-dependencies:\n- dependency-name: org.projectlombok:lombok\n  dependency-version: 1.18.44\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-14T10:02:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/e83a96d09ac921fb3d6210a64de3d7b2918ff479",
+      "is_merge": false
+    },
+    {
+      "sha": "2622b39e4ef6a5c043b34d03413042dc80a71113",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 7.3.1 to 7.5.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.3.1 to 7.5.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/5a095e7a2014a4212f075830d4f7277575a9d098...e06108dd0aef18192324c70427afc47652e63a82)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.5.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-14T10:02:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/2622b39e4ef6a5c043b34d03413042dc80a71113",
+      "is_merge": false
+    },
+    {
       "sha": "702790a1dd652b01b5d654434ddd73b7dda51574",
       "author": "JaredHatfield",
       "message": "Merge pull request #137 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.3.1\n\nBump astral-sh/setup-uv from 7.3.0 to 7.3.1",

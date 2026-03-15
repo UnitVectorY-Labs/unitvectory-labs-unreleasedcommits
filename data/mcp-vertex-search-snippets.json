@@ -6,6 +6,54 @@
   "latest_release_time": "2026-02-09T03:05:26Z",
   "unreleased_commits": [
     {
+      "sha": "e1c8a503bc4fa570fe4ed2a90bf9042fb20b13d6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #51 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/oauth2-0.36.0\n\nchore(deps): bump golang.org/x/oauth2 from 0.35.0 to 0.36.0",
+      "timestamp": "2026-03-15T00:20:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/e1c8a503bc4fa570fe4ed2a90bf9042fb20b13d6",
+      "is_merge": true
+    },
+    {
+      "sha": "901ed1257bfceee8c6c36d5e1f56d181f685c2e3",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump golang.org/x/oauth2 from 0.35.0 to 0.36.0\n\nBumps [golang.org/x/oauth2](https://github.com/golang/oauth2) from 0.35.0 to 0.36.0.\n- [Commits](https://github.com/golang/oauth2/compare/v0.35.0...v0.36.0)\n\n---\nupdated-dependencies:\n- dependency-name: golang.org/x/oauth2\n  dependency-version: 0.36.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-14T19:35:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/901ed1257bfceee8c6c36d5e1f56d181f685c2e3",
+      "is_merge": false
+    },
+    {
+      "sha": "2c31278d5bc3a4af146d5218ec7f08430afd6bd4",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #52 from UnitVectorY-Labs/repver/go-v1.26.1\n\nUpdate Go version to 1.26.1",
+      "timestamp": "2026-03-14T19:34:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/2c31278d5bc3a4af146d5218ec7f08430afd6bd4",
+      "is_merge": true
+    },
+    {
+      "sha": "4c8043a29e72853c047acc236f41150fb1748d21",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.26.1",
+      "timestamp": "2026-03-14T14:14:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/4c8043a29e72853c047acc236f41150fb1748d21",
+      "is_merge": false
+    },
+    {
+      "sha": "caa247527807904805dbb1415c99291b71d714b5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #50 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.5.0\n\nchore(deps): bump astral-sh/setup-uv from 7.3.1 to 7.5.0",
+      "timestamp": "2026-03-14T11:26:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/caa247527807904805dbb1415c99291b71d714b5",
+      "is_merge": true
+    },
+    {
+      "sha": "fef02218eabe0673661a85db3fc44334971a876b",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 7.3.1 to 7.5.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.3.1 to 7.5.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/5a095e7a2014a4212f075830d4f7277575a9d098...e06108dd0aef18192324c70427afc47652e63a82)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.5.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-14T10:04:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/fef02218eabe0673661a85db3fc44334971a876b",
+      "is_merge": false
+    },
+    {
       "sha": "fb2c0c31891354e960049f14b2124407bf9cb626",
       "author": "JaredHatfield",
       "message": "Merge pull request #49 from UnitVectorY-Labs/dependabot/go_modules/github.com/mark3labs/mcp-go-0.45.0\n\nchore(deps): bump github.com/mark3labs/mcp-go from 0.44.1 to 0.45.0",

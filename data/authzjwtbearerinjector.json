@@ -6,6 +6,54 @@
   "latest_release_time": "2025-10-21T00:11:52Z",
   "unreleased_commits": [
     {
+      "sha": "cda6836dcba1e3408ace7bc762fb116de86faea2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #86 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-4.1.0\n\nBump actions/attest-build-provenance from 3.2.0 to 4.1.0",
+      "timestamp": "2026-03-15T00:15:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/cda6836dcba1e3408ace7bc762fb116de86faea2",
+      "is_merge": true
+    },
+    {
+      "sha": "630b6ba6587fdfe6a5c1dfcb73c2dd21bf69ed2a",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/attest-build-provenance from 3.2.0 to 4.1.0\n\nBumps [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) from 3.2.0 to 4.1.0.\n- [Release notes](https://github.com/actions/attest-build-provenance/releases)\n- [Changelog](https://github.com/actions/attest-build-provenance/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest-build-provenance/compare/96278af6caaf10aea03fd8d33a09a777ca52d62f...a2bbfa25375fe432b6a289bc6b6cd05ecd0c4c32)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest-build-provenance\n  dependency-version: 4.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-14T13:21:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/630b6ba6587fdfe6a5c1dfcb73c2dd21bf69ed2a",
+      "is_merge": false
+    },
+    {
+      "sha": "3634a2c530a3b313aea8ac95ae843aa0cf5dd663",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #96 from UnitVectorY-Labs/repver/go-v1.26.1\n\nUpdate Go version to 1.26.1",
+      "timestamp": "2026-03-14T13:20:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/3634a2c530a3b313aea8ac95ae843aa0cf5dd663",
+      "is_merge": true
+    },
+    {
+      "sha": "74f5a11d06beca726b3a554bfef06235b6192664",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.26.1",
+      "timestamp": "2026-03-14T13:11:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/74f5a11d06beca726b3a554bfef06235b6192664",
+      "is_merge": false
+    },
+    {
+      "sha": "185157c2c6f6341f8eb9988ece158e365cba02a3",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #95 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.5.0\n\nchore(deps): bump astral-sh/setup-uv from 7.3.1 to 7.5.0",
+      "timestamp": "2026-03-14T11:25:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/185157c2c6f6341f8eb9988ece158e365cba02a3",
+      "is_merge": true
+    },
+    {
+      "sha": "98978c4339460e51fa401a2e33687588aeb92dde",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 7.3.1 to 7.5.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.3.1 to 7.5.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/5a095e7a2014a4212f075830d4f7277575a9d098...e06108dd0aef18192324c70427afc47652e63a82)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.5.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-14T10:03:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/98978c4339460e51fa401a2e33687588aeb92dde",
+      "is_merge": false
+    },
+    {
       "sha": "b8135177fe87c8e30076caaf95641dafc2ed453b",
       "author": "JaredHatfield",
       "message": "Merge pull request #90 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/grpc-1.79.2\n\nchore(deps): bump google.golang.org/grpc from 1.79.1 to 1.79.2",

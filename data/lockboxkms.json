@@ -6,6 +6,70 @@
   "latest_release_time": "2025-11-22T16:02:58Z",
   "unreleased_commits": [
     {
+      "sha": "5111881d335c34ae4f27af62990f8381913cea69",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #142 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.271.0\n\nchore(deps): bump google.golang.org/api from 0.269.0 to 0.271.0",
+      "timestamp": "2026-03-15T00:23:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/5111881d335c34ae4f27af62990f8381913cea69",
+      "is_merge": true
+    },
+    {
+      "sha": "7fbca9057bb3b7b0077e7a28a4953a991a66c500",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/api from 0.269.0 to 0.271.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.269.0 to 0.271.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.269.0...v0.271.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.271.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-15T00:22:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/7fbca9057bb3b7b0077e7a28a4953a991a66c500",
+      "is_merge": false
+    },
+    {
+      "sha": "af1a424de4a0cc77d59ee8ec1666729cad113c91",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #135 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-4.1.0\n\nchore(deps): bump actions/attest-build-provenance from 3.2.0 to 4.1.0",
+      "timestamp": "2026-03-15T00:15:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/af1a424de4a0cc77d59ee8ec1666729cad113c91",
+      "is_merge": true
+    },
+    {
+      "sha": "6a5b84d88f1d0a24a12f6e698d89538e81a18689",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/attest-build-provenance from 3.2.0 to 4.1.0\n\nBumps [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) from 3.2.0 to 4.1.0.\n- [Release notes](https://github.com/actions/attest-build-provenance/releases)\n- [Changelog](https://github.com/actions/attest-build-provenance/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest-build-provenance/compare/96278af6caaf10aea03fd8d33a09a777ca52d62f...a2bbfa25375fe432b6a289bc6b6cd05ecd0c4c32)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest-build-provenance\n  dependency-version: 4.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-14T19:34:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/6a5b84d88f1d0a24a12f6e698d89538e81a18689",
+      "is_merge": false
+    },
+    {
+      "sha": "84d42683045c4936a8d8bf53a635b767174d3a96",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #144 from UnitVectorY-Labs/repver/go-v1.26.1\n\nUpdate Go version to 1.26.1",
+      "timestamp": "2026-03-14T19:33:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/84d42683045c4936a8d8bf53a635b767174d3a96",
+      "is_merge": true
+    },
+    {
+      "sha": "7bfd76a49f2de9a1568562b36e84023b000e8d5b",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.26.1",
+      "timestamp": "2026-03-14T14:13:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/7bfd76a49f2de9a1568562b36e84023b000e8d5b",
+      "is_merge": false
+    },
+    {
+      "sha": "443f1d72de8f89094c94c39106ae80455955dc1b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #143 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.5.0\n\nchore(deps): bump astral-sh/setup-uv from 7.3.1 to 7.5.0",
+      "timestamp": "2026-03-14T11:25:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/443f1d72de8f89094c94c39106ae80455955dc1b",
+      "is_merge": true
+    },
+    {
+      "sha": "1eb2ed2965394611d10b17b906cadd5f01983468",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 7.3.1 to 7.5.0\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.5.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-14T10:02:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/1eb2ed2965394611d10b17b906cadd5f01983468",
+      "is_merge": false
+    },
+    {
       "sha": "e82307c34672c2fab6fb26ce0f918d5126f50d5f",
       "author": "JaredHatfield",
       "message": "Merge pull request #139 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-7.0.0\n\nchore(deps): bump docker/build-push-action from 6.19.2 to 7.0.0",

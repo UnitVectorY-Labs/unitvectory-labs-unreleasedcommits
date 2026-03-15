@@ -6,6 +6,38 @@
   "latest_release_time": "2026-02-09T03:04:14Z",
   "unreleased_commits": [
     {
+      "sha": "1f689b6f80dcb5d17c6ed4536e809a166044f6ab",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #38 from UnitVectorY-Labs/repver/go-v1.26.1\n\nUpdate Go version to 1.26.1",
+      "timestamp": "2026-03-14T19:34:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/1f689b6f80dcb5d17c6ed4536e809a166044f6ab",
+      "is_merge": true
+    },
+    {
+      "sha": "a5f5d1a2328c45e67da05af74a7cefaa26c86367",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.26.1",
+      "timestamp": "2026-03-14T14:14:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/a5f5d1a2328c45e67da05af74a7cefaa26c86367",
+      "is_merge": false
+    },
+    {
+      "sha": "728b26a39f775e7bf1d0eaacf61187b7b312b765",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #37 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.5.0\n\nBump astral-sh/setup-uv from 7.3.1 to 7.5.0",
+      "timestamp": "2026-03-14T11:26:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/728b26a39f775e7bf1d0eaacf61187b7b312b765",
+      "is_merge": true
+    },
+    {
+      "sha": "c036b36befd561cdaa6de520b3f84ce3cbc26e00",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 7.3.1 to 7.5.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.3.1 to 7.5.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/5a095e7a2014a4212f075830d4f7277575a9d098...e06108dd0aef18192324c70427afc47652e63a82)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.5.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-14T10:04:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/c036b36befd561cdaa6de520b3f84ce3cbc26e00",
+      "is_merge": false
+    },
+    {
       "sha": "43eec37336e787e7695c2141518d052d95382fd3",
       "author": "JaredHatfield",
       "message": "Merge pull request #35 from UnitVectorY-Labs/bulkfilepr/ae491ca1cc81\n\nUpdate .github/workflows/release-go-github.yml",
