@@ -6,6 +6,22 @@
   "latest_release_time": "2025-11-22T16:11:27Z",
   "unreleased_commits": [
     {
+      "sha": "3834d830bed3205774ac2d63c13bae591557dc48",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #109 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/grpc-1.79.3\n\nchore(deps): bump google.golang.org/grpc from 1.79.2 to 1.79.3",
+      "timestamp": "2026-03-19T22:34:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/3834d830bed3205774ac2d63c13bae591557dc48",
+      "is_merge": true
+    },
+    {
+      "sha": "a8c3db7901ed48459848347672fd4d0b6b02d6d9",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/grpc from 1.79.2 to 1.79.3\n\nBumps [google.golang.org/grpc](https://github.com/grpc/grpc-go) from 1.79.2 to 1.79.3.\n- [Release notes](https://github.com/grpc/grpc-go/releases)\n- [Commits](https://github.com/grpc/grpc-go/compare/v1.79.2...v1.79.3)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/grpc\n  dependency-version: 1.79.3\n  dependency-type: direct:production\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-19T02:25:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/a8c3db7901ed48459848347672fd4d0b6b02d6d9",
+      "is_merge": false
+    },
+    {
       "sha": "bd88ccf88d798fd689a9b6f13ad10b1e051dacfb",
       "author": "JaredHatfield",
       "message": "Merge pull request #105 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.271.0\n\nchore(deps): bump google.golang.org/api from 0.269.0 to 0.271.0",
