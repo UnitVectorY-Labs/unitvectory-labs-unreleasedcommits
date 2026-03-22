@@ -6,6 +6,54 @@
   "latest_release_time": "2025-11-22T16:00:36Z",
   "unreleased_commits": [
     {
+      "sha": "8159704a2f27c20ebaea2f1e8e0eb217934779c5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #77 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-5.5.3\n\nchore(deps): bump codecov/codecov-action from 5.5.2 to 5.5.3",
+      "timestamp": "2026-03-21T11:52:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/8159704a2f27c20ebaea2f1e8e0eb217934779c5",
+      "is_merge": true
+    },
+    {
+      "sha": "bf2c8612259daf4d77bc5e26c63a910bce7042aa",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #76 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.6.0\n\nchore(deps): bump astral-sh/setup-uv from 7.5.0 to 7.6.0",
+      "timestamp": "2026-03-21T10:53:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/bf2c8612259daf4d77bc5e26c63a910bce7042aa",
+      "is_merge": true
+    },
+    {
+      "sha": "c84e6ecf487cb32f1084e7cad34593558df05bf0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #75 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.4\n\nchore(deps): bump actions/cache from 5.0.3 to 5.0.4",
+      "timestamp": "2026-03-21T10:48:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/c84e6ecf487cb32f1084e7cad34593558df05bf0",
+      "is_merge": true
+    },
+    {
+      "sha": "2ee7e66debf18fc22b09bf56a616ffed8aa648cb",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump codecov/codecov-action from 5.5.2 to 5.5.3\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 5.5.2 to 5.5.3.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/671740ac38dd9b0130fbe1cec585b89eea48d3de...1af58845a975a7985b0beb0cbe6fbbb71a41dbad)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 5.5.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-21T10:07:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/2ee7e66debf18fc22b09bf56a616ffed8aa648cb",
+      "is_merge": false
+    },
+    {
+      "sha": "3885eb105b124ff420521ff4563ed38c1cc5e11a",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 7.5.0 to 7.6.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.5.0 to 7.6.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/e06108dd0aef18192324c70427afc47652e63a82...37802adc94f370d6bfd71619e3f0bf239e1f3b78)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.6.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-21T10:04:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/3885eb105b124ff420521ff4563ed38c1cc5e11a",
+      "is_merge": false
+    },
+    {
+      "sha": "3cda34512a2c6f72e66dd2126bf21a0b1cebc9cd",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/cache from 5.0.3 to 5.0.4\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.3 to 5.0.4.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/cdf6c1fa76f9f475f3d7449005a359c84ca0f306...668228422ae6a00e4ad889ee87cd7109ec5666a7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 5.0.4\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-21T10:04:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/3cda34512a2c6f72e66dd2126bf21a0b1cebc9cd",
+      "is_merge": false
+    },
+    {
       "sha": "ad9dfd0d977223ddfdae29eee5095efe2f8af288",
       "author": "JaredHatfield",
       "message": "Merge pull request #65 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-4.1.0\n\nBump actions/attest-build-provenance from 3.2.0 to 4.1.0",

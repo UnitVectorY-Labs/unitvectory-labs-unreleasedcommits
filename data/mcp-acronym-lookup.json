@@ -6,6 +6,70 @@
   "latest_release_time": "2026-02-09T03:03:26Z",
   "unreleased_commits": [
     {
+      "sha": "2ae0ab794f2ed4589e14086d5cc6d0b53874b3fa",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #65 from UnitVectorY-Labs/dependabot/go_modules/github.com/buger/jsonparser-1.1.2\n\nchore(deps): bump github.com/buger/jsonparser from 1.1.1 to 1.1.2",
+      "timestamp": "2026-03-21T12:11:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/2ae0ab794f2ed4589e14086d5cc6d0b53874b3fa",
+      "is_merge": true
+    },
+    {
+      "sha": "0ba1be1467ab868167abe9b949cf5701c92ca667",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github.com/buger/jsonparser from 1.1.1 to 1.1.2\n\nBumps [github.com/buger/jsonparser](https://github.com/buger/jsonparser) from 1.1.1 to 1.1.2.\n- [Release notes](https://github.com/buger/jsonparser/releases)\n- [Commits](https://github.com/buger/jsonparser/compare/v1.1.1...v1.1.2)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/buger/jsonparser\n  dependency-version: 1.1.2\n  dependency-type: indirect\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-21T12:10:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/0ba1be1467ab868167abe9b949cf5701c92ca667",
+      "is_merge": false
+    },
+    {
+      "sha": "63f9869a13ecfb7b690f50ff4c360d2bcaef8e61",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #64 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-5.5.3\n\nchore(deps): bump codecov/codecov-action from 5.5.2 to 5.5.3",
+      "timestamp": "2026-03-21T11:52:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/63f9869a13ecfb7b690f50ff4c360d2bcaef8e61",
+      "is_merge": true
+    },
+    {
+      "sha": "66ec38440ab0df2400291f46cae65d391b7efc6a",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump codecov/codecov-action from 5.5.2 to 5.5.3\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 5.5.2 to 5.5.3.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/671740ac38dd9b0130fbe1cec585b89eea48d3de...1af58845a975a7985b0beb0cbe6fbbb71a41dbad)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 5.5.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-21T10:55:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/66ec38440ab0df2400291f46cae65d391b7efc6a",
+      "is_merge": false
+    },
+    {
+      "sha": "22620dd6fbbaeb65570ca45a51b1d8dacd72e4d2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #62 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.6.0\n\nchore(deps): bump astral-sh/setup-uv from 7.5.0 to 7.6.0",
+      "timestamp": "2026-03-21T10:54:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/22620dd6fbbaeb65570ca45a51b1d8dacd72e4d2",
+      "is_merge": true
+    },
+    {
+      "sha": "aefb3e1f60d6b5802e86962e9da9d5bacee6ee4d",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 7.5.0 to 7.6.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.5.0 to 7.6.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/e06108dd0aef18192324c70427afc47652e63a82...37802adc94f370d6bfd71619e3f0bf239e1f3b78)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.6.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-21T10:50:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/aefb3e1f60d6b5802e86962e9da9d5bacee6ee4d",
+      "is_merge": false
+    },
+    {
+      "sha": "1aa21d9574bf9482fb53cdebb6096e7b4c208c7a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #63 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.4\n\nchore(deps): bump actions/cache from 5.0.3 to 5.0.4",
+      "timestamp": "2026-03-21T10:48:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/1aa21d9574bf9482fb53cdebb6096e7b4c208c7a",
+      "is_merge": true
+    },
+    {
+      "sha": "04096e36129c17ffea8e2099b389b6fada06f33f",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/cache from 5.0.3 to 5.0.4\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.3 to 5.0.4.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/cdf6c1fa76f9f475f3d7449005a359c84ca0f306...668228422ae6a00e4ad889ee87cd7109ec5666a7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 5.0.4\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-21T10:05:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/04096e36129c17ffea8e2099b389b6fada06f33f",
+      "is_merge": false
+    },
+    {
       "sha": "334e97047da224f4687b47f4f23736348ae1174c",
       "author": "JaredHatfield",
       "message": "Merge pull request #61 from UnitVectorY-Labs/repver/go-v1.26.1\n\nUpdate Go version to 1.26.1",

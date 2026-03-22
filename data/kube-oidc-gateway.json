@@ -6,6 +6,70 @@
   "latest_release_time": "2026-03-02T11:56:38Z",
   "unreleased_commits": [
     {
+      "sha": "975f48fce3452622d7e5fa49d937904a5c310243",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #39 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-5.5.3\n\nchore(deps): bump codecov/codecov-action from 5.5.2 to 5.5.3",
+      "timestamp": "2026-03-21T11:53:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/975f48fce3452622d7e5fa49d937904a5c310243",
+      "is_merge": true
+    },
+    {
+      "sha": "c512bbd8ef609e9684ce131dbcb1bede05b16d65",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #40 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.34.1\n\nchore(deps): bump github/codeql-action from 4.32.6 to 4.34.1",
+      "timestamp": "2026-03-21T10:58:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/c512bbd8ef609e9684ce131dbcb1bede05b16d65",
+      "is_merge": true
+    },
+    {
+      "sha": "6cf3f02b7870235ccbba405ee7429995575ef4c0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #38 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.6.0\n\nchore(deps): bump astral-sh/setup-uv from 7.5.0 to 7.6.0",
+      "timestamp": "2026-03-21T10:54:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/6cf3f02b7870235ccbba405ee7429995575ef4c0",
+      "is_merge": true
+    },
+    {
+      "sha": "aa1c528b439afb66e23e379d604f3a7981448489",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #41 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.4\n\nchore(deps): bump actions/cache from 5.0.3 to 5.0.4",
+      "timestamp": "2026-03-21T10:49:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/aa1c528b439afb66e23e379d604f3a7981448489",
+      "is_merge": true
+    },
+    {
+      "sha": "45cc27b5b9df338b1f2b4469d5ef699a7458aebd",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/cache from 5.0.3 to 5.0.4\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.3 to 5.0.4.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/cdf6c1fa76f9f475f3d7449005a359c84ca0f306...668228422ae6a00e4ad889ee87cd7109ec5666a7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 5.0.4\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-21T10:08:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/45cc27b5b9df338b1f2b4469d5ef699a7458aebd",
+      "is_merge": false
+    },
+    {
+      "sha": "c19222afbe4e45c75f9c117dbba7bf85b281b821",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action from 4.32.6 to 4.34.1\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.32.6 to 4.34.1.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/0d579ffd059c29b07949a3cce3983f0780820c98...38697555549f1db7851b81482ff19f1fa5c4fedc)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.34.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-21T10:05:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/c19222afbe4e45c75f9c117dbba7bf85b281b821",
+      "is_merge": false
+    },
+    {
+      "sha": "84f6c7c39dec22e7ed8d31cfddd4635adb7e2a28",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump codecov/codecov-action from 5.5.2 to 5.5.3\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 5.5.2 to 5.5.3.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/671740ac38dd9b0130fbe1cec585b89eea48d3de...1af58845a975a7985b0beb0cbe6fbbb71a41dbad)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 5.5.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-21T10:04:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/84f6c7c39dec22e7ed8d31cfddd4635adb7e2a28",
+      "is_merge": false
+    },
+    {
+      "sha": "41c61ac91962b5590f63a638c482a9e75ff815c3",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 7.5.0 to 7.6.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.5.0 to 7.6.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/e06108dd0aef18192324c70427afc47652e63a82...37802adc94f370d6bfd71619e3f0bf239e1f3b78)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.6.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-21T10:04:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/41c61ac91962b5590f63a638c482a9e75ff815c3",
+      "is_merge": false
+    },
+    {
       "sha": "e8490fa882efe12e6f27d90b1eea9869b9e4a226",
       "author": "JaredHatfield",
       "message": "Merge pull request #26 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-4.1.0\n\nchore(deps): bump actions/attest-build-provenance from 3.1.0 to 4.1.0",
