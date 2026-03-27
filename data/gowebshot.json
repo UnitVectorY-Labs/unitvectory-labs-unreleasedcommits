@@ -4,6 +4,15 @@
   "default_branch": "main",
   "latest_release_tag": "v0.2.1",
   "latest_release_time": "2026-03-22T12:21:10Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "4d667ae055a884175317b64e019336121584b4b2",
+      "author": "JaredHatfield",
+      "message": "Refactor workflows and configuration files for improved organization and functionality",
+      "timestamp": "2026-03-27T00:06:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/4d667ae055a884175317b64e019336121584b4b2",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/gowebshot"
 }

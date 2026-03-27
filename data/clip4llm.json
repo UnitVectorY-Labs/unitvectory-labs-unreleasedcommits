@@ -6,6 +6,14 @@
   "latest_release_time": "2026-02-09T03:03:53Z",
   "unreleased_commits": [
     {
+      "sha": "6f0e2a491088a89d91ef899d166c693064857533",
+      "author": "JaredHatfield",
+      "message": "Enhance GitHub workflows and configurations\n\n- Added cooldown settings for Dependabot in dependabot.yml\n- Updated add-to-project workflow with a timeout\n- Improved build-go workflow with permissions and timeout\n- Refined codeql-go workflow by updating action versions\n- Modified release-go-github workflow to specify release types\n- Enhanced zizmor workflow with a timeout and updated run command\n- Cleaned up .gitignore for better clarity and organization\n- Updated copyright year in LICENSE file\n- Introduced new .repver configuration for Go version management\n- Added .gitrepoforge for project metadata\n- Created justfile for build and test commands",
+      "timestamp": "2026-03-26T23:49:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/6f0e2a491088a89d91ef899d166c693064857533",
+      "is_merge": false
+    },
+    {
       "sha": "8d7cfcc065d1bdf7c674ca64668c22c82e540c02",
       "author": "JaredHatfield",
       "message": "Merge pull request #60 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-5.5.3\n\nBump codecov/codecov-action from 5.5.2 to 5.5.3",

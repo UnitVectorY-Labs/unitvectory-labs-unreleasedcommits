@@ -6,6 +6,14 @@
   "latest_release_time": "2025-11-22T16:11:27Z",
   "unreleased_commits": [
     {
+      "sha": "1673b973f866b8ff57f8964ff16d7cb3e3e76b65",
+      "author": "JaredHatfield",
+      "message": "chore: update workflows, add justfile, and modify .gitignore and LICENSE",
+      "timestamp": "2026-03-26T23:55:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/1673b973f866b8ff57f8964ff16d7cb3e3e76b65",
+      "is_merge": false
+    },
+    {
       "sha": "dfeb1f2b89d98e52b5cb710a173ded38fcf821f1",
       "author": "JaredHatfield",
       "message": "Merge pull request #113 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.6.0\n\nchore(deps): bump astral-sh/setup-uv from 7.5.0 to 7.6.0",

@@ -6,6 +6,14 @@
   "latest_release_time": "2026-02-09T03:05:56Z",
   "unreleased_commits": [
     {
+      "sha": "16f87aa3f6b3f1e19fcd5d04956b18934c64a2fb",
+      "author": "JaredHatfield",
+      "message": "Refactor workflows and configuration files for improved clarity and functionality\n\n- Update .clip4llm to exclude only LICENSE\n- Add cooldown configuration to dependabot.yml\n- Enhance add-to-project.yml with a timeout setting\n- Modify build-go.yml to include permissions and timeout\n- Clean up codeql-go.yml by removing unnecessary comments and updating action versions\n- Adjust release-go-github.yml for consistency\n- Add timeout to zizmor.yml and refine run command\n- Revise LICENSE year to 2026\n- Update .gitignore and .clip4llm in docs for consistency\n- Enhance _config.yml with callouts and improved description\n- Refine justfile comments for clarity\n- Introduce new .github/zizmor.yml for dependabot cooldown rules\n- Create .gitrepoforge for repository configuration",
+      "timestamp": "2026-03-26T23:18:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/16f87aa3f6b3f1e19fcd5d04956b18934c64a2fb",
+      "is_merge": false
+    },
+    {
       "sha": "559a2e6905723a493e0b28236880a62578b8bc2a",
       "author": "JaredHatfield",
       "message": "Merge pull request #86 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.6.0\n\nBump astral-sh/setup-uv from 7.5.0 to 7.6.0",

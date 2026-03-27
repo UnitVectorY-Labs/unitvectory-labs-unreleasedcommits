@@ -6,6 +6,14 @@
   "latest_release_time": "2026-02-09T03:03:04Z",
   "unreleased_commits": [
     {
+      "sha": "2c47a2d2a848c8353c54da2542b2969e77cd353c",
+      "author": "JaredHatfield",
+      "message": "Update workflows and configuration files for improved CI/CD and dependency management",
+      "timestamp": "2026-03-27T00:48:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/2c47a2d2a848c8353c54da2542b2969e77cd353c",
+      "is_merge": false
+    },
+    {
       "sha": "9e6c0567ffe704aa5c0abf38dd584ee178db623e",
       "author": "JaredHatfield",
       "message": "Merge pull request #75 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.6.0\n\nBump astral-sh/setup-uv from 7.5.0 to 7.6.0",

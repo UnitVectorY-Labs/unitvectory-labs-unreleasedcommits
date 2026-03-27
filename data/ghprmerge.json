@@ -6,6 +6,14 @@
   "latest_release_time": "2026-03-15T00:43:51Z",
   "unreleased_commits": [
     {
+      "sha": "04aa0f1379dc6096a1936fbb4ae5ec76e3d828ad",
+      "author": "JaredHatfield",
+      "message": "chore: update configuration files and add new workflows for improved CI/CD",
+      "timestamp": "2026-03-27T00:02:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/04aa0f1379dc6096a1936fbb4ae5ec76e3d828ad",
+      "is_merge": false
+    },
+    {
       "sha": "6cd167d724c0abe87f9a0d06bfb8192a2ef70e77",
       "author": "JaredHatfield",
       "message": "Merge pull request #32 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-5.5.3\n\nchore(deps): bump codecov/codecov-action from 5.5.2 to 5.5.3",
