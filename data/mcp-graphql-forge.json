@@ -6,6 +6,38 @@
   "latest_release_time": "2026-02-09T03:03:04Z",
   "unreleased_commits": [
     {
+      "sha": "8ad6a4f29265e6c15f982d170eefc247c6bd3103",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: updating codeql github action",
+      "timestamp": "2026-03-28T23:42:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/8ad6a4f29265e6c15f982d170eefc247c6bd3103",
+      "is_merge": false
+    },
+    {
+      "sha": "55c7733cf2e48dcf189805c0f97ac5bd3e921cf0",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: updating codeql github action",
+      "timestamp": "2026-03-28T23:39:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/55c7733cf2e48dcf189805c0f97ac5bd3e921cf0",
+      "is_merge": false
+    },
+    {
+      "sha": "48f8c00f4734cbce4e8c0f0a864ceb54bf664c2e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #78 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.34.1\n\nchore(deps): bump github/codeql-action from 4.32.2 to 4.34.1",
+      "timestamp": "2026-03-28T12:53:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/48f8c00f4734cbce4e8c0f0a864ceb54bf664c2e",
+      "is_merge": true
+    },
+    {
+      "sha": "b8578163e2b7cca2b0f101f688e6dfc07bddc8d8",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action from 4.32.2 to 4.34.1\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.32.2 to 4.34.1.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/v4.32.2...38697555549f1db7851b81482ff19f1fa5c4fedc)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.34.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-27T00:51:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/b8578163e2b7cca2b0f101f688e6dfc07bddc8d8",
+      "is_merge": false
+    },
+    {
       "sha": "2c47a2d2a848c8353c54da2542b2969e77cd353c",
       "author": "JaredHatfield",
       "message": "Update workflows and configuration files for improved CI/CD and dependency management",

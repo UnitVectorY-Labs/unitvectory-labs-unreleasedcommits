@@ -6,6 +6,38 @@
   "latest_release_time": "2026-03-19T22:46:54Z",
   "unreleased_commits": [
     {
+      "sha": "b9a6402a855b22729158509c871d9a38868c2f29",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #147 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.273.0\n\nchore(deps): bump google.golang.org/api from 0.272.0 to 0.273.0",
+      "timestamp": "2026-03-28T12:56:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/b9a6402a855b22729158509c871d9a38868c2f29",
+      "is_merge": true
+    },
+    {
+      "sha": "01112e12d06356e3a5b2c82800c39da9d9a6056a",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/api from 0.272.0 to 0.273.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.272.0 to 0.273.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.272.0...v0.273.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.273.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-28T12:55:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/01112e12d06356e3a5b2c82800c39da9d9a6056a",
+      "is_merge": false
+    },
+    {
+      "sha": "1f47ef8dd6173d40a89a141f3f0f4a69107e4cab",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #146 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-6.0.0\n\nchore(deps): bump codecov/codecov-action from 5.5.3 to 6.0.0",
+      "timestamp": "2026-03-28T12:27:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/1f47ef8dd6173d40a89a141f3f0f4a69107e4cab",
+      "is_merge": true
+    },
+    {
+      "sha": "c68bfed70cda50b162ae02b281461993cef17f04",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump codecov/codecov-action from 5.5.3 to 6.0.0\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 5.5.3 to 6.0.0.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/1af58845a975a7985b0beb0cbe6fbbb71a41dbad...57e3a136b779b570ffcdbf80b3bdc90e7fab3de2)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 6.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-28T10:03:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/c68bfed70cda50b162ae02b281461993cef17f04",
+      "is_merge": false
+    },
+    {
       "sha": "8c8d52799a5b3e2058be335dd943d5fc5f058d1e",
       "author": "JaredHatfield",
       "message": "Merge pull request #144 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.272.0\n\nchore(deps): bump google.golang.org/api from 0.271.0 to 0.272.0",

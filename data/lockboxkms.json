@@ -6,6 +6,38 @@
   "latest_release_time": "2026-03-19T22:46:29Z",
   "unreleased_commits": [
     {
+      "sha": "e80f49dcb2e0cbb2f500d7b544fa37f968b8bdb5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #150 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.273.0\n\nchore(deps): bump google.golang.org/api from 0.272.0 to 0.273.0",
+      "timestamp": "2026-03-28T12:56:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/e80f49dcb2e0cbb2f500d7b544fa37f968b8bdb5",
+      "is_merge": true
+    },
+    {
+      "sha": "70ea45fc1c039aebb9915b571aa10c4cb10d8335",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/api from 0.272.0 to 0.273.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.272.0 to 0.273.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.272.0...v0.273.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.273.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-28T12:55:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/70ea45fc1c039aebb9915b571aa10c4cb10d8335",
+      "is_merge": false
+    },
+    {
+      "sha": "1abe2714b966ae15077ab95087be28ec2ab3fced",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #151 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-6.0.0\n\nchore(deps): bump codecov/codecov-action from 5.5.3 to 6.0.0",
+      "timestamp": "2026-03-28T12:27:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/1abe2714b966ae15077ab95087be28ec2ab3fced",
+      "is_merge": true
+    },
+    {
+      "sha": "513d7274c96abc4298cf1b6a8864a90d4c67fe7a",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump codecov/codecov-action from 5.5.3 to 6.0.0\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 5.5.3 to 6.0.0.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/1af58845a975a7985b0beb0cbe6fbbb71a41dbad...57e3a136b779b570ffcdbf80b3bdc90e7fab3de2)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 6.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-28T10:03:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/513d7274c96abc4298cf1b6a8864a90d4c67fe7a",
+      "is_merge": false
+    },
+    {
       "sha": "ef3b187309824ff010ff3916094589ae97f236fe",
       "author": "JaredHatfield",
       "message": "Merge pull request #149 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.272.0\n\nchore(deps): bump google.golang.org/api from 0.271.0 to 0.272.0",

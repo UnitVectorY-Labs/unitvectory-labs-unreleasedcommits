@@ -6,6 +6,38 @@
   "latest_release_time": "2025-10-26T12:30:45Z",
   "unreleased_commits": [
     {
+      "sha": "81f9c8506131666d9ce6978bc5677cef5e98af04",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #179 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-6.0.0\n\nBump codecov/codecov-action from 5.5.3 to 6.0.0",
+      "timestamp": "2026-03-28T13:08:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/81f9c8506131666d9ce6978bc5677cef5e98af04",
+      "is_merge": true
+    },
+    {
+      "sha": "8bf1238f7c8b8ae16621891642aeade60ba98943",
+      "author": "dependabot[bot]",
+      "message": "Bump codecov/codecov-action from 5.5.3 to 6.0.0\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 5.5.3 to 6.0.0.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/v5.5.3...v6.0.0)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 6.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-28T13:06:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/8bf1238f7c8b8ae16621891642aeade60ba98943",
+      "is_merge": false
+    },
+    {
+      "sha": "7babc29a1e2323e7dbe52ce4263b6c5466c84f34",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #180 from UnitVectorY-Labs/dependabot/maven/com.google.cloud-libraries-bom-26.79.0\n\nBump com.google.cloud:libraries-bom from 26.78.0 to 26.79.0",
+      "timestamp": "2026-03-28T13:04:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/7babc29a1e2323e7dbe52ce4263b6c5466c84f34",
+      "is_merge": true
+    },
+    {
+      "sha": "f515367af096f844f46a3aaa1a3d708e4f4afa63",
+      "author": "dependabot[bot]",
+      "message": "Bump com.google.cloud:libraries-bom from 26.78.0 to 26.79.0\n\nBumps [com.google.cloud:libraries-bom](https://github.com/googleapis/java-cloud-bom) from 26.78.0 to 26.79.0.\n- [Release notes](https://github.com/googleapis/java-cloud-bom/releases)\n- [Commits](https://github.com/googleapis/java-cloud-bom/compare/v26.78.0...v26.79.0)\n\n---\nupdated-dependencies:\n- dependency-name: com.google.cloud:libraries-bom\n  dependency-version: 26.79.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-28T10:02:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/f515367af096f844f46a3aaa1a3d708e4f4afa63",
+      "is_merge": false
+    },
+    {
       "sha": "3de9fafd605c95558b87a8183051d6a10bf1fa1b",
       "author": "JaredHatfield",
       "message": "Merge pull request #178 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-5.5.3\n\nBump codecov/codecov-action from 5.5.2 to 5.5.3",

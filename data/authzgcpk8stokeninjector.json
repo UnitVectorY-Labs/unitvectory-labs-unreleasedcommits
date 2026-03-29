@@ -6,6 +6,22 @@
   "latest_release_time": "2026-03-19T22:47:14Z",
   "unreleased_commits": [
     {
+      "sha": "9214806b2a04c012605611c98be71fdda34cb9f7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #96 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-6.0.0\n\nchore(deps): bump codecov/codecov-action from 5.5.3 to 6.0.0",
+      "timestamp": "2026-03-28T12:27:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/9214806b2a04c012605611c98be71fdda34cb9f7",
+      "is_merge": true
+    },
+    {
+      "sha": "cc604ede6d77fc0b49680f5031cea5c9d1fd1e85",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump codecov/codecov-action from 5.5.3 to 6.0.0\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 5.5.3 to 6.0.0.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/1af58845a975a7985b0beb0cbe6fbbb71a41dbad...57e3a136b779b570ffcdbf80b3bdc90e7fab3de2)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 6.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-28T10:03:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/cc604ede6d77fc0b49680f5031cea5c9d1fd1e85",
+      "is_merge": false
+    },
+    {
       "sha": "4f54c6d686edfa05fbda5b9a43655df66eafafa3",
       "author": "JaredHatfield",
       "message": "Merge pull request #94 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-5.5.3\n\nchore(deps): bump codecov/codecov-action from 5.5.2 to 5.5.3",

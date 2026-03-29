@@ -6,6 +6,46 @@
   "latest_release_time": "2026-02-26T01:29:40Z",
   "unreleased_commits": [
     {
+      "sha": "cf5b9b21c8ca0ffe2256e10bc27cbf5c94499060",
+      "author": "JaredHatfield",
+      "message": "chore: update workflows and configuration files for improved automation and organization",
+      "timestamp": "2026-03-28T23:54:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/cf5b9b21c8ca0ffe2256e10bc27cbf5c94499060",
+      "is_merge": false
+    },
+    {
+      "sha": "f617e2d9031fb5e2b713e206d728ba1dad20a2b4",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #16 from UnitVectorY-Labs/dependabot/go_modules/github.com/mark3labs/mcp-go-0.46.0\n\nbuild(deps): bump github.com/mark3labs/mcp-go from 0.45.0 to 0.46.0",
+      "timestamp": "2026-03-28T12:55:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/f617e2d9031fb5e2b713e206d728ba1dad20a2b4",
+      "is_merge": true
+    },
+    {
+      "sha": "cb7de3572cc2ec3a541dbef8180e7de25fb53145",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #15 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-6.0.0\n\nbuild(deps): bump codecov/codecov-action from 5.5.3 to 6.0.0",
+      "timestamp": "2026-03-28T12:29:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/cb7de3572cc2ec3a541dbef8180e7de25fb53145",
+      "is_merge": true
+    },
+    {
+      "sha": "4d1722546e93d9b510be1c004921e29621549b4f",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github.com/mark3labs/mcp-go from 0.45.0 to 0.46.0\n\nBumps [github.com/mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) from 0.45.0 to 0.46.0.\n- [Release notes](https://github.com/mark3labs/mcp-go/releases)\n- [Commits](https://github.com/mark3labs/mcp-go/compare/v0.45.0...v0.46.0)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/mark3labs/mcp-go\n  dependency-version: 0.46.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-28T10:05:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/4d1722546e93d9b510be1c004921e29621549b4f",
+      "is_merge": false
+    },
+    {
+      "sha": "10adf96182c66806a01b54b22ee9831ca887a1be",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump codecov/codecov-action from 5.5.3 to 6.0.0\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 5.5.3 to 6.0.0.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/1af58845a975a7985b0beb0cbe6fbbb71a41dbad...57e3a136b779b570ffcdbf80b3bdc90e7fab3de2)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 6.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-28T10:05:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/10adf96182c66806a01b54b22ee9831ca887a1be",
+      "is_merge": false
+    },
+    {
       "sha": "3b31cff99ba003cc22cb0ba3959eea8ac3e440a7",
       "author": "JaredHatfield",
       "message": "Merge pull request #14 from UnitVectorY-Labs/dependabot/go_modules/github.com/buger/jsonparser-1.1.2\n\nbuild(deps): bump github.com/buger/jsonparser from 1.1.1 to 1.1.2",

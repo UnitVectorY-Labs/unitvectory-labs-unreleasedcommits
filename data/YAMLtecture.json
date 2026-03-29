@@ -6,6 +6,46 @@
   "latest_release_time": "2026-02-09T03:05:56Z",
   "unreleased_commits": [
     {
+      "sha": "977ec0591e2015bb1e9c3e1da7ea4c300d85fa3c",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: updating codeql github action",
+      "timestamp": "2026-03-28T23:42:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/977ec0591e2015bb1e9c3e1da7ea4c300d85fa3c",
+      "is_merge": false
+    },
+    {
+      "sha": "d0d4fc5891dfc7c5024a922ca91adb8c68114ac4",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: updating codeql github action",
+      "timestamp": "2026-03-28T23:39:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/d0d4fc5891dfc7c5024a922ca91adb8c68114ac4",
+      "is_merge": false
+    },
+    {
+      "sha": "a9b32d9a9d8dcab03f75a498542c3bd732143839",
+      "author": "JaredHatfield",
+      "message": "Updating codecov action",
+      "timestamp": "2026-03-28T23:25:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/a9b32d9a9d8dcab03f75a498542c3bd732143839",
+      "is_merge": false
+    },
+    {
+      "sha": "03ce91d344e54a769c5a49aec20a7c6d938d9e47",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #88 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.34.1\n\nBump github/codeql-action from 4.32.2 to 4.34.1",
+      "timestamp": "2026-03-28T12:53:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/03ce91d344e54a769c5a49aec20a7c6d938d9e47",
+      "is_merge": true
+    },
+    {
+      "sha": "fe755acfab879492c0feff1be36cc072d9140bea",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action from 4.32.2 to 4.34.1\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.32.2 to 4.34.1.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/v4.32.2...38697555549f1db7851b81482ff19f1fa5c4fedc)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.34.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-26T23:20:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/fe755acfab879492c0feff1be36cc072d9140bea",
+      "is_merge": false
+    },
+    {
       "sha": "16f87aa3f6b3f1e19fcd5d04956b18934c64a2fb",
       "author": "JaredHatfield",
       "message": "Refactor workflows and configuration files for improved clarity and functionality\n\n- Update .clip4llm to exclude only LICENSE\n- Add cooldown configuration to dependabot.yml\n- Enhance add-to-project.yml with a timeout setting\n- Modify build-go.yml to include permissions and timeout\n- Clean up codeql-go.yml by removing unnecessary comments and updating action versions\n- Adjust release-go-github.yml for consistency\n- Add timeout to zizmor.yml and refine run command\n- Revise LICENSE year to 2026\n- Update .gitignore and .clip4llm in docs for consistency\n- Enhance _config.yml with callouts and improved description\n- Refine justfile comments for clarity\n- Introduce new .github/zizmor.yml for dependabot cooldown rules\n- Create .gitrepoforge for repository configuration",

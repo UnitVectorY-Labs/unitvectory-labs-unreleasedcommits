@@ -6,6 +6,38 @@
   "latest_release_time": "2026-03-06T02:07:49Z",
   "unreleased_commits": [
     {
+      "sha": "fd66b622518e8a8cd90a2e39a826609f20135f25",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: updating codeql github action",
+      "timestamp": "2026-03-28T23:42:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/fd66b622518e8a8cd90a2e39a826609f20135f25",
+      "is_merge": false
+    },
+    {
+      "sha": "5f95344963d14b077f67a691de4d4511f1e0064a",
+      "author": "JaredHatfield",
+      "message": "Update GitHub Actions workflows, add dependabot cooldown, and enhance documentation",
+      "timestamp": "2026-03-28T19:43:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/5f95344963d14b077f67a691de4d4511f1e0064a",
+      "is_merge": false
+    },
+    {
+      "sha": "bc59abb3aaf5b9459e5203807c6089a3de09e422",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #41 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-6.0.0\n\nBump codecov/codecov-action from 5.5.3 to 6.0.0",
+      "timestamp": "2026-03-28T12:29:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/bc59abb3aaf5b9459e5203807c6089a3de09e422",
+      "is_merge": true
+    },
+    {
+      "sha": "f9c41284e3bfa6578b851f00844241ad67491046",
+      "author": "dependabot[bot]",
+      "message": "Bump codecov/codecov-action from 5.5.3 to 6.0.0\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 5.5.3 to 6.0.0.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/1af58845a975a7985b0beb0cbe6fbbb71a41dbad...57e3a136b779b570ffcdbf80b3bdc90e7fab3de2)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 6.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-28T10:03:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/f9c41284e3bfa6578b851f00844241ad67491046",
+      "is_merge": false
+    },
+    {
       "sha": "9a1070fb4d3366d3b2aea97536f83cef85bc4d52",
       "author": "JaredHatfield",
       "message": "Merge pull request #39 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-5.5.3\n\nBump codecov/codecov-action from 5.5.2 to 5.5.3",

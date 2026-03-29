@@ -6,6 +6,38 @@
   "latest_release_time": "2026-03-14T13:58:33Z",
   "unreleased_commits": [
     {
+      "sha": "bdcb8784bcb9750f65ff0c1546f92be713b94f19",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: updating codeql github action",
+      "timestamp": "2026-03-28T23:42:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/bdcb8784bcb9750f65ff0c1546f92be713b94f19",
+      "is_merge": false
+    },
+    {
+      "sha": "40e8ab9d43bc2d7404ceefa8c7296de42468e922",
+      "author": "JaredHatfield",
+      "message": "Enhance workflows and configuration files for improved automation and documentation\n\n- Update dependabot configuration to include cooldown period\n- Add timeout settings to various GitHub Actions workflows\n- Introduce new rules for dependabot cooldown in zizmor configuration\n- Refactor .gitignore to streamline ignored files and directories\n- Create justfile for build and test commands\n- Add missing .clip4llm and .gitignore files in docs directory\n- Update LICENSE year to 2026\n- Enhance _config.yml with callouts for better documentation",
+      "timestamp": "2026-03-28T19:32:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/40e8ab9d43bc2d7404ceefa8c7296de42468e922",
+      "is_merge": false
+    },
+    {
+      "sha": "26614aa2b9db85d710521a6129dc6d39061e65aa",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #48 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-6.0.0\n\nBump codecov/codecov-action from 5.5.3 to 6.0.0",
+      "timestamp": "2026-03-28T12:28:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/26614aa2b9db85d710521a6129dc6d39061e65aa",
+      "is_merge": true
+    },
+    {
+      "sha": "563bdff0076cdc18ba3df2b8fc763b599067e485",
+      "author": "dependabot[bot]",
+      "message": "Bump codecov/codecov-action from 5.5.3 to 6.0.0\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 5.5.3 to 6.0.0.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/1af58845a975a7985b0beb0cbe6fbbb71a41dbad...57e3a136b779b570ffcdbf80b3bdc90e7fab3de2)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 6.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-28T10:03:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/563bdff0076cdc18ba3df2b8fc763b599067e485",
+      "is_merge": false
+    },
+    {
       "sha": "2abfe90e6812925afd85f0ba22e5c8de383da7f0",
       "author": "JaredHatfield",
       "message": "Merge pull request #45 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.6.0\n\nBump astral-sh/setup-uv from 7.5.0 to 7.6.0",

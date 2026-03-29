@@ -6,6 +6,38 @@
   "latest_release_time": "2026-01-01T19:27:46Z",
   "unreleased_commits": [
     {
+      "sha": "ec994097d64002e33ff056055f4cff26146fbc56",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: updating codeql github action",
+      "timestamp": "2026-03-28T23:42:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpvalidate/commit/ec994097d64002e33ff056055f4cff26146fbc56",
+      "is_merge": false
+    },
+    {
+      "sha": "13be8a231b7e8f676bd4ebed420c1c59cb4de06c",
+      "author": "JaredHatfield",
+      "message": "Enhance GitHub Actions workflows and configuration files\n\n- Added cooldown configuration for Dependabot in dependabot.yml\n- Set timeout for jobs in add-to-project.yml, build-go.yml, and zizmor.yml\n- Updated permissions in build-go.yml for better security\n- Improved CodeQL workflow by updating action versions and removing unnecessary comments\n- Created new rules for dependabot cooldown in a new zizmor.yml file\n- Refined .gitignore to include additional patterns and removed outdated entries\n- Added .gitrepoforge for project configuration\n- Updated LICENSE year to 2026\n- Introduced justfile for build and test commands\n- Enhanced documentation configuration in _config.yml",
+      "timestamp": "2026-03-28T23:15:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpvalidate/commit/13be8a231b7e8f676bd4ebed420c1c59cb4de06c",
+      "is_merge": false
+    },
+    {
+      "sha": "164758fc9edb85d024697ec84c25a410a5a66692",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #23 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-6.0.0\n\nBump codecov/codecov-action from 5.5.3 to 6.0.0",
+      "timestamp": "2026-03-28T12:29:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpvalidate/commit/164758fc9edb85d024697ec84c25a410a5a66692",
+      "is_merge": true
+    },
+    {
+      "sha": "6245d5e8880ae92a15d7c4eb26a73a1eb6ead00f",
+      "author": "dependabot[bot]",
+      "message": "Bump codecov/codecov-action from 5.5.3 to 6.0.0\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 5.5.3 to 6.0.0.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/1af58845a975a7985b0beb0cbe6fbbb71a41dbad...57e3a136b779b570ffcdbf80b3bdc90e7fab3de2)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 6.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-28T10:05:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpvalidate/commit/6245d5e8880ae92a15d7c4eb26a73a1eb6ead00f",
+      "is_merge": false
+    },
+    {
       "sha": "881f594c31a644fb1f824b51fc8919759206098b",
       "author": "JaredHatfield",
       "message": "Merge pull request #22 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-5.5.3\n\nBump codecov/codecov-action from 5.5.2 to 5.5.3",
