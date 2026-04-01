@@ -6,6 +6,14 @@
   "latest_release_time": "2026-03-14T13:58:33Z",
   "unreleased_commits": [
     {
+      "sha": "a008d1629b5836b441c1384e843410a45c487563",
+      "author": "JaredHatfield",
+      "message": "Update codecov config shape in .gitrepoforge",
+      "timestamp": "2026-03-31T01:51:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/a008d1629b5836b441c1384e843410a45c487563",
+      "is_merge": false
+    },
+    {
       "sha": "bdcb8784bcb9750f65ff0c1546f92be713b94f19",
       "author": "JaredHatfield",
       "message": "gitrepoforge: updating codeql github action",

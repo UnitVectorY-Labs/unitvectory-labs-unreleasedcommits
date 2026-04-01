@@ -6,6 +6,14 @@
   "latest_release_time": "2026-03-28T17:50:39Z",
   "unreleased_commits": [
     {
+      "sha": "b651cd3ee7dcf136fec0c321d192b77231b6aba8",
+      "author": "JaredHatfield",
+      "message": "Update codecov config shape in .gitrepoforge",
+      "timestamp": "2026-03-31T01:51:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/b651cd3ee7dcf136fec0c321d192b77231b6aba8",
+      "is_merge": false
+    },
+    {
       "sha": "d4df5c6b72cf0d15260b8d8256bb53b823202a31",
       "author": "JaredHatfield",
       "message": "gitrepoforge: updating codeql github action",

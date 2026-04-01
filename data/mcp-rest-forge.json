@@ -6,6 +6,14 @@
   "latest_release_time": "2026-02-26T01:29:40Z",
   "unreleased_commits": [
     {
+      "sha": "1d5e329421f789b844853fce0176d52dcb763ce6",
+      "author": "JaredHatfield",
+      "message": "Update codecov config shape in .gitrepoforge",
+      "timestamp": "2026-03-31T01:51:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/1d5e329421f789b844853fce0176d52dcb763ce6",
+      "is_merge": false
+    },
+    {
       "sha": "cf5b9b21c8ca0ffe2256e10bc27cbf5c94499060",
       "author": "JaredHatfield",
       "message": "chore: update workflows and configuration files for improved automation and organization",

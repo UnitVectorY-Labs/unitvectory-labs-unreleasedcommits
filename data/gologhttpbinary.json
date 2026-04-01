@@ -6,6 +6,14 @@
   "latest_release_time": "2025-10-14T01:35:46Z",
   "unreleased_commits": [
     {
+      "sha": "b6fbfa493dacd1428615ef3603dbdff4c8af5851",
+      "author": "JaredHatfield",
+      "message": "Update codecov config shape in .gitrepoforge",
+      "timestamp": "2026-03-31T01:51:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpbinary/commit/b6fbfa493dacd1428615ef3603dbdff4c8af5851",
+      "is_merge": false
+    },
+    {
       "sha": "6f48dfa98d7946cb51079599c50f700eabb2e6ff",
       "author": "JaredHatfield",
       "message": "Update workflows, configurations, and documentation\n\n- Added cooldown settings to dependabot configurations.\n- Enhanced GitHub Actions workflows with timeouts and permissions.\n- Introduced new rules for dependabot cooldown in zizmor configuration.\n- Updated .gitignore to include Go binaries and other patterns.\n- Created .gitrepoforge for repository metadata.\n- Added justfile for build and test commands.\n- Updated LICENSE year to 2026.",

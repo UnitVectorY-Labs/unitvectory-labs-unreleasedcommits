@@ -6,6 +6,14 @@
   "latest_release_time": "2026-02-09T03:03:04Z",
   "unreleased_commits": [
     {
+      "sha": "c2a6602d45fc7d7db3becb80af2b24d4681cf9fb",
+      "author": "JaredHatfield",
+      "message": "Update codecov config shape in .gitrepoforge",
+      "timestamp": "2026-03-31T01:51:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/c2a6602d45fc7d7db3becb80af2b24d4681cf9fb",
+      "is_merge": false
+    },
+    {
       "sha": "8ad6a4f29265e6c15f982d170eefc247c6bd3103",
       "author": "JaredHatfield",
       "message": "gitrepoforge: updating codeql github action",
