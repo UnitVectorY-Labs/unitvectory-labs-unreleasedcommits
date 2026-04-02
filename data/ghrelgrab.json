@@ -6,6 +6,30 @@
   "latest_release_time": "2025-12-06T19:53:32Z",
   "unreleased_commits": [
     {
+      "sha": "9b15735b1a50ef2417e402a82f98c1673c65b5c4",
+      "author": "JaredHatfield",
+      "message": "Documented new latest command",
+      "timestamp": "2026-04-02T00:36:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/9b15735b1a50ef2417e402a82f98c1673c65b5c4",
+      "is_merge": false
+    },
+    {
+      "sha": "f6700dc441ad8b2a623a7e2e527483e6288705ed",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #46 from UnitVectorY-Labs/copilot/add-latest-version-parameter\n\nAdd --latest and --name flags to ghrelgrab",
+      "timestamp": "2026-04-02T00:26:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/f6700dc441ad8b2a623a7e2e527483e6288705ed",
+      "is_merge": true
+    },
+    {
+      "sha": "4f7758bb5e1b326e57d1363e602521ba90a74aba",
+      "author": "Copilot",
+      "message": "Add --latest and --name flags; fix ZipSlip in extraction functions\n\nAgent-Logs-Url: https://github.com/UnitVectorY-Labs/ghrelgrab/sessions/4c4ee998-62f8-4390-b152-d9b1eb7a841a\n\nCo-authored-by: JaredHatfield \u003c208119+JaredHatfield@users.noreply.github.com\u003e",
+      "timestamp": "2026-04-02T00:12:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/4f7758bb5e1b326e57d1363e602521ba90a74aba",
+      "is_merge": false
+    },
+    {
       "sha": "9ede230c2d86a63614ae690ab1793f29b853c44c",
       "author": "JaredHatfield",
       "message": "Merge pull request #45 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-6.0.0\n\nchore(deps): bump codecov/codecov-action from 5.5.3 to 6.0.0",

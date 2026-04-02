@@ -1,0 +1,34 @@
+{
+  "owner": "UnitVectorY-Labs",
+  "name": "frontmatterkit",
+  "default_branch": "main",
+  "latest_release_tag": "v0.1.0",
+  "latest_release_time": "2026-04-01T23:39:37Z",
+  "unreleased_commits": [
+    {
+      "sha": "9db4b6091d24bf088c44c896ca2554ebfe31d2c3",
+      "author": "JaredHatfield",
+      "message": "Set project status to active",
+      "timestamp": "2026-04-02T00:25:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/9db4b6091d24bf088c44c896ca2554ebfe31d2c3",
+      "is_merge": false
+    },
+    {
+      "sha": "beb32d03bddd220fa563e26d107cde16f60b8b45",
+      "author": "JaredHatfield",
+      "message": "Added release badge",
+      "timestamp": "2026-04-02T00:08:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/beb32d03bddd220fa563e26d107cde16f60b8b45",
+      "is_merge": false
+    },
+    {
+      "sha": "2c92675eb30a97fe7a034258afeebce1ca596f06",
+      "author": "JaredHatfield",
+      "message": "Added badges",
+      "timestamp": "2026-04-02T00:06:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/2c92675eb30a97fe7a034258afeebce1ca596f06",
+      "is_merge": false
+    }
+  ],
+  "repository_url": "https://github.com/UnitVectorY-Labs/frontmatterkit"
+}
