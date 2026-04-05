@@ -6,6 +6,86 @@
   "latest_release_time": "2025-11-22T16:11:27Z",
   "unreleased_commits": [
     {
+      "sha": "1622c663c7cb018442af441e6070dd81514d39f9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #118 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/grpc-1.80.0\n\nchore(deps): bump google.golang.org/grpc from 1.79.3 to 1.80.0",
+      "timestamp": "2026-04-04T15:40:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/1622c663c7cb018442af441e6070dd81514d39f9",
+      "is_merge": true
+    },
+    {
+      "sha": "84c838feeda4604785fc18478a65847475d6b470",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/grpc from 1.79.3 to 1.80.0\n\nBumps [google.golang.org/grpc](https://github.com/grpc/grpc-go) from 1.79.3 to 1.80.0.\n- [Release notes](https://github.com/grpc/grpc-go/releases)\n- [Commits](https://github.com/grpc/grpc-go/compare/v1.79.3...v1.80.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/grpc\n  dependency-version: 1.80.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-04T15:37:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/84c838feeda4604785fc18478a65847475d6b470",
+      "is_merge": false
+    },
+    {
+      "sha": "064ca072abf3c41c16caab695998ff665f835a07",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #117 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.273.1\n\nchore(deps): bump google.golang.org/api from 0.272.0 to 0.273.1",
+      "timestamp": "2026-04-04T15:36:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/064ca072abf3c41c16caab695998ff665f835a07",
+      "is_merge": true
+    },
+    {
+      "sha": "6fbd828956417c3c199f26532b8ac016fff12e26",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #120 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.4.0\n\nchore(deps): bump actions/setup-go from 6.3.0 to 6.4.0",
+      "timestamp": "2026-04-04T15:35:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/6fbd828956417c3c199f26532b8ac016fff12e26",
+      "is_merge": true
+    },
+    {
+      "sha": "ce00445313804159bbc655031217d3135758a709",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/setup-go from 6.3.0 to 6.4.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.3.0 to 6.4.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/4b73464bb391d4059bd26b0524d20df3927bd417...4a3601121dd01d1626a1e23e37211e3254c1c06c)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 6.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-04T15:30:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/ce00445313804159bbc655031217d3135758a709",
+      "is_merge": false
+    },
+    {
+      "sha": "27dca768efe2758a4df6e557a32e68ce494ad39d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #119 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.35.1\n\nchore(deps): bump github/codeql-action from 4.34.1 to 4.35.1",
+      "timestamp": "2026-04-04T15:28:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/27dca768efe2758a4df6e557a32e68ce494ad39d",
+      "is_merge": true
+    },
+    {
+      "sha": "7d60cab61dea41dc7ba422bc8fb304fa386355f9",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action from 4.34.1 to 4.35.1\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.34.1 to 4.35.1.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/38697555549f1db7851b81482ff19f1fa5c4fedc...c10b8064de6f491fea524254123dbe5e09572f13)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.35.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-04T12:47:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/7d60cab61dea41dc7ba422bc8fb304fa386355f9",
+      "is_merge": false
+    },
+    {
+      "sha": "6be74a6b1bc8362266c8f10070fc9d9583eae02d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #121 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.0.0\n\nchore(deps): bump astral-sh/setup-uv from 7.6.0 to 8.0.0",
+      "timestamp": "2026-04-04T12:43:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/6be74a6b1bc8362266c8f10070fc9d9583eae02d",
+      "is_merge": true
+    },
+    {
+      "sha": "6f9fd879ab9f2886bba47c10ce0f4d2a935d2d89",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 7.6.0 to 8.0.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.6.0 to 8.0.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/37802adc94f370d6bfd71619e3f0bf239e1f3b78...cec208311dfd045dd5311c1add060b2062131d57)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-04T10:07:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/6f9fd879ab9f2886bba47c10ce0f4d2a935d2d89",
+      "is_merge": false
+    },
+    {
+      "sha": "8370730fde1839330c44af37481ad6fb6bbec28b",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/api from 0.272.0 to 0.273.1\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.272.0 to 0.273.1.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.272.0...v0.273.1)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.273.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-04T10:05:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/8370730fde1839330c44af37481ad6fb6bbec28b",
+      "is_merge": false
+    },
+    {
       "sha": "b804f4f0cb526d9669122c879ebf182ffbd33c48",
       "author": "JaredHatfield",
       "message": "Update codecov config shape in .gitrepoforge",

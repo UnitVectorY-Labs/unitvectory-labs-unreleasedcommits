@@ -6,6 +6,54 @@
   "latest_release_time": "2026-03-14T13:58:33Z",
   "unreleased_commits": [
     {
+      "sha": "65def4f81a2bcb8ff6d1474aa23fd75bc9554d5a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #51 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.4.0\n\nBump actions/setup-go from 6.3.0 to 6.4.0",
+      "timestamp": "2026-04-04T15:35:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/65def4f81a2bcb8ff6d1474aa23fd75bc9554d5a",
+      "is_merge": true
+    },
+    {
+      "sha": "cd9da32ba0ebffa5dd3417a9b48033b50c55c164",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/setup-go from 6.3.0 to 6.4.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.3.0 to 6.4.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/4b73464bb391d4059bd26b0524d20df3927bd417...4a3601121dd01d1626a1e23e37211e3254c1c06c)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 6.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-04T15:29:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/cd9da32ba0ebffa5dd3417a9b48033b50c55c164",
+      "is_merge": false
+    },
+    {
+      "sha": "158ca83b53951432d62174e23ba2aa75cc0fd6fe",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #50 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.35.1\n\nBump github/codeql-action from 4.34.1 to 4.35.1",
+      "timestamp": "2026-04-04T15:28:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/158ca83b53951432d62174e23ba2aa75cc0fd6fe",
+      "is_merge": true
+    },
+    {
+      "sha": "4bbcd97961b9d7f2fd6315ac083f86812b7f65cb",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action from 4.34.1 to 4.35.1\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.34.1 to 4.35.1.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/38697555549f1db7851b81482ff19f1fa5c4fedc...c10b8064de6f491fea524254123dbe5e09572f13)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.35.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-04T12:46:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/4bbcd97961b9d7f2fd6315ac083f86812b7f65cb",
+      "is_merge": false
+    },
+    {
+      "sha": "fcf55b4a6b74594543195bda82ddd7d524b18612",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #52 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.0.0\n\nBump astral-sh/setup-uv from 7.6.0 to 8.0.0",
+      "timestamp": "2026-04-04T12:42:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/fcf55b4a6b74594543195bda82ddd7d524b18612",
+      "is_merge": true
+    },
+    {
+      "sha": "a80c45e9a2e780480a354370a3b44186ae8421bf",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 7.6.0 to 8.0.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.6.0 to 8.0.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/37802adc94f370d6bfd71619e3f0bf239e1f3b78...cec208311dfd045dd5311c1add060b2062131d57)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-04T10:06:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/a80c45e9a2e780480a354370a3b44186ae8421bf",
+      "is_merge": false
+    },
+    {
       "sha": "a008d1629b5836b441c1384e843410a45c487563",
       "author": "JaredHatfield",
       "message": "Update codecov config shape in .gitrepoforge",

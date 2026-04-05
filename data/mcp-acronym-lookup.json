@@ -6,6 +6,70 @@
   "latest_release_time": "2026-02-09T03:03:26Z",
   "unreleased_commits": [
     {
+      "sha": "eae7d8b5ddb48f1509510a09c179b464d0007efb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #67 from UnitVectorY-Labs/dependabot/go_modules/github.com/mark3labs/mcp-go-0.46.0\n\nchore(deps): bump github.com/mark3labs/mcp-go from 0.45.0 to 0.46.0",
+      "timestamp": "2026-04-04T15:45:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/eae7d8b5ddb48f1509510a09c179b464d0007efb",
+      "is_merge": true
+    },
+    {
+      "sha": "6623e9825096bc2bcb326d95aa4b0365e0abe7aa",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github.com/mark3labs/mcp-go from 0.45.0 to 0.46.0\n\nBumps [github.com/mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) from 0.45.0 to 0.46.0.\n- [Release notes](https://github.com/mark3labs/mcp-go/releases)\n- [Commits](https://github.com/mark3labs/mcp-go/compare/v0.45.0...v0.46.0)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/mark3labs/mcp-go\n  dependency-version: 0.46.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-04T15:44:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/6623e9825096bc2bcb326d95aa4b0365e0abe7aa",
+      "is_merge": false
+    },
+    {
+      "sha": "65701a430279e220528a8391d09bcfca2d09d140",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #68 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.4.0\n\nchore(deps): bump actions/setup-go from 6.3.0 to 6.4.0",
+      "timestamp": "2026-04-04T15:35:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/65701a430279e220528a8391d09bcfca2d09d140",
+      "is_merge": true
+    },
+    {
+      "sha": "375a0b52acd9e2e8ff9dbc79892e9a76fcabb9a6",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/setup-go from 6.3.0 to 6.4.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.3.0 to 6.4.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/4b73464bb391d4059bd26b0524d20df3927bd417...4a3601121dd01d1626a1e23e37211e3254c1c06c)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 6.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-04T15:30:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/375a0b52acd9e2e8ff9dbc79892e9a76fcabb9a6",
+      "is_merge": false
+    },
+    {
+      "sha": "db26f24756452f2c51fe715cbdb4f0eec5b7f769",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #69 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.35.1\n\nchore(deps): bump github/codeql-action from 4.34.1 to 4.35.1",
+      "timestamp": "2026-04-04T15:29:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/db26f24756452f2c51fe715cbdb4f0eec5b7f769",
+      "is_merge": true
+    },
+    {
+      "sha": "790a7d102b312aae34d8e6957856dafa25b2ec5a",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action from 4.34.1 to 4.35.1\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.34.1 to 4.35.1.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/38697555549f1db7851b81482ff19f1fa5c4fedc...c10b8064de6f491fea524254123dbe5e09572f13)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.35.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-04T12:48:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/790a7d102b312aae34d8e6957856dafa25b2ec5a",
+      "is_merge": false
+    },
+    {
+      "sha": "4ac8b4dd2fb465d55b8830729677122893c8c2a7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #70 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.0.0\n\nchore(deps): bump astral-sh/setup-uv from 7.6.0 to 8.0.0",
+      "timestamp": "2026-04-04T12:43:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/4ac8b4dd2fb465d55b8830729677122893c8c2a7",
+      "is_merge": true
+    },
+    {
+      "sha": "adf25847582c5455c961fe46c7a3847b768762eb",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 7.6.0 to 8.0.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.6.0 to 8.0.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/37802adc94f370d6bfd71619e3f0bf239e1f3b78...cec208311dfd045dd5311c1add060b2062131d57)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-04T10:05:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/adf25847582c5455c961fe46c7a3847b768762eb",
+      "is_merge": false
+    },
+    {
       "sha": "a4378fddf8f35a8a57cd7eedac84b6f5fc48ecfd",
       "author": "JaredHatfield",
       "message": "Update codecov config shape in .gitrepoforge",

@@ -6,6 +6,54 @@
   "latest_release_time": "2025-10-07T22:58:05Z",
   "unreleased_commits": [
     {
+      "sha": "2be2d6ee617ff3dc9393501e6868e7285109da91",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #71 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.4.0\n\nchore(deps): bump actions/setup-go from 6.3.0 to 6.4.0",
+      "timestamp": "2026-04-04T15:35:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/2be2d6ee617ff3dc9393501e6868e7285109da91",
+      "is_merge": true
+    },
+    {
+      "sha": "43a7baf7feaa23bdf5470c55d240b59cf34675c0",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/setup-go from 6.3.0 to 6.4.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.3.0 to 6.4.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/4b73464bb391d4059bd26b0524d20df3927bd417...4a3601121dd01d1626a1e23e37211e3254c1c06c)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 6.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-04T12:57:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/43a7baf7feaa23bdf5470c55d240b59cf34675c0",
+      "is_merge": false
+    },
+    {
+      "sha": "566163196b0600609c372fd2efac7bb76362824f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #69 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.1.0\n\nchore(deps): bump docker/login-action from 4.0.0 to 4.1.0",
+      "timestamp": "2026-04-04T12:56:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/566163196b0600609c372fd2efac7bb76362824f",
+      "is_merge": true
+    },
+    {
+      "sha": "92faf91dc36c0066c208e9d4af14f0e04c94efa4",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/login-action from 4.0.0 to 4.1.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.0.0 to 4.1.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/b45d80f862d83dbcd57f89517bcf500b2ab88fb2...4907a6ddec9925e35a0a9e82d7399ccc52663121)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-04T12:44:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/92faf91dc36c0066c208e9d4af14f0e04c94efa4",
+      "is_merge": false
+    },
+    {
+      "sha": "167b725853bdda301f9d7709e07eaa25ddbd59b1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #70 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.0.0\n\nchore(deps): bump astral-sh/setup-uv from 7.6.0 to 8.0.0",
+      "timestamp": "2026-04-04T12:42:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/167b725853bdda301f9d7709e07eaa25ddbd59b1",
+      "is_merge": true
+    },
+    {
+      "sha": "210a75d4a71509335c45e2f3c78b2aceb5737811",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 7.6.0 to 8.0.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.6.0 to 8.0.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/37802adc94f370d6bfd71619e3f0bf239e1f3b78...cec208311dfd045dd5311c1add060b2062131d57)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-04T10:03:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/210a75d4a71509335c45e2f3c78b2aceb5737811",
+      "is_merge": false
+    },
+    {
       "sha": "797f4a0147a83fc46ae4ecbb95513458f0c0b658",
       "author": "JaredHatfield",
       "message": "Merge pull request #68 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-6.0.0\n\nchore(deps): bump codecov/codecov-action from 5.5.3 to 6.0.0",
