@@ -6,6 +6,30 @@
   "latest_release_time": "2026-04-06T01:40:57Z",
   "unreleased_commits": [
     {
+      "sha": "23a6b14d5eda4ee96862dd004c5235e3f7f311ed",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #18 from UnitVectorY-Labs/copilot/add-report-command-for-diffs\n\nAdd report command for markdown change reports",
+      "timestamp": "2026-04-08T00:49:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/gitrepoforge/commit/23a6b14d5eda4ee96862dd004c5235e3f7f311ed",
+      "is_merge": true
+    },
+    {
+      "sha": "4cc5db4bbe162be2465f095dc60ff5ea0edb182a",
+      "author": "Copilot",
+      "message": "Add report command with markdown output, config support, tests, and docs\n\nAgent-Logs-Url: https://github.com/UnitVectorY-Labs/gitrepoforge/sessions/35e6078d-5d5a-4964-a29b-1424fc018c02\n\nCo-authored-by: JaredHatfield \u003c208119+JaredHatfield@users.noreply.github.com\u003e",
+      "timestamp": "2026-04-07T11:08:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/gitrepoforge/commit/4cc5db4bbe162be2465f095dc60ff5ea0edb182a",
+      "is_merge": false
+    },
+    {
+      "sha": "29e232386c4eafb99d8a849608ffd70b7fcf0b60",
+      "author": "Copilot",
+      "message": "Add ReportConfig section to root config\n\nAdd ReportConfig struct with CollapseDiffs field to control report\ncommand behavior. Uses raw parsing with pointer-based defaulting\n(defaults to true) consistent with the existing GitConfig pattern.\n\nCo-authored-by: Copilot \u003c223556219+Copilot@users.noreply.github.com\u003e\n\nCo-authored-by: JaredHatfield \u003c208119+JaredHatfield@users.noreply.github.com\u003e",
+      "timestamp": "2026-04-07T11:04:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/gitrepoforge/commit/29e232386c4eafb99d8a849608ffd70b7fcf0b60",
+      "is_merge": false
+    },
+    {
       "sha": "434aacfbe8826151028c4b5196a38ad3cfb37e5c",
       "author": "JaredHatfield",
       "message": "fix: update README status badge to reflect active status",
