@@ -6,6 +6,22 @@
   "latest_release_time": "2026-03-19T22:46:29Z",
   "unreleased_commits": [
     {
+      "sha": "8587fde39b1be7025bef73f63602415b7cd9b2c7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #157 from UnitVectorY-Labs/repver/go-v1.26.2\n\nUpdate Go version to 1.26.2",
+      "timestamp": "2026-04-08T23:06:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/8587fde39b1be7025bef73f63602415b7cd9b2c7",
+      "is_merge": true
+    },
+    {
+      "sha": "4aac078d3282258bb0e8ca5aa563cde39e7216e9",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.26.2",
+      "timestamp": "2026-04-08T22:57:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/4aac078d3282258bb0e8ca5aa563cde39e7216e9",
+      "is_merge": false
+    },
+    {
       "sha": "056f1b9021d6329e1c38df8ed0dcd1639d2418ea",
       "author": "JaredHatfield",
       "message": "Merge pull request #153 from UnitVectorY-Labs/dependabot/go_modules/cloud.google.com/go/kms-1.27.0\n\nchore(deps): bump cloud.google.com/go/kms from 1.26.0 to 1.27.0",

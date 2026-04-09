@@ -6,6 +6,38 @@
   "latest_release_time": "2026-02-09T03:03:53Z",
   "unreleased_commits": [
     {
+      "sha": "4ac5ebc1088043af20729b3c6cf123b7a2c66248",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #68 from UnitVectorY-Labs/repver/go-v1.26.2\n\nUpdate Go version to v1.26.2",
+      "timestamp": "2026-04-08T23:06:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/4ac5ebc1088043af20729b3c6cf123b7a2c66248",
+      "is_merge": true
+    },
+    {
+      "sha": "b5254a8b868034fb0de7d03f139cfb572e0f6ab3",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.2",
+      "timestamp": "2026-04-08T22:56:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/b5254a8b868034fb0de7d03f139cfb572e0f6ab3",
+      "is_merge": false
+    },
+    {
+      "sha": "81dc026635704cdb386477f7d568acea9fbee8d0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #67 from UnitVectorY-Labs/chore/gitrepoforge-compliance\n\nApply gitrepoforge compliance updates",
+      "timestamp": "2026-04-08T02:25:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/81dc026635704cdb386477f7d568acea9fbee8d0",
+      "is_merge": true
+    },
+    {
+      "sha": "881653629936423259a5e8ba5ba7cacecde2d525",
+      "author": "JaredHatfield",
+      "message": "chore: apply gitrepoforge compliance updates",
+      "timestamp": "2026-04-08T02:13:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/881653629936423259a5e8ba5ba7cacecde2d525",
+      "is_merge": false
+    },
+    {
       "sha": "b892dcfc676a7ca04d493ce11a76d77a9b0f944e",
       "author": "JaredHatfield",
       "message": "Merge pull request #65 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.35.1\n\nBump github/codeql-action from 4.34.1 to 4.35.1",

@@ -6,6 +6,38 @@
   "latest_release_time": "2026-03-15T00:43:51Z",
   "unreleased_commits": [
     {
+      "sha": "edd7670f75b2ee4c7b7de7e3c30fd4c1d35f483b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #40 from UnitVectorY-Labs/repver/go-v1.26.2\n\nUpdate Go version to v1.26.2",
+      "timestamp": "2026-04-08T23:08:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/edd7670f75b2ee4c7b7de7e3c30fd4c1d35f483b",
+      "is_merge": true
+    },
+    {
+      "sha": "f64910d5f18374a71012ed8e73181c27e4992d95",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.2",
+      "timestamp": "2026-04-08T22:56:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/f64910d5f18374a71012ed8e73181c27e4992d95",
+      "is_merge": false
+    },
+    {
+      "sha": "4c5104a16ac982c659931a239d34c5c7d890c30e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #39 from UnitVectorY-Labs/chore/gitrepoforge-compliance\n\nApply gitrepoforge compliance updates",
+      "timestamp": "2026-04-08T02:28:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/4c5104a16ac982c659931a239d34c5c7d890c30e",
+      "is_merge": true
+    },
+    {
+      "sha": "47373387f508e4473b5442fc5cb53857211eaa59",
+      "author": "JaredHatfield",
+      "message": "chore: apply gitrepoforge compliance updates",
+      "timestamp": "2026-04-08T02:13:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/47373387f508e4473b5442fc5cb53857211eaa59",
+      "is_merge": false
+    },
+    {
       "sha": "52b4fa24e42bb2673332010ffc44259dcaf580c8",
       "author": "JaredHatfield",
       "message": "Merge pull request #36 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.35.1\n\nchore(deps): bump github/codeql-action from 4.34.1 to 4.35.1",

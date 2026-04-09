@@ -6,6 +6,38 @@
   "latest_release_time": "2026-04-06T01:40:57Z",
   "unreleased_commits": [
     {
+      "sha": "cd80bd4f55ac3abb9e20ebc816389bab0711adc6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #20 from UnitVectorY-Labs/repver/go-v1.26.2\n\nUpdate Go version to v1.26.2",
+      "timestamp": "2026-04-08T23:09:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/gitrepoforge/commit/cd80bd4f55ac3abb9e20ebc816389bab0711adc6",
+      "is_merge": true
+    },
+    {
+      "sha": "c94730effa4a440612f37ab48d0f061d7318218d",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.2",
+      "timestamp": "2026-04-08T22:56:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/gitrepoforge/commit/c94730effa4a440612f37ab48d0f061d7318218d",
+      "is_merge": false
+    },
+    {
+      "sha": "bc906fdde3c4befe1b7728d539e0e535cafa6a7d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #19 from UnitVectorY-Labs/chore/gitrepoforge-compliance\n\nApply gitrepoforge compliance updates",
+      "timestamp": "2026-04-08T02:28:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/gitrepoforge/commit/bc906fdde3c4befe1b7728d539e0e535cafa6a7d",
+      "is_merge": true
+    },
+    {
+      "sha": "92a415d2af4dae507dec816edba5524c3daa9ada",
+      "author": "JaredHatfield",
+      "message": "chore: apply gitrepoforge compliance updates",
+      "timestamp": "2026-04-08T02:13:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/gitrepoforge/commit/92a415d2af4dae507dec816edba5524c3daa9ada",
+      "is_merge": false
+    },
+    {
       "sha": "23a6b14d5eda4ee96862dd004c5235e3f7f311ed",
       "author": "JaredHatfield",
       "message": "Merge pull request #18 from UnitVectorY-Labs/copilot/add-report-command-for-diffs\n\nAdd report command for markdown change reports",

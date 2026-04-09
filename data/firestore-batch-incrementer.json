@@ -6,6 +6,38 @@
   "latest_release_time": "2025-11-22T16:11:27Z",
   "unreleased_commits": [
     {
+      "sha": "b8f54ac56b70ed25ad07fbd4c714a864bf31b68c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #123 from UnitVectorY-Labs/repver/go-v1.26.2\n\nUpdate Go version to v1.26.2",
+      "timestamp": "2026-04-08T23:07:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/b8f54ac56b70ed25ad07fbd4c714a864bf31b68c",
+      "is_merge": true
+    },
+    {
+      "sha": "d6e115dcf5496319cc7c5b2ea7cdd96a88feeb47",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.2",
+      "timestamp": "2026-04-08T22:56:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/d6e115dcf5496319cc7c5b2ea7cdd96a88feeb47",
+      "is_merge": false
+    },
+    {
+      "sha": "1fd8c1b5738cbc0266bcf6cc69d0e55d78cad314",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #122 from UnitVectorY-Labs/chore/gitrepoforge-compliance\n\nApply gitrepoforge compliance updates",
+      "timestamp": "2026-04-08T02:26:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/1fd8c1b5738cbc0266bcf6cc69d0e55d78cad314",
+      "is_merge": true
+    },
+    {
+      "sha": "03aa05b4383e0ce6b34ecfb4113a306a0c843425",
+      "author": "JaredHatfield",
+      "message": "chore: apply gitrepoforge compliance updates",
+      "timestamp": "2026-04-08T02:13:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/03aa05b4383e0ce6b34ecfb4113a306a0c843425",
+      "is_merge": false
+    },
+    {
       "sha": "1622c663c7cb018442af441e6070dd81514d39f9",
       "author": "JaredHatfield",
       "message": "Merge pull request #118 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/grpc-1.80.0\n\nchore(deps): bump google.golang.org/grpc from 1.79.3 to 1.80.0",

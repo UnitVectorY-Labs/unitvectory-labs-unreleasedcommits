@@ -6,6 +6,22 @@
   "latest_release_time": "2025-11-22T16:00:36Z",
   "unreleased_commits": [
     {
+      "sha": "5eabae8677cf44425591432afe89128758d52db0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #82 from UnitVectorY-Labs/repver/go-v1.26.2\n\nUpdate Go version to 1.26.2",
+      "timestamp": "2026-04-08T23:06:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/5eabae8677cf44425591432afe89128758d52db0",
+      "is_merge": true
+    },
+    {
+      "sha": "3af175f3e4602f26604e7da467ec5653e3936d7c",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.26.2",
+      "timestamp": "2026-04-08T22:57:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/3af175f3e4602f26604e7da467ec5653e3936d7c",
+      "is_merge": false
+    },
+    {
       "sha": "1a4e78de6a80e289f623f44727eebc6295f3a18c",
       "author": "JaredHatfield",
       "message": "Merge pull request #81 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.1.0\n\nchore(deps): bump docker/login-action from 4.0.0 to 4.1.0",

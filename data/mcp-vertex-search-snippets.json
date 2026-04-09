@@ -6,6 +6,38 @@
   "latest_release_time": "2026-02-09T03:05:26Z",
   "unreleased_commits": [
     {
+      "sha": "64714c058d1973f9a427dd82ea4158cadc96d7e2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #63 from UnitVectorY-Labs/repver/go-v1.26.2\n\nUpdate Go version to v1.26.2",
+      "timestamp": "2026-04-08T23:08:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/64714c058d1973f9a427dd82ea4158cadc96d7e2",
+      "is_merge": true
+    },
+    {
+      "sha": "61dab543a88690e425e12c17a65678ad521cc3a2",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.2",
+      "timestamp": "2026-04-08T22:58:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/61dab543a88690e425e12c17a65678ad521cc3a2",
+      "is_merge": false
+    },
+    {
+      "sha": "29c0756bb6511bda7d1ca8cc9d831b7eb57fd4d1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #62 from UnitVectorY-Labs/chore/gitrepoforge-compliance\n\nApply gitrepoforge compliance updates",
+      "timestamp": "2026-04-08T02:34:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/29c0756bb6511bda7d1ca8cc9d831b7eb57fd4d1",
+      "is_merge": true
+    },
+    {
+      "sha": "6490476089620a013a7264862fc15b3dfabf2cdd",
+      "author": "JaredHatfield",
+      "message": "chore: apply gitrepoforge compliance updates",
+      "timestamp": "2026-04-08T02:13:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/6490476089620a013a7264862fc15b3dfabf2cdd",
+      "is_merge": false
+    },
+    {
       "sha": "ef77263d4b15fc04f647b9cf91ad4b841b81fbe3",
       "author": "JaredHatfield",
       "message": "Merge pull request #60 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.4.0\n\nchore(deps): bump actions/setup-go from 6.3.0 to 6.4.0",

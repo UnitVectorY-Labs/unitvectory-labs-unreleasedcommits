@@ -6,6 +6,22 @@
   "latest_release_time": "2026-02-28T22:33:35Z",
   "unreleased_commits": [
     {
+      "sha": "073e57c8ddf8b1016fa78ace40f27064896f3255",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #45 from UnitVectorY-Labs/repver/go-v1.26.2\n\nUpdate Go version to 1.26.2",
+      "timestamp": "2026-04-08T23:07:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/073e57c8ddf8b1016fa78ace40f27064896f3255",
+      "is_merge": true
+    },
+    {
+      "sha": "1a6ef68849fa556923599878f3cebd20315f8b76",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.26.2",
+      "timestamp": "2026-04-08T22:57:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/1a6ef68849fa556923599878f3cebd20315f8b76",
+      "is_merge": false
+    },
+    {
       "sha": "b0a4a6992b61260a656a2f6dbcc6ed89bcd11edf",
       "author": "JaredHatfield",
       "message": "Merge pull request #44 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.4.0\n\nBump actions/setup-go from 6.3.0 to 6.4.0",

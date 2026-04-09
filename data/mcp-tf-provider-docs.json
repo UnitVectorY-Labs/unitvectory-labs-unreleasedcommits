@@ -6,6 +6,38 @@
   "latest_release_time": "2026-02-09T03:06:25Z",
   "unreleased_commits": [
     {
+      "sha": "f9803aaf07f7aeadb1c89d9b49446c2e5231b8cd",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #65 from UnitVectorY-Labs/repver/go-v1.26.2\n\nUpdate Go version to v1.26.2",
+      "timestamp": "2026-04-08T23:07:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/f9803aaf07f7aeadb1c89d9b49446c2e5231b8cd",
+      "is_merge": true
+    },
+    {
+      "sha": "9102531342a71c173f4b3f8eedd2d62b1463be6b",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.2",
+      "timestamp": "2026-04-08T22:58:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/9102531342a71c173f4b3f8eedd2d62b1463be6b",
+      "is_merge": false
+    },
+    {
+      "sha": "024961b97d9713440d3129e9e77a5c8b4353923a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #64 from UnitVectorY-Labs/chore/gitrepoforge-compliance\n\nApply gitrepoforge compliance updates",
+      "timestamp": "2026-04-08T02:34:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/024961b97d9713440d3129e9e77a5c8b4353923a",
+      "is_merge": true
+    },
+    {
+      "sha": "d5174bc9381cfbfb196c5ab4efc003a6823c5cb7",
+      "author": "JaredHatfield",
+      "message": "chore: apply gitrepoforge compliance updates",
+      "timestamp": "2026-04-08T02:13:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/d5174bc9381cfbfb196c5ab4efc003a6823c5cb7",
+      "is_merge": false
+    },
+    {
       "sha": "d5ef3d220be994ba6e847f3611e14ecbce53c65a",
       "author": "JaredHatfield",
       "message": "Merge pull request #61 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.35.1\n\nchore(deps): bump github/codeql-action from 4.34.1 to 4.35.1",

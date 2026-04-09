@@ -6,6 +6,38 @@
   "latest_release_time": "2026-02-09T03:03:26Z",
   "unreleased_commits": [
     {
+      "sha": "b003f375091396808e260112fc10f480d60f1c1f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #72 from UnitVectorY-Labs/repver/go-v1.26.2\n\nUpdate Go version to v1.26.2",
+      "timestamp": "2026-04-08T23:07:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/b003f375091396808e260112fc10f480d60f1c1f",
+      "is_merge": true
+    },
+    {
+      "sha": "dd811bd28523660d6df0d1993613a37ccaa92a48",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.2",
+      "timestamp": "2026-04-08T22:57:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/dd811bd28523660d6df0d1993613a37ccaa92a48",
+      "is_merge": false
+    },
+    {
+      "sha": "7cccde0a2fc27103637b8c0c8925c901bb49a410",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #71 from UnitVectorY-Labs/chore/gitrepoforge-compliance\n\nApply gitrepoforge compliance updates",
+      "timestamp": "2026-04-08T02:31:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/7cccde0a2fc27103637b8c0c8925c901bb49a410",
+      "is_merge": true
+    },
+    {
+      "sha": "fb65009ca20356057c224bd93a13a285d942c3c6",
+      "author": "JaredHatfield",
+      "message": "chore: apply gitrepoforge compliance updates",
+      "timestamp": "2026-04-08T02:13:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/fb65009ca20356057c224bd93a13a285d942c3c6",
+      "is_merge": false
+    },
+    {
       "sha": "eae7d8b5ddb48f1509510a09c179b464d0007efb",
       "author": "JaredHatfield",
       "message": "Merge pull request #67 from UnitVectorY-Labs/dependabot/go_modules/github.com/mark3labs/mcp-go-0.46.0\n\nchore(deps): bump github.com/mark3labs/mcp-go from 0.45.0 to 0.46.0",

@@ -6,6 +6,38 @@
   "latest_release_time": "2026-02-09T03:05:56Z",
   "unreleased_commits": [
     {
+      "sha": "bdef82b1b7167a8fdf6167255d1a238c56af2685",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #94 from UnitVectorY-Labs/repver/go-v1.26.2\n\nUpdate Go version to v1.26.2",
+      "timestamp": "2026-04-08T23:07:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/bdef82b1b7167a8fdf6167255d1a238c56af2685",
+      "is_merge": true
+    },
+    {
+      "sha": "0f401da90c5fda270508b8b657c2d811b4b51f0f",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.2",
+      "timestamp": "2026-04-08T22:58:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/0f401da90c5fda270508b8b657c2d811b4b51f0f",
+      "is_merge": false
+    },
+    {
+      "sha": "036f7d50bca1613ac148f814f07a3fe6b02b1bb8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #93 from UnitVectorY-Labs/chore/gitrepoforge-compliance\n\nApply gitrepoforge compliance updates",
+      "timestamp": "2026-04-08T02:23:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/036f7d50bca1613ac148f814f07a3fe6b02b1bb8",
+      "is_merge": true
+    },
+    {
+      "sha": "62a90d9ad15693b00cb2cb846bccf033e0122dae",
+      "author": "JaredHatfield",
+      "message": "chore: apply gitrepoforge compliance updates",
+      "timestamp": "2026-04-08T02:13:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/62a90d9ad15693b00cb2cb846bccf033e0122dae",
+      "is_merge": false
+    },
+    {
       "sha": "b87c6635c9ab9cc8f9df21c3df8e9148bf56f2ca",
       "author": "JaredHatfield",
       "message": "Merge pull request #90 from UnitVectorY-Labs/dependabot/go_modules/github.com/go-playground/validator/v10-10.30.2\n\nBump github.com/go-playground/validator/v10 from 10.30.1 to 10.30.2",

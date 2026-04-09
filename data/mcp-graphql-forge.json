@@ -6,6 +6,54 @@
   "latest_release_time": "2026-02-09T03:03:04Z",
   "unreleased_commits": [
     {
+      "sha": "601cb679591a4aedec3bb18f6577e24192b7bff0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #80 from UnitVectorY-Labs/dependabot/go_modules/github.com/mark3labs/mcp-go-0.46.0\n\nchore(deps): bump github.com/mark3labs/mcp-go from 0.45.0 to 0.46.0",
+      "timestamp": "2026-04-08T23:12:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/601cb679591a4aedec3bb18f6577e24192b7bff0",
+      "is_merge": true
+    },
+    {
+      "sha": "c3503e7e9407704c280bf4282c7ec82419c8a5fe",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github.com/mark3labs/mcp-go from 0.45.0 to 0.46.0\n\nBumps [github.com/mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) from 0.45.0 to 0.46.0.\n- [Release notes](https://github.com/mark3labs/mcp-go/releases)\n- [Commits](https://github.com/mark3labs/mcp-go/compare/v0.45.0...v0.46.0)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/mark3labs/mcp-go\n  dependency-version: 0.46.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-08T23:11:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/c3503e7e9407704c280bf4282c7ec82419c8a5fe",
+      "is_merge": false
+    },
+    {
+      "sha": "2b3c690b3f5fc64a63f5139b9b51601d574fd147",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #85 from UnitVectorY-Labs/repver/go-v1.26.2\n\nUpdate Go version to v1.26.2",
+      "timestamp": "2026-04-08T23:07:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/2b3c690b3f5fc64a63f5139b9b51601d574fd147",
+      "is_merge": true
+    },
+    {
+      "sha": "e2b5a7b45e0792481a72b11d5310e400fb025f5d",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.2",
+      "timestamp": "2026-04-08T22:57:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/e2b5a7b45e0792481a72b11d5310e400fb025f5d",
+      "is_merge": false
+    },
+    {
+      "sha": "c3265e5370dbe4771124122eac9f801aac0339a6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #84 from UnitVectorY-Labs/chore/gitrepoforge-compliance\n\nApply gitrepoforge compliance updates",
+      "timestamp": "2026-04-08T02:32:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/c3265e5370dbe4771124122eac9f801aac0339a6",
+      "is_merge": true
+    },
+    {
+      "sha": "335c894c5599e6391d09d846b5f4304931b9c64c",
+      "author": "JaredHatfield",
+      "message": "chore: apply gitrepoforge compliance updates",
+      "timestamp": "2026-04-08T02:13:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/335c894c5599e6391d09d846b5f4304931b9c64c",
+      "is_merge": false
+    },
+    {
       "sha": "a8984969c183ec47d344dca7b89848f223c2dece",
       "author": "JaredHatfield",
       "message": "Merge pull request #81 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.4.0\n\nchore(deps): bump actions/setup-go from 6.3.0 to 6.4.0",
