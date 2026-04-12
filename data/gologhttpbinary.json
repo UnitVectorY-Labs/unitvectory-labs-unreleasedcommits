@@ -6,6 +6,22 @@
   "latest_release_time": "2025-10-14T01:35:46Z",
   "unreleased_commits": [
     {
+      "sha": "9dd53d6952f6e443090068a81c6a1d32bca1a816",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #69 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.1.0\n\nchore(deps): bump docker/login-action from 4.0.0 to 4.1.0",
+      "timestamp": "2026-04-11T12:01:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpbinary/commit/9dd53d6952f6e443090068a81c6a1d32bca1a816",
+      "is_merge": true
+    },
+    {
+      "sha": "a566949b8ed605edbe2c83a00506b944b76ab762",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/login-action from 4.0.0 to 4.1.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.0.0 to 4.1.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/b45d80f862d83dbcd57f89517bcf500b2ab88fb2...4907a6ddec9925e35a0a9e82d7399ccc52663121)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-11T10:03:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpbinary/commit/a566949b8ed605edbe2c83a00506b944b76ab762",
+      "is_merge": false
+    },
+    {
       "sha": "372fbefc38cbf53c82a61230ccb4482b609b624f",
       "author": "JaredHatfield",
       "message": "Merge pull request #68 from UnitVectorY-Labs/repver/go-v1.26.2\n\nUpdate Go version to v1.26.2",

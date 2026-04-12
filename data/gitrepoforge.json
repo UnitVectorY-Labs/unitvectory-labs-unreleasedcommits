@@ -6,6 +6,22 @@
   "latest_release_time": "2026-04-06T01:40:57Z",
   "unreleased_commits": [
     {
+      "sha": "778191cf8f7d605a4ecb88e84d231b61b738e4c7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #22 from UnitVectorY-Labs/copilot/clean-up-documentation-organization\n\nReorganize documentation structure",
+      "timestamp": "2026-04-11T11:46:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/gitrepoforge/commit/778191cf8f7d605a4ecb88e84d231b61b738e4c7",
+      "is_merge": true
+    },
+    {
+      "sha": "0d6ee8cd200fcbc9035d32dfc561cca520cae339",
+      "author": "Copilot",
+      "message": "Reorganize documentation: rename command files to uppercase, update nav titles, create Configuration and Reference parent pages, update cross-references, add CSS for expanded navigation\n\nAgent-Logs-Url: https://github.com/UnitVectorY-Labs/gitrepoforge/sessions/d722e774-76e8-4193-8ab0-f642ed999dcf\n\nCo-authored-by: JaredHatfield \u003c208119+JaredHatfield@users.noreply.github.com\u003e",
+      "timestamp": "2026-04-11T11:38:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/gitrepoforge/commit/0d6ee8cd200fcbc9035d32dfc561cca520cae339",
+      "is_merge": false
+    },
+    {
       "sha": "602c10585feb9b9f9fd617dd8ed33e1a595b92cd",
       "author": "JaredHatfield",
       "message": "Merge pull request #21 from UnitVectorY-Labs/copilot/add-schema-command-to-validate-apply-report\n\nAdd schema command for JSON Schema generation from config definitions",

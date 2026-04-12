@@ -6,6 +6,22 @@
   "latest_release_time": "2026-03-29T17:23:19Z",
   "unreleased_commits": [
     {
+      "sha": "5449e49697763b97af8561863cf78e23df69018d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #82 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-7.1.0\n\nBump docker/build-push-action from 7.0.0 to 7.1.0",
+      "timestamp": "2026-04-11T10:47:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/5449e49697763b97af8561863cf78e23df69018d",
+      "is_merge": true
+    },
+    {
+      "sha": "2e7273298c8af7bcfad90ebf5b9805483c207392",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/build-push-action from 7.0.0 to 7.1.0\n\nBumps [docker/build-push-action](https://github.com/docker/build-push-action) from 7.0.0 to 7.1.0.\n- [Release notes](https://github.com/docker/build-push-action/releases)\n- [Commits](https://github.com/docker/build-push-action/compare/d08e5c354a6adb9ed34480a06d141179aa583294...bcafcacb16a39f128d818304e6c9c0c18556b85f)\n\n---\nupdated-dependencies:\n- dependency-name: docker/build-push-action\n  dependency-version: 7.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-11T10:03:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/2e7273298c8af7bcfad90ebf5b9805483c207392",
+      "is_merge": false
+    },
+    {
       "sha": "82515c6e910bea3ac8a4221278252b95bb76bea4",
       "author": "JaredHatfield",
       "message": "Merge pull request #81 from UnitVectorY-Labs/repver/go-v1.26.2\n\nUpdate Go version to 1.26.2",
