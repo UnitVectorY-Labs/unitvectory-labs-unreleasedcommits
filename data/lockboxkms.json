@@ -6,12 +6,28 @@
   "latest_release_time": "2026-03-19T22:46:29Z",
   "unreleased_commits": [
     {
+      "sha": "547d38012265e642afaea350207c9eee3dffe01e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #159 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.275.0\n\nchore(deps): bump google.golang.org/api from 0.274.0 to 0.275.0",
+      "timestamp": "2026-04-16T02:25:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/547d38012265e642afaea350207c9eee3dffe01e",
+      "is_merge": true
+    },
+    {
       "sha": "701eb53731687d137f84d6bbfb7022feb129a06d",
       "author": "JaredHatfield",
       "message": "Merge pull request #158 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-7.1.0\n\nchore(deps): bump docker/build-push-action from 7.0.0 to 7.1.0",
       "timestamp": "2026-04-11T10:47:27Z",
       "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/701eb53731687d137f84d6bbfb7022feb129a06d",
       "is_merge": true
+    },
+    {
+      "sha": "ccedb9f1e6009e6cedb43abacba88858630084d4",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/api from 0.274.0 to 0.275.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.274.0 to 0.275.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.274.0...v0.275.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.275.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-11T10:03:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/ccedb9f1e6009e6cedb43abacba88858630084d4",
+      "is_merge": false
     },
     {
       "sha": "a1bfcb7d88698c13d8a6ef2d39d90b4172885f70",
