@@ -6,6 +6,54 @@
   "latest_release_time": "2026-03-02T11:56:38Z",
   "unreleased_commits": [
     {
+      "sha": "b27aa90a3daf1371f98837b95cb120850d4932df",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #50 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.5\n\nchore(deps): bump actions/cache from 5.0.4 to 5.0.5",
+      "timestamp": "2026-04-18T14:02:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/b27aa90a3daf1371f98837b95cb120850d4932df",
+      "is_merge": true
+    },
+    {
+      "sha": "39d921a580059ab252b4f5cbaae7b6bf7715fbed",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #51 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.35.2\n\nchore(deps): bump github/codeql-action from 4.35.1 to 4.35.2",
+      "timestamp": "2026-04-18T13:54:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/39d921a580059ab252b4f5cbaae7b6bf7715fbed",
+      "is_merge": true
+    },
+    {
+      "sha": "26c720bf37db26673a96754ffd7fdacf551463b1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #49 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.1.0\n\nchore(deps): bump astral-sh/setup-uv from 8.0.0 to 8.1.0",
+      "timestamp": "2026-04-18T13:45:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/26c720bf37db26673a96754ffd7fdacf551463b1",
+      "is_merge": true
+    },
+    {
+      "sha": "0916fa564d86b687dda4a8da9f5575a5d2c77656",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action from 4.35.1 to 4.35.2\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.35.1 to 4.35.2.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/c10b8064de6f491fea524254123dbe5e09572f13...95e58e9a2cdfd71adc6e0353d5c52f41a045d225)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.35.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-18T10:06:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/0916fa564d86b687dda4a8da9f5575a5d2c77656",
+      "is_merge": false
+    },
+    {
+      "sha": "3a6b5fb0734fd92d77938783fd46decb17d04e5b",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/cache from 5.0.4 to 5.0.5\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.4 to 5.0.5.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/668228422ae6a00e4ad889ee87cd7109ec5666a7...27d5ce7f107fe9357f9df03efb73ab90386fccae)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 5.0.5\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-18T10:06:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/3a6b5fb0734fd92d77938783fd46decb17d04e5b",
+      "is_merge": false
+    },
+    {
+      "sha": "d6a6d3bf1afa05b6570ce41f437f0f7740c93097",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 8.0.0 to 8.1.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.0.0 to 8.1.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/cec208311dfd045dd5311c1add060b2062131d57...08807647e7069bb48b6ef5acd8ec9567f424441b)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-18T10:06:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/d6a6d3bf1afa05b6570ce41f437f0f7740c93097",
+      "is_merge": false
+    },
+    {
       "sha": "2834203f576ccf05a6bfb6d02d03ba1b25a075d6",
       "author": "JaredHatfield",
       "message": "Merge pull request #48 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-7.1.0\n\nchore(deps): bump docker/build-push-action from 7.0.0 to 7.1.0",

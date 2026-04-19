@@ -6,6 +6,38 @@
   "latest_release_time": "2025-12-06T19:53:32Z",
   "unreleased_commits": [
     {
+      "sha": "400af2807b83c9978aa0153cda0da61351ae56aa",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #53 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.5\n\nchore(deps): bump actions/cache from 5.0.4 to 5.0.5",
+      "timestamp": "2026-04-18T14:02:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/400af2807b83c9978aa0153cda0da61351ae56aa",
+      "is_merge": true
+    },
+    {
+      "sha": "93521888ecfdb05f8a62db011b425cada15f19ed",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #52 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.1.0\n\nchore(deps): bump astral-sh/setup-uv from 8.0.0 to 8.1.0",
+      "timestamp": "2026-04-18T13:44:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/93521888ecfdb05f8a62db011b425cada15f19ed",
+      "is_merge": true
+    },
+    {
+      "sha": "ed646afb7b5650584c75a0bc2ba7e9dbb727ded3",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/cache from 5.0.4 to 5.0.5\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.4 to 5.0.5.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/668228422ae6a00e4ad889ee87cd7109ec5666a7...27d5ce7f107fe9357f9df03efb73ab90386fccae)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 5.0.5\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-18T10:04:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/ed646afb7b5650584c75a0bc2ba7e9dbb727ded3",
+      "is_merge": false
+    },
+    {
+      "sha": "849699e8da01823c7d6846587b854df540782fb9",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 8.0.0 to 8.1.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.0.0 to 8.1.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/cec208311dfd045dd5311c1add060b2062131d57...08807647e7069bb48b6ef5acd8ec9567f424441b)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-18T10:04:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/849699e8da01823c7d6846587b854df540782fb9",
+      "is_merge": false
+    },
+    {
       "sha": "5ba3c3c90d9c2459533f510fca2a7d0a9b616bea",
       "author": "JaredHatfield",
       "message": "Merge pull request #51 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-7.1.0\n\nchore(deps): bump docker/build-push-action from 7.0.0 to 7.1.0",

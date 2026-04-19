@@ -6,6 +6,38 @@
   "latest_release_time": "2026-04-01T23:39:37Z",
   "unreleased_commits": [
     {
+      "sha": "36529bfc8714d44eda24090c8b662c149e97ae76",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #11 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.5\n\nBump actions/cache from 5.0.4 to 5.0.5",
+      "timestamp": "2026-04-18T14:03:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/36529bfc8714d44eda24090c8b662c149e97ae76",
+      "is_merge": true
+    },
+    {
+      "sha": "c29d132960544dd7d3d9fdca4f100606f17f25c2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #12 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.35.2\n\nBump github/codeql-action from 4.35.1 to 4.35.2",
+      "timestamp": "2026-04-18T13:55:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/c29d132960544dd7d3d9fdca4f100606f17f25c2",
+      "is_merge": true
+    },
+    {
+      "sha": "ef5d9adde7bc0cf045b5d83637b495a0e2b26ef4",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action from 4.35.1 to 4.35.2\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.35.1 to 4.35.2.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/c10b8064de6f491fea524254123dbe5e09572f13...95e58e9a2cdfd71adc6e0353d5c52f41a045d225)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.35.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-18T10:06:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/ef5d9adde7bc0cf045b5d83637b495a0e2b26ef4",
+      "is_merge": false
+    },
+    {
+      "sha": "596061bd1f15e3ea8fa9cd746551f290bcc1010b",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/cache from 5.0.4 to 5.0.5\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.4 to 5.0.5.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/668228422ae6a00e4ad889ee87cd7109ec5666a7...27d5ce7f107fe9357f9df03efb73ab90386fccae)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 5.0.5\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-18T10:04:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/596061bd1f15e3ea8fa9cd746551f290bcc1010b",
+      "is_merge": false
+    },
+    {
       "sha": "d88e3615a15deebf3ae37aeb7f014c446f64225c",
       "author": "JaredHatfield",
       "message": "Merge pull request #10 from UnitVectorY-Labs/repver/go-v1.26.2\n\nUpdate Go version to v1.26.2",

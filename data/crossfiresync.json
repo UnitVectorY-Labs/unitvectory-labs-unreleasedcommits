@@ -6,6 +6,38 @@
   "latest_release_time": "2025-10-26T12:30:45Z",
   "unreleased_commits": [
     {
+      "sha": "7919498234ab73282fad2e1b276fae7ba88679e6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #184 from UnitVectorY-Labs/dependabot/maven/com.google.cloud-libraries-bom-26.80.0\n\nBump com.google.cloud:libraries-bom from 26.79.0 to 26.80.0",
+      "timestamp": "2026-04-18T14:21:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/7919498234ab73282fad2e1b276fae7ba88679e6",
+      "is_merge": true
+    },
+    {
+      "sha": "34878c43cd5149ab87ab034e3273cb5026d67451",
+      "author": "dependabot[bot]",
+      "message": "Bump com.google.cloud:libraries-bom from 26.79.0 to 26.80.0\n\nBumps [com.google.cloud:libraries-bom](https://github.com/googleapis/java-cloud-bom) from 26.79.0 to 26.80.0.\n- [Release notes](https://github.com/googleapis/java-cloud-bom/releases)\n- [Commits](https://github.com/googleapis/java-cloud-bom/compare/v26.79.0...v26.80.0)\n\n---\nupdated-dependencies:\n- dependency-name: com.google.cloud:libraries-bom\n  dependency-version: 26.80.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-18T14:18:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/34878c43cd5149ab87ab034e3273cb5026d67451",
+      "is_merge": false
+    },
+    {
+      "sha": "a8d45ff4783aff81a65b50cbc14750fe11ae8fcf",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #183 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.1.0\n\nBump astral-sh/setup-uv from 8.0.0 to 8.1.0",
+      "timestamp": "2026-04-18T13:42:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/a8d45ff4783aff81a65b50cbc14750fe11ae8fcf",
+      "is_merge": true
+    },
+    {
+      "sha": "55ab55287c444dbec42801b0cd863108d3ec4c92",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 8.0.0 to 8.1.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.0.0 to 8.1.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/cec208311dfd045dd5311c1add060b2062131d57...08807647e7069bb48b6ef5acd8ec9567f424441b)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-18T10:02:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/55ab55287c444dbec42801b0cd863108d3ec4c92",
+      "is_merge": false
+    },
+    {
       "sha": "3d4686b1856fa12afd76ad9a81475f679f8b87f0",
       "author": "JaredHatfield",
       "message": "Merge pull request #182 from UnitVectorY-Labs/dependabot/maven/com.google.cloud.functions-functions-framework-api-2.0.1\n\nBump com.google.cloud.functions:functions-framework-api from 2.0.0 to 2.0.1",

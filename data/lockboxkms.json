@@ -6,6 +6,70 @@
   "latest_release_time": "2026-03-19T22:46:29Z",
   "unreleased_commits": [
     {
+      "sha": "faef45ca68c5a1ee05571b39129e556bfadc9492",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #163 from UnitVectorY-Labs/dependabot/go_modules/cloud.google.com/go/kms-1.29.0\n\nchore(deps): bump cloud.google.com/go/kms from 1.27.0 to 1.29.0",
+      "timestamp": "2026-04-18T14:17:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/faef45ca68c5a1ee05571b39129e556bfadc9492",
+      "is_merge": true
+    },
+    {
+      "sha": "08395c261fa3711d850a2551d68e3d4d2c3e99fe",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump cloud.google.com/go/kms from 1.27.0 to 1.29.0\n\nBumps [cloud.google.com/go/kms](https://github.com/googleapis/google-cloud-go) from 1.27.0 to 1.29.0.\n- [Release notes](https://github.com/googleapis/google-cloud-go/releases)\n- [Changelog](https://github.com/googleapis/google-cloud-go/blob/main/documentai/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-cloud-go/compare/kms/v1.27.0...dlp/v1.29.0)\n\n---\nupdated-dependencies:\n- dependency-name: cloud.google.com/go/kms\n  dependency-version: 1.29.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-18T14:10:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/08395c261fa3711d850a2551d68e3d4d2c3e99fe",
+      "is_merge": false
+    },
+    {
+      "sha": "74ddb4d63d4be2e1a2ff91ce639aff95123d6870",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #164 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.276.0\n\nchore(deps): bump google.golang.org/api from 0.275.0 to 0.276.0",
+      "timestamp": "2026-04-18T14:09:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/74ddb4d63d4be2e1a2ff91ce639aff95123d6870",
+      "is_merge": true
+    },
+    {
+      "sha": "e2a0c069d7dfa64ba2199215d2568b9d5fd6fa85",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #162 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.5\n\nchore(deps): bump actions/cache from 5.0.4 to 5.0.5",
+      "timestamp": "2026-04-18T14:01:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/e2a0c069d7dfa64ba2199215d2568b9d5fd6fa85",
+      "is_merge": true
+    },
+    {
+      "sha": "65c551f9c59f60f556e5ffb183ca51d7cb9a0bcc",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/cache from 5.0.4 to 5.0.5\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.4 to 5.0.5.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/668228422ae6a00e4ad889ee87cd7109ec5666a7...27d5ce7f107fe9357f9df03efb73ab90386fccae)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 5.0.5\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-18T13:44:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/65c551f9c59f60f556e5ffb183ca51d7cb9a0bcc",
+      "is_merge": false
+    },
+    {
+      "sha": "6ceaa29f1f3ca70ba3481b94f7c5a480e77d5684",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #161 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.1.0\n\nchore(deps): bump astral-sh/setup-uv from 8.0.0 to 8.1.0",
+      "timestamp": "2026-04-18T13:43:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/6ceaa29f1f3ca70ba3481b94f7c5a480e77d5684",
+      "is_merge": true
+    },
+    {
+      "sha": "d39a8903727a875799e6cfb484d342226442124b",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/api from 0.275.0 to 0.276.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.275.0 to 0.276.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.275.0...v0.276.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.276.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-18T10:06:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/d39a8903727a875799e6cfb484d342226442124b",
+      "is_merge": false
+    },
+    {
+      "sha": "a05fc1d69917a3ee1b56b91f62a0624199c83670",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 8.0.0 to 8.1.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.0.0 to 8.1.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/cec208311dfd045dd5311c1add060b2062131d57...08807647e7069bb48b6ef5acd8ec9567f424441b)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-18T10:02:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/a05fc1d69917a3ee1b56b91f62a0624199c83670",
+      "is_merge": false
+    },
+    {
       "sha": "547d38012265e642afaea350207c9eee3dffe01e",
       "author": "JaredHatfield",
       "message": "Merge pull request #159 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.275.0\n\nchore(deps): bump google.golang.org/api from 0.274.0 to 0.275.0",
