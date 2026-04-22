@@ -6,6 +6,22 @@
   "latest_release_time": "2026-03-06T02:07:49Z",
   "unreleased_commits": [
     {
+      "sha": "ac255078e6a5f5345e5afcefc9534095cccc8884",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #49 from UnitVectorY-Labs/gitrepoforge/update\n\ngitrepoforge: apply desired state for prompt2json",
+      "timestamp": "2026-04-21T01:11:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/ac255078e6a5f5345e5afcefc9534095cccc8884",
+      "is_merge": true
+    },
+    {
+      "sha": "133fc14a74e4e21f2fa2725937d153b1b151aa80",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for prompt2json",
+      "timestamp": "2026-04-21T00:57:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/133fc14a74e4e21f2fa2725937d153b1b151aa80",
+      "is_merge": false
+    },
+    {
       "sha": "11e1d81cf327d92c768ee1bed207a7008de70e8f",
       "author": "JaredHatfield",
       "message": "Merge pull request #47 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.5\n\nchore(deps): bump actions/cache from 5.0.4 to 5.0.5",
