@@ -6,6 +6,38 @@
   "latest_release_time": "2026-02-09T03:06:25Z",
   "unreleased_commits": [
     {
+      "sha": "1b0fea32df1eff6f5f09416e3068a8418e9d5986",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #70 from UnitVectorY-Labs/dependabot/go_modules/github.com/mark3labs/mcp-go-0.49.0\n\nchore(deps): bump github.com/mark3labs/mcp-go from 0.48.0 to 0.49.0",
+      "timestamp": "2026-04-26T00:39:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/1b0fea32df1eff6f5f09416e3068a8418e9d5986",
+      "is_merge": true
+    },
+    {
+      "sha": "d7e7d7cdf8edc021ebfd012edc9fb03aa96f3a43",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #71 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.1.0\n\nchore(deps): bump astral-sh/setup-uv from 8.0.0 to 8.1.0",
+      "timestamp": "2026-04-26T00:34:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/d7e7d7cdf8edc021ebfd012edc9fb03aa96f3a43",
+      "is_merge": true
+    },
+    {
+      "sha": "5f0e4ef697457cde3af57d76b352526b3e6810f6",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 8.0.0 to 8.1.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.0.0 to 8.1.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/cec208311dfd045dd5311c1add060b2062131d57...08807647e7069bb48b6ef5acd8ec9567f424441b)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-25T10:04:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/5f0e4ef697457cde3af57d76b352526b3e6810f6",
+      "is_merge": false
+    },
+    {
+      "sha": "10efed6d5253bf330fca5e38fc282319e110aa42",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github.com/mark3labs/mcp-go from 0.48.0 to 0.49.0\n\nBumps [github.com/mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) from 0.48.0 to 0.49.0.\n- [Release notes](https://github.com/mark3labs/mcp-go/releases)\n- [Commits](https://github.com/mark3labs/mcp-go/compare/v0.48.0...v0.49.0)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/mark3labs/mcp-go\n  dependency-version: 0.49.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-25T10:03:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/10efed6d5253bf330fca5e38fc282319e110aa42",
+      "is_merge": false
+    },
+    {
       "sha": "820ac6eb297c1e781bcb3b521d4bc2ef6e9dffb6",
       "author": "JaredHatfield",
       "message": "Merge pull request #67 from UnitVectorY-Labs/dependabot/go_modules/github.com/mark3labs/mcp-go-0.48.0\n\nchore(deps): bump github.com/mark3labs/mcp-go from 0.47.0 to 0.48.0",

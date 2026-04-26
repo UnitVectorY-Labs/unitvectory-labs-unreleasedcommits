@@ -6,6 +6,22 @@
   "latest_release_time": "2025-10-20T23:04:50Z",
   "unreleased_commits": [
     {
+      "sha": "88296662d1269b2726f0d5d3e942b8b1d435f2d4",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #80 from UnitVectorY-Labs/dependabot/maven/org.projectlombok-lombok-1.18.46\n\nBump org.projectlombok:lombok from 1.18.44 to 1.18.46",
+      "timestamp": "2026-04-26T00:34:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/88296662d1269b2726f0d5d3e942b8b1d435f2d4",
+      "is_merge": true
+    },
+    {
+      "sha": "3b60e88a0a1aac89f0e54a8e557afc24400959e7",
+      "author": "dependabot[bot]",
+      "message": "Bump org.projectlombok:lombok from 1.18.44 to 1.18.46\n\nBumps [org.projectlombok:lombok](https://github.com/projectlombok/lombok) from 1.18.44 to 1.18.46.\n- [Changelog](https://github.com/projectlombok/lombok/blob/master/doc/changelog.markdown)\n- [Commits](https://github.com/projectlombok/lombok/compare/v1.18.44...v1.18.46)\n\n---\nupdated-dependencies:\n- dependency-name: org.projectlombok:lombok\n  dependency-version: 1.18.46\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-25T10:02:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/3b60e88a0a1aac89f0e54a8e557afc24400959e7",
+      "is_merge": false
+    },
+    {
       "sha": "7ca569006980a3ded38293747fb9659853341e97",
       "author": "JaredHatfield",
       "message": "Merge pull request #79 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.1.0\n\nBump astral-sh/setup-uv from 8.0.0 to 8.1.0",

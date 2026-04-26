@@ -6,6 +6,38 @@
   "latest_release_time": "2025-11-12T01:30:20Z",
   "unreleased_commits": [
     {
+      "sha": "c2eb9accc959c5927a626810141151426aa39dc9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #86 from UnitVectorY-Labs/dependabot/maven/org.projectlombok-lombok-1.18.46\n\nBump org.projectlombok:lombok from 1.18.44 to 1.18.46",
+      "timestamp": "2026-04-26T00:42:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/c2eb9accc959c5927a626810141151426aa39dc9",
+      "is_merge": true
+    },
+    {
+      "sha": "b787b6f864ecc756a5311a993f62292b7c032956",
+      "author": "dependabot[bot]",
+      "message": "Bump org.projectlombok:lombok from 1.18.44 to 1.18.46\n\nBumps [org.projectlombok:lombok](https://github.com/projectlombok/lombok) from 1.18.44 to 1.18.46.\n- [Changelog](https://github.com/projectlombok/lombok/blob/master/doc/changelog.markdown)\n- [Commits](https://github.com/projectlombok/lombok/compare/v1.18.44...v1.18.46)\n\n---\nupdated-dependencies:\n- dependency-name: org.projectlombok:lombok\n  dependency-version: 1.18.46\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-26T00:35:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/b787b6f864ecc756a5311a993f62292b7c032956",
+      "is_merge": false
+    },
+    {
+      "sha": "83ce83ea2eec5bc1a9c99fe67ece859ef1378a58",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #87 from UnitVectorY-Labs/dependabot/maven/com.google.code.gson-gson-2.14.0\n\nBump com.google.code.gson:gson from 2.13.2 to 2.14.0",
+      "timestamp": "2026-04-26T00:34:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/83ce83ea2eec5bc1a9c99fe67ece859ef1378a58",
+      "is_merge": true
+    },
+    {
+      "sha": "d125f3fb5f2608e76ddd2220a69226f63fc2ded2",
+      "author": "dependabot[bot]",
+      "message": "Bump com.google.code.gson:gson from 2.13.2 to 2.14.0\n\nBumps [com.google.code.gson:gson](https://github.com/google/gson) from 2.13.2 to 2.14.0.\n- [Release notes](https://github.com/google/gson/releases)\n- [Changelog](https://github.com/google/gson/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/google/gson/compare/gson-parent-2.13.2...gson-parent-2.14.0)\n\n---\nupdated-dependencies:\n- dependency-name: com.google.code.gson:gson\n  dependency-version: 2.14.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-25T10:03:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/d125f3fb5f2608e76ddd2220a69226f63fc2ded2",
+      "is_merge": false
+    },
+    {
       "sha": "d096959038a0734b45f2b4c21628dbbc805c5ba3",
       "author": "JaredHatfield",
       "message": "Merge pull request #85 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.1.0\n\nBump astral-sh/setup-uv from 8.0.0 to 8.1.0",

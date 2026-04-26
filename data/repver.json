@@ -6,6 +6,22 @@
   "latest_release_time": "2026-03-14T13:58:33Z",
   "unreleased_commits": [
     {
+      "sha": "2cc82ff7b3f11c27a70a60aca37e849504a66e5f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #57 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.1.0\n\nbuild(deps): bump astral-sh/setup-uv from 8.0.0 to 8.1.0",
+      "timestamp": "2026-04-26T00:34:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/2cc82ff7b3f11c27a70a60aca37e849504a66e5f",
+      "is_merge": true
+    },
+    {
+      "sha": "7ba17b2d670722ce909a4df1162a6f8b75146a01",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 8.0.0 to 8.1.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.0.0 to 8.1.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/cec208311dfd045dd5311c1add060b2062131d57...08807647e7069bb48b6ef5acd8ec9567f424441b)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-25T10:04:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/7ba17b2d670722ce909a4df1162a6f8b75146a01",
+      "is_merge": false
+    },
+    {
       "sha": "58142c9eebc92b17bdfd9052683f3b0c7f246e24",
       "author": "JaredHatfield",
       "message": "Merge pull request #55 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.5\n\nbuild(deps): bump actions/cache from 5.0.4 to 5.0.5",

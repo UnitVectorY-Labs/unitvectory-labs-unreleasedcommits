@@ -6,6 +6,22 @@
   "latest_release_time": "2025-11-29T14:51:22Z",
   "unreleased_commits": [
     {
+      "sha": "ff2021d4778fe86364c16452b59c5c0a02683798",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #183 from UnitVectorY-Labs/dependabot/maven/org.projectlombok-lombok-1.18.46\n\nBump org.projectlombok:lombok from 1.18.44 to 1.18.46",
+      "timestamp": "2026-04-26T00:33:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/ff2021d4778fe86364c16452b59c5c0a02683798",
+      "is_merge": true
+    },
+    {
+      "sha": "f5955d16141acc6efb5818facc429ed6ad76d965",
+      "author": "dependabot[bot]",
+      "message": "Bump org.projectlombok:lombok from 1.18.44 to 1.18.46\n\nBumps [org.projectlombok:lombok](https://github.com/projectlombok/lombok) from 1.18.44 to 1.18.46.\n- [Changelog](https://github.com/projectlombok/lombok/blob/master/doc/changelog.markdown)\n- [Commits](https://github.com/projectlombok/lombok/compare/v1.18.44...v1.18.46)\n\n---\nupdated-dependencies:\n- dependency-name: org.projectlombok:lombok\n  dependency-version: 1.18.46\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-25T10:02:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/f5955d16141acc6efb5818facc429ed6ad76d965",
+      "is_merge": false
+    },
+    {
       "sha": "5d985dd9852848e589463d40eb15a45bf3414d9f",
       "author": "JaredHatfield",
       "message": "Merge pull request #182 from UnitVectorY-Labs/dependabot/maven/org.springframework-spring-web-6.2.18\n\nBump org.springframework:spring-web from 6.2.17 to 6.2.18",

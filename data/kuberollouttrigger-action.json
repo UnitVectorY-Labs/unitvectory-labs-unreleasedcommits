@@ -6,6 +6,38 @@
   "latest_release_time": "2026-02-11T00:29:08Z",
   "unreleased_commits": [
     {
+      "sha": "5a5e325d2df2be726c20296a603ea44dc436d9ab",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #13 from UnitVectorY-Labs/dependabot/npm_and_yarn/actions/core-3.0.1\n\nBump @actions/core from 3.0.0 to 3.0.1",
+      "timestamp": "2026-04-26T00:41:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/5a5e325d2df2be726c20296a603ea44dc436d9ab",
+      "is_merge": true
+    },
+    {
+      "sha": "fa6466ddd36def2cca3468487529c1a8d09bd703",
+      "author": "dependabot[bot]",
+      "message": "Bump @actions/core from 3.0.0 to 3.0.1\n\nBumps [@actions/core](https://github.com/actions/toolkit/tree/HEAD/packages/core) from 3.0.0 to 3.0.1.\n- [Changelog](https://github.com/actions/toolkit/blob/main/packages/core/RELEASES.md)\n- [Commits](https://github.com/actions/toolkit/commits/HEAD/packages/core)\n\n---\nupdated-dependencies:\n- dependency-name: \"@actions/core\"\n  dependency-version: 3.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-26T00:38:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/fa6466ddd36def2cca3468487529c1a8d09bd703",
+      "is_merge": false
+    },
+    {
+      "sha": "4610f5e0a5887682d80ffa6f8df3f9394d4a27a6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #12 from UnitVectorY-Labs/dependabot/npm_and_yarn/actions/http-client-4.0.1\n\nBump @actions/http-client from 4.0.0 to 4.0.1",
+      "timestamp": "2026-04-26T00:36:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/4610f5e0a5887682d80ffa6f8df3f9394d4a27a6",
+      "is_merge": true
+    },
+    {
+      "sha": "170babc2fafb614de728be24cb3e5f2d27d92edc",
+      "author": "dependabot[bot]",
+      "message": "Bump @actions/http-client from 4.0.0 to 4.0.1\n\nBumps [@actions/http-client](https://github.com/actions/toolkit/tree/HEAD/packages/http-client) from 4.0.0 to 4.0.1.\n- [Changelog](https://github.com/actions/toolkit/blob/main/packages/http-client/RELEASES.md)\n- [Commits](https://github.com/actions/toolkit/commits/HEAD/packages/http-client)\n\n---\nupdated-dependencies:\n- dependency-name: \"@actions/http-client\"\n  dependency-version: 4.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-25T10:05:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/170babc2fafb614de728be24cb3e5f2d27d92edc",
+      "is_merge": false
+    },
+    {
       "sha": "5e3912eb8736dd3bd4b0ada57d863b0f6a0f55da",
       "author": "JaredHatfield",
       "message": "Merge pull request #10 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.1.0\n\nBump astral-sh/setup-uv from 8.0.0 to 8.1.0",

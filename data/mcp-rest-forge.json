@@ -6,6 +6,38 @@
   "latest_release_time": "2026-02-26T01:29:40Z",
   "unreleased_commits": [
     {
+      "sha": "921d7dd5b261c39d95d52b332c653ba64abd7dc7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #26 from UnitVectorY-Labs/dependabot/go_modules/github.com/mark3labs/mcp-go-0.49.0\n\nbuild(deps): bump github.com/mark3labs/mcp-go from 0.48.0 to 0.49.0",
+      "timestamp": "2026-04-26T00:40:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/921d7dd5b261c39d95d52b332c653ba64abd7dc7",
+      "is_merge": true
+    },
+    {
+      "sha": "74c33e6acafb8ec2a61e199d5d8f467ceaca38ff",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #27 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.1.0\n\nbuild(deps): bump astral-sh/setup-uv from 8.0.0 to 8.1.0",
+      "timestamp": "2026-04-26T00:35:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/74c33e6acafb8ec2a61e199d5d8f467ceaca38ff",
+      "is_merge": true
+    },
+    {
+      "sha": "1b4f31f5f0339c22cda65eb1766c835a9359492d",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 8.0.0 to 8.1.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.0.0 to 8.1.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/cec208311dfd045dd5311c1add060b2062131d57...08807647e7069bb48b6ef5acd8ec9567f424441b)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-25T10:06:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/1b4f31f5f0339c22cda65eb1766c835a9359492d",
+      "is_merge": false
+    },
+    {
+      "sha": "f7a1a36bb092fb63ddcc63dde3c3adabee894957",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github.com/mark3labs/mcp-go from 0.48.0 to 0.49.0\n\nBumps [github.com/mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) from 0.48.0 to 0.49.0.\n- [Release notes](https://github.com/mark3labs/mcp-go/releases)\n- [Commits](https://github.com/mark3labs/mcp-go/compare/v0.48.0...v0.49.0)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/mark3labs/mcp-go\n  dependency-version: 0.49.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-25T10:04:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/f7a1a36bb092fb63ddcc63dde3c3adabee894957",
+      "is_merge": false
+    },
+    {
       "sha": "cf9685cc229e0d52767595950f2637345d79f02f",
       "author": "JaredHatfield",
       "message": "Merge pull request #23 from UnitVectorY-Labs/dependabot/go_modules/github.com/mark3labs/mcp-go-0.48.0\n\nbuild(deps): bump github.com/mark3labs/mcp-go from 0.47.0 to 0.48.0",

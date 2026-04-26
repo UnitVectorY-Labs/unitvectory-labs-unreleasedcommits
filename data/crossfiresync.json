@@ -6,6 +6,22 @@
   "latest_release_time": "2025-10-26T12:30:45Z",
   "unreleased_commits": [
     {
+      "sha": "6a1bd10a6894835913cd1a1d6b119918ac06b0c6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #185 from UnitVectorY-Labs/dependabot/maven/org.projectlombok-lombok-1.18.46\n\nBump org.projectlombok:lombok from 1.18.44 to 1.18.46",
+      "timestamp": "2026-04-26T00:33:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/6a1bd10a6894835913cd1a1d6b119918ac06b0c6",
+      "is_merge": true
+    },
+    {
+      "sha": "cc4487b868ad2ec815c08c58c07d9e8c265a6bce",
+      "author": "dependabot[bot]",
+      "message": "Bump org.projectlombok:lombok from 1.18.44 to 1.18.46\n\nBumps [org.projectlombok:lombok](https://github.com/projectlombok/lombok) from 1.18.44 to 1.18.46.\n- [Changelog](https://github.com/projectlombok/lombok/blob/master/doc/changelog.markdown)\n- [Commits](https://github.com/projectlombok/lombok/compare/v1.18.44...v1.18.46)\n\n---\nupdated-dependencies:\n- dependency-name: org.projectlombok:lombok\n  dependency-version: 1.18.46\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-25T10:02:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/cc4487b868ad2ec815c08c58c07d9e8c265a6bce",
+      "is_merge": false
+    },
+    {
       "sha": "7919498234ab73282fad2e1b276fae7ba88679e6",
       "author": "JaredHatfield",
       "message": "Merge pull request #184 from UnitVectorY-Labs/dependabot/maven/com.google.cloud-libraries-bom-26.80.0\n\nBump com.google.cloud:libraries-bom from 26.79.0 to 26.80.0",

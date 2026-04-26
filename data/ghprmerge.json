@@ -4,6 +4,23 @@
   "default_branch": "main",
   "latest_release_tag": "v0.4.0",
   "latest_release_time": "2026-04-19T00:58:36Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "6916169e94016221b32e9656dcbde90b93455d70",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #44 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.1.0\n\nchore(deps): bump astral-sh/setup-uv from 8.0.0 to 8.1.0",
+      "timestamp": "2026-04-26T00:35:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/6916169e94016221b32e9656dcbde90b93455d70",
+      "is_merge": true
+    },
+    {
+      "sha": "eefc5119232dfb7baf65ea797e7dc2579cd3bbd1",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 8.0.0 to 8.1.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.0.0 to 8.1.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/cec208311dfd045dd5311c1add060b2062131d57...08807647e7069bb48b6ef5acd8ec9567f424441b)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-25T10:04:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/eefc5119232dfb7baf65ea797e7dc2579cd3bbd1",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/ghprmerge"
 }

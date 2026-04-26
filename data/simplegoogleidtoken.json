@@ -6,6 +6,38 @@
   "latest_release_time": "2026-02-28T23:05:15Z",
   "unreleased_commits": [
     {
+      "sha": "13d688c63be5263016806dea41a307f2eeb34c86",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #123 from UnitVectorY-Labs/dependabot/maven/com.google.code.gson-gson-2.14.0\n\nBump com.google.code.gson:gson from 2.13.2 to 2.14.0",
+      "timestamp": "2026-04-26T00:43:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/13d688c63be5263016806dea41a307f2eeb34c86",
+      "is_merge": true
+    },
+    {
+      "sha": "3e15ede2955242ff6366b2cbef4102feea3c3d6a",
+      "author": "dependabot[bot]",
+      "message": "Bump com.google.code.gson:gson from 2.13.2 to 2.14.0\n\nBumps [com.google.code.gson:gson](https://github.com/google/gson) from 2.13.2 to 2.14.0.\n- [Release notes](https://github.com/google/gson/releases)\n- [Changelog](https://github.com/google/gson/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/google/gson/compare/gson-parent-2.13.2...gson-parent-2.14.0)\n\n---\nupdated-dependencies:\n- dependency-name: com.google.code.gson:gson\n  dependency-version: 2.14.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-26T00:34:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/3e15ede2955242ff6366b2cbef4102feea3c3d6a",
+      "is_merge": false
+    },
+    {
+      "sha": "0c8044d4e536e89fd507df12f27ebccfbeca738e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #124 from UnitVectorY-Labs/dependabot/maven/org.projectlombok-lombok-1.18.46\n\nBump org.projectlombok:lombok from 1.18.44 to 1.18.46",
+      "timestamp": "2026-04-26T00:33:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/0c8044d4e536e89fd507df12f27ebccfbeca738e",
+      "is_merge": true
+    },
+    {
+      "sha": "e4e7f5a5a4d9340b1d1083c1a37b4d16e9b69809",
+      "author": "dependabot[bot]",
+      "message": "Bump org.projectlombok:lombok from 1.18.44 to 1.18.46\n\nBumps [org.projectlombok:lombok](https://github.com/projectlombok/lombok) from 1.18.44 to 1.18.46.\n- [Changelog](https://github.com/projectlombok/lombok/blob/master/doc/changelog.markdown)\n- [Commits](https://github.com/projectlombok/lombok/compare/v1.18.44...v1.18.46)\n\n---\nupdated-dependencies:\n- dependency-name: org.projectlombok:lombok\n  dependency-version: 1.18.46\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-25T10:02:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/e4e7f5a5a4d9340b1d1083c1a37b4d16e9b69809",
+      "is_merge": false
+    },
+    {
       "sha": "66c013a4e87ee16f66776d66a6c6ca9eba14b915",
       "author": "JaredHatfield",
       "message": "Merge pull request #122 from UnitVectorY-Labs/dependabot/maven/com.google.auth-google-auth-library-oauth2-http-1.46.0\n\nBump com.google.auth:google-auth-library-oauth2-http from 1.43.0 to 1.46.0",

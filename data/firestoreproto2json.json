@@ -6,6 +6,38 @@
   "latest_release_time": "2025-11-29T14:40:13Z",
   "unreleased_commits": [
     {
+      "sha": "46148c3ddff98d64e658c3db9158efcfd08cf692",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #145 from UnitVectorY-Labs/dependabot/maven/com.google.code.gson-gson-2.14.0\n\nBump com.google.code.gson:gson from 2.13.2 to 2.14.0",
+      "timestamp": "2026-04-26T00:42:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/46148c3ddff98d64e658c3db9158efcfd08cf692",
+      "is_merge": true
+    },
+    {
+      "sha": "e7a9ba73688270364f2ea9c14137295b9d2f319b",
+      "author": "dependabot[bot]",
+      "message": "Bump com.google.code.gson:gson from 2.13.2 to 2.14.0\n\nBumps [com.google.code.gson:gson](https://github.com/google/gson) from 2.13.2 to 2.14.0.\n- [Release notes](https://github.com/google/gson/releases)\n- [Changelog](https://github.com/google/gson/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/google/gson/compare/gson-parent-2.13.2...gson-parent-2.14.0)\n\n---\nupdated-dependencies:\n- dependency-name: com.google.code.gson:gson\n  dependency-version: 2.14.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-26T00:34:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/e7a9ba73688270364f2ea9c14137295b9d2f319b",
+      "is_merge": false
+    },
+    {
+      "sha": "8816c436daf4722e5b827595d890da2f424b7c19",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #146 from UnitVectorY-Labs/dependabot/maven/org.projectlombok-lombok-1.18.46\n\nBump org.projectlombok:lombok from 1.18.44 to 1.18.46",
+      "timestamp": "2026-04-26T00:33:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/8816c436daf4722e5b827595d890da2f424b7c19",
+      "is_merge": true
+    },
+    {
+      "sha": "5bde130a542d257e618da1d295655b0e43856fbb",
+      "author": "dependabot[bot]",
+      "message": "Bump org.projectlombok:lombok from 1.18.44 to 1.18.46\n\nBumps [org.projectlombok:lombok](https://github.com/projectlombok/lombok) from 1.18.44 to 1.18.46.\n- [Changelog](https://github.com/projectlombok/lombok/blob/master/doc/changelog.markdown)\n- [Commits](https://github.com/projectlombok/lombok/compare/v1.18.44...v1.18.46)\n\n---\nupdated-dependencies:\n- dependency-name: org.projectlombok:lombok\n  dependency-version: 1.18.46\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-25T10:02:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/5bde130a542d257e618da1d295655b0e43856fbb",
+      "is_merge": false
+    },
+    {
       "sha": "dcda8a7433d7e3f27064cfa6f6ad9699cb295649",
       "author": "JaredHatfield",
       "message": "Merge pull request #144 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.1.0\n\nBump astral-sh/setup-uv from 8.0.0 to 8.1.0",
