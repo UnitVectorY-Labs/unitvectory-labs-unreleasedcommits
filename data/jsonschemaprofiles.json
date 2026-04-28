@@ -6,6 +6,14 @@
   "latest_release_time": "2026-03-05T02:21:10Z",
   "unreleased_commits": [
     {
+      "sha": "4d9db9fc16e9bfd1e71dc9bdce724f314dbf36da",
+      "author": "JaredHatfield",
+      "message": "feat: add managed files configuration and update README badges",
+      "timestamp": "2026-04-28T00:04:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/4d9db9fc16e9bfd1e71dc9bdce724f314dbf36da",
+      "is_merge": false
+    },
+    {
       "sha": "0ed17013a756df9e723c7e8c570469ce06f7d79b",
       "author": "JaredHatfield",
       "message": "Merge pull request #18 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.1.0\n\nbuild(deps): bump astral-sh/setup-uv from 8.0.0 to 8.1.0",
