@@ -6,6 +6,14 @@
   "latest_release_time": "2026-03-11T10:44:43Z",
   "unreleased_commits": [
     {
+      "sha": "e31ed8361b21b24ddd40720c9df46065a30917d7",
+      "author": "JaredHatfield",
+      "message": "Update tool registration in README",
+      "timestamp": "2026-04-29T22:49:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/e31ed8361b21b24ddd40720c9df46065a30917d7",
+      "is_merge": false
+    },
+    {
       "sha": "684b65717cf337162e51e57ed427905eb30e0dd8",
       "author": "JaredHatfield",
       "message": "Merge pull request #23 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.1.0\n\nBump astral-sh/setup-uv from 8.0.0 to 8.1.0",
