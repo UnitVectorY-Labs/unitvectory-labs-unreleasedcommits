@@ -6,6 +6,22 @@
   "latest_release_time": "2026-03-19T22:45:36Z",
   "unreleased_commits": [
     {
+      "sha": "09317ee1f599f828c2e5288f6eed71709ca4c76e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #30 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.35.3\n\nBump github/codeql-action from 4.35.2 to 4.35.3",
+      "timestamp": "2026-05-02T10:29:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/09317ee1f599f828c2e5288f6eed71709ca4c76e",
+      "is_merge": true
+    },
+    {
+      "sha": "d87491c95c9bae8d0f96ffa9c4037e8a27c13364",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action from 4.35.2 to 4.35.3\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.35.2 to 4.35.3.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/95e58e9a2cdfd71adc6e0353d5c52f41a045d225...e46ed2cbd01164d986452f91f178727624ae40d7)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.35.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-02T10:05:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/d87491c95c9bae8d0f96ffa9c4037e8a27c13364",
+      "is_merge": false
+    },
+    {
       "sha": "f2c77294a731db4320d805cc26a89b4cf4e1f894",
       "author": "JaredHatfield",
       "message": "Merge pull request #29 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.5\n\nBump actions/cache from 5.0.4 to 5.0.5",

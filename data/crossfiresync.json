@@ -6,6 +6,22 @@
   "latest_release_time": "2025-10-26T12:30:45Z",
   "unreleased_commits": [
     {
+      "sha": "331461d16c0422de3e286e4cfd9e7bf536c8fdcb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #186 from UnitVectorY-Labs/dependabot/maven/org.junit-junit-bom-5.14.4\n\nBump org.junit:junit-bom from 5.14.3 to 5.14.4",
+      "timestamp": "2026-05-02T10:31:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/331461d16c0422de3e286e4cfd9e7bf536c8fdcb",
+      "is_merge": true
+    },
+    {
+      "sha": "19e4142dc3d8a7e495e050f957385fbf0edf48f1",
+      "author": "dependabot[bot]",
+      "message": "Bump org.junit:junit-bom from 5.14.3 to 5.14.4\n\nBumps [org.junit:junit-bom](https://github.com/junit-team/junit-framework) from 5.14.3 to 5.14.4.\n- [Release notes](https://github.com/junit-team/junit-framework/releases)\n- [Commits](https://github.com/junit-team/junit-framework/compare/r5.14.3...r5.14.4)\n\n---\nupdated-dependencies:\n- dependency-name: org.junit:junit-bom\n  dependency-version: 5.14.4\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-02T10:02:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/19e4142dc3d8a7e495e050f957385fbf0edf48f1",
+      "is_merge": false
+    },
+    {
       "sha": "6a1bd10a6894835913cd1a1d6b119918ac06b0c6",
       "author": "JaredHatfield",
       "message": "Merge pull request #185 from UnitVectorY-Labs/dependabot/maven/org.projectlombok-lombok-1.18.46\n\nBump org.projectlombok:lombok from 1.18.44 to 1.18.46",
