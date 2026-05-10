@@ -6,6 +6,38 @@
   "latest_release_time": "2025-11-12T01:30:20Z",
   "unreleased_commits": [
     {
+      "sha": "1f3608775efc0aca7a59e3ebca8f2faa8af45deb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #88 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-engine-5.14.4\n\nBump org.junit.jupiter:junit-jupiter-engine from 5.14.3 to 5.14.4",
+      "timestamp": "2026-05-09T14:52:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/1f3608775efc0aca7a59e3ebca8f2faa8af45deb",
+      "is_merge": true
+    },
+    {
+      "sha": "347c0fa512b90f4b2185e19c3147fdae669ab82e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #89 from UnitVectorY-Labs/dependabot/github_actions/actions/add-to-project-2.0.0\n\nBump actions/add-to-project from 1.0.2 to 2.0.0",
+      "timestamp": "2026-05-09T14:44:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/347c0fa512b90f4b2185e19c3147fdae669ab82e",
+      "is_merge": true
+    },
+    {
+      "sha": "2d960fdba7e54507a3cd6b0b9b3acc62444e8415",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/add-to-project from 1.0.2 to 2.0.0\n\nBumps [actions/add-to-project](https://github.com/actions/add-to-project) from 1.0.2 to 2.0.0.\n- [Release notes](https://github.com/actions/add-to-project/releases)\n- [Commits](https://github.com/actions/add-to-project/compare/244f685bbc3b7adfa8466e08b698b5577571133e...5afcf98fcd03f1c2f92c3c83f58ae24323cc57fd)\n\n---\nupdated-dependencies:\n- dependency-name: actions/add-to-project\n  dependency-version: 2.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-09T10:03:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/2d960fdba7e54507a3cd6b0b9b3acc62444e8415",
+      "is_merge": false
+    },
+    {
+      "sha": "1e56e5a6a6b24142d4d9c44ca663e06f76d6a8b9",
+      "author": "dependabot[bot]",
+      "message": "Bump org.junit.jupiter:junit-jupiter-engine from 5.14.3 to 5.14.4\n\nBumps [org.junit.jupiter:junit-jupiter-engine](https://github.com/junit-team/junit-framework) from 5.14.3 to 5.14.4.\n- [Release notes](https://github.com/junit-team/junit-framework/releases)\n- [Commits](https://github.com/junit-team/junit-framework/compare/r5.14.3...r5.14.4)\n\n---\nupdated-dependencies:\n- dependency-name: org.junit.jupiter:junit-jupiter-engine\n  dependency-version: 5.14.4\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-02T10:04:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/1e56e5a6a6b24142d4d9c44ca663e06f76d6a8b9",
+      "is_merge": false
+    },
+    {
       "sha": "c2eb9accc959c5927a626810141151426aa39dc9",
       "author": "JaredHatfield",
       "message": "Merge pull request #86 from UnitVectorY-Labs/dependabot/maven/org.projectlombok-lombok-1.18.46\n\nBump org.projectlombok:lombok from 1.18.44 to 1.18.46",

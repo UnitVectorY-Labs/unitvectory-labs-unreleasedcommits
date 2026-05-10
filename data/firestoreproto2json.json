@@ -6,6 +6,22 @@
   "latest_release_time": "2025-11-29T14:40:13Z",
   "unreleased_commits": [
     {
+      "sha": "c17a708fb4ec56883ed82b1ddb540be57ae7cc0b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #148 from UnitVectorY-Labs/dependabot/github_actions/actions/add-to-project-2.0.0\n\nBump actions/add-to-project from 1.0.2 to 2.0.0",
+      "timestamp": "2026-05-09T14:42:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/c17a708fb4ec56883ed82b1ddb540be57ae7cc0b",
+      "is_merge": true
+    },
+    {
+      "sha": "53e3f956a8bc71d42b14c6eb9f8b405daa4aacd2",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/add-to-project from 1.0.2 to 2.0.0\n\nBumps [actions/add-to-project](https://github.com/actions/add-to-project) from 1.0.2 to 2.0.0.\n- [Release notes](https://github.com/actions/add-to-project/releases)\n- [Commits](https://github.com/actions/add-to-project/compare/244f685bbc3b7adfa8466e08b698b5577571133e...5afcf98fcd03f1c2f92c3c83f58ae24323cc57fd)\n\n---\nupdated-dependencies:\n- dependency-name: actions/add-to-project\n  dependency-version: 2.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-09T10:02:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/53e3f956a8bc71d42b14c6eb9f8b405daa4aacd2",
+      "is_merge": false
+    },
+    {
       "sha": "f3ddbf9226ff5ce885912e9a5a6a2ce37ef822fb",
       "author": "JaredHatfield",
       "message": "Merge pull request #147 from UnitVectorY-Labs/dependabot/maven/org.junit-junit-bom-5.14.4\n\nBump org.junit:junit-bom from 5.14.3 to 5.14.4",

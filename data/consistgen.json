@@ -6,6 +6,38 @@
   "latest_release_time": "2025-10-20T23:04:50Z",
   "unreleased_commits": [
     {
+      "sha": "ec81f40a1d02261d98e2838d7528334ce7a44136",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #81 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-api-5.14.4\n\nBump org.junit.jupiter:junit-jupiter-api from 5.14.3 to 5.14.4",
+      "timestamp": "2026-05-09T14:51:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/ec81f40a1d02261d98e2838d7528334ce7a44136",
+      "is_merge": true
+    },
+    {
+      "sha": "95ea9e785a7edf5eb7bbd7e7863a6fcd6f9a78a6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #82 from UnitVectorY-Labs/dependabot/github_actions/actions/add-to-project-2.0.0\n\nBump actions/add-to-project from 1.0.2 to 2.0.0",
+      "timestamp": "2026-05-09T14:43:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/95ea9e785a7edf5eb7bbd7e7863a6fcd6f9a78a6",
+      "is_merge": true
+    },
+    {
+      "sha": "155aa778da5bcbf4c0e7314c4af0072d71e584be",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/add-to-project from 1.0.2 to 2.0.0\n\nBumps [actions/add-to-project](https://github.com/actions/add-to-project) from 1.0.2 to 2.0.0.\n- [Release notes](https://github.com/actions/add-to-project/releases)\n- [Commits](https://github.com/actions/add-to-project/compare/244f685bbc3b7adfa8466e08b698b5577571133e...5afcf98fcd03f1c2f92c3c83f58ae24323cc57fd)\n\n---\nupdated-dependencies:\n- dependency-name: actions/add-to-project\n  dependency-version: 2.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-09T10:02:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/155aa778da5bcbf4c0e7314c4af0072d71e584be",
+      "is_merge": false
+    },
+    {
+      "sha": "466da8007eeb064817f9c58e5813a2d5fb64700e",
+      "author": "dependabot[bot]",
+      "message": "Bump org.junit.jupiter:junit-jupiter-api from 5.14.3 to 5.14.4\n\nBumps [org.junit.jupiter:junit-jupiter-api](https://github.com/junit-team/junit-framework) from 5.14.3 to 5.14.4.\n- [Release notes](https://github.com/junit-team/junit-framework/releases)\n- [Commits](https://github.com/junit-team/junit-framework/compare/r5.14.3...r5.14.4)\n\n---\nupdated-dependencies:\n- dependency-name: org.junit.jupiter:junit-jupiter-api\n  dependency-version: 5.14.4\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-02T10:02:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/466da8007eeb064817f9c58e5813a2d5fb64700e",
+      "is_merge": false
+    },
+    {
       "sha": "88296662d1269b2726f0d5d3e942b8b1d435f2d4",
       "author": "JaredHatfield",
       "message": "Merge pull request #80 from UnitVectorY-Labs/dependabot/maven/org.projectlombok-lombok-1.18.46\n\nBump org.projectlombok:lombok from 1.18.44 to 1.18.46",

@@ -6,6 +6,38 @@
   "latest_release_time": "2025-10-07T22:58:05Z",
   "unreleased_commits": [
     {
+      "sha": "a062118a22089b9f894682a19db5c68c9a794117",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #78 from UnitVectorY-Labs/repver/go-v1.26.3\n\nUpdate Go version to 1.26.3",
+      "timestamp": "2026-05-09T15:18:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/a062118a22089b9f894682a19db5c68c9a794117",
+      "is_merge": true
+    },
+    {
+      "sha": "925eea34373c285d42efba3693e83d6364148a76",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.26.3",
+      "timestamp": "2026-05-09T15:04:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/925eea34373c285d42efba3693e83d6364148a76",
+      "is_merge": false
+    },
+    {
+      "sha": "67459635731b9e55ed0badffab86a5d52b59a52d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #77 from UnitVectorY-Labs/dependabot/github_actions/actions/add-to-project-2.0.0\n\nchore(deps): bump actions/add-to-project from 1.0.2 to 2.0.0",
+      "timestamp": "2026-05-09T14:44:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/67459635731b9e55ed0badffab86a5d52b59a52d",
+      "is_merge": true
+    },
+    {
+      "sha": "bcb993c15a6cdbb724f3e5d80242626ce15f640f",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/add-to-project from 1.0.2 to 2.0.0\n\nBumps [actions/add-to-project](https://github.com/actions/add-to-project) from 1.0.2 to 2.0.0.\n- [Release notes](https://github.com/actions/add-to-project/releases)\n- [Commits](https://github.com/actions/add-to-project/compare/244f685bbc3b7adfa8466e08b698b5577571133e...5afcf98fcd03f1c2f92c3c83f58ae24323cc57fd)\n\n---\nupdated-dependencies:\n- dependency-name: actions/add-to-project\n  dependency-version: 2.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-09T10:04:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/bcb993c15a6cdbb724f3e5d80242626ce15f640f",
+      "is_merge": false
+    },
+    {
       "sha": "96cdc4b0e6322ae2b70dbbf5d613fd908e5c2316",
       "author": "JaredHatfield",
       "message": "Merge pull request #74 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.5\n\nchore(deps): bump actions/cache from 5.0.4 to 5.0.5",

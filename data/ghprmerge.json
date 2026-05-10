@@ -6,6 +6,54 @@
   "latest_release_time": "2026-04-19T00:58:36Z",
   "unreleased_commits": [
     {
+      "sha": "2cca6432350fe17ca3e005d97970274af3f25910",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #48 from UnitVectorY-Labs/repver/go-v1.26.3\n\nUpdate Go version to v1.26.3",
+      "timestamp": "2026-05-09T15:19:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/2cca6432350fe17ca3e005d97970274af3f25910",
+      "is_merge": true
+    },
+    {
+      "sha": "33f3f63adbcd8a6c6c9922fa5aa83d1f6c28aa41",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.3",
+      "timestamp": "2026-05-09T15:04:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/33f3f63adbcd8a6c6c9922fa5aa83d1f6c28aa41",
+      "is_merge": false
+    },
+    {
+      "sha": "378e57c01f8aab919fd7d91c08309e6a5bf0b703",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #47 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.35.3\n\nchore(deps): bump github/codeql-action from 4.35.2 to 4.35.3",
+      "timestamp": "2026-05-09T14:53:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/378e57c01f8aab919fd7d91c08309e6a5bf0b703",
+      "is_merge": true
+    },
+    {
+      "sha": "06e31bdde80729b7b3bfee3968b9fbc13f977299",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #46 from UnitVectorY-Labs/dependabot/github_actions/actions/add-to-project-2.0.0\n\nchore(deps): bump actions/add-to-project from 1.0.2 to 2.0.0",
+      "timestamp": "2026-05-09T14:46:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/06e31bdde80729b7b3bfee3968b9fbc13f977299",
+      "is_merge": true
+    },
+    {
+      "sha": "14be5149b6a3eab7cdb80579a18915f0643c6dab",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action from 4.35.2 to 4.35.3\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.35.2 to 4.35.3.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/95e58e9a2cdfd71adc6e0353d5c52f41a045d225...e46ed2cbd01164d986452f91f178727624ae40d7)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.35.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-09T10:06:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/14be5149b6a3eab7cdb80579a18915f0643c6dab",
+      "is_merge": false
+    },
+    {
+      "sha": "ba3871e5a91062ebf89ae0df79f17f7a2ce4a1df",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/add-to-project from 1.0.2 to 2.0.0\n\nBumps [actions/add-to-project](https://github.com/actions/add-to-project) from 1.0.2 to 2.0.0.\n- [Release notes](https://github.com/actions/add-to-project/releases)\n- [Commits](https://github.com/actions/add-to-project/compare/244f685bbc3b7adfa8466e08b698b5577571133e...5afcf98fcd03f1c2f92c3c83f58ae24323cc57fd)\n\n---\nupdated-dependencies:\n- dependency-name: actions/add-to-project\n  dependency-version: 2.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-09T10:05:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/ba3871e5a91062ebf89ae0df79f17f7a2ce4a1df",
+      "is_merge": false
+    },
+    {
       "sha": "6916169e94016221b32e9656dcbde90b93455d70",
       "author": "JaredHatfield",
       "message": "Merge pull request #44 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.1.0\n\nchore(deps): bump astral-sh/setup-uv from 8.0.0 to 8.1.0",

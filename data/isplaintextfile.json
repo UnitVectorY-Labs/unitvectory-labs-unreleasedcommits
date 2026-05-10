@@ -6,6 +6,38 @@
   "latest_release_time": "2026-02-28T22:33:35Z",
   "unreleased_commits": [
     {
+      "sha": "860788e8db894612c0b8090a741e6c0eb9c09bf1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #49 from UnitVectorY-Labs/repver/go-v1.26.3\n\nUpdate Go version to 1.26.3",
+      "timestamp": "2026-05-09T15:18:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/860788e8db894612c0b8090a741e6c0eb9c09bf1",
+      "is_merge": true
+    },
+    {
+      "sha": "e58fc94e2ccf93810c50431e49d45c6e85e20184",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.26.3",
+      "timestamp": "2026-05-09T15:04:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/e58fc94e2ccf93810c50431e49d45c6e85e20184",
+      "is_merge": false
+    },
+    {
+      "sha": "5e626b2534853b4c1c894fb069b4705384cba454",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #48 from UnitVectorY-Labs/dependabot/github_actions/actions/add-to-project-2.0.0\n\nBump actions/add-to-project from 1.0.2 to 2.0.0",
+      "timestamp": "2026-05-09T14:44:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/5e626b2534853b4c1c894fb069b4705384cba454",
+      "is_merge": true
+    },
+    {
+      "sha": "b460b4a2d6bfbcac6c595f78831dc5dc7bcb6c41",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/add-to-project from 1.0.2 to 2.0.0\n\nBumps [actions/add-to-project](https://github.com/actions/add-to-project) from 1.0.2 to 2.0.0.\n- [Release notes](https://github.com/actions/add-to-project/releases)\n- [Commits](https://github.com/actions/add-to-project/compare/244f685bbc3b7adfa8466e08b698b5577571133e...5afcf98fcd03f1c2f92c3c83f58ae24323cc57fd)\n\n---\nupdated-dependencies:\n- dependency-name: actions/add-to-project\n  dependency-version: 2.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-09T10:04:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/b460b4a2d6bfbcac6c595f78831dc5dc7bcb6c41",
+      "is_merge": false
+    },
+    {
       "sha": "b0dd5340061faf3676faa12dedc782f52146ebdc",
       "author": "JaredHatfield",
       "message": "Merge pull request #47 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.5\n\nBump actions/cache from 5.0.4 to 5.0.5",

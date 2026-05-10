@@ -6,6 +6,54 @@
   "latest_release_time": "2026-02-28T23:05:15Z",
   "unreleased_commits": [
     {
+      "sha": "49f8de805ad60e779c87d2c5be626b17a55bca32",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #125 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-engine-5.14.4\n\nBump org.junit.jupiter:junit-jupiter-engine from 5.14.3 to 5.14.4",
+      "timestamp": "2026-05-09T18:29:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/49f8de805ad60e779c87d2c5be626b17a55bca32",
+      "is_merge": true
+    },
+    {
+      "sha": "cbff07ae00248d6950cb69bcc57a39a1d1bc9526",
+      "author": "dependabot[bot]",
+      "message": "Bump org.junit.jupiter:junit-jupiter-engine from 5.14.3 to 5.14.4\n\nBumps [org.junit.jupiter:junit-jupiter-engine](https://github.com/junit-team/junit-framework) from 5.14.3 to 5.14.4.\n- [Release notes](https://github.com/junit-team/junit-framework/releases)\n- [Commits](https://github.com/junit-team/junit-framework/compare/r5.14.3...r5.14.4)\n\n---\nupdated-dependencies:\n- dependency-name: org.junit.jupiter:junit-jupiter-engine\n  dependency-version: 5.14.4\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-09T14:51:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/cbff07ae00248d6950cb69bcc57a39a1d1bc9526",
+      "is_merge": false
+    },
+    {
+      "sha": "b2570bfeebde53d8db3f1c6de7c74c96a8c02ed6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #126 from UnitVectorY-Labs/dependabot/maven/com.google.auth-google-auth-library-oauth2-http-1.47.0\n\nBump com.google.auth:google-auth-library-oauth2-http from 1.46.0 to 1.47.0",
+      "timestamp": "2026-05-09T14:50:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/b2570bfeebde53d8db3f1c6de7c74c96a8c02ed6",
+      "is_merge": true
+    },
+    {
+      "sha": "f8ac2496d2e25a8e996f8bee820ec91a163682cb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #127 from UnitVectorY-Labs/dependabot/github_actions/actions/add-to-project-2.0.0\n\nBump actions/add-to-project from 1.0.2 to 2.0.0",
+      "timestamp": "2026-05-09T14:42:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/f8ac2496d2e25a8e996f8bee820ec91a163682cb",
+      "is_merge": true
+    },
+    {
+      "sha": "564f9c85ac813cb34e60023aad96597ef52301ca",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/add-to-project from 1.0.2 to 2.0.0\n\nBumps [actions/add-to-project](https://github.com/actions/add-to-project) from 1.0.2 to 2.0.0.\n- [Release notes](https://github.com/actions/add-to-project/releases)\n- [Commits](https://github.com/actions/add-to-project/compare/244f685bbc3b7adfa8466e08b698b5577571133e...5afcf98fcd03f1c2f92c3c83f58ae24323cc57fd)\n\n---\nupdated-dependencies:\n- dependency-name: actions/add-to-project\n  dependency-version: 2.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-09T10:02:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/564f9c85ac813cb34e60023aad96597ef52301ca",
+      "is_merge": false
+    },
+    {
+      "sha": "8f8f16644362ede8761793ba635aa3ec97947a91",
+      "author": "dependabot[bot]",
+      "message": "Bump com.google.auth:google-auth-library-oauth2-http\n\nBumps com.google.auth:google-auth-library-oauth2-http from 1.46.0 to 1.47.0.\n\n---\nupdated-dependencies:\n- dependency-name: com.google.auth:google-auth-library-oauth2-http\n  dependency-version: 1.47.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-09T10:02:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/8f8f16644362ede8761793ba635aa3ec97947a91",
+      "is_merge": false
+    },
+    {
       "sha": "13d688c63be5263016806dea41a307f2eeb34c86",
       "author": "JaredHatfield",
       "message": "Merge pull request #123 from UnitVectorY-Labs/dependabot/maven/com.google.code.gson-gson-2.14.0\n\nBump com.google.code.gson:gson from 2.13.2 to 2.14.0",

@@ -6,6 +6,54 @@
   "latest_release_time": "2026-03-29T17:23:19Z",
   "unreleased_commits": [
     {
+      "sha": "b6462f50ef045427636aa7b066bfed3de2ec81ed",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #89 from UnitVectorY-Labs/repver/go-v1.26.3\n\nUpdate Go version to v1.26.3",
+      "timestamp": "2026-05-09T15:17:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/b6462f50ef045427636aa7b066bfed3de2ec81ed",
+      "is_merge": true
+    },
+    {
+      "sha": "35fc5dcbe180d774a4193e827f5523ff4ce61df0",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.3",
+      "timestamp": "2026-05-09T15:04:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/35fc5dcbe180d774a4193e827f5523ff4ce61df0",
+      "is_merge": false
+    },
+    {
+      "sha": "eb025448b77049d0d5766cda216000aa64231f8b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #87 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.35.3\n\nBump github/codeql-action from 4.35.2 to 4.35.3",
+      "timestamp": "2026-05-09T14:51:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/eb025448b77049d0d5766cda216000aa64231f8b",
+      "is_merge": true
+    },
+    {
+      "sha": "01ef1572961c7ea0597bb4aaf55310d3d9cb44d6",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action from 4.35.2 to 4.35.3\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.35.2 to 4.35.3.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/95e58e9a2cdfd71adc6e0353d5c52f41a045d225...e46ed2cbd01164d986452f91f178727624ae40d7)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.35.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-09T14:45:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/01ef1572961c7ea0597bb4aaf55310d3d9cb44d6",
+      "is_merge": false
+    },
+    {
+      "sha": "5fff64b23fc09f56ce050ecdf78aa34115111cd6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #88 from UnitVectorY-Labs/dependabot/github_actions/actions/add-to-project-2.0.0\n\nBump actions/add-to-project from 1.0.2 to 2.0.0",
+      "timestamp": "2026-05-09T14:43:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/5fff64b23fc09f56ce050ecdf78aa34115111cd6",
+      "is_merge": true
+    },
+    {
+      "sha": "128d2a18ae1382ddaeb7ceebc270257f1fdb73a6",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/add-to-project from 1.0.2 to 2.0.0\n\nBumps [actions/add-to-project](https://github.com/actions/add-to-project) from 1.0.2 to 2.0.0.\n- [Release notes](https://github.com/actions/add-to-project/releases)\n- [Commits](https://github.com/actions/add-to-project/compare/244f685bbc3b7adfa8466e08b698b5577571133e...5afcf98fcd03f1c2f92c3c83f58ae24323cc57fd)\n\n---\nupdated-dependencies:\n- dependency-name: actions/add-to-project\n  dependency-version: 2.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-09T10:05:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/128d2a18ae1382ddaeb7ceebc270257f1fdb73a6",
+      "is_merge": false
+    },
+    {
       "sha": "98e86a9406edcf4106e9e69d0645cbbf3dff07c1",
       "author": "JaredHatfield",
       "message": "Bump CodeQL action versions to v4.35.2 for improved analysis",

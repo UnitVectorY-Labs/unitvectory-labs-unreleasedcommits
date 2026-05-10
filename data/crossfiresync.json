@@ -6,6 +6,38 @@
   "latest_release_time": "2025-10-26T12:30:45Z",
   "unreleased_commits": [
     {
+      "sha": "16065abf777fe3e8d222228916997ed7d98c0150",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #188 from UnitVectorY-Labs/dependabot/maven/com.google.cloud-libraries-bom-26.81.0\n\nBump com.google.cloud:libraries-bom from 26.80.0 to 26.81.0",
+      "timestamp": "2026-05-09T18:31:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/16065abf777fe3e8d222228916997ed7d98c0150",
+      "is_merge": true
+    },
+    {
+      "sha": "f523cb7b69c30236e22a0fc860a45ea4912ca0ef",
+      "author": "dependabot[bot]",
+      "message": "Bump com.google.cloud:libraries-bom from 26.80.0 to 26.81.0\n\nBumps [com.google.cloud:libraries-bom](https://github.com/googleapis/java-cloud-bom) from 26.80.0 to 26.81.0.\n- [Release notes](https://github.com/googleapis/java-cloud-bom/releases)\n- [Commits](https://github.com/googleapis/java-cloud-bom/compare/v26.80.0...v26.81.0)\n\n---\nupdated-dependencies:\n- dependency-name: com.google.cloud:libraries-bom\n  dependency-version: 26.81.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-09T18:29:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/f523cb7b69c30236e22a0fc860a45ea4912ca0ef",
+      "is_merge": false
+    },
+    {
+      "sha": "1512c8d7a8373d79f499fde577b5379dafef5af2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #187 from UnitVectorY-Labs/dependabot/github_actions/actions/add-to-project-2.0.0\n\nBump actions/add-to-project from 1.0.2 to 2.0.0",
+      "timestamp": "2026-05-09T14:42:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/1512c8d7a8373d79f499fde577b5379dafef5af2",
+      "is_merge": true
+    },
+    {
+      "sha": "168140b6f17fc31862ecce5d0143470affde5587",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/add-to-project from 1.0.2 to 2.0.0\n\nBumps [actions/add-to-project](https://github.com/actions/add-to-project) from 1.0.2 to 2.0.0.\n- [Release notes](https://github.com/actions/add-to-project/releases)\n- [Commits](https://github.com/actions/add-to-project/compare/244f685bbc3b7adfa8466e08b698b5577571133e...5afcf98fcd03f1c2f92c3c83f58ae24323cc57fd)\n\n---\nupdated-dependencies:\n- dependency-name: actions/add-to-project\n  dependency-version: 2.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-09T10:02:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/168140b6f17fc31862ecce5d0143470affde5587",
+      "is_merge": false
+    },
+    {
       "sha": "331461d16c0422de3e286e4cfd9e7bf536c8fdcb",
       "author": "JaredHatfield",
       "message": "Merge pull request #186 from UnitVectorY-Labs/dependabot/maven/org.junit-junit-bom-5.14.4\n\nBump org.junit:junit-bom from 5.14.3 to 5.14.4",

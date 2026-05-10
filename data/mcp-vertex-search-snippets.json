@@ -6,6 +6,70 @@
   "latest_release_time": "2026-02-09T03:05:26Z",
   "unreleased_commits": [
     {
+      "sha": "427c8f018082cbb2803619de0303435073325235",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #70 from UnitVectorY-Labs/dependabot/go_modules/github.com/mark3labs/mcp-go-0.52.0\n\nchore(deps): bump github.com/mark3labs/mcp-go from 0.49.0 to 0.52.0",
+      "timestamp": "2026-05-09T18:28:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/427c8f018082cbb2803619de0303435073325235",
+      "is_merge": true
+    },
+    {
+      "sha": "8c506611437efb4a10def4117882a1c73c4d4280",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github.com/mark3labs/mcp-go from 0.49.0 to 0.52.0\n\nBumps [github.com/mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) from 0.49.0 to 0.52.0.\n- [Release notes](https://github.com/mark3labs/mcp-go/releases)\n- [Commits](https://github.com/mark3labs/mcp-go/compare/v0.49.0...v0.52.0)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/mark3labs/mcp-go\n  dependency-version: 0.52.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-09T18:27:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/8c506611437efb4a10def4117882a1c73c4d4280",
+      "is_merge": false
+    },
+    {
+      "sha": "28f3a1c0b8a8d41c315eb9c03669d19d95d0e5dc",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #72 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.35.3\n\nchore(deps): bump github/codeql-action from 4.35.2 to 4.35.3",
+      "timestamp": "2026-05-09T18:26:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/28f3a1c0b8a8d41c315eb9c03669d19d95d0e5dc",
+      "is_merge": true
+    },
+    {
+      "sha": "179d5941a8b85333200a324b228d27b919181637",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action from 4.35.2 to 4.35.3\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.35.2 to 4.35.3.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/95e58e9a2cdfd71adc6e0353d5c52f41a045d225...e46ed2cbd01164d986452f91f178727624ae40d7)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.35.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-09T15:21:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/179d5941a8b85333200a324b228d27b919181637",
+      "is_merge": false
+    },
+    {
+      "sha": "397d1e5aa154082ab3bf598243c619ac45961a61",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #73 from UnitVectorY-Labs/repver/go-v1.26.3\n\nUpdate Go version to v1.26.3",
+      "timestamp": "2026-05-09T15:19:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/397d1e5aa154082ab3bf598243c619ac45961a61",
+      "is_merge": true
+    },
+    {
+      "sha": "ec353fb578ccc7ec4e02e5b3ec2bde882ba9f460",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.3",
+      "timestamp": "2026-05-09T15:05:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/ec353fb578ccc7ec4e02e5b3ec2bde882ba9f460",
+      "is_merge": false
+    },
+    {
+      "sha": "cddedcb73ec3c83c1f7784ac1c92f6a514c0680e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #71 from UnitVectorY-Labs/dependabot/github_actions/actions/add-to-project-2.0.0\n\nchore(deps): bump actions/add-to-project from 1.0.2 to 2.0.0",
+      "timestamp": "2026-05-09T14:45:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/cddedcb73ec3c83c1f7784ac1c92f6a514c0680e",
+      "is_merge": true
+    },
+    {
+      "sha": "343e252df83eb57161792e8fc1970a581ad9ce33",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/add-to-project from 1.0.2 to 2.0.0\n\nBumps [actions/add-to-project](https://github.com/actions/add-to-project) from 1.0.2 to 2.0.0.\n- [Release notes](https://github.com/actions/add-to-project/releases)\n- [Commits](https://github.com/actions/add-to-project/compare/244f685bbc3b7adfa8466e08b698b5577571133e...5afcf98fcd03f1c2f92c3c83f58ae24323cc57fd)\n\n---\nupdated-dependencies:\n- dependency-name: actions/add-to-project\n  dependency-version: 2.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-09T10:03:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/343e252df83eb57161792e8fc1970a581ad9ce33",
+      "is_merge": false
+    },
+    {
       "sha": "3901654b3f11a1dcc8bb8572010df7a74ddb389f",
       "author": "JaredHatfield",
       "message": "Merge pull request #68 from UnitVectorY-Labs/dependabot/go_modules/github.com/mark3labs/mcp-go-0.49.0\n\nchore(deps): bump github.com/mark3labs/mcp-go from 0.48.0 to 0.49.0",

@@ -6,12 +6,76 @@
   "latest_release_time": "2026-03-19T22:45:36Z",
   "unreleased_commits": [
     {
+      "sha": "4795c183335df75ea6bcd014ac963f1cf6437c39",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #31 from UnitVectorY-Labs/dependabot/go_modules/github.com/klauspost/compress-1.18.6\n\nBump github.com/klauspost/compress from 1.18.5 to 1.18.6",
+      "timestamp": "2026-05-09T18:28:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/4795c183335df75ea6bcd014ac963f1cf6437c39",
+      "is_merge": true
+    },
+    {
+      "sha": "40d8fcb4f2ff344eb514a4d4ceeabb6c007bf01b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #35 from UnitVectorY-Labs/repver/go-v1.26.3\n\nUpdate Go version to 1.26.3",
+      "timestamp": "2026-05-09T15:20:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/40d8fcb4f2ff344eb514a4d4ceeabb6c007bf01b",
+      "is_merge": true
+    },
+    {
+      "sha": "7453c1df3f7fbdfc22e99b66bfeaeb75e4641f72",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.26.3",
+      "timestamp": "2026-05-09T15:04:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/7453c1df3f7fbdfc22e99b66bfeaeb75e4641f72",
+      "is_merge": false
+    },
+    {
+      "sha": "2306a913e4136edf7df53500866ca3cb0b2af26a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #33 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.35.4\n\nBump github/codeql-action from 4.35.3 to 4.35.4",
+      "timestamp": "2026-05-09T14:54:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/2306a913e4136edf7df53500866ca3cb0b2af26a",
+      "is_merge": true
+    },
+    {
+      "sha": "c2bd3e13462d565b3761567bc8114ace648976e0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #34 from UnitVectorY-Labs/dependabot/github_actions/actions/add-to-project-2.0.0\n\nBump actions/add-to-project from 1.0.2 to 2.0.0",
+      "timestamp": "2026-05-09T14:47:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/c2bd3e13462d565b3761567bc8114ace648976e0",
+      "is_merge": true
+    },
+    {
+      "sha": "aba2f2a573753856b12d8a28261d05d4ac460e40",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/add-to-project from 1.0.2 to 2.0.0\n\nBumps [actions/add-to-project](https://github.com/actions/add-to-project) from 1.0.2 to 2.0.0.\n- [Release notes](https://github.com/actions/add-to-project/releases)\n- [Commits](https://github.com/actions/add-to-project/compare/244f685bbc3b7adfa8466e08b698b5577571133e...5afcf98fcd03f1c2f92c3c83f58ae24323cc57fd)\n\n---\nupdated-dependencies:\n- dependency-name: actions/add-to-project\n  dependency-version: 2.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-09T10:04:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/aba2f2a573753856b12d8a28261d05d4ac460e40",
+      "is_merge": false
+    },
+    {
+      "sha": "b4a9f54f86ddff0c272e92b8a8b04a114a1cc519",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action from 4.35.3 to 4.35.4\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.35.3 to 4.35.4.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/e46ed2cbd01164d986452f91f178727624ae40d7...68bde559dea0fdcac2102bfdf6230c5f70eb485e)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.35.4\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-09T10:04:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/b4a9f54f86ddff0c272e92b8a8b04a114a1cc519",
+      "is_merge": false
+    },
+    {
       "sha": "09317ee1f599f828c2e5288f6eed71709ca4c76e",
       "author": "JaredHatfield",
       "message": "Merge pull request #30 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.35.3\n\nBump github/codeql-action from 4.35.2 to 4.35.3",
       "timestamp": "2026-05-02T10:29:30Z",
       "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/09317ee1f599f828c2e5288f6eed71709ca4c76e",
       "is_merge": true
+    },
+    {
+      "sha": "1e9ebbaaf189aefec0b14a842083e34208d498d8",
+      "author": "dependabot[bot]",
+      "message": "Bump github.com/klauspost/compress from 1.18.5 to 1.18.6\n\nBumps [github.com/klauspost/compress](https://github.com/klauspost/compress) from 1.18.5 to 1.18.6.\n- [Release notes](https://github.com/klauspost/compress/releases)\n- [Commits](https://github.com/klauspost/compress/compare/v1.18.5...v1.18.6)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/klauspost/compress\n  dependency-version: 1.18.6\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-02T10:06:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/1e9ebbaaf189aefec0b14a842083e34208d498d8",
+      "is_merge": false
     },
     {
       "sha": "d87491c95c9bae8d0f96ffa9c4037e8a27c13364",

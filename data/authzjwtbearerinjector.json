@@ -6,6 +6,54 @@
   "latest_release_time": "2026-03-19T22:46:03Z",
   "unreleased_commits": [
     {
+      "sha": "9e57d84c6e312cb941566b09e2145b117742d327",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #113 from UnitVectorY-Labs/repver/go-v1.26.3\n\nUpdate Go version to 1.26.3",
+      "timestamp": "2026-05-09T15:17:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/9e57d84c6e312cb941566b09e2145b117742d327",
+      "is_merge": true
+    },
+    {
+      "sha": "8a223ba5a8f364c6a503a1f34e8de1a52f497036",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.26.3",
+      "timestamp": "2026-05-09T15:03:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/8a223ba5a8f364c6a503a1f34e8de1a52f497036",
+      "is_merge": false
+    },
+    {
+      "sha": "479dc232cf0b852e5495225e3ec86a41f5903bd0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #111 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/grpc-1.81.0\n\nchore(deps): bump google.golang.org/grpc from 1.80.0 to 1.81.0",
+      "timestamp": "2026-05-09T14:51:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/479dc232cf0b852e5495225e3ec86a41f5903bd0",
+      "is_merge": true
+    },
+    {
+      "sha": "f0f7c415c48efa4cd52ff5e7faa25b829779669c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #110 from UnitVectorY-Labs/dependabot/github_actions/actions/add-to-project-2.0.0\n\nchore(deps): bump actions/add-to-project from 1.0.2 to 2.0.0",
+      "timestamp": "2026-05-09T14:43:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/f0f7c415c48efa4cd52ff5e7faa25b829779669c",
+      "is_merge": true
+    },
+    {
+      "sha": "90fe9abeaee2cf0b993cfde3240a1eb7b9f5ae65",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/grpc from 1.80.0 to 1.81.0\n\nBumps [google.golang.org/grpc](https://github.com/grpc/grpc-go) from 1.80.0 to 1.81.0.\n- [Release notes](https://github.com/grpc/grpc-go/releases)\n- [Commits](https://github.com/grpc/grpc-go/compare/v1.80.0...v1.81.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/grpc\n  dependency-version: 1.81.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-09T10:02:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/90fe9abeaee2cf0b993cfde3240a1eb7b9f5ae65",
+      "is_merge": false
+    },
+    {
+      "sha": "003f1ad510353e14d2d13e463a29487cd3493753",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/add-to-project from 1.0.2 to 2.0.0\n\nBumps [actions/add-to-project](https://github.com/actions/add-to-project) from 1.0.2 to 2.0.0.\n- [Release notes](https://github.com/actions/add-to-project/releases)\n- [Commits](https://github.com/actions/add-to-project/compare/244f685bbc3b7adfa8466e08b698b5577571133e...5afcf98fcd03f1c2f92c3c83f58ae24323cc57fd)\n\n---\nupdated-dependencies:\n- dependency-name: actions/add-to-project\n  dependency-version: 2.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-09T10:02:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/003f1ad510353e14d2d13e463a29487cd3493753",
+      "is_merge": false
+    },
+    {
       "sha": "859ba10fa6a26b7a58e4207ea7b89c139ac03ffe",
       "author": "JaredHatfield",
       "message": "Merge pull request #108 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-5.0.5\n\nchore(deps): bump actions/cache from 5.0.4 to 5.0.5",

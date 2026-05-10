@@ -6,6 +6,54 @@
   "latest_release_time": "2026-03-11T10:44:43Z",
   "unreleased_commits": [
     {
+      "sha": "e8daead52dcffeed7d5a7383c7b11bc8c7a3b045",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #26 from UnitVectorY-Labs/repver/go-v1.26.3\n\nUpdate Go version to v1.26.3",
+      "timestamp": "2026-05-09T15:20:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/e8daead52dcffeed7d5a7383c7b11bc8c7a3b045",
+      "is_merge": true
+    },
+    {
+      "sha": "3f13ce92a3a6350966043afef6847bf577e54615",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.3",
+      "timestamp": "2026-05-09T15:04:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/3f13ce92a3a6350966043afef6847bf577e54615",
+      "is_merge": false
+    },
+    {
+      "sha": "881f6f7857b42619715e785cbd3bcb19d12cab65",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #24 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.35.3\n\nBump github/codeql-action from 4.35.2 to 4.35.3",
+      "timestamp": "2026-05-09T14:54:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/881f6f7857b42619715e785cbd3bcb19d12cab65",
+      "is_merge": true
+    },
+    {
+      "sha": "f95526ca5a42a251a796e6f5ed8d197fa3f499e4",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #25 from UnitVectorY-Labs/dependabot/github_actions/actions/add-to-project-2.0.0\n\nBump actions/add-to-project from 1.0.2 to 2.0.0",
+      "timestamp": "2026-05-09T14:46:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/f95526ca5a42a251a796e6f5ed8d197fa3f499e4",
+      "is_merge": true
+    },
+    {
+      "sha": "b148ab1dda6b2d4d9856236cbb5172dcf0665da1",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/add-to-project from 1.0.2 to 2.0.0\n\nBumps [actions/add-to-project](https://github.com/actions/add-to-project) from 1.0.2 to 2.0.0.\n- [Release notes](https://github.com/actions/add-to-project/releases)\n- [Commits](https://github.com/actions/add-to-project/compare/244f685bbc3b7adfa8466e08b698b5577571133e...5afcf98fcd03f1c2f92c3c83f58ae24323cc57fd)\n\n---\nupdated-dependencies:\n- dependency-name: actions/add-to-project\n  dependency-version: 2.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-09T10:07:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/b148ab1dda6b2d4d9856236cbb5172dcf0665da1",
+      "is_merge": false
+    },
+    {
+      "sha": "349efd95bac84ce5d84b2c816cabf432bdba7e8e",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action from 4.35.2 to 4.35.3\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.35.2 to 4.35.3.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/95e58e9a2cdfd71adc6e0353d5c52f41a045d225...e46ed2cbd01164d986452f91f178727624ae40d7)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.35.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-09T10:06:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/349efd95bac84ce5d84b2c816cabf432bdba7e8e",
+      "is_merge": false
+    },
+    {
       "sha": "e31ed8361b21b24ddd40720c9df46065a30917d7",
       "author": "JaredHatfield",
       "message": "Update tool registration in README",
