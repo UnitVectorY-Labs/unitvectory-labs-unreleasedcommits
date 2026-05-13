@@ -6,6 +6,22 @@
   "latest_release_time": "2026-02-09T03:05:26Z",
   "unreleased_commits": [
     {
+      "sha": "e83997113a36aa4fbb5988ded55162e80ad2cbf4",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #74 from UnitVectorY-Labs/managedfiles\n\nAdd .managedfiles",
+      "timestamp": "2026-05-12T01:16:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/e83997113a36aa4fbb5988ded55162e80ad2cbf4",
+      "is_merge": true
+    },
+    {
+      "sha": "234fb6cb56eae4b0f86a6ec0bf5d461bf194cb1a",
+      "author": "JaredHatfield",
+      "message": "Add .managedfiles",
+      "timestamp": "2026-05-12T01:10:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/234fb6cb56eae4b0f86a6ec0bf5d461bf194cb1a",
+      "is_merge": false
+    },
+    {
       "sha": "427c8f018082cbb2803619de0303435073325235",
       "author": "JaredHatfield",
       "message": "Merge pull request #70 from UnitVectorY-Labs/dependabot/go_modules/github.com/mark3labs/mcp-go-0.52.0\n\nchore(deps): bump github.com/mark3labs/mcp-go from 0.49.0 to 0.52.0",

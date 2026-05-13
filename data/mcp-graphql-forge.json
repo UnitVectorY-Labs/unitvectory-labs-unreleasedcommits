@@ -6,6 +6,22 @@
   "latest_release_time": "2026-02-09T03:03:04Z",
   "unreleased_commits": [
     {
+      "sha": "bb6e69863e1cde491909ebdff6d972dfb351d1d7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #95 from UnitVectorY-Labs/managedfiles\n\nAdd .managedfiles",
+      "timestamp": "2026-05-12T01:15:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/bb6e69863e1cde491909ebdff6d972dfb351d1d7",
+      "is_merge": true
+    },
+    {
+      "sha": "54859da0e8483dc58e1f2fe3712441b5e9ffbfc1",
+      "author": "JaredHatfield",
+      "message": "Add .managedfiles",
+      "timestamp": "2026-05-12T01:10:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/54859da0e8483dc58e1f2fe3712441b5e9ffbfc1",
+      "is_merge": false
+    },
+    {
       "sha": "76196d97128cf4f54d9a6f89dca7b965cf056b49",
       "author": "JaredHatfield",
       "message": "Merge pull request #91 from UnitVectorY-Labs/dependabot/go_modules/github.com/mark3labs/mcp-go-0.52.0\n\nchore(deps): bump github.com/mark3labs/mcp-go from 0.49.0 to 0.52.0",

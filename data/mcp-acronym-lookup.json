@@ -6,6 +6,22 @@
   "latest_release_time": "2026-02-09T03:03:26Z",
   "unreleased_commits": [
     {
+      "sha": "0d3dd7d637f97130face1e0cfb33857e3019d597",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #83 from UnitVectorY-Labs/managedfiles\n\nAdd .managedfiles",
+      "timestamp": "2026-05-12T01:16:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/0d3dd7d637f97130face1e0cfb33857e3019d597",
+      "is_merge": true
+    },
+    {
+      "sha": "e8668c763f22526efdf5417c7b6ebfaef7bddda2",
+      "author": "JaredHatfield",
+      "message": "Add .managedfiles",
+      "timestamp": "2026-05-11T21:37:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/e8668c763f22526efdf5417c7b6ebfaef7bddda2",
+      "is_merge": false
+    },
+    {
       "sha": "9113cc0c61e8d60dcc53a190b5a5683a25c17a50",
       "author": "JaredHatfield",
       "message": "Merge pull request #79 from UnitVectorY-Labs/dependabot/go_modules/github.com/mark3labs/mcp-go-0.52.0\n\nchore(deps): bump github.com/mark3labs/mcp-go from 0.49.0 to 0.52.0",

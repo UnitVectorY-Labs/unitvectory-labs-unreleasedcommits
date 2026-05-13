@@ -6,6 +6,22 @@
   "latest_release_time": "2026-02-09T03:04:14Z",
   "unreleased_commits": [
     {
+      "sha": "808b5f12e34bd8f6d9f2c8c459634d6407ee68f1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #54 from UnitVectorY-Labs/managedfiles\n\nAdd .managedfiles",
+      "timestamp": "2026-05-12T01:16:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/808b5f12e34bd8f6d9f2c8c459634d6407ee68f1",
+      "is_merge": true
+    },
+    {
+      "sha": "bd725e5299a1a47ad637d701f67ad35a5529f250",
+      "author": "JaredHatfield",
+      "message": "Add .managedfiles",
+      "timestamp": "2026-05-12T01:11:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/bd725e5299a1a47ad637d701f67ad35a5529f250",
+      "is_merge": false
+    },
+    {
       "sha": "d38a2cc86134a4b0e87358b2403ecdd275fb794d",
       "author": "JaredHatfield",
       "message": "Merge pull request #51 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.35.3\n\nbuild(deps): bump github/codeql-action from 4.35.2 to 4.35.3",

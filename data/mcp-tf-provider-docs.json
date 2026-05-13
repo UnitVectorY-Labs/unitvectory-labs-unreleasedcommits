@@ -6,6 +6,22 @@
   "latest_release_time": "2026-02-09T03:06:25Z",
   "unreleased_commits": [
     {
+      "sha": "99d64830bc3a73b5af0821fc21de076e689598dc",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #76 from UnitVectorY-Labs/managedfiles\n\nAdd .managedfiles",
+      "timestamp": "2026-05-12T01:16:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/99d64830bc3a73b5af0821fc21de076e689598dc",
+      "is_merge": true
+    },
+    {
+      "sha": "5c1967637a9365589b0902e97467a4d80d721eef",
+      "author": "JaredHatfield",
+      "message": "Add .managedfiles",
+      "timestamp": "2026-05-12T01:10:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/5c1967637a9365589b0902e97467a4d80d721eef",
+      "is_merge": false
+    },
+    {
       "sha": "a01a638a2333b8d575c721f54938c312a73c59d0",
       "author": "JaredHatfield",
       "message": "Merge pull request #72 from UnitVectorY-Labs/dependabot/go_modules/github.com/mark3labs/mcp-go-0.52.0\n\nchore(deps): bump github.com/mark3labs/mcp-go from 0.49.0 to 0.52.0",

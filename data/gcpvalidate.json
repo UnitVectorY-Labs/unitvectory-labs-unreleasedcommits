@@ -6,6 +6,22 @@
   "latest_release_time": "2026-01-01T19:27:46Z",
   "unreleased_commits": [
     {
+      "sha": "53063967abef6e89cb6d214c2b0e141e412a33c6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #35 from UnitVectorY-Labs/managedfiles\n\nAdd .managedfiles",
+      "timestamp": "2026-05-12T01:16:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpvalidate/commit/53063967abef6e89cb6d214c2b0e141e412a33c6",
+      "is_merge": true
+    },
+    {
+      "sha": "83cf68f9d7de5c5680f22ad31eadff771f7a8ef6",
+      "author": "JaredHatfield",
+      "message": "Add .managedfiles",
+      "timestamp": "2026-05-12T01:09:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpvalidate/commit/83cf68f9d7de5c5680f22ad31eadff771f7a8ef6",
+      "is_merge": false
+    },
+    {
       "sha": "13d15286d41c60d8d3366362233345f190c3aa0d",
       "author": "JaredHatfield",
       "message": "Merge pull request #34 from UnitVectorY-Labs/repver/go-v1.26.3\n\nUpdate Go version to v1.26.3",

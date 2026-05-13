@@ -6,6 +6,22 @@
   "latest_release_time": "2025-11-22T16:11:27Z",
   "unreleased_commits": [
     {
+      "sha": "90d800f5f497bdcf477798bfa7c1e985cf21f1c8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #137 from UnitVectorY-Labs/managedfiles\n\nAdd .managedfiles",
+      "timestamp": "2026-05-12T01:15:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/90d800f5f497bdcf477798bfa7c1e985cf21f1c8",
+      "is_merge": true
+    },
+    {
+      "sha": "a11059afccef402deaf98e2deec45915ca62a327",
+      "author": "JaredHatfield",
+      "message": "Add .managedfiles",
+      "timestamp": "2026-05-11T22:20:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/a11059afccef402deaf98e2deec45915ca62a327",
+      "is_merge": false
+    },
+    {
       "sha": "a06c8a79ed3e484e4426abc4bbb9ed25db48fa05",
       "author": "JaredHatfield",
       "message": "Merge pull request #132 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/grpc-1.81.0\n\nchore(deps): bump google.golang.org/grpc from 1.80.0 to 1.81.0",

@@ -6,6 +6,22 @@
   "latest_release_time": "2026-02-09T03:03:53Z",
   "unreleased_commits": [
     {
+      "sha": "e6531324740451fb2e6710b4deaeb08468df5aac",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #75 from UnitVectorY-Labs/managedfiles\n\nAdd .managedfiles",
+      "timestamp": "2026-05-12T01:15:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/e6531324740451fb2e6710b4deaeb08468df5aac",
+      "is_merge": true
+    },
+    {
+      "sha": "be6da0e81872900fde5d32e41d2e23ce5d4ffe11",
+      "author": "JaredHatfield",
+      "message": "Add .managedfiles",
+      "timestamp": "2026-05-11T21:35:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/be6da0e81872900fde5d32e41d2e23ce5d4ffe11",
+      "is_merge": false
+    },
+    {
       "sha": "fd36093ca841a47202f3f91ef858e5488360c1b4",
       "author": "JaredHatfield",
       "message": "Merge pull request #74 from UnitVectorY-Labs/repver/go-v1.26.3\n\nUpdate Go version to v1.26.3",

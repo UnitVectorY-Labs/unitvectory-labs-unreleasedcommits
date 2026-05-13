@@ -6,6 +6,22 @@
   "latest_release_time": "2026-02-09T03:05:56Z",
   "unreleased_commits": [
     {
+      "sha": "6e23869a23a95712904145675d10f9295f4b8692",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #102 from UnitVectorY-Labs/managedfiles\n\nAdd .managedfiles",
+      "timestamp": "2026-05-12T01:15:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/6e23869a23a95712904145675d10f9295f4b8692",
+      "is_merge": true
+    },
+    {
+      "sha": "bce8a2713538a3f84d7fe05ba19ae5bbd06853de",
+      "author": "JaredHatfield",
+      "message": "Add .managedfiles",
+      "timestamp": "2026-05-11T21:33:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/bce8a2713538a3f84d7fe05ba19ae5bbd06853de",
+      "is_merge": false
+    },
+    {
       "sha": "a3dd5adc4e1b15644171478fa10a53a19029dec8",
       "author": "JaredHatfield",
       "message": "Merge pull request #101 from UnitVectorY-Labs/repver/go-v1.26.3\n\nUpdate Go version to v1.26.3",
