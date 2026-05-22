@@ -2,8 +2,8 @@
   "owner": "UnitVectorY-Labs",
   "name": "localmodelproxy",
   "default_branch": "main",
-  "latest_release_tag": "v0.2.0",
-  "latest_release_time": "2026-05-14T01:21:59Z",
+  "latest_release_tag": "v0.4.0",
+  "latest_release_time": "2026-05-21T23:13:50Z",
   "unreleased_commits": null,
   "repository_url": "https://github.com/UnitVectorY-Labs/localmodelproxy"
 }
