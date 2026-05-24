@@ -6,6 +6,46 @@
   "latest_release_time": "2026-03-05T02:21:10Z",
   "unreleased_commits": [
     {
+      "sha": "64ef88d4186df067b1bab6f800844b5d30cc6370",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #25 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.35.5\n\nbuild(deps): bump github/codeql-action from 4.35.4 to 4.35.5",
+      "timestamp": "2026-05-23T12:37:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/64ef88d4186df067b1bab6f800844b5d30cc6370",
+      "is_merge": true
+    },
+    {
+      "sha": "4edfd91397329d727c9ffd9d3ca53281123d1ba6",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github/codeql-action from 4.35.4 to 4.35.5\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.35.4 to 4.35.5.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/68bde559dea0fdcac2102bfdf6230c5f70eb485e...9e0d7b8d25671d64c341c19c0152d693099fb5ba)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.35.5\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-23T10:07:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/4edfd91397329d727c9ffd9d3ca53281123d1ba6",
+      "is_merge": false
+    },
+    {
+      "sha": "e5650144c20ca39634bab5f0eaa4f56c37892b43",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #22 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/text-0.37.0\n\nbuild(deps): bump golang.org/x/text from 0.36.0 to 0.37.0",
+      "timestamp": "2026-05-23T01:54:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/e5650144c20ca39634bab5f0eaa4f56c37892b43",
+      "is_merge": true
+    },
+    {
+      "sha": "b8c2a430f48c3c0d001c6ebde32c5f3968a4d1db",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #24 from UnitVectorY-Labs/gitrepoforge/jsonschemaprofiles\n\ngitrepoforge: apply desired state for jsonschemaprofiles",
+      "timestamp": "2026-05-23T01:53:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/b8c2a430f48c3c0d001c6ebde32c5f3968a4d1db",
+      "is_merge": true
+    },
+    {
+      "sha": "6a37febeffeacd8fd856c9d00953da0fedd44cb1",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for jsonschemaprofiles",
+      "timestamp": "2026-05-23T01:51:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/6a37febeffeacd8fd856c9d00953da0fedd44cb1",
+      "is_merge": false
+    },
+    {
       "sha": "3b169e6011f6e25dfe1990da13c15f23c499c3bb",
       "author": "JaredHatfield",
       "message": "Merge pull request #23 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.35.4\n\nbuild(deps): bump github/codeql-action from 4.35.3 to 4.35.4",
@@ -19,6 +59,14 @@
       "message": "build(deps): bump github/codeql-action from 4.35.3 to 4.35.4\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.35.3 to 4.35.4.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/e46ed2cbd01164d986452f91f178727624ae40d7...68bde559dea0fdcac2102bfdf6230c5f70eb485e)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.35.4\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-05-16T10:05:51Z",
       "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/7cd87f008cda45e405d6155c6cd10d4951c3408d",
+      "is_merge": false
+    },
+    {
+      "sha": "b9dc81c25b4f420d828ec7c784040dc630a9f696",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump golang.org/x/text from 0.36.0 to 0.37.0\n\nBumps [golang.org/x/text](https://github.com/golang/text) from 0.36.0 to 0.37.0.\n- [Release notes](https://github.com/golang/text/releases)\n- [Commits](https://github.com/golang/text/compare/v0.36.0...v0.37.0)\n\n---\nupdated-dependencies:\n- dependency-name: golang.org/x/text\n  dependency-version: 0.37.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-16T10:04:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/b9dc81c25b4f420d828ec7c784040dc630a9f696",
       "is_merge": false
     },
     {

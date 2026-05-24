@@ -4,6 +4,55 @@
   "default_branch": "main",
   "latest_release_tag": "v1.4.0",
   "latest_release_time": "2026-05-22T00:44:26Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "e01f46587e1d25ba9ff301e66b45897ac8e8a14c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #77 from UnitVectorY-Labs/dependabot/github_actions/docker/setup-buildx-action-4.1.0\n\nchore(deps): bump docker/setup-buildx-action from 4.0.0 to 4.1.0",
+      "timestamp": "2026-05-23T12:52:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/e01f46587e1d25ba9ff301e66b45897ac8e8a14c",
+      "is_merge": true
+    },
+    {
+      "sha": "553cf1d001a0bba75f13c942968fc7fd6e2fd8df",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/setup-buildx-action from 4.0.0 to 4.1.0\n\nBumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 4.0.0 to 4.1.0.\n- [Release notes](https://github.com/docker/setup-buildx-action/releases)\n- [Commits](https://github.com/docker/setup-buildx-action/compare/4d04d5d9486b7bd6fa91e7baf45bbb4f8b9deedd...d7f5e7f509e45cec5c76c4d5afdd7de93d0b3df5)\n\n---\nupdated-dependencies:\n- dependency-name: docker/setup-buildx-action\n  dependency-version: 4.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-23T12:46:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/553cf1d001a0bba75f13c942968fc7fd6e2fd8df",
+      "is_merge": false
+    },
+    {
+      "sha": "716e05bcf52f0af1bf765f9b8908a77502776378",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #80 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-7.2.0\n\nchore(deps): bump docker/build-push-action from 7.1.0 to 7.2.0",
+      "timestamp": "2026-05-23T12:44:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/716e05bcf52f0af1bf765f9b8908a77502776378",
+      "is_merge": true
+    },
+    {
+      "sha": "2719dec898086216e771dadaf0e63c5af1fbe573",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/build-push-action from 7.1.0 to 7.2.0\n\nBumps [docker/build-push-action](https://github.com/docker/build-push-action) from 7.1.0 to 7.2.0.\n- [Release notes](https://github.com/docker/build-push-action/releases)\n- [Commits](https://github.com/docker/build-push-action/compare/bcafcacb16a39f128d818304e6c9c0c18556b85f...f9f3042f7e2789586610d6e8b85c8f03e5195baf)\n\n---\nupdated-dependencies:\n- dependency-name: docker/build-push-action\n  dependency-version: 7.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-23T12:34:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/2719dec898086216e771dadaf0e63c5af1fbe573",
+      "is_merge": false
+    },
+    {
+      "sha": "b8980b65f84c4d5a6f7d41f29a4a6fe629e411e8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #78 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-6.0.1\n\nchore(deps): bump codecov/codecov-action from 6.0.0 to 6.0.1",
+      "timestamp": "2026-05-23T12:32:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/b8980b65f84c4d5a6f7d41f29a4a6fe629e411e8",
+      "is_merge": true
+    },
+    {
+      "sha": "8978d2b9e446929a15e16ec16ebd4fc2cfe805ca",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump codecov/codecov-action from 6.0.0 to 6.0.1\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 6.0.0 to 6.0.1.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/57e3a136b779b570ffcdbf80b3bdc90e7fab3de2...e79a6962e0d4c0c17b229090214935d2e33f8354)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 6.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-23T10:03:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/8978d2b9e446929a15e16ec16ebd4fc2cfe805ca",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/goenvecho"
 }

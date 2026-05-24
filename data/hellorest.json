@@ -6,6 +6,38 @@
   "latest_release_time": "2026-03-29T17:23:19Z",
   "unreleased_commits": [
     {
+      "sha": "8b645c0863f6694340051cdd32b5019a84fc23f9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #92 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.35.5\n\nBump github/codeql-action from 4.35.4 to 4.35.5",
+      "timestamp": "2026-05-23T12:35:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/8b645c0863f6694340051cdd32b5019a84fc23f9",
+      "is_merge": true
+    },
+    {
+      "sha": "780803310849c012080d38e6e5010ef0078940e1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #93 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-6.0.1\n\nBump codecov/codecov-action from 6.0.0 to 6.0.1",
+      "timestamp": "2026-05-23T12:32:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/780803310849c012080d38e6e5010ef0078940e1",
+      "is_merge": true
+    },
+    {
+      "sha": "0096818bc3198ddd5a7fcb830f910ca4d7724c2e",
+      "author": "dependabot[bot]",
+      "message": "Bump codecov/codecov-action from 6.0.0 to 6.0.1\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 6.0.0 to 6.0.1.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/57e3a136b779b570ffcdbf80b3bdc90e7fab3de2...e79a6962e0d4c0c17b229090214935d2e33f8354)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 6.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-23T10:04:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/0096818bc3198ddd5a7fcb830f910ca4d7724c2e",
+      "is_merge": false
+    },
+    {
+      "sha": "af7c65702e2718fc85a6583066f0129d9840bd06",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action from 4.35.4 to 4.35.5\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.35.4 to 4.35.5.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/68bde559dea0fdcac2102bfdf6230c5f70eb485e...9e0d7b8d25671d64c341c19c0152d693099fb5ba)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.35.5\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-23T10:04:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/af7c65702e2718fc85a6583066f0129d9840bd06",
+      "is_merge": false
+    },
+    {
       "sha": "ac7b1a4166381765ed3bc05434832d8a78183deb",
       "author": "JaredHatfield",
       "message": "Merge pull request #91 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.35.4\n\nBump github/codeql-action from 4.35.3 to 4.35.4",

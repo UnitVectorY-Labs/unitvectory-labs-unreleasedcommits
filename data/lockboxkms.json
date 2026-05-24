@@ -6,6 +6,70 @@
   "latest_release_time": "2026-03-19T22:46:29Z",
   "unreleased_commits": [
     {
+      "sha": "0c3ab90bb3f5fa4c25c93219ce932ba1fcaf8b1d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #173 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.280.0\n\nchore(deps): bump google.golang.org/api from 0.278.0 to 0.280.0",
+      "timestamp": "2026-05-23T14:08:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/0c3ab90bb3f5fa4c25c93219ce932ba1fcaf8b1d",
+      "is_merge": true
+    },
+    {
+      "sha": "95efdf4b8741d7ca2042eddb40e088f4ba7c0e35",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #175 from UnitVectorY-Labs/dependabot/github_actions/docker/setup-buildx-action-4.1.0\n\nchore(deps): bump docker/setup-buildx-action from 4.0.0 to 4.1.0",
+      "timestamp": "2026-05-23T12:52:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/95efdf4b8741d7ca2042eddb40e088f4ba7c0e35",
+      "is_merge": true
+    },
+    {
+      "sha": "926336d006af83f76e5dbf1ce7dde8e0a480e349",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/setup-buildx-action from 4.0.0 to 4.1.0\n\nBumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 4.0.0 to 4.1.0.\n- [Release notes](https://github.com/docker/setup-buildx-action/releases)\n- [Commits](https://github.com/docker/setup-buildx-action/compare/4d04d5d9486b7bd6fa91e7baf45bbb4f8b9deedd...d7f5e7f509e45cec5c76c4d5afdd7de93d0b3df5)\n\n---\nupdated-dependencies:\n- dependency-name: docker/setup-buildx-action\n  dependency-version: 4.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-23T12:46:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/926336d006af83f76e5dbf1ce7dde8e0a480e349",
+      "is_merge": false
+    },
+    {
+      "sha": "e2250dba65b34b824927fc7b0d9918021aebb0b2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #174 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-7.2.0\n\nchore(deps): bump docker/build-push-action from 7.1.0 to 7.2.0",
+      "timestamp": "2026-05-23T12:44:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/e2250dba65b34b824927fc7b0d9918021aebb0b2",
+      "is_merge": true
+    },
+    {
+      "sha": "b65eb62f326dcb4fe607717a0b83c3dbd3c202d5",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/build-push-action from 7.1.0 to 7.2.0\n\nBumps [docker/build-push-action](https://github.com/docker/build-push-action) from 7.1.0 to 7.2.0.\n- [Release notes](https://github.com/docker/build-push-action/releases)\n- [Commits](https://github.com/docker/build-push-action/compare/bcafcacb16a39f128d818304e6c9c0c18556b85f...f9f3042f7e2789586610d6e8b85c8f03e5195baf)\n\n---\nupdated-dependencies:\n- dependency-name: docker/build-push-action\n  dependency-version: 7.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-23T12:34:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/b65eb62f326dcb4fe607717a0b83c3dbd3c202d5",
+      "is_merge": false
+    },
+    {
+      "sha": "83221a9cba132f209816e5a28fc2450ebf3680d3",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #177 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-6.0.1\n\nchore(deps): bump codecov/codecov-action from 6.0.0 to 6.0.1",
+      "timestamp": "2026-05-23T12:32:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/83221a9cba132f209816e5a28fc2450ebf3680d3",
+      "is_merge": true
+    },
+    {
+      "sha": "d08f87a6798912e83fbe67635df0f869d392092f",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump codecov/codecov-action from 6.0.0 to 6.0.1\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 6.0.0 to 6.0.1.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/57e3a136b779b570ffcdbf80b3bdc90e7fab3de2...e79a6962e0d4c0c17b229090214935d2e33f8354)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 6.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-23T10:07:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/d08f87a6798912e83fbe67635df0f869d392092f",
+      "is_merge": false
+    },
+    {
+      "sha": "35a1f2f92931fe947cf150f990b076d783691140",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/api from 0.278.0 to 0.280.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.278.0 to 0.280.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.278.0...v0.280.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.280.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-23T10:04:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/35a1f2f92931fe947cf150f990b076d783691140",
+      "is_merge": false
+    },
+    {
       "sha": "f60ad0319861b8f20769fa10b5d1ac62f6311e3c",
       "author": "JaredHatfield",
       "message": "Merge pull request #170 from UnitVectorY-Labs/dependabot/go_modules/cloud.google.com/go/kms-1.31.0\n\nchore(deps): bump cloud.google.com/go/kms from 1.29.0 to 1.31.0",

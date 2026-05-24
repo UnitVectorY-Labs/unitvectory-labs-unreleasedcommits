@@ -6,6 +6,86 @@
   "latest_release_time": "2026-03-02T11:56:38Z",
   "unreleased_commits": [
     {
+      "sha": "63bb2bf1b37c7e35cc4e9511760fef0293ab6180",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #61 from UnitVectorY-Labs/dependabot/github_actions/docker/setup-buildx-action-4.1.0\n\nchore(deps): bump docker/setup-buildx-action from 4.0.0 to 4.1.0",
+      "timestamp": "2026-05-23T14:09:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/63bb2bf1b37c7e35cc4e9511760fef0293ab6180",
+      "is_merge": true
+    },
+    {
+      "sha": "ea8ba4e972be2abf4a0a9e1724c4db3f54cc8166",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #59 from UnitVectorY-Labs/dependabot/github_actions/docker/metadata-action-6.1.0\n\nchore(deps): bump docker/metadata-action from 6.0.0 to 6.1.0",
+      "timestamp": "2026-05-23T12:56:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/ea8ba4e972be2abf4a0a9e1724c4db3f54cc8166",
+      "is_merge": true
+    },
+    {
+      "sha": "518d93637b0bfaf8cce46ecaf70ea2cf5889db18",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/setup-buildx-action from 4.0.0 to 4.1.0\n\nBumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 4.0.0 to 4.1.0.\n- [Release notes](https://github.com/docker/setup-buildx-action/releases)\n- [Commits](https://github.com/docker/setup-buildx-action/compare/4d04d5d9486b7bd6fa91e7baf45bbb4f8b9deedd...d7f5e7f509e45cec5c76c4d5afdd7de93d0b3df5)\n\n---\nupdated-dependencies:\n- dependency-name: docker/setup-buildx-action\n  dependency-version: 4.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-23T12:51:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/518d93637b0bfaf8cce46ecaf70ea2cf5889db18",
+      "is_merge": false
+    },
+    {
+      "sha": "e74ab6a42db647513130eb98fa8ebba9666edadc",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #60 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.2.0\n\nchore(deps): bump docker/login-action from 4.1.0 to 4.2.0",
+      "timestamp": "2026-05-23T12:49:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/e74ab6a42db647513130eb98fa8ebba9666edadc",
+      "is_merge": true
+    },
+    {
+      "sha": "41bec1c9552788c4c78d2ffd61ce6717476834d3",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #62 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-7.2.0\n\nchore(deps): bump docker/build-push-action from 7.1.0 to 7.2.0",
+      "timestamp": "2026-05-23T12:45:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/41bec1c9552788c4c78d2ffd61ce6717476834d3",
+      "is_merge": true
+    },
+    {
+      "sha": "e33e0430c9956cf46cbc3f8a65dd72c5f310a08d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #58 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.36.0\n\nchore(deps): bump github/codeql-action from 4.35.5 to 4.36.0",
+      "timestamp": "2026-05-23T12:41:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/e33e0430c9956cf46cbc3f8a65dd72c5f310a08d",
+      "is_merge": true
+    },
+    {
+      "sha": "e6bf7c796a976ecfae26416c80f8eedbdf86447e",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/build-push-action from 7.1.0 to 7.2.0\n\nBumps [docker/build-push-action](https://github.com/docker/build-push-action) from 7.1.0 to 7.2.0.\n- [Release notes](https://github.com/docker/build-push-action/releases)\n- [Commits](https://github.com/docker/build-push-action/compare/bcafcacb16a39f128d818304e6c9c0c18556b85f...f9f3042f7e2789586610d6e8b85c8f03e5195baf)\n\n---\nupdated-dependencies:\n- dependency-name: docker/build-push-action\n  dependency-version: 7.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-23T10:06:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/e6bf7c796a976ecfae26416c80f8eedbdf86447e",
+      "is_merge": false
+    },
+    {
+      "sha": "017ddabc259b93cc363bf9cdd16355827c5a0ed4",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/login-action from 4.1.0 to 4.2.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.1.0 to 4.2.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/4907a6ddec9925e35a0a9e82d7399ccc52663121...650006c6eb7dba73a995cc03b0b2d7f5ca915bee)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-23T10:06:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/017ddabc259b93cc363bf9cdd16355827c5a0ed4",
+      "is_merge": false
+    },
+    {
+      "sha": "0d4533bc310a6bf359f39b704f835c338782ea7a",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/metadata-action from 6.0.0 to 6.1.0\n\nBumps [docker/metadata-action](https://github.com/docker/metadata-action) from 6.0.0 to 6.1.0.\n- [Release notes](https://github.com/docker/metadata-action/releases)\n- [Commits](https://github.com/docker/metadata-action/compare/030e881283bb7a6894de51c315a6bfe6a94e05cf...80c7e94dd9b9319bd5eb7a0e0fe9291e23a2a2e9)\n\n---\nupdated-dependencies:\n- dependency-name: docker/metadata-action\n  dependency-version: 6.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-23T10:05:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/0d4533bc310a6bf359f39b704f835c338782ea7a",
+      "is_merge": false
+    },
+    {
+      "sha": "d10e2873d415cdf35d2d1259bba7f436b86c82a6",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action from 4.35.5 to 4.36.0\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.35.5 to 4.36.0.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/9e0d7b8d25671d64c341c19c0152d693099fb5ba...7211b7c8077ea37d8641b6271f6a365a22a5fbfa)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.36.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-23T10:05:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/d10e2873d415cdf35d2d1259bba7f436b86c82a6",
+      "is_merge": false
+    },
+    {
       "sha": "68862a358b860ddb23422ff9118cb13ffff638ee",
       "author": "JaredHatfield",
       "message": "Merge pull request #57 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.35.5\n\nchore(deps): bump github/codeql-action from 4.35.4 to 4.35.5",

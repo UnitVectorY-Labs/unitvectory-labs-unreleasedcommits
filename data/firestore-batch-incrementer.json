@@ -6,6 +6,38 @@
   "latest_release_time": "2025-11-22T16:11:27Z",
   "unreleased_commits": [
     {
+      "sha": "d33a3c4c4112fd963cea2a8855be8d5441de76bc",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #142 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.280.0\n\nchore(deps): bump google.golang.org/api from 0.278.0 to 0.280.0",
+      "timestamp": "2026-05-23T14:09:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/d33a3c4c4112fd963cea2a8855be8d5441de76bc",
+      "is_merge": true
+    },
+    {
+      "sha": "91a03ae26488c0f1563b2c85dd595615d5241621",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #143 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.35.5\n\nchore(deps): bump github/codeql-action from 4.35.4 to 4.35.5",
+      "timestamp": "2026-05-23T12:36:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/91a03ae26488c0f1563b2c85dd595615d5241621",
+      "is_merge": true
+    },
+    {
+      "sha": "5b9b9a63c2d3368018d2b75772f7c210e9537797",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action from 4.35.4 to 4.35.5\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.35.4 to 4.35.5.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/68bde559dea0fdcac2102bfdf6230c5f70eb485e...9e0d7b8d25671d64c341c19c0152d693099fb5ba)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.35.5\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-23T10:06:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/5b9b9a63c2d3368018d2b75772f7c210e9537797",
+      "is_merge": false
+    },
+    {
+      "sha": "8e2ff4962cc2d6138aafbbf8f5317f6a6c5a5ada",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/api from 0.278.0 to 0.280.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.278.0 to 0.280.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.278.0...v0.280.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.280.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-23T10:04:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/8e2ff4962cc2d6138aafbbf8f5317f6a6c5a5ada",
+      "is_merge": false
+    },
+    {
       "sha": "55b7ca2aa7a5459fd31e7c7b27fa220d9b6d899f",
       "author": "JaredHatfield",
       "message": "Merge pull request #139 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.35.4\n\nchore(deps): bump github/codeql-action from 4.35.3 to 4.35.4",

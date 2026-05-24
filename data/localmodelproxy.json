@@ -2,25 +2,8 @@
   "owner": "UnitVectorY-Labs",
   "name": "localmodelproxy",
   "default_branch": "main",
-  "latest_release_tag": "v0.4.0",
-  "latest_release_time": "2026-05-21T23:13:50Z",
-  "unreleased_commits": [
-    {
-      "sha": "4b4f4e32facf908c7e92fddbaee80167af77d754",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #7 from UnitVectorY-Labs/feat/backend-insecure-skip-verify\n\nfeat: add InsecureSkipVerify support per backend",
-      "timestamp": "2026-05-22T23:30:39Z",
-      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/4b4f4e32facf908c7e92fddbaee80167af77d754",
-      "is_merge": true
-    },
-    {
-      "sha": "81f59afb331cd108693c957bf9e61e63a6c0f0ca",
-      "author": "JaredHatfield",
-      "message": "feat: add InsecureSkipVerify support per backend with per-backend HTTP clients\n\nMove HTTP client from Proxy-level to resolvedBackend-level so each\nbackend can have its own TLS settings. Add InsecureSkipVerify option\nto backend config for self-signed TLS upstreams, with tests for both\nOAuth client credentials and proxy forwarding flows.",
-      "timestamp": "2026-05-22T23:28:03Z",
-      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/81f59afb331cd108693c957bf9e61e63a6c0f0ca",
-      "is_merge": false
-    }
-  ],
+  "latest_release_tag": "v0.5.1",
+  "latest_release_time": "2026-05-24T00:41:53Z",
+  "unreleased_commits": null,
   "repository_url": "https://github.com/UnitVectorY-Labs/localmodelproxy"
 }
