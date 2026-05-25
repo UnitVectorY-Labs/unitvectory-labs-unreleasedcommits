@@ -6,6 +6,62 @@
   "latest_release_time": "2025-10-26T12:30:45Z",
   "unreleased_commits": [
     {
+      "sha": "eb30cd8a61797269588ad0064077e81c562eb857",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #189 from UnitVectorY-Labs/dependabot/maven/com.google.cloud-libraries-bom-26.83.0\n\nBump com.google.cloud:libraries-bom from 26.81.0 to 26.83.0",
+      "timestamp": "2026-05-25T01:07:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/eb30cd8a61797269588ad0064077e81c562eb857",
+      "is_merge": true
+    },
+    {
+      "sha": "44f32416c2480be22f437c933023a6b34dc92eea",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #169 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-4\n\nBump actions/attest-build-provenance from 3 to 4",
+      "timestamp": "2026-05-25T00:48:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/44f32416c2480be22f437c933023a6b34dc92eea",
+      "is_merge": true
+    },
+    {
+      "sha": "f0d81256ec1b25002b3864d8318e52c1cb263691",
+      "author": "JaredHatfield",
+      "message": "Pin actions/attest-build-provenance to v4.1.0 (a2bbfa2)",
+      "timestamp": "2026-05-25T00:42:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/f0d81256ec1b25002b3864d8318e52c1cb263691",
+      "is_merge": false
+    },
+    {
+      "sha": "ea3a2175b71267bfa26bd6ab4540f2ae0f44380a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #190 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-6.0.1\n\nBump codecov/codecov-action from 6.0.0 to 6.0.1",
+      "timestamp": "2026-05-25T00:25:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/ea3a2175b71267bfa26bd6ab4540f2ae0f44380a",
+      "is_merge": true
+    },
+    {
+      "sha": "d184739f17908aff047c3b8df67288c2dbfbc358",
+      "author": "JaredHatfield",
+      "message": "fix: pin codecov-action to commit SHA",
+      "timestamp": "2026-05-24T01:16:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/d184739f17908aff047c3b8df67288c2dbfbc358",
+      "is_merge": false
+    },
+    {
+      "sha": "0831d6a5f88b86634321044fd8a5be901783b537",
+      "author": "dependabot[bot]",
+      "message": "Bump codecov/codecov-action from 6.0.0 to 6.0.1\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 6.0.0 to 6.0.1.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/v6.0.0...v6.0.1)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 6.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-23T10:02:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/0831d6a5f88b86634321044fd8a5be901783b537",
+      "is_merge": false
+    },
+    {
+      "sha": "4e0b23c9624419521b6a5be74e82ca6b571cdeac",
+      "author": "dependabot[bot]",
+      "message": "Bump com.google.cloud:libraries-bom from 26.81.0 to 26.83.0\n\nBumps [com.google.cloud:libraries-bom](https://github.com/googleapis/java-cloud-bom) from 26.81.0 to 26.83.0.\n- [Release notes](https://github.com/googleapis/java-cloud-bom/releases)\n- [Commits](https://github.com/googleapis/java-cloud-bom/compare/v26.81.0...v26.83.0)\n\n---\nupdated-dependencies:\n- dependency-name: com.google.cloud:libraries-bom\n  dependency-version: 26.83.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-16T10:02:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/4e0b23c9624419521b6a5be74e82ca6b571cdeac",
+      "is_merge": false
+    },
+    {
       "sha": "16065abf777fe3e8d222228916997ed7d98c0150",
       "author": "JaredHatfield",
       "message": "Merge pull request #188 from UnitVectorY-Labs/dependabot/maven/com.google.cloud-libraries-bom-26.81.0\n\nBump com.google.cloud:libraries-bom from 26.80.0 to 26.81.0",
@@ -108,6 +164,14 @@
       "timestamp": "2026-04-16T02:24:59Z",
       "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/3d4686b1856fa12afd76ad9a81475f679f8b87f0",
       "is_merge": true
+    },
+    {
+      "sha": "3cc5cb83a5812eb78be8caf750be6498b90f0f1c",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/attest-build-provenance from 3 to 4\n\nBumps [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) from 3 to 4.\n- [Release notes](https://github.com/actions/attest-build-provenance/releases)\n- [Changelog](https://github.com/actions/attest-build-provenance/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest-build-provenance/compare/v3...v4)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest-build-provenance\n  dependency-version: '4'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-11T12:05:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/3cc5cb83a5812eb78be8caf750be6498b90f0f1c",
+      "is_merge": false
     },
     {
       "sha": "3bcc78ef1fb2b0c10eca5db6c1015242b97b84f5",

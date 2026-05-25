@@ -6,6 +6,54 @@
   "latest_release_time": "2025-10-22T00:51:12Z",
   "unreleased_commits": [
     {
+      "sha": "d9e70a334d36e7a8e7fb6d58264a4a21f830b267",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #99 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-api-6.1.0\n\nBump org.junit.jupiter:junit-jupiter-api from 6.0.3 to 6.1.0",
+      "timestamp": "2026-05-25T01:13:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/d9e70a334d36e7a8e7fb6d58264a4a21f830b267",
+      "is_merge": true
+    },
+    {
+      "sha": "06ff11697bc08a7b0dcce3a04fa9166eaaa6a572",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #90 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-4\n\nBump actions/attest-build-provenance from 3 to 4",
+      "timestamp": "2026-05-25T00:48:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/06ff11697bc08a7b0dcce3a04fa9166eaaa6a572",
+      "is_merge": true
+    },
+    {
+      "sha": "244886742bb6d09e4ea69f2dea8d2c265bb2859e",
+      "author": "JaredHatfield",
+      "message": "Pin actions/attest-build-provenance to v4.1.0 (a2bbfa2)",
+      "timestamp": "2026-05-25T00:42:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/244886742bb6d09e4ea69f2dea8d2c265bb2859e",
+      "is_merge": false
+    },
+    {
+      "sha": "a2c5acfef450b408a7a0faeccb88bcd530f1c8e3",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #98 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-6.0.1\n\nBump codecov/codecov-action from 6.0.0 to 6.0.1",
+      "timestamp": "2026-05-25T00:25:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/a2c5acfef450b408a7a0faeccb88bcd530f1c8e3",
+      "is_merge": true
+    },
+    {
+      "sha": "13765ba3f216e8f8945cdc121fa69a838fe022ce",
+      "author": "JaredHatfield",
+      "message": "fix: pin codecov-action to commit SHA",
+      "timestamp": "2026-05-24T01:19:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/13765ba3f216e8f8945cdc121fa69a838fe022ce",
+      "is_merge": false
+    },
+    {
+      "sha": "399b2018dce10e0ded28104e371869b79449e77f",
+      "author": "dependabot[bot]",
+      "message": "Bump org.junit.jupiter:junit-jupiter-api from 6.0.3 to 6.1.0\n\nBumps [org.junit.jupiter:junit-jupiter-api](https://github.com/junit-team/junit-framework) from 6.0.3 to 6.1.0.\n- [Release notes](https://github.com/junit-team/junit-framework/releases)\n- [Commits](https://github.com/junit-team/junit-framework/compare/r6.0.3...r6.1.0)\n\n---\nupdated-dependencies:\n- dependency-name: org.junit.jupiter:junit-jupiter-api\n  dependency-version: 6.1.0\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-23T14:10:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/399b2018dce10e0ded28104e371869b79449e77f",
+      "is_merge": false
+    },
+    {
       "sha": "51b7c039aa6b0985657d6309fa697b8a1f306967",
       "author": "JaredHatfield",
       "message": "Merge pull request #100 from UnitVectorY-Labs/dependabot/maven/org.json-json-20260522\n\nBump org.json:json from 20251224 to 20260522",
@@ -19,6 +67,14 @@
       "message": "Bump org.json:json from 20251224 to 20260522\n\nBumps [org.json:json](https://github.com/douglascrockford/JSON-java) from 20251224 to 20260522.\n- [Release notes](https://github.com/douglascrockford/JSON-java/releases)\n- [Changelog](https://github.com/stleary/JSON-java/blob/master/docs/RELEASES.md)\n- [Commits](https://github.com/douglascrockford/JSON-java/compare/20251224...20260522)\n\n---\nupdated-dependencies:\n- dependency-name: org.json:json\n  dependency-version: '20260522'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-05-23T10:02:40Z",
       "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/fe8d8ed01c74700aad3c9e2e92c150823dc3dec0",
+      "is_merge": false
+    },
+    {
+      "sha": "918d22f67bc66f303c759761d349fcd781ca530f",
+      "author": "dependabot[bot]",
+      "message": "Bump codecov/codecov-action from 6.0.0 to 6.0.1\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 6.0.0 to 6.0.1.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/v6.0.0...v6.0.1)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 6.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-23T10:02:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/918d22f67bc66f303c759761d349fcd781ca530f",
       "is_merge": false
     },
     {
@@ -51,6 +107,14 @@
       "message": "Bump astral-sh/setup-uv from 8.0.0 to 8.1.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.0.0 to 8.1.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/cec208311dfd045dd5311c1add060b2062131d57...08807647e7069bb48b6ef5acd8ec9567f424441b)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-04-18T10:02:26Z",
       "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/d3dc01ac12d5a14a6c073b733fe2be40c021d32a",
+      "is_merge": false
+    },
+    {
+      "sha": "3f9d4ec865aaf6be4de623233d087604e9bc59da",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/attest-build-provenance from 3 to 4\n\nBumps [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) from 3 to 4.\n- [Release notes](https://github.com/actions/attest-build-provenance/releases)\n- [Changelog](https://github.com/actions/attest-build-provenance/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest-build-provenance/compare/v3...v4)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest-build-provenance\n  dependency-version: '4'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-11T12:05:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/3f9d4ec865aaf6be4de623233d087604e9bc59da",
       "is_merge": false
     },
     {

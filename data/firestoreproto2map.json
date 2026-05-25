@@ -6,6 +6,62 @@
   "latest_release_time": "2025-11-29T14:36:30Z",
   "unreleased_commits": [
     {
+      "sha": "1f0df6f7ce00bbe4bd5b4b4ccd9996f5be1ee9fb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #194 from UnitVectorY-Labs/dependabot/maven/com.google.cloud-google-cloud-firestore-3.42.0\n\nBump com.google.cloud:google-cloud-firestore from 3.41.0 to 3.42.0",
+      "timestamp": "2026-05-25T01:07:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/1f0df6f7ce00bbe4bd5b4b4ccd9996f5be1ee9fb",
+      "is_merge": true
+    },
+    {
+      "sha": "9dbd2984a0d9b3ffb173593715a26d353c45a8ab",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #180 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-4\n\nBump actions/attest-build-provenance from 3 to 4",
+      "timestamp": "2026-05-25T00:48:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/9dbd2984a0d9b3ffb173593715a26d353c45a8ab",
+      "is_merge": true
+    },
+    {
+      "sha": "a527054372c9c8458ad2116ef399701c0835cbd6",
+      "author": "JaredHatfield",
+      "message": "Pin actions/attest-build-provenance to v4.1.0 (a2bbfa2)",
+      "timestamp": "2026-05-25T00:42:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/a527054372c9c8458ad2116ef399701c0835cbd6",
+      "is_merge": false
+    },
+    {
+      "sha": "4e693eb631b07a6df79a510acb51d62df2c9d340",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #195 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-6.0.1\n\nBump codecov/codecov-action from 6.0.0 to 6.0.1",
+      "timestamp": "2026-05-25T00:25:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/4e693eb631b07a6df79a510acb51d62df2c9d340",
+      "is_merge": true
+    },
+    {
+      "sha": "f3952f85676e1e9ad9c42585382c2488fe278514",
+      "author": "JaredHatfield",
+      "message": "fix: pin codecov-action to commit SHA",
+      "timestamp": "2026-05-24T01:17:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/f3952f85676e1e9ad9c42585382c2488fe278514",
+      "is_merge": false
+    },
+    {
+      "sha": "ac94745563ae448190c89defae83b9df9e0d161d",
+      "author": "dependabot[bot]",
+      "message": "Bump codecov/codecov-action from 6.0.0 to 6.0.1\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 6.0.0 to 6.0.1.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/v6.0.0...v6.0.1)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 6.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-23T10:02:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/ac94745563ae448190c89defae83b9df9e0d161d",
+      "is_merge": false
+    },
+    {
+      "sha": "5b20cdd1eaa602c630a57aa59963085741a3b8d5",
+      "author": "dependabot[bot]",
+      "message": "Bump com.google.cloud:google-cloud-firestore from 3.41.0 to 3.42.0\n\nBumps [com.google.cloud:google-cloud-firestore](https://github.com/googleapis/java-firestore) from 3.41.0 to 3.42.0.\n- [Release notes](https://github.com/googleapis/java-firestore/releases)\n- [Changelog](https://github.com/googleapis/java-firestore/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/googleapis/java-firestore/compare/v3.41.0...v3.42.0)\n\n---\nupdated-dependencies:\n- dependency-name: com.google.cloud:google-cloud-firestore\n  dependency-version: 3.42.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-09T14:51:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/5b20cdd1eaa602c630a57aa59963085741a3b8d5",
+      "is_merge": false
+    },
+    {
       "sha": "1f43aa07b06b9d8bb8c66d5aef923dcdfa93c495",
       "author": "JaredHatfield",
       "message": "Merge pull request #191 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-api-5.14.4\n\nBump org.junit.jupiter:junit-jupiter-api from 5.14.3 to 5.14.4",
@@ -83,6 +139,14 @@
       "message": "Bump astral-sh/setup-uv from 8.0.0 to 8.1.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.0.0 to 8.1.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/cec208311dfd045dd5311c1add060b2062131d57...08807647e7069bb48b6ef5acd8ec9567f424441b)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-04-18T10:02:25Z",
       "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/0108f7bceae3965c7675acdcadd437f2f2aa2b96",
+      "is_merge": false
+    },
+    {
+      "sha": "a18662b01078c2fb51447b8ebd3b45cc6f3b2d96",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/attest-build-provenance from 3 to 4\n\nBumps [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) from 3 to 4.\n- [Release notes](https://github.com/actions/attest-build-provenance/releases)\n- [Changelog](https://github.com/actions/attest-build-provenance/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest-build-provenance/compare/v3...v4)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest-build-provenance\n  dependency-version: '4'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-11T12:05:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/a18662b01078c2fb51447b8ebd3b45cc6f3b2d96",
       "is_merge": false
     },
     {

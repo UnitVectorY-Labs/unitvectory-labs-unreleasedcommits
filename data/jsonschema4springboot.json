@@ -6,6 +6,46 @@
   "latest_release_time": "2025-11-29T14:51:22Z",
   "unreleased_commits": [
     {
+      "sha": "462d04a60bb6113c5bb021b02436fa9204465d71",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #170 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-4\n\nBump actions/attest-build-provenance from 3 to 4",
+      "timestamp": "2026-05-25T00:48:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/462d04a60bb6113c5bb021b02436fa9204465d71",
+      "is_merge": true
+    },
+    {
+      "sha": "7c219f4e97fd1920bd4de9bf67b7cf1dd722e6ff",
+      "author": "JaredHatfield",
+      "message": "Pin actions/attest-build-provenance to v4.1.0 (a2bbfa2)",
+      "timestamp": "2026-05-25T00:42:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/7c219f4e97fd1920bd4de9bf67b7cf1dd722e6ff",
+      "is_merge": false
+    },
+    {
+      "sha": "d80461e0b852a2f922b98bc321e4951dcce73b81",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #186 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-6.0.1\n\nBump codecov/codecov-action from 6.0.0 to 6.0.1",
+      "timestamp": "2026-05-25T00:25:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/d80461e0b852a2f922b98bc321e4951dcce73b81",
+      "is_merge": true
+    },
+    {
+      "sha": "49539ef3922132bb7cd059d6d3cf00fe27a9ecfc",
+      "author": "JaredHatfield",
+      "message": "fix: pin codecov-action to commit SHA",
+      "timestamp": "2026-05-24T01:15:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/49539ef3922132bb7cd059d6d3cf00fe27a9ecfc",
+      "is_merge": false
+    },
+    {
+      "sha": "edfa1c30425c0faa5d2acb77777c1b7912188a80",
+      "author": "dependabot[bot]",
+      "message": "Bump codecov/codecov-action from 6.0.0 to 6.0.1\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 6.0.0 to 6.0.1.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/v6.0.0...v6.0.1)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 6.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-23T10:02:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/edfa1c30425c0faa5d2acb77777c1b7912188a80",
+      "is_merge": false
+    },
+    {
       "sha": "b7bf3feee8d7ec1af0dc93d8cfb216505889ae9e",
       "author": "JaredHatfield",
       "message": "Merge pull request #184 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-params-5.14.4\n\nBump org.junit.jupiter:junit-jupiter-params from 5.14.3 to 5.14.4",
@@ -83,6 +123,14 @@
       "message": "Bump astral-sh/setup-uv from 8.0.0 to 8.1.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.0.0 to 8.1.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/cec208311dfd045dd5311c1add060b2062131d57...08807647e7069bb48b6ef5acd8ec9567f424441b)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-04-18T10:02:22Z",
       "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/e18d4ed44a73945aaaf9b6785c6cb322e2647223",
+      "is_merge": false
+    },
+    {
+      "sha": "2eee440dfdee57f96a2a3f8ca9f26cda02050e3b",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/attest-build-provenance from 3 to 4\n\nBumps [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) from 3 to 4.\n- [Release notes](https://github.com/actions/attest-build-provenance/releases)\n- [Changelog](https://github.com/actions/attest-build-provenance/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest-build-provenance/compare/v3...v4)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest-build-provenance\n  dependency-version: '4'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-11T12:05:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/2eee440dfdee57f96a2a3f8ca9f26cda02050e3b",
       "is_merge": false
     },
     {

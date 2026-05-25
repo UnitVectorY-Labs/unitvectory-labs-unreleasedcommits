@@ -6,6 +6,38 @@
   "latest_release_time": "2026-05-22T00:28:23Z",
   "unreleased_commits": [
     {
+      "sha": "285edc3fc3b4dcd25687da4da11d490b1c34de09",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #80 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.2.0\n\nchore(deps): bump docker/login-action from 4.1.0 to 4.2.0",
+      "timestamp": "2026-05-25T01:16:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/285edc3fc3b4dcd25687da4da11d490b1c34de09",
+      "is_merge": true
+    },
+    {
+      "sha": "a924d43d5d1797f1fdb13965c1565628d0397fba",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #82 from UnitVectorY-Labs/dependabot/github_actions/docker/metadata-action-6.1.0\n\nchore(deps): bump docker/metadata-action from 6.0.0 to 6.1.0",
+      "timestamp": "2026-05-25T01:15:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/a924d43d5d1797f1fdb13965c1565628d0397fba",
+      "is_merge": true
+    },
+    {
+      "sha": "da29a2ea262ed4542e6f9dfa365147b693e4f540",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/metadata-action from 6.0.0 to 6.1.0\n\nBumps [docker/metadata-action](https://github.com/docker/metadata-action) from 6.0.0 to 6.1.0.\n- [Release notes](https://github.com/docker/metadata-action/releases)\n- [Commits](https://github.com/docker/metadata-action/compare/030e881283bb7a6894de51c315a6bfe6a94e05cf...80c7e94dd9b9319bd5eb7a0e0fe9291e23a2a2e9)\n\n---\nupdated-dependencies:\n- dependency-name: docker/metadata-action\n  dependency-version: 6.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-23T12:54:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/da29a2ea262ed4542e6f9dfa365147b693e4f540",
+      "is_merge": false
+    },
+    {
+      "sha": "7704074ce668a80134aac2d61db6eda48dc25471",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/login-action from 4.1.0 to 4.2.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.1.0 to 4.2.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/4907a6ddec9925e35a0a9e82d7399ccc52663121...650006c6eb7dba73a995cc03b0b2d7f5ca915bee)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-23T12:54:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/7704074ce668a80134aac2d61db6eda48dc25471",
+      "is_merge": false
+    },
+    {
       "sha": "ed1fba7899b85dffa311d92ba266c5665750cbe5",
       "author": "JaredHatfield",
       "message": "Merge pull request #79 from UnitVectorY-Labs/dependabot/github_actions/docker/setup-buildx-action-4.1.0\n\nchore(deps): bump docker/setup-buildx-action from 4.0.0 to 4.1.0",

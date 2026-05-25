@@ -6,6 +6,14 @@
   "latest_release_time": "2026-03-02T11:56:38Z",
   "unreleased_commits": [
     {
+      "sha": "084b6b476edd22b3271a6d3b6951d0256051f81b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #63 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-6.0.1\n\nchore(deps): bump codecov/codecov-action from 6.0.0 to 6.0.1",
+      "timestamp": "2026-05-25T00:26:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/084b6b476edd22b3271a6d3b6951d0256051f81b",
+      "is_merge": true
+    },
+    {
       "sha": "63bb2bf1b37c7e35cc4e9511760fef0293ab6180",
       "author": "JaredHatfield",
       "message": "Merge pull request #61 from UnitVectorY-Labs/dependabot/github_actions/docker/setup-buildx-action-4.1.0\n\nchore(deps): bump docker/setup-buildx-action from 4.0.0 to 4.1.0",
@@ -52,6 +60,14 @@
       "timestamp": "2026-05-23T12:41:37Z",
       "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/e33e0430c9956cf46cbc3f8a65dd72c5f310a08d",
       "is_merge": true
+    },
+    {
+      "sha": "8fbf4d2230384ae2deb54c08c6ce438116294fe6",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump codecov/codecov-action from 6.0.0 to 6.0.1\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 6.0.0 to 6.0.1.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/57e3a136b779b570ffcdbf80b3bdc90e7fab3de2...e79a6962e0d4c0c17b229090214935d2e33f8354)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 6.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-23T10:07:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/8fbf4d2230384ae2deb54c08c6ce438116294fe6",
+      "is_merge": false
     },
     {
       "sha": "e6bf7c796a976ecfae26416c80f8eedbdf86447e",

@@ -2,8 +2,8 @@
   "owner": "UnitVectorY-Labs",
   "name": "ghprmerge",
   "default_branch": "main",
-  "latest_release_tag": "v0.4.1",
-  "latest_release_time": "2026-05-23T23:31:10Z",
+  "latest_release_tag": "v0.4.2",
+  "latest_release_time": "2026-05-25T00:48:59Z",
   "unreleased_commits": null,
   "repository_url": "https://github.com/UnitVectorY-Labs/ghprmerge"
 }

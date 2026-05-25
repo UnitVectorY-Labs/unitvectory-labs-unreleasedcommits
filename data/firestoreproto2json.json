@@ -6,6 +6,46 @@
   "latest_release_time": "2025-11-29T14:40:13Z",
   "unreleased_commits": [
     {
+      "sha": "ff59501ffbdad22b50408ad0315dfef072459e5a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #136 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-4\n\nBump actions/attest-build-provenance from 3 to 4",
+      "timestamp": "2026-05-25T00:47:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/ff59501ffbdad22b50408ad0315dfef072459e5a",
+      "is_merge": true
+    },
+    {
+      "sha": "3187611e437a2d2e8b1b403076b238d61815c0bd",
+      "author": "JaredHatfield",
+      "message": "Pin actions/attest-build-provenance to v4.1.0 (a2bbfa2)",
+      "timestamp": "2026-05-25T00:42:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/3187611e437a2d2e8b1b403076b238d61815c0bd",
+      "is_merge": false
+    },
+    {
+      "sha": "2b9c8ff07a3ccaca0ea545cd89a702f7b2c96fea",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #149 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-6.0.1\n\nBump codecov/codecov-action from 6.0.0 to 6.0.1",
+      "timestamp": "2026-05-25T00:25:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/2b9c8ff07a3ccaca0ea545cd89a702f7b2c96fea",
+      "is_merge": true
+    },
+    {
+      "sha": "20f23e2edc2f93a3af73feeedc4f13d163c79f3a",
+      "author": "JaredHatfield",
+      "message": "fix: pin codecov-action to commit SHA",
+      "timestamp": "2026-05-24T01:10:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/20f23e2edc2f93a3af73feeedc4f13d163c79f3a",
+      "is_merge": false
+    },
+    {
+      "sha": "40ac578755d72822b1ad71351eb146ee1d350b86",
+      "author": "dependabot[bot]",
+      "message": "Bump codecov/codecov-action from 6.0.0 to 6.0.1\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 6.0.0 to 6.0.1.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/v6.0.0...v6.0.1)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 6.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-23T10:02:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/40ac578755d72822b1ad71351eb146ee1d350b86",
+      "is_merge": false
+    },
+    {
       "sha": "c17a708fb4ec56883ed82b1ddb540be57ae7cc0b",
       "author": "JaredHatfield",
       "message": "Merge pull request #148 from UnitVectorY-Labs/dependabot/github_actions/actions/add-to-project-2.0.0\n\nBump actions/add-to-project from 1.0.2 to 2.0.0",
@@ -83,6 +123,14 @@
       "message": "Bump astral-sh/setup-uv from 8.0.0 to 8.1.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.0.0 to 8.1.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/cec208311dfd045dd5311c1add060b2062131d57...08807647e7069bb48b6ef5acd8ec9567f424441b)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-04-18T10:02:25Z",
       "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/3096d1e2c2632470a917df9c9d006a97de43fb94",
+      "is_merge": false
+    },
+    {
+      "sha": "2388ba60ee69d915db54f46c076112f352a51002",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/attest-build-provenance from 3 to 4\n\nBumps [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) from 3 to 4.\n- [Release notes](https://github.com/actions/attest-build-provenance/releases)\n- [Changelog](https://github.com/actions/attest-build-provenance/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest-build-provenance/compare/v3...v4)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest-build-provenance\n  dependency-version: '4'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-11T12:05:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/2388ba60ee69d915db54f46c076112f352a51002",
       "is_merge": false
     },
     {

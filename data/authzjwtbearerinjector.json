@@ -6,12 +6,28 @@
   "latest_release_time": "2026-03-19T22:46:03Z",
   "unreleased_commits": [
     {
+      "sha": "dc29014083a3bd52ea0417cdf1c9e69bd6733dac",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #118 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.2.0\n\nchore(deps): bump docker/login-action from 4.1.0 to 4.2.0",
+      "timestamp": "2026-05-25T01:16:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/dc29014083a3bd52ea0417cdf1c9e69bd6733dac",
+      "is_merge": true
+    },
+    {
       "sha": "24689dab0774bd4744401aacb811474fe196e1c2",
       "author": "JaredHatfield",
       "message": "Merge pull request #114 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/grpc-1.81.1\n\nchore(deps): bump google.golang.org/grpc from 1.81.0 to 1.81.1",
       "timestamp": "2026-05-23T14:08:41Z",
       "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/24689dab0774bd4744401aacb811474fe196e1c2",
       "is_merge": true
+    },
+    {
+      "sha": "0ec1d0adc04e2a4bf5c7eb11c54913d524b529bf",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/login-action from 4.1.0 to 4.2.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.1.0 to 4.2.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/4907a6ddec9925e35a0a9e82d7399ccc52663121...650006c6eb7dba73a995cc03b0b2d7f5ca915bee)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-23T12:54:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/0ec1d0adc04e2a4bf5c7eb11c54913d524b529bf",
+      "is_merge": false
     },
     {
       "sha": "a38613f0c97dceade967bb06e33a682978b4721a",
