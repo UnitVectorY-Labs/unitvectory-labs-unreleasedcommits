@@ -6,6 +6,22 @@
   "latest_release_time": "2026-03-02T11:56:38Z",
   "unreleased_commits": [
     {
+      "sha": "dae8cf5abf97cfd8bd50e0e22d7f001ba3010a3b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #64 from UnitVectorY-Labs/go-fix-20260530\n\napply go fix",
+      "timestamp": "2026-05-30T14:23:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/dae8cf5abf97cfd8bd50e0e22d7f001ba3010a3b",
+      "is_merge": true
+    },
+    {
+      "sha": "e24eefe494fdc4e2bb74b3448c05773dde2c266e",
+      "author": "JaredHatfield",
+      "message": "apply go fix",
+      "timestamp": "2026-05-30T13:46:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/e24eefe494fdc4e2bb74b3448c05773dde2c266e",
+      "is_merge": false
+    },
+    {
       "sha": "084b6b476edd22b3271a6d3b6951d0256051f81b",
       "author": "JaredHatfield",
       "message": "Merge pull request #63 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-6.0.1\n\nchore(deps): bump codecov/codecov-action from 6.0.0 to 6.0.1",

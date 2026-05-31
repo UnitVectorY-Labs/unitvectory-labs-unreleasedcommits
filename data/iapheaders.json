@@ -6,6 +6,22 @@
   "latest_release_time": "2026-05-22T00:35:40Z",
   "unreleased_commits": [
     {
+      "sha": "28fd46158e6b5f807f35152cbc233e0f7b27c8eb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #94 from UnitVectorY-Labs/go-fix-20260530\n\napply go fix",
+      "timestamp": "2026-05-30T14:12:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/28fd46158e6b5f807f35152cbc233e0f7b27c8eb",
+      "is_merge": true
+    },
+    {
+      "sha": "3227bd5fee0eee218b0623cab3709e29b040cfae",
+      "author": "JaredHatfield",
+      "message": "apply go fix",
+      "timestamp": "2026-05-30T13:36:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/3227bd5fee0eee218b0623cab3709e29b040cfae",
+      "is_merge": false
+    },
+    {
       "sha": "8d34914dc35ecdc951289034ff04b09c982bd437",
       "author": "JaredHatfield",
       "message": "Merge pull request #92 from UnitVectorY-Labs/dependabot/github_actions/docker/metadata-action-6.1.0\n\nchore(deps): bump docker/metadata-action from 6.0.0 to 6.1.0",

@@ -6,6 +6,22 @@
   "latest_release_time": "2026-03-19T22:46:54Z",
   "unreleased_commits": [
     {
+      "sha": "4d35e9dd0f3067e0205779822720e251b227c544",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #171 from UnitVectorY-Labs/go-fix-20260530\n\napply go fix",
+      "timestamp": "2026-05-30T14:05:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/4d35e9dd0f3067e0205779822720e251b227c544",
+      "is_merge": true
+    },
+    {
+      "sha": "9c2f2a51661999de4efe16dc3ab23f63b1cdb3a3",
+      "author": "JaredHatfield",
+      "message": "apply go fix",
+      "timestamp": "2026-05-30T13:34:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/9c2f2a51661999de4efe16dc3ab23f63b1cdb3a3",
+      "is_merge": false
+    },
+    {
       "sha": "5b30d2fab8e8bd27a153eaf8bd45e4d0a3a9f928",
       "author": "JaredHatfield",
       "message": "Merge pull request #166 from UnitVectorY-Labs/dependabot/github_actions/docker/metadata-action-6.1.0\n\nchore(deps): bump docker/metadata-action from 6.0.0 to 6.1.0",

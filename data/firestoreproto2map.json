@@ -6,6 +6,22 @@
   "latest_release_time": "2025-11-29T14:36:30Z",
   "unreleased_commits": [
     {
+      "sha": "ccee9fdfd13040c718e8f452b5b575dd40c3aca7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #196 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.5.6\n\nBump org.apache.maven.plugins:maven-surefire-plugin from 3.5.5 to 3.5.6",
+      "timestamp": "2026-05-30T10:56:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/ccee9fdfd13040c718e8f452b5b575dd40c3aca7",
+      "is_merge": true
+    },
+    {
+      "sha": "873b3066840b103c61a7ad65a202ec69d275ceac",
+      "author": "dependabot[bot]",
+      "message": "Bump org.apache.maven.plugins:maven-surefire-plugin from 3.5.5 to 3.5.6\n\nBumps [org.apache.maven.plugins:maven-surefire-plugin](https://github.com/apache/maven-surefire) from 3.5.5 to 3.5.6.\n- [Release notes](https://github.com/apache/maven-surefire/releases)\n- [Commits](https://github.com/apache/maven-surefire/compare/surefire-3.5.5...surefire-3.5.6)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-surefire-plugin\n  dependency-version: 3.5.6\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-30T10:02:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/873b3066840b103c61a7ad65a202ec69d275ceac",
+      "is_merge": false
+    },
+    {
       "sha": "1f0df6f7ce00bbe4bd5b4b4ccd9996f5be1ee9fb",
       "author": "JaredHatfield",
       "message": "Merge pull request #194 from UnitVectorY-Labs/dependabot/maven/com.google.cloud-google-cloud-firestore-3.42.0\n\nBump com.google.cloud:google-cloud-firestore from 3.41.0 to 3.42.0",

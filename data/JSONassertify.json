@@ -6,6 +6,22 @@
   "latest_release_time": "2025-10-22T00:51:12Z",
   "unreleased_commits": [
     {
+      "sha": "88756e5e1914160b739d68bac40677cb64933410",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #101 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.5.6\n\nBump org.apache.maven.plugins:maven-surefire-plugin from 3.5.5 to 3.5.6",
+      "timestamp": "2026-05-30T10:56:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/88756e5e1914160b739d68bac40677cb64933410",
+      "is_merge": true
+    },
+    {
+      "sha": "53d3a4e4235a836a6188285a7d4eab07567001a6",
+      "author": "dependabot[bot]",
+      "message": "Bump org.apache.maven.plugins:maven-surefire-plugin from 3.5.5 to 3.5.6\n\nBumps [org.apache.maven.plugins:maven-surefire-plugin](https://github.com/apache/maven-surefire) from 3.5.5 to 3.5.6.\n- [Release notes](https://github.com/apache/maven-surefire/releases)\n- [Commits](https://github.com/apache/maven-surefire/compare/surefire-3.5.5...surefire-3.5.6)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-surefire-plugin\n  dependency-version: 3.5.6\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-30T10:02:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/53d3a4e4235a836a6188285a7d4eab07567001a6",
+      "is_merge": false
+    },
+    {
       "sha": "d9e70a334d36e7a8e7fb6d58264a4a21f830b267",
       "author": "JaredHatfield",
       "message": "Merge pull request #99 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-api-6.1.0\n\nBump org.junit.jupiter:junit-jupiter-api from 6.0.3 to 6.1.0",

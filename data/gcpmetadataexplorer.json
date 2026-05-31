@@ -6,6 +6,22 @@
   "latest_release_time": "2026-05-22T00:28:23Z",
   "unreleased_commits": [
     {
+      "sha": "1fc164c0a0c79b740e7ea934611d87aa2511d9b6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #84 from UnitVectorY-Labs/go-fix-20260530\n\napply go fix",
+      "timestamp": "2026-05-30T14:06:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/1fc164c0a0c79b740e7ea934611d87aa2511d9b6",
+      "is_merge": true
+    },
+    {
+      "sha": "ea02904d4c093f3cd8778aa2d7ce7b1005975a10",
+      "author": "JaredHatfield",
+      "message": "apply go fix",
+      "timestamp": "2026-05-30T13:34:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/ea02904d4c093f3cd8778aa2d7ce7b1005975a10",
+      "is_merge": false
+    },
+    {
       "sha": "285edc3fc3b4dcd25687da4da11d490b1c34de09",
       "author": "JaredHatfield",
       "message": "Merge pull request #80 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.2.0\n\nchore(deps): bump docker/login-action from 4.1.0 to 4.2.0",

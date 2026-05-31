@@ -6,6 +6,22 @@
   "latest_release_time": "2025-12-06T19:53:32Z",
   "unreleased_commits": [
     {
+      "sha": "e1e825b364433a1fa52addfb496853d618e12e16",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #61 from UnitVectorY-Labs/go-fix-20260530\n\napply go fix",
+      "timestamp": "2026-05-30T14:05:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/e1e825b364433a1fa52addfb496853d618e12e16",
+      "is_merge": true
+    },
+    {
+      "sha": "a3ef3a106b2fe826436a300d1d65d294c346b722",
+      "author": "JaredHatfield",
+      "message": "apply go fix",
+      "timestamp": "2026-05-30T13:34:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/a3ef3a106b2fe826436a300d1d65d294c346b722",
+      "is_merge": false
+    },
+    {
       "sha": "ca2babe532a944fac50d51abf00ae16a3077b76f",
       "author": "JaredHatfield",
       "message": "Merge pull request #56 from UnitVectorY-Labs/dependabot/github_actions/docker/setup-buildx-action-4.1.0\n\nchore(deps): bump docker/setup-buildx-action from 4.0.0 to 4.1.0",

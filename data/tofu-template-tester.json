@@ -4,6 +4,23 @@
   "default_branch": "main",
   "latest_release_tag": "v0.2.1",
   "latest_release_time": "2026-05-24T00:42:30Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "b927e8ee33bf8c747adb7be7b7fea5f54a0162f3",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #59 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.36.0\n\nbuild(deps): bump github/codeql-action from 4.35.5 to 4.36.0",
+      "timestamp": "2026-05-30T10:50:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/b927e8ee33bf8c747adb7be7b7fea5f54a0162f3",
+      "is_merge": true
+    },
+    {
+      "sha": "aadd762e6d1a528e58c0f7bd2ab69ef27d74782e",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github/codeql-action from 4.35.5 to 4.36.0\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.35.5 to 4.36.0.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/9e0d7b8d25671d64c341c19c0152d693099fb5ba...7211b7c8077ea37d8641b6271f6a365a22a5fbfa)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.36.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-30T10:04:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/aadd762e6d1a528e58c0f7bd2ab69ef27d74782e",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/tofu-template-tester"
 }
