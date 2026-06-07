@@ -6,6 +6,38 @@
   "latest_release_time": "2026-03-02T11:56:38Z",
   "unreleased_commits": [
     {
+      "sha": "a9b6d20c036db8e83fcfc7981733005a38cb5275",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #66 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-6.0.3\n\nchore(deps): bump actions/checkout from 6.0.2 to 6.0.3",
+      "timestamp": "2026-06-06T17:17:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/a9b6d20c036db8e83fcfc7981733005a38cb5275",
+      "is_merge": true
+    },
+    {
+      "sha": "1a8b1db374f2a9c98485b37f25fa7d9f0cc95c69",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #65 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.2.0\n\nchore(deps): bump astral-sh/setup-uv from 8.1.0 to 8.2.0",
+      "timestamp": "2026-06-06T15:17:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/1a8b1db374f2a9c98485b37f25fa7d9f0cc95c69",
+      "is_merge": true
+    },
+    {
+      "sha": "63906e5c05e011414fdf51e95241585ca0fdbdad",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/checkout from 6.0.2 to 6.0.3\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 6.0.2 to 6.0.3.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/de0fac2e4500dabe0009e67214ff5f5447ce83dd...df4cb1c069e1874edd31b4311f1884172cec0e10)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: 6.0.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-06T10:04:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/63906e5c05e011414fdf51e95241585ca0fdbdad",
+      "is_merge": false
+    },
+    {
+      "sha": "aabf60c300921c91b9d0b9cd3b647316e8ed960f",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 8.1.0 to 8.2.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.1.0 to 8.2.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/08807647e7069bb48b6ef5acd8ec9567f424441b...fac544c07dec837d0ccb6301d7b5580bf5edae39)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-06T10:04:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/aabf60c300921c91b9d0b9cd3b647316e8ed960f",
+      "is_merge": false
+    },
+    {
       "sha": "dae8cf5abf97cfd8bd50e0e22d7f001ba3010a3b",
       "author": "JaredHatfield",
       "message": "Merge pull request #64 from UnitVectorY-Labs/go-fix-20260530\n\napply go fix",

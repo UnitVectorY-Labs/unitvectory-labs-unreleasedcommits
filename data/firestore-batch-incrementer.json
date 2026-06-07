@@ -6,6 +6,54 @@
   "latest_release_time": "2025-11-22T16:11:27Z",
   "unreleased_commits": [
     {
+      "sha": "ddd47437a7552e5629b1b094519d96f773f3c594",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #154 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.36.1\n\nchore(deps): bump github/codeql-action from 4.36.0 to 4.36.1",
+      "timestamp": "2026-06-06T18:26:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/ddd47437a7552e5629b1b094519d96f773f3c594",
+      "is_merge": true
+    },
+    {
+      "sha": "daa208d0634cc5f4738b3fa7952aae95c90a4f20",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action from 4.36.0 to 4.36.1\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.36.0 to 4.36.1.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/7211b7c8077ea37d8641b6271f6a365a22a5fbfa...87557b9c84dde89fdd9b10e88954ac2f4248e463)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.36.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-06T17:19:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/daa208d0634cc5f4738b3fa7952aae95c90a4f20",
+      "is_merge": false
+    },
+    {
+      "sha": "2139a516923536fbf74d34647257ff9a879b50ec",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #152 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-6.0.3\n\nchore(deps): bump actions/checkout from 6.0.2 to 6.0.3",
+      "timestamp": "2026-06-06T17:16:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/2139a516923536fbf74d34647257ff9a879b50ec",
+      "is_merge": true
+    },
+    {
+      "sha": "18530d223a9ac62d0944780f410b4ce3fd2b6dce",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/checkout from 6.0.2 to 6.0.3\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 6.0.2 to 6.0.3.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/de0fac2e4500dabe0009e67214ff5f5447ce83dd...df4cb1c069e1874edd31b4311f1884172cec0e10)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: 6.0.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-06T15:18:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/18530d223a9ac62d0944780f410b4ce3fd2b6dce",
+      "is_merge": false
+    },
+    {
+      "sha": "c58807839565756ddd86c9083326aeafb4e50ad9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #151 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.2.0\n\nchore(deps): bump astral-sh/setup-uv from 8.1.0 to 8.2.0",
+      "timestamp": "2026-06-06T15:16:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/c58807839565756ddd86c9083326aeafb4e50ad9",
+      "is_merge": true
+    },
+    {
+      "sha": "f1539c5d14a9c8ce4e347180b8fb39c558220ec7",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 8.1.0 to 8.2.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.1.0 to 8.2.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/08807647e7069bb48b6ef5acd8ec9567f424441b...fac544c07dec837d0ccb6301d7b5580bf5edae39)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-06T10:04:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/f1539c5d14a9c8ce4e347180b8fb39c558220ec7",
+      "is_merge": false
+    },
+    {
       "sha": "811ef539e961314870a1b68d4978aa74ad551975",
       "author": "JaredHatfield",
       "message": "Merge pull request #144 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.281.0\n\nchore(deps): bump google.golang.org/api from 0.280.0 to 0.281.0",

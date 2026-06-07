@@ -6,6 +6,54 @@
   "latest_release_time": "2026-05-23T23:29:22Z",
   "unreleased_commits": [
     {
+      "sha": "44638eaaf7df38ec45e31a654a71edefec0c2f0a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #68 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.36.1\n\nbuild(deps): bump github/codeql-action from 4.36.0 to 4.36.1",
+      "timestamp": "2026-06-06T18:26:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/44638eaaf7df38ec45e31a654a71edefec0c2f0a",
+      "is_merge": true
+    },
+    {
+      "sha": "f3e5351106de258b20862efb846f1cff8fb33dd0",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github/codeql-action from 4.36.0 to 4.36.1\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.36.0 to 4.36.1.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/7211b7c8077ea37d8641b6271f6a365a22a5fbfa...87557b9c84dde89fdd9b10e88954ac2f4248e463)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.36.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-06T17:19:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/f3e5351106de258b20862efb846f1cff8fb33dd0",
+      "is_merge": false
+    },
+    {
+      "sha": "cd2f2b55b7e5a3c3698ec92876bdb18de63f841e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #69 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-6.0.3\n\nbuild(deps): bump actions/checkout from 6.0.2 to 6.0.3",
+      "timestamp": "2026-06-06T17:16:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/cd2f2b55b7e5a3c3698ec92876bdb18de63f841e",
+      "is_merge": true
+    },
+    {
+      "sha": "6c3272af1b847a9e3a63749af9c3a328cdc2fd9b",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/checkout from 6.0.2 to 6.0.3\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 6.0.2 to 6.0.3.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/de0fac2e4500dabe0009e67214ff5f5447ce83dd...df4cb1c069e1874edd31b4311f1884172cec0e10)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: 6.0.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-06T15:18:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/6c3272af1b847a9e3a63749af9c3a328cdc2fd9b",
+      "is_merge": false
+    },
+    {
+      "sha": "18acd25ccb77e5561fb486c2fd35a3ccccb163f1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #70 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.2.0\n\nbuild(deps): bump astral-sh/setup-uv from 8.1.0 to 8.2.0",
+      "timestamp": "2026-06-06T15:16:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/18acd25ccb77e5561fb486c2fd35a3ccccb163f1",
+      "is_merge": true
+    },
+    {
+      "sha": "eb5fb4a5f67c4b3d03704a6a2d64b6936bbe06c1",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 8.1.0 to 8.2.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.1.0 to 8.2.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/08807647e7069bb48b6ef5acd8ec9567f424441b...fac544c07dec837d0ccb6301d7b5580bf5edae39)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-06T10:09:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/eb5fb4a5f67c4b3d03704a6a2d64b6936bbe06c1",
+      "is_merge": false
+    },
+    {
       "sha": "0fc81b0f7b93613d9bb3ff36e93867ac9707f9cd",
       "author": "JaredHatfield",
       "message": "apply go fix (#67)",

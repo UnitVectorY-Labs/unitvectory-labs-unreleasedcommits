@@ -4,6 +4,55 @@
   "default_branch": "main",
   "latest_release_tag": "v0.3.0",
   "latest_release_time": "2026-06-04T01:15:28Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "3dae8d9609ea79f4606d60db054393329eb2f8b8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #3 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.36.1\n\nBump github/codeql-action from 4.36.0 to 4.36.1",
+      "timestamp": "2026-06-06T18:27:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/3dae8d9609ea79f4606d60db054393329eb2f8b8",
+      "is_merge": true
+    },
+    {
+      "sha": "e62288e27ac1d38728afeb5b20ffc366d24ef2fd",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #4 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-6.0.3\n\nBump actions/checkout from 6.0.2 to 6.0.3",
+      "timestamp": "2026-06-06T17:18:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/e62288e27ac1d38728afeb5b20ffc366d24ef2fd",
+      "is_merge": true
+    },
+    {
+      "sha": "e720cf919822554cbc8558c105d9e9e5c499a057",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #5 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.2.0\n\nBump astral-sh/setup-uv from 8.1.0 to 8.2.0",
+      "timestamp": "2026-06-06T15:19:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/e720cf919822554cbc8558c105d9e9e5c499a057",
+      "is_merge": true
+    },
+    {
+      "sha": "8daf74c82e8ba4000c3a6b2707a5b916b703f29f",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 8.1.0 to 8.2.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.1.0 to 8.2.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/08807647e7069bb48b6ef5acd8ec9567f424441b...fac544c07dec837d0ccb6301d7b5580bf5edae39)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-06T10:09:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/8daf74c82e8ba4000c3a6b2707a5b916b703f29f",
+      "is_merge": false
+    },
+    {
+      "sha": "dd2ff4e66e7fc6b7126fc526b24ab9f9785b40e6",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/checkout from 6.0.2 to 6.0.3\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 6.0.2 to 6.0.3.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/de0fac2e4500dabe0009e67214ff5f5447ce83dd...df4cb1c069e1874edd31b4311f1884172cec0e10)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: 6.0.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-06T10:08:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/dd2ff4e66e7fc6b7126fc526b24ab9f9785b40e6",
+      "is_merge": false
+    },
+    {
+      "sha": "bffc388e1532bbe7ac8e02a12978e551d2302e85",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action from 4.36.0 to 4.36.1\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.36.0 to 4.36.1.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/7211b7c8077ea37d8641b6271f6a365a22a5fbfa...87557b9c84dde89fdd9b10e88954ac2f4248e463)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.36.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-06T10:08:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/bffc388e1532bbe7ac8e02a12978e551d2302e85",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/cfgraft"
 }

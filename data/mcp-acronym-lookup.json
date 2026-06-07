@@ -6,6 +6,54 @@
   "latest_release_time": "2026-05-23T23:26:35Z",
   "unreleased_commits": [
     {
+      "sha": "bac71391fa10e2e7c0ccb2baf2630566264f22bf",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #93 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.36.1\n\nchore(deps): bump github/codeql-action from 4.36.0 to 4.36.1",
+      "timestamp": "2026-06-06T18:26:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/bac71391fa10e2e7c0ccb2baf2630566264f22bf",
+      "is_merge": true
+    },
+    {
+      "sha": "d22c0e2a6dd3f6cb8e04916a23b62055f34df52b",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action from 4.36.0 to 4.36.1\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.36.0 to 4.36.1.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/7211b7c8077ea37d8641b6271f6a365a22a5fbfa...87557b9c84dde89fdd9b10e88954ac2f4248e463)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.36.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-06T17:19:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/d22c0e2a6dd3f6cb8e04916a23b62055f34df52b",
+      "is_merge": false
+    },
+    {
+      "sha": "996ddd7f6cafea940ca4b9826e584e0e0dc01b27",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #94 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-6.0.3\n\nchore(deps): bump actions/checkout from 6.0.2 to 6.0.3",
+      "timestamp": "2026-06-06T17:16:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/996ddd7f6cafea940ca4b9826e584e0e0dc01b27",
+      "is_merge": true
+    },
+    {
+      "sha": "7c299d9a17181807c311811862e5faf6a1bd4234",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/checkout from 6.0.2 to 6.0.3\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 6.0.2 to 6.0.3.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/de0fac2e4500dabe0009e67214ff5f5447ce83dd...df4cb1c069e1874edd31b4311f1884172cec0e10)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: 6.0.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-06T15:19:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/7c299d9a17181807c311811862e5faf6a1bd4234",
+      "is_merge": false
+    },
+    {
+      "sha": "30db0e447a11f20d553b3039f399ea82fe423c3e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #95 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.2.0\n\nchore(deps): bump astral-sh/setup-uv from 8.1.0 to 8.2.0",
+      "timestamp": "2026-06-06T15:16:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/30db0e447a11f20d553b3039f399ea82fe423c3e",
+      "is_merge": true
+    },
+    {
+      "sha": "e5eec7786a29e605b992131e70df3558504ca79e",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 8.1.0 to 8.2.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.1.0 to 8.2.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/08807647e7069bb48b6ef5acd8ec9567f424441b...fac544c07dec837d0ccb6301d7b5580bf5edae39)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-06T10:09:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/e5eec7786a29e605b992131e70df3558504ca79e",
+      "is_merge": false
+    },
+    {
       "sha": "a09fb3ec245cac56a4bbb15f842181f6282a6292",
       "author": "JaredHatfield",
       "message": "Merge pull request #92 from UnitVectorY-Labs/go-fix-20260530\n\napply go fix",
