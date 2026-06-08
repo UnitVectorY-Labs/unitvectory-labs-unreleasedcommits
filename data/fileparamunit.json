@@ -6,12 +6,28 @@
   "latest_release_time": "2025-10-24T21:58:15Z",
   "unreleased_commits": [
     {
+      "sha": "efdffd96faca62ca6e387e041e8b75cb3bfbd485",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #125 from UnitVectorY-Labs/dependabot/maven/org.jacoco-jacoco-maven-plugin-0.8.15\n\nBump org.jacoco:jacoco-maven-plugin from 0.8.14 to 0.8.15",
+      "timestamp": "2026-06-07T11:04:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/fileparamunit/commit/efdffd96faca62ca6e387e041e8b75cb3bfbd485",
+      "is_merge": true
+    },
+    {
       "sha": "8f92228f950eca1bd897fb6d40c5885a74be8fa3",
       "author": "JaredHatfield",
       "message": "Merge pull request #124 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.2.0\n\nBump astral-sh/setup-uv from 8.1.0 to 8.2.0",
       "timestamp": "2026-06-06T15:13:11Z",
       "url": "https://github.com/UnitVectorY-Labs/fileparamunit/commit/8f92228f950eca1bd897fb6d40c5885a74be8fa3",
       "is_merge": true
+    },
+    {
+      "sha": "f70508c456a09269275c34b268fcf16a12f26e05",
+      "author": "dependabot[bot]",
+      "message": "Bump org.jacoco:jacoco-maven-plugin from 0.8.14 to 0.8.15\n\nBumps [org.jacoco:jacoco-maven-plugin](https://github.com/jacoco/jacoco) from 0.8.14 to 0.8.15.\n- [Release notes](https://github.com/jacoco/jacoco/releases)\n- [Commits](https://github.com/jacoco/jacoco/compare/v0.8.14...v0.8.15)\n\n---\nupdated-dependencies:\n- dependency-name: org.jacoco:jacoco-maven-plugin\n  dependency-version: 0.8.15\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-06T10:02:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/fileparamunit/commit/f70508c456a09269275c34b268fcf16a12f26e05",
+      "is_merge": false
     },
     {
       "sha": "2d8dd74e3a58cdb1cdad8b00271fd8ce8a286332",

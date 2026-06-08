@@ -6,6 +6,30 @@
   "latest_release_time": "2025-11-22T16:11:27Z",
   "unreleased_commits": [
     {
+      "sha": "80dc63ed7f7e9ba33c7376dcecd47e804f8d9883",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #153 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.283.0\n\nchore(deps): bump google.golang.org/api from 0.281.0 to 0.283.0",
+      "timestamp": "2026-06-07T11:07:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/80dc63ed7f7e9ba33c7376dcecd47e804f8d9883",
+      "is_merge": true
+    },
+    {
+      "sha": "34f21a159aac8aee5cc0a00fd03990aa5ba4ec18",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #156 from UnitVectorY-Labs/repver/go-v1.26.4\n\nUpdate Go version to v1.26.4",
+      "timestamp": "2026-06-07T10:54:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/34f21a159aac8aee5cc0a00fd03990aa5ba4ec18",
+      "is_merge": true
+    },
+    {
+      "sha": "6fbbc1dd6e09401cc3e118fc5453b1f999038bac",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.4",
+      "timestamp": "2026-06-06T18:36:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/6fbbc1dd6e09401cc3e118fc5453b1f999038bac",
+      "is_merge": false
+    },
+    {
       "sha": "ddd47437a7552e5629b1b094519d96f773f3c594",
       "author": "JaredHatfield",
       "message": "Merge pull request #154 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.36.1\n\nchore(deps): bump github/codeql-action from 4.36.0 to 4.36.1",
@@ -44,6 +68,14 @@
       "timestamp": "2026-06-06T15:16:34Z",
       "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/c58807839565756ddd86c9083326aeafb4e50ad9",
       "is_merge": true
+    },
+    {
+      "sha": "6f7b0959025d0eb611c049d7e77feceef747e8e2",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/api from 0.281.0 to 0.283.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.281.0 to 0.283.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.281.0...v0.283.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.283.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-06T10:04:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/6f7b0959025d0eb611c049d7e77feceef747e8e2",
+      "is_merge": false
     },
     {
       "sha": "f1539c5d14a9c8ce4e347180b8fb39c558220ec7",

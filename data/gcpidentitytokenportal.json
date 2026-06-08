@@ -6,6 +6,30 @@
   "latest_release_time": "2026-03-19T22:46:54Z",
   "unreleased_commits": [
     {
+      "sha": "79b60ed8140cc5158d929e532ed39bb91e43cdcb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #173 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.283.0\n\nchore(deps): bump google.golang.org/api from 0.282.0 to 0.283.0",
+      "timestamp": "2026-06-07T11:06:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/79b60ed8140cc5158d929e532ed39bb91e43cdcb",
+      "is_merge": true
+    },
+    {
+      "sha": "b0d62a4ab436353be3f48fee9266200b0876c3b0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #175 from UnitVectorY-Labs/repver/go-v1.26.4\n\nUpdate Go version to 1.26.4",
+      "timestamp": "2026-06-07T10:54:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/b0d62a4ab436353be3f48fee9266200b0876c3b0",
+      "is_merge": true
+    },
+    {
+      "sha": "937fc39370ea5ead24018240ecfbacf1fe576d0f",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.26.4",
+      "timestamp": "2026-06-06T18:36:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/937fc39370ea5ead24018240ecfbacf1fe576d0f",
+      "is_merge": false
+    },
+    {
       "sha": "cd13476b1244473ab506d56fffab4a4dcd5b7d8b",
       "author": "JaredHatfield",
       "message": "Merge pull request #174 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.2.0\n\nchore(deps): bump astral-sh/setup-uv from 8.1.0 to 8.2.0",
@@ -19,6 +43,14 @@
       "message": "chore(deps): bump astral-sh/setup-uv from 8.1.0 to 8.2.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.1.0 to 8.2.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/08807647e7069bb48b6ef5acd8ec9567f424441b...fac544c07dec837d0ccb6301d7b5580bf5edae39)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-06-06T10:12:28Z",
       "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/040393263295e32ef45d853382f491050c5cbfa0",
+      "is_merge": false
+    },
+    {
+      "sha": "d9f3384cf3ddde2170cdf3c678d1a1f062fcb529",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/api from 0.282.0 to 0.283.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.282.0 to 0.283.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.282.0...v0.283.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.283.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-06T10:06:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/d9f3384cf3ddde2170cdf3c678d1a1f062fcb529",
       "is_merge": false
     },
     {

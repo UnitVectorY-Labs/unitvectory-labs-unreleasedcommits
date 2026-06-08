@@ -6,6 +6,14 @@
   "latest_release_time": "2025-10-20T23:04:50Z",
   "unreleased_commits": [
     {
+      "sha": "bbab99562d4912a13620828e00af95b9fd24dfcc",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #85 from UnitVectorY-Labs/dependabot/maven/org.jacoco-jacoco-maven-plugin-0.8.15\n\nBump org.jacoco:jacoco-maven-plugin from 0.8.14 to 0.8.15",
+      "timestamp": "2026-06-07T11:06:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/bbab99562d4912a13620828e00af95b9fd24dfcc",
+      "is_merge": true
+    },
+    {
       "sha": "b43afdeb2d0330fec4acb107883ab1205d5fa627",
       "author": "JaredHatfield",
       "message": "Merge pull request #86 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.2.0\n\nBump astral-sh/setup-uv from 8.1.0 to 8.2.0",
@@ -19,6 +27,14 @@
       "message": "Bump astral-sh/setup-uv from 8.1.0 to 8.2.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.1.0 to 8.2.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/08807647e7069bb48b6ef5acd8ec9567f424441b...fac544c07dec837d0ccb6301d7b5580bf5edae39)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-06-06T10:04:24Z",
       "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/6cb3978e32cc6719bdb7dc90eb8a2d2c4ce8b8d0",
+      "is_merge": false
+    },
+    {
+      "sha": "8200a9b4f2c1228123f2b08d0623fcdc47bc31d2",
+      "author": "dependabot[bot]",
+      "message": "Bump org.jacoco:jacoco-maven-plugin from 0.8.14 to 0.8.15\n\nBumps [org.jacoco:jacoco-maven-plugin](https://github.com/jacoco/jacoco) from 0.8.14 to 0.8.15.\n- [Release notes](https://github.com/jacoco/jacoco/releases)\n- [Commits](https://github.com/jacoco/jacoco/compare/v0.8.14...v0.8.15)\n\n---\nupdated-dependencies:\n- dependency-name: org.jacoco:jacoco-maven-plugin\n  dependency-version: 0.8.15\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-06T10:04:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/8200a9b4f2c1228123f2b08d0623fcdc47bc31d2",
       "is_merge": false
     },
     {

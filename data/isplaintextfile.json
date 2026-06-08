@@ -6,6 +6,22 @@
   "latest_release_time": "2026-02-28T22:33:35Z",
   "unreleased_commits": [
     {
+      "sha": "f0b2e7e8ce8f5f4d8b179e172ffd631f749d06b0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #52 from UnitVectorY-Labs/repver/go-v1.26.4\n\nUpdate Go version to 1.26.4",
+      "timestamp": "2026-06-07T10:54:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/f0b2e7e8ce8f5f4d8b179e172ffd631f749d06b0",
+      "is_merge": true
+    },
+    {
+      "sha": "26136e3b7f32323a2fa9f2711181ccccbaf92f8a",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.26.4",
+      "timestamp": "2026-06-06T18:37:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/26136e3b7f32323a2fa9f2711181ccccbaf92f8a",
+      "is_merge": false
+    },
+    {
       "sha": "d567c36a0f853a8636153ca98e620661c5b8fb6a",
       "author": "JaredHatfield",
       "message": "Merge pull request #51 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.2.0\n\nBump astral-sh/setup-uv from 8.1.0 to 8.2.0",

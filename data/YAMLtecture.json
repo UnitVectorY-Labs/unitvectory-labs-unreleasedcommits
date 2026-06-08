@@ -6,6 +6,38 @@
   "latest_release_time": "2026-05-23T23:27:11Z",
   "unreleased_commits": [
     {
+      "sha": "3701ebb8404effdbd7e20080820b02b0336a84ce",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #110 from UnitVectorY-Labs/dependabot/go_modules/github.com/go-playground/validator/v10-10.30.3\n\nbuild(deps): bump github.com/go-playground/validator/v10 from 10.30.2 to 10.30.3",
+      "timestamp": "2026-06-07T17:29:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/3701ebb8404effdbd7e20080820b02b0336a84ce",
+      "is_merge": true
+    },
+    {
+      "sha": "dab9a4a9c8d91187f35295b8833c21bb24152b35",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github.com/go-playground/validator/v10\n\nBumps [github.com/go-playground/validator/v10](https://github.com/go-playground/validator) from 10.30.2 to 10.30.3.\n- [Release notes](https://github.com/go-playground/validator/releases)\n- [Commits](https://github.com/go-playground/validator/compare/v10.30.2...v10.30.3)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/go-playground/validator/v10\n  dependency-version: 10.30.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-07T10:56:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/dab9a4a9c8d91187f35295b8833c21bb24152b35",
+      "is_merge": false
+    },
+    {
+      "sha": "c2d6b457c40d5a3996b365b5498a3e951bbd13d9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #114 from UnitVectorY-Labs/repver/go-v1.26.4\n\nUpdate Go version to v1.26.4",
+      "timestamp": "2026-06-07T10:54:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/c2d6b457c40d5a3996b365b5498a3e951bbd13d9",
+      "is_merge": true
+    },
+    {
+      "sha": "48aa89ea9016b21333f34a0ed04539a9aceedb2c",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.4",
+      "timestamp": "2026-06-06T18:38:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/48aa89ea9016b21333f34a0ed04539a9aceedb2c",
+      "is_merge": false
+    },
+    {
       "sha": "34f66039c18f4493fb581b1fc7cbec92ecb11c14",
       "author": "JaredHatfield",
       "message": "Merge pull request #111 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.36.1\n\nbuild(deps): bump github/codeql-action from 4.36.0 to 4.36.1",

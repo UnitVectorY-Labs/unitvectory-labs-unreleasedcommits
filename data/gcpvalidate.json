@@ -6,6 +6,22 @@
   "latest_release_time": "2026-01-01T19:27:46Z",
   "unreleased_commits": [
     {
+      "sha": "ae4ef922c0c385cf0d86048301ee568496e5d896",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #43 from UnitVectorY-Labs/repver/go-v1.26.4\n\nUpdate Go version to v1.26.4",
+      "timestamp": "2026-06-07T10:55:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpvalidate/commit/ae4ef922c0c385cf0d86048301ee568496e5d896",
+      "is_merge": true
+    },
+    {
+      "sha": "70b45edfb6424cdc6a12605d9e1a329578002a70",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.4",
+      "timestamp": "2026-06-06T18:36:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpvalidate/commit/70b45edfb6424cdc6a12605d9e1a329578002a70",
+      "is_merge": false
+    },
+    {
       "sha": "bb17326514cd39d41bb1462dea24783c7a1a2b7d",
       "author": "JaredHatfield",
       "message": "Merge pull request #40 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.36.1\n\nBump github/codeql-action from 4.36.0 to 4.36.1",

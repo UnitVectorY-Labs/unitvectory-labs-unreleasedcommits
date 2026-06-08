@@ -6,12 +6,44 @@
   "latest_release_time": "2025-11-29T14:36:30Z",
   "unreleased_commits": [
     {
+      "sha": "3751e7f8bc15e798aa5f47511cf6e29d3c8871d1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #198 from UnitVectorY-Labs/dependabot/maven/com.google.cloud-google-cloud-firestore-3.43.0\n\nBump com.google.cloud:google-cloud-firestore from 3.42.0 to 3.43.0",
+      "timestamp": "2026-06-07T17:30:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/3751e7f8bc15e798aa5f47511cf6e29d3c8871d1",
+      "is_merge": true
+    },
+    {
+      "sha": "8a246dacffed690bdf9a5ba2455e3606bce232a1",
+      "author": "dependabot[bot]",
+      "message": "Bump com.google.cloud:google-cloud-firestore from 3.42.0 to 3.43.0\n\nBumps [com.google.cloud:google-cloud-firestore](https://github.com/googleapis/java-firestore) from 3.42.0 to 3.43.0.\n- [Release notes](https://github.com/googleapis/java-firestore/releases)\n- [Changelog](https://github.com/googleapis/java-firestore/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/googleapis/java-firestore/commits)\n\n---\nupdated-dependencies:\n- dependency-name: com.google.cloud:google-cloud-firestore\n  dependency-version: 3.43.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-07T11:07:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/8a246dacffed690bdf9a5ba2455e3606bce232a1",
+      "is_merge": false
+    },
+    {
+      "sha": "78c8fe0fd8d8a86dddfc08097183409ae8e5877e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #199 from UnitVectorY-Labs/dependabot/maven/org.jacoco-jacoco-maven-plugin-0.8.15\n\nBump org.jacoco:jacoco-maven-plugin from 0.8.14 to 0.8.15",
+      "timestamp": "2026-06-07T11:05:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/78c8fe0fd8d8a86dddfc08097183409ae8e5877e",
+      "is_merge": true
+    },
+    {
       "sha": "297f0dfb4309bb6348ddfaaec6be533aee8d47bb",
       "author": "JaredHatfield",
       "message": "Merge pull request #197 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.2.0\n\nBump astral-sh/setup-uv from 8.1.0 to 8.2.0",
       "timestamp": "2026-06-06T15:13:24Z",
       "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/297f0dfb4309bb6348ddfaaec6be533aee8d47bb",
       "is_merge": true
+    },
+    {
+      "sha": "77914155d79913b1ad38b9881397ca6be7c9aaad",
+      "author": "dependabot[bot]",
+      "message": "Bump org.jacoco:jacoco-maven-plugin from 0.8.14 to 0.8.15\n\nBumps [org.jacoco:jacoco-maven-plugin](https://github.com/jacoco/jacoco) from 0.8.14 to 0.8.15.\n- [Release notes](https://github.com/jacoco/jacoco/releases)\n- [Commits](https://github.com/jacoco/jacoco/compare/v0.8.14...v0.8.15)\n\n---\nupdated-dependencies:\n- dependency-name: org.jacoco:jacoco-maven-plugin\n  dependency-version: 0.8.15\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-06T10:02:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/77914155d79913b1ad38b9881397ca6be7c9aaad",
+      "is_merge": false
     },
     {
       "sha": "59e562f9f8a93d20b6e41732247a848739393542",

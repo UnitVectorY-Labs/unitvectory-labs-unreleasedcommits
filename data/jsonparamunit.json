@@ -6,12 +6,44 @@
   "latest_release_time": "2025-12-06T19:45:33Z",
   "unreleased_commits": [
     {
+      "sha": "597ef125b45e28e32f19b16117ece5f102b7945d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #160 from UnitVectorY-Labs/dependabot/maven/com.fasterxml.jackson.core-jackson-databind-2.22.0\n\nBump com.fasterxml.jackson.core:jackson-databind from 2.21.4 to 2.22.0",
+      "timestamp": "2026-06-07T17:30:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/597ef125b45e28e32f19b16117ece5f102b7945d",
+      "is_merge": true
+    },
+    {
+      "sha": "d3db878083de1050c4819e94d9ff40369a3128b6",
+      "author": "dependabot[bot]",
+      "message": "Bump com.fasterxml.jackson.core:jackson-databind from 2.21.4 to 2.22.0\n\nBumps [com.fasterxml.jackson.core:jackson-databind](https://github.com/FasterXML/jackson) from 2.21.4 to 2.22.0.\n- [Commits](https://github.com/FasterXML/jackson/commits)\n\n---\nupdated-dependencies:\n- dependency-name: com.fasterxml.jackson.core:jackson-databind\n  dependency-version: 2.22.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-07T11:06:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/d3db878083de1050c4819e94d9ff40369a3128b6",
+      "is_merge": false
+    },
+    {
+      "sha": "a2565c2bb4a0fc406ba2300ed00284269ad72831",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #161 from UnitVectorY-Labs/dependabot/maven/org.jacoco-jacoco-maven-plugin-0.8.15\n\nBump org.jacoco:jacoco-maven-plugin from 0.8.14 to 0.8.15",
+      "timestamp": "2026-06-07T11:04:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/a2565c2bb4a0fc406ba2300ed00284269ad72831",
+      "is_merge": true
+    },
+    {
       "sha": "bb7821aa8a68cb862a8c0d4415684d1fb0b1855c",
       "author": "JaredHatfield",
       "message": "Merge pull request #159 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.2.0\n\nBump astral-sh/setup-uv from 8.1.0 to 8.2.0",
       "timestamp": "2026-06-06T15:13:08Z",
       "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/bb7821aa8a68cb862a8c0d4415684d1fb0b1855c",
       "is_merge": true
+    },
+    {
+      "sha": "542a25001be48821b644713faf90d00bcb1856d4",
+      "author": "dependabot[bot]",
+      "message": "Bump org.jacoco:jacoco-maven-plugin from 0.8.14 to 0.8.15\n\nBumps [org.jacoco:jacoco-maven-plugin](https://github.com/jacoco/jacoco) from 0.8.14 to 0.8.15.\n- [Release notes](https://github.com/jacoco/jacoco/releases)\n- [Commits](https://github.com/jacoco/jacoco/compare/v0.8.14...v0.8.15)\n\n---\nupdated-dependencies:\n- dependency-name: org.jacoco:jacoco-maven-plugin\n  dependency-version: 0.8.15\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-06T10:02:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/542a25001be48821b644713faf90d00bcb1856d4",
+      "is_merge": false
     },
     {
       "sha": "59eca3a95642b93b69aa8cbc491925479e0af25f",

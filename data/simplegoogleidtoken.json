@@ -6,12 +6,44 @@
   "latest_release_time": "2026-02-28T23:05:15Z",
   "unreleased_commits": [
     {
+      "sha": "3fa4b1bbbdeb4fa60f7311b85f385d84502c2a9f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #132 from UnitVectorY-Labs/dependabot/maven/com.google.auth-google-auth-library-oauth2-http-1.48.0\n\nBump com.google.auth:google-auth-library-oauth2-http from 1.47.0 to 1.48.0",
+      "timestamp": "2026-06-07T17:30:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/3fa4b1bbbdeb4fa60f7311b85f385d84502c2a9f",
+      "is_merge": true
+    },
+    {
+      "sha": "a1d7c4bd1e12c61d19d7e569d9038801fb90ea1b",
+      "author": "dependabot[bot]",
+      "message": "Bump com.google.auth:google-auth-library-oauth2-http\n\nBumps com.google.auth:google-auth-library-oauth2-http from 1.47.0 to 1.48.0.\n\n---\nupdated-dependencies:\n- dependency-name: com.google.auth:google-auth-library-oauth2-http\n  dependency-version: 1.48.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-07T11:07:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/a1d7c4bd1e12c61d19d7e569d9038801fb90ea1b",
+      "is_merge": false
+    },
+    {
+      "sha": "24ad482194552f3bd86e1f5db1604e4eb89a2915",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #131 from UnitVectorY-Labs/dependabot/maven/org.jacoco-jacoco-maven-plugin-0.8.15\n\nBump org.jacoco:jacoco-maven-plugin from 0.8.14 to 0.8.15",
+      "timestamp": "2026-06-07T11:05:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/24ad482194552f3bd86e1f5db1604e4eb89a2915",
+      "is_merge": true
+    },
+    {
       "sha": "e549de786aaa62f20dc3ec5564a14a94e29430e9",
       "author": "JaredHatfield",
       "message": "Merge pull request #130 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.2.0\n\nBump astral-sh/setup-uv from 8.1.0 to 8.2.0",
       "timestamp": "2026-06-06T15:13:41Z",
       "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/e549de786aaa62f20dc3ec5564a14a94e29430e9",
       "is_merge": true
+    },
+    {
+      "sha": "5c0df3293f431c20ca9bd9bf29fcccc7a8eb52e2",
+      "author": "dependabot[bot]",
+      "message": "Bump org.jacoco:jacoco-maven-plugin from 0.8.14 to 0.8.15\n\nBumps [org.jacoco:jacoco-maven-plugin](https://github.com/jacoco/jacoco) from 0.8.14 to 0.8.15.\n- [Release notes](https://github.com/jacoco/jacoco/releases)\n- [Commits](https://github.com/jacoco/jacoco/compare/v0.8.14...v0.8.15)\n\n---\nupdated-dependencies:\n- dependency-name: org.jacoco:jacoco-maven-plugin\n  dependency-version: 0.8.15\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-06T10:02:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/5c0df3293f431c20ca9bd9bf29fcccc7a8eb52e2",
+      "is_merge": false
     },
     {
       "sha": "97bb175976c934f6cb144e7741f41a7b5f8eff16",
