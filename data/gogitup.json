@@ -4,6 +4,15 @@
   "default_branch": "main",
   "latest_release_tag": "v0.3.0",
   "latest_release_time": "2026-06-10T07:40:04Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "7d3e56d91fde620d6761bcf90f630e75bd64f3bc",
+      "author": "JaredHatfield",
+      "message": "feat: enable GitHub releases and mark project as active",
+      "timestamp": "2026-06-11T02:13:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/7d3e56d91fde620d6761bcf90f630e75bd64f3bc",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/gogitup"
 }
