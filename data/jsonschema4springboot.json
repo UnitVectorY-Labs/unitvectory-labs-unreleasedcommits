@@ -6,6 +6,22 @@
   "latest_release_time": "2025-11-29T14:51:22Z",
   "unreleased_commits": [
     {
+      "sha": "ca8fc3c6839aa1eea984027667377d6679fda732",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #190 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-7.0.0\n\nBump codecov/codecov-action from 6.0.1 to 7.0.0",
+      "timestamp": "2026-06-13T21:19:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/ca8fc3c6839aa1eea984027667377d6679fda732",
+      "is_merge": true
+    },
+    {
+      "sha": "709f54dbee7b9f5795b72c683dd18e2e7143c362",
+      "author": "dependabot[bot]",
+      "message": "Bump codecov/codecov-action from 6.0.1 to 7.0.0\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 6.0.1 to 7.0.0.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/e79a6962e0d4c0c17b229090214935d2e33f8354...fb8b3582c8e4def4969c97caa2f19720cb33a72f)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-13T10:02:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/709f54dbee7b9f5795b72c683dd18e2e7143c362",
+      "is_merge": false
+    },
+    {
       "sha": "286a5dbebebd6fec6eca6fe4e0977811b1dd849e",
       "author": "JaredHatfield",
       "message": "Merge pull request #189 from UnitVectorY-Labs/dependabot/maven/org.jacoco-jacoco-maven-plugin-0.8.15\n\nBump org.jacoco:jacoco-maven-plugin from 0.8.14 to 0.8.15",

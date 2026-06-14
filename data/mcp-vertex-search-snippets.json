@@ -6,6 +6,22 @@
   "latest_release_time": "2026-05-23T23:24:55Z",
   "unreleased_commits": [
     {
+      "sha": "f9e75c52e8f4cc3532048157547ac9d9556cf022",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #88 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.36.2\n\nchore(deps): bump github/codeql-action from 4.36.1 to 4.36.2",
+      "timestamp": "2026-06-13T21:22:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/f9e75c52e8f4cc3532048157547ac9d9556cf022",
+      "is_merge": true
+    },
+    {
+      "sha": "0abafc5d08eb96622c281a36b9c1577cb0e45fde",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action from 4.36.1 to 4.36.2\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.36.1 to 4.36.2.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/87557b9c84dde89fdd9b10e88954ac2f4248e463...8aad20d150bbac5944a9f9d289da16a4b0d87c1e)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.36.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-13T10:04:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/0abafc5d08eb96622c281a36b9c1577cb0e45fde",
+      "is_merge": false
+    },
+    {
       "sha": "a59ca6a36779ec47483a0ba08bfa4bbee4fddc3d",
       "author": "JaredHatfield",
       "message": "Merge pull request #86 from UnitVectorY-Labs/repver/go-v1.26.4\n\nUpdate Go version to v1.26.4",

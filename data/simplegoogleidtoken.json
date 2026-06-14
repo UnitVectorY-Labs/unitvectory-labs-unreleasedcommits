@@ -6,6 +6,22 @@
   "latest_release_time": "2026-02-28T23:05:15Z",
   "unreleased_commits": [
     {
+      "sha": "e522f911db1b0c8ff9156109407d4e9d67469d3b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #133 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-7.0.0\n\nBump codecov/codecov-action from 6.0.1 to 7.0.0",
+      "timestamp": "2026-06-13T21:19:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/e522f911db1b0c8ff9156109407d4e9d67469d3b",
+      "is_merge": true
+    },
+    {
+      "sha": "c8fdc36f283e4438ec0d164ad4d106b9906a3c2f",
+      "author": "dependabot[bot]",
+      "message": "Bump codecov/codecov-action from 6.0.1 to 7.0.0\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 6.0.1 to 7.0.0.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/e79a6962e0d4c0c17b229090214935d2e33f8354...fb8b3582c8e4def4969c97caa2f19720cb33a72f)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-13T10:02:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/c8fdc36f283e4438ec0d164ad4d106b9906a3c2f",
+      "is_merge": false
+    },
+    {
       "sha": "3fa4b1bbbdeb4fa60f7311b85f385d84502c2a9f",
       "author": "JaredHatfield",
       "message": "Merge pull request #132 from UnitVectorY-Labs/dependabot/maven/com.google.auth-google-auth-library-oauth2-http-1.48.0\n\nBump com.google.auth:google-auth-library-oauth2-http from 1.47.0 to 1.48.0",

@@ -4,6 +4,23 @@
   "default_branch": "main",
   "latest_release_tag": "v0.4.3",
   "latest_release_time": "2026-06-07T10:39:39Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "564af97bb45b2b88ac1e4a29aa4236f4306df841",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #63 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.36.2\n\nchore(deps): bump github/codeql-action from 4.36.1 to 4.36.2",
+      "timestamp": "2026-06-13T21:22:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/564af97bb45b2b88ac1e4a29aa4236f4306df841",
+      "is_merge": true
+    },
+    {
+      "sha": "273fd523b561bb36b309d7eb6ae54252959d2be6",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action from 4.36.1 to 4.36.2\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.36.1 to 4.36.2.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/87557b9c84dde89fdd9b10e88954ac2f4248e463...8aad20d150bbac5944a9f9d289da16a4b0d87c1e)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.36.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-13T10:04:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/273fd523b561bb36b309d7eb6ae54252959d2be6",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/ghprmerge"
 }
