@@ -4,6 +4,47 @@
   "default_branch": "main",
   "latest_release_tag": "v0.3.0",
   "latest_release_time": "2026-06-07T17:43:01Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "26c556e5c47c495c643d250bd449b2356415fcd2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #18 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7\n\nBump actions/checkout from 6 to 7",
+      "timestamp": "2026-06-20T15:43:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/26c556e5c47c495c643d250bd449b2356415fcd2",
+      "is_merge": true
+    },
+    {
+      "sha": "67cfa610cb5a69110838d8a43470d27242cb6408",
+      "author": "JaredHatfield",
+      "message": "Pin actions/checkout to SHA for v7.0.0",
+      "timestamp": "2026-06-20T15:07:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/67cfa610cb5a69110838d8a43470d27242cb6408",
+      "is_merge": false
+    },
+    {
+      "sha": "0873e1c5ce287419db7483606c803f21d2ac69ed",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/checkout from 6 to 7\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 6 to 7.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Commits](https://github.com/actions/checkout/compare/v6...v7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-20T10:04:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/0873e1c5ce287419db7483606c803f21d2ac69ed",
+      "is_merge": false
+    },
+    {
+      "sha": "652bdb67343fe8c8bee8566e9db41178d34c60e9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #16 from UnitVectorY-Labs/dependabot/npm_and_yarn/vercel/ncc-0.44.0\n\nBump @vercel/ncc from 0.38.4 to 0.44.0",
+      "timestamp": "2026-06-20T01:59:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/652bdb67343fe8c8bee8566e9db41178d34c60e9",
+      "is_merge": true
+    },
+    {
+      "sha": "981b4645e670705cac943ae87fb57bf235579a05",
+      "author": "dependabot[bot]",
+      "message": "Bump @vercel/ncc from 0.38.4 to 0.44.0\n\nBumps [@vercel/ncc](https://github.com/vercel/ncc) from 0.38.4 to 0.44.0.\n- [Release notes](https://github.com/vercel/ncc/releases)\n- [Commits](https://github.com/vercel/ncc/compare/0.38.4...0.44.0)\n\n---\nupdated-dependencies:\n- dependency-name: \"@vercel/ncc\"\n  dependency-version: 0.44.0\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-13T10:04:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/981b4645e670705cac943ae87fb57bf235579a05",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action"
 }

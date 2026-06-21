@@ -6,6 +6,62 @@
   "latest_release_time": "2025-10-26T12:30:45Z",
   "unreleased_commits": [
     {
+      "sha": "27bd8c83de57400650122976804421ba0fcde7d5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #197 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7\n\nBump actions/checkout from 6 to 7",
+      "timestamp": "2026-06-20T15:14:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/27bd8c83de57400650122976804421ba0fcde7d5",
+      "is_merge": true
+    },
+    {
+      "sha": "251bb153ad7c34fd47ac08a8df16b9daad6960d1",
+      "author": "JaredHatfield",
+      "message": "Pin actions/checkout to SHA for v7.0.0",
+      "timestamp": "2026-06-20T15:06:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/251bb153ad7c34fd47ac08a8df16b9daad6960d1",
+      "is_merge": false
+    },
+    {
+      "sha": "a7e6eb20f21022de457127d76fb6325000c3195e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #196 from UnitVectorY-Labs/dependabot/maven/org.sonatype.central-central-publishing-maven-plugin-0.11.0\n\nBump org.sonatype.central:central-publishing-maven-plugin from 0.10.0 to 0.11.0",
+      "timestamp": "2026-06-20T11:17:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/a7e6eb20f21022de457127d76fb6325000c3195e",
+      "is_merge": true
+    },
+    {
+      "sha": "d3001b45cd43e664b4cbe846af4303be92ea4a25",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/checkout from 6 to 7\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 6 to 7.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Commits](https://github.com/actions/checkout/compare/v6...v7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-20T10:02:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/d3001b45cd43e664b4cbe846af4303be92ea4a25",
+      "is_merge": false
+    },
+    {
+      "sha": "c4e65f5ce722de232aef47984cf6e2c4ecb849ee",
+      "author": "dependabot[bot]",
+      "message": "Bump org.sonatype.central:central-publishing-maven-plugin\n\nBumps [org.sonatype.central:central-publishing-maven-plugin](https://github.com/sonatype/central-publishing-maven-plugin) from 0.10.0 to 0.11.0.\n- [Commits](https://github.com/sonatype/central-publishing-maven-plugin/commits)\n\n---\nupdated-dependencies:\n- dependency-name: org.sonatype.central:central-publishing-maven-plugin\n  dependency-version: 0.11.0\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-20T10:02:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/c4e65f5ce722de232aef47984cf6e2c4ecb849ee",
+      "is_merge": false
+    },
+    {
+      "sha": "7d39f4ba4adf0c8152252570a7a0d2982ae3602c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #194 from UnitVectorY-Labs/dependabot/maven/com.google.cloud-libraries-bom-26.84.0\n\nBump com.google.cloud:libraries-bom from 26.83.0 to 26.84.0",
+      "timestamp": "2026-06-20T02:02:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/7d39f4ba4adf0c8152252570a7a0d2982ae3602c",
+      "is_merge": true
+    },
+    {
+      "sha": "8a8b9378f32ca570fee801cf37caee644e8da651",
+      "author": "dependabot[bot]",
+      "message": "Bump com.google.cloud:libraries-bom from 26.83.0 to 26.84.0\n\nBumps [com.google.cloud:libraries-bom](https://github.com/googleapis/java-cloud-bom) from 26.83.0 to 26.84.0.\n- [Release notes](https://github.com/googleapis/java-cloud-bom/releases)\n- [Commits](https://github.com/googleapis/java-cloud-bom/compare/v26.83.0...v26.84.0)\n\n---\nupdated-dependencies:\n- dependency-name: com.google.cloud:libraries-bom\n  dependency-version: 26.84.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-20T02:00:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/8a8b9378f32ca570fee801cf37caee644e8da651",
+      "is_merge": false
+    },
+    {
       "sha": "6259415942ce8fc0428211f2e6877761f9480c77",
       "author": "JaredHatfield",
       "message": "Merge pull request #195 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-7.0.0\n\nBump codecov/codecov-action from 6.0.1 to 7.0.0",

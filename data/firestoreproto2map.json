@@ -6,6 +6,62 @@
   "latest_release_time": "2025-11-29T14:36:30Z",
   "unreleased_commits": [
     {
+      "sha": "067294601f6342e873a309a7e4a13770e4a2cd96",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #203 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7\n\nBump actions/checkout from 6 to 7",
+      "timestamp": "2026-06-20T15:41:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/067294601f6342e873a309a7e4a13770e4a2cd96",
+      "is_merge": true
+    },
+    {
+      "sha": "11350a16a8ea82b127ac7c024e3037294fb8e669",
+      "author": "JaredHatfield",
+      "message": "Pin actions/checkout to SHA for v7.0.0",
+      "timestamp": "2026-06-20T15:06:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/11350a16a8ea82b127ac7c024e3037294fb8e669",
+      "is_merge": false
+    },
+    {
+      "sha": "792bc4dc35f2921977e9aa0f3a4b08bebceafb5c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #202 from UnitVectorY-Labs/dependabot/maven/org.sonatype.central-central-publishing-maven-plugin-0.11.0\n\nBump org.sonatype.central:central-publishing-maven-plugin from 0.10.0 to 0.11.0",
+      "timestamp": "2026-06-20T11:17:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/792bc4dc35f2921977e9aa0f3a4b08bebceafb5c",
+      "is_merge": true
+    },
+    {
+      "sha": "aec50bf89534dfce3a305dec00ea7a80ae51471a",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/checkout from 6 to 7\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 6 to 7.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Commits](https://github.com/actions/checkout/compare/v6...v7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-20T10:02:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/aec50bf89534dfce3a305dec00ea7a80ae51471a",
+      "is_merge": false
+    },
+    {
+      "sha": "3f9e9c5f2cf38152aba72dea5ab18dfc0eb5445a",
+      "author": "dependabot[bot]",
+      "message": "Bump org.sonatype.central:central-publishing-maven-plugin\n\nBumps [org.sonatype.central:central-publishing-maven-plugin](https://github.com/sonatype/central-publishing-maven-plugin) from 0.10.0 to 0.11.0.\n- [Commits](https://github.com/sonatype/central-publishing-maven-plugin/commits)\n\n---\nupdated-dependencies:\n- dependency-name: org.sonatype.central:central-publishing-maven-plugin\n  dependency-version: 0.11.0\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-20T10:02:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/3f9e9c5f2cf38152aba72dea5ab18dfc0eb5445a",
+      "is_merge": false
+    },
+    {
+      "sha": "ed0ee74db5ece546d9756f0467fed4a068510e6c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #201 from UnitVectorY-Labs/dependabot/maven/com.google.cloud-google-cloud-firestore-3.43.1\n\nBump com.google.cloud:google-cloud-firestore from 3.43.0 to 3.43.1",
+      "timestamp": "2026-06-20T02:02:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/ed0ee74db5ece546d9756f0467fed4a068510e6c",
+      "is_merge": true
+    },
+    {
+      "sha": "e340380cb27087f858f74507f6c8b894f32698b1",
+      "author": "dependabot[bot]",
+      "message": "Bump com.google.cloud:google-cloud-firestore from 3.43.0 to 3.43.1\n\nBumps [com.google.cloud:google-cloud-firestore](https://github.com/googleapis/java-firestore) from 3.43.0 to 3.43.1.\n- [Release notes](https://github.com/googleapis/java-firestore/releases)\n- [Changelog](https://github.com/googleapis/java-firestore/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/googleapis/java-firestore/commits)\n\n---\nupdated-dependencies:\n- dependency-name: com.google.cloud:google-cloud-firestore\n  dependency-version: 3.43.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-20T02:00:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/e340380cb27087f858f74507f6c8b894f32698b1",
+      "is_merge": false
+    },
+    {
       "sha": "b13e61ceb03a18dc3207ed949db74ba9c5f24b73",
       "author": "JaredHatfield",
       "message": "Merge pull request #200 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-7.0.0\n\nBump codecov/codecov-action from 6.0.1 to 7.0.0",

@@ -4,6 +4,31 @@
   "default_branch": "main",
   "latest_release_tag": "v0.3.2",
   "latest_release_time": "2026-06-17T11:03:43Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "d728c96635d06598aaf34072d972112a6e8291bb",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for gitrepoforge (#45)\n\n* gitrepoforge: apply desired state for gitrepoforge\n\n* Fix .repver: hardcode .0 instead of {{patch}} in go version transform\n\n* Fix .repver: align - path indentation under targets (3 spaces)",
+      "timestamp": "2026-06-20T12:54:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/gitrepoforge/commit/d728c96635d06598aaf34072d972112a6e8291bb",
+      "is_merge": false
+    },
+    {
+      "sha": "3550fb4448669c7ae2b37da57c51dd863049b0a5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #44 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7.0.0\n\nbuild(deps): bump actions/checkout from 6.0.3 to 7.0.0",
+      "timestamp": "2026-06-20T11:08:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/gitrepoforge/commit/3550fb4448669c7ae2b37da57c51dd863049b0a5",
+      "is_merge": true
+    },
+    {
+      "sha": "4e409815bdbdac8c7c8fcfa11c571a145f3e3302",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/checkout from 6.0.3 to 7.0.0\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 6.0.3 to 7.0.0.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/df4cb1c069e1874edd31b4311f1884172cec0e10...9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-20T10:03:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/gitrepoforge/commit/4e409815bdbdac8c7c8fcfa11c571a145f3e3302",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/gitrepoforge"
 }

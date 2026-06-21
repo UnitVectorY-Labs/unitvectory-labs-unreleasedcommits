@@ -6,6 +6,30 @@
   "latest_release_time": "2026-05-22T00:28:23Z",
   "unreleased_commits": [
     {
+      "sha": "58679838acb590d45ec9f665e23aeb01d104fa8f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #90 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7\n\nchore(deps): bump actions/checkout from 6 to 7",
+      "timestamp": "2026-06-20T15:42:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/58679838acb590d45ec9f665e23aeb01d104fa8f",
+      "is_merge": true
+    },
+    {
+      "sha": "4e52e661f57463f3c594e2ed417630dd13ee51bf",
+      "author": "JaredHatfield",
+      "message": "Pin actions/checkout to SHA for v7.0.0",
+      "timestamp": "2026-06-20T15:07:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/4e52e661f57463f3c594e2ed417630dd13ee51bf",
+      "is_merge": false
+    },
+    {
+      "sha": "2fce8e07d65c93f6d6d5664873febd1d54c82537",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/checkout from 6 to 7\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 6 to 7.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Commits](https://github.com/actions/checkout/compare/v6...v7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-20T10:03:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/2fce8e07d65c93f6d6d5664873febd1d54c82537",
+      "is_merge": false
+    },
+    {
       "sha": "85115498a7e78175ea266b342d9a6a9388280a0d",
       "author": "JaredHatfield",
       "message": "Merge pull request #89 from UnitVectorY-Labs/dependabot/github_actions/unitvectory-labs/kuberollouttrigger-action-0.3.0\n\nchore(deps): bump unitvectory-labs/kuberollouttrigger-action from 0.2.0 to 0.3.0",

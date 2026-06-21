@@ -6,6 +6,54 @@
   "latest_release_time": "2026-05-24T00:42:30Z",
   "unreleased_commits": [
     {
+      "sha": "d5dc2c6b4064596e1600db0c997318e1c36cce58",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #67 from UnitVectorY-Labs/gitrepoforge/tofu-template-tester\n\ngitrepoforge: apply desired state for tofu-template-tester",
+      "timestamp": "2026-06-20T14:54:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/d5dc2c6b4064596e1600db0c997318e1c36cce58",
+      "is_merge": true
+    },
+    {
+      "sha": "c4ec17df4a39ee3a613c16626e2fc41b5f076bd3",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for tofu-template-tester",
+      "timestamp": "2026-06-20T14:51:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/c4ec17df4a39ee3a613c16626e2fc41b5f076bd3",
+      "is_merge": false
+    },
+    {
+      "sha": "335456e7fac1f5a9362298f0600b5093f3e271bd",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #66 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7.0.0\n\nbuild(deps): bump actions/checkout from 6.0.3 to 7.0.0",
+      "timestamp": "2026-06-20T11:07:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/335456e7fac1f5a9362298f0600b5093f3e271bd",
+      "is_merge": true
+    },
+    {
+      "sha": "bd5bb7750d10be8af677020995f45805dc3e6509",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/checkout from 6.0.3 to 7.0.0\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 6.0.3 to 7.0.0.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/df4cb1c069e1874edd31b4311f1884172cec0e10...9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-20T10:04:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/bd5bb7750d10be8af677020995f45805dc3e6509",
+      "is_merge": false
+    },
+    {
+      "sha": "dd3ab63fa80459c7a8d9062fe214f4e192767df2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #64 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-7.0.0\n\nbuild(deps): bump codecov/codecov-action from 6.0.1 to 7.0.0",
+      "timestamp": "2026-06-20T01:51:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/dd3ab63fa80459c7a8d9062fe214f4e192767df2",
+      "is_merge": true
+    },
+    {
+      "sha": "8b3fdf16172e049625dd359b8cb98be69f2a3197",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump codecov/codecov-action from 6.0.1 to 7.0.0\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 6.0.1 to 7.0.0.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/e79a6962e0d4c0c17b229090214935d2e33f8354...fb8b3582c8e4def4969c97caa2f19720cb33a72f)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-13T21:24:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/8b3fdf16172e049625dd359b8cb98be69f2a3197",
+      "is_merge": false
+    },
+    {
       "sha": "a039895ba3f3d9f56fec2c0296f69f65b4da6f85",
       "author": "JaredHatfield",
       "message": "Merge pull request #65 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.36.2\n\nbuild(deps): bump github/codeql-action from 4.36.1 to 4.36.2",

@@ -6,6 +6,62 @@
   "latest_release_time": "2026-05-23T23:26:19Z",
   "unreleased_commits": [
     {
+      "sha": "8feef967abcbb0931eb65c5658cdf139c56abfe7",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for mcp-tf-provider-docs (#93)\n\n* gitrepoforge: apply desired state for mcp-tf-provider-docs\n\n* Fix .repver: hardcode .0 instead of {{patch}} in go version transform\n\n* Fix .repver: align - path indentation under targets (3 spaces)",
+      "timestamp": "2026-06-20T12:57:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/8feef967abcbb0931eb65c5658cdf139c56abfe7",
+      "is_merge": false
+    },
+    {
+      "sha": "74317c0701f74952cbaebaba07cce93cc119d873",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #91 from UnitVectorY-Labs/dependabot/go_modules/github.com/mark3labs/mcp-go-0.55.0\n\nchore(deps): bump github.com/mark3labs/mcp-go from 0.54.1 to 0.55.0",
+      "timestamp": "2026-06-20T11:18:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/74317c0701f74952cbaebaba07cce93cc119d873",
+      "is_merge": true
+    },
+    {
+      "sha": "81e96f922523ca2bde633dbda7b88d66af38f74b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #92 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7.0.0\n\nchore(deps): bump actions/checkout from 6.0.3 to 7.0.0",
+      "timestamp": "2026-06-20T11:07:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/81e96f922523ca2bde633dbda7b88d66af38f74b",
+      "is_merge": true
+    },
+    {
+      "sha": "777597c2ab04439eb32f79b673878a0dd48e8e39",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/checkout from 6.0.3 to 7.0.0\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 6.0.3 to 7.0.0.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/df4cb1c069e1874edd31b4311f1884172cec0e10...9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-20T10:05:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/777597c2ab04439eb32f79b673878a0dd48e8e39",
+      "is_merge": false
+    },
+    {
+      "sha": "d4bdb9affb29284671dc0719c3bb9cdad9a564ba",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github.com/mark3labs/mcp-go from 0.54.1 to 0.55.0\n\nBumps [github.com/mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) from 0.54.1 to 0.55.0.\n- [Release notes](https://github.com/mark3labs/mcp-go/releases)\n- [Commits](https://github.com/mark3labs/mcp-go/compare/v0.54.1...v0.55.0)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/mark3labs/mcp-go\n  dependency-version: 0.55.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-20T10:04:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/d4bdb9affb29284671dc0719c3bb9cdad9a564ba",
+      "is_merge": false
+    },
+    {
+      "sha": "0310393d4866434226605a99728f81641d5a62f5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #89 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.36.2\n\nchore(deps): bump github/codeql-action from 4.36.1 to 4.36.2",
+      "timestamp": "2026-06-20T01:58:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/0310393d4866434226605a99728f81641d5a62f5",
+      "is_merge": true
+    },
+    {
+      "sha": "bdeb74726da1463b935e41490a887779f23c2f75",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action from 4.36.1 to 4.36.2\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.36.1 to 4.36.2.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/87557b9c84dde89fdd9b10e88954ac2f4248e463...8aad20d150bbac5944a9f9d289da16a4b0d87c1e)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.36.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-13T21:25:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/bdeb74726da1463b935e41490a887779f23c2f75",
+      "is_merge": false
+    },
+    {
       "sha": "322747c0cebfb6f41ab1157269d13c490dd99013",
       "author": "JaredHatfield",
       "message": "Merge pull request #90 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-7.0.0\n\nchore(deps): bump codecov/codecov-action from 6.0.1 to 7.0.0",

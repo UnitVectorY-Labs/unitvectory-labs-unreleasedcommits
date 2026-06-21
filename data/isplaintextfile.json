@@ -6,6 +6,30 @@
   "latest_release_time": "2026-02-28T22:33:35Z",
   "unreleased_commits": [
     {
+      "sha": "8d610965304d2e4200b53e503c0c8b7b9c72fb8e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #54 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7\n\nBump actions/checkout from 6 to 7",
+      "timestamp": "2026-06-20T15:42:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/8d610965304d2e4200b53e503c0c8b7b9c72fb8e",
+      "is_merge": true
+    },
+    {
+      "sha": "ab771576d782b8aaa340662f1b658ce3c61993f8",
+      "author": "JaredHatfield",
+      "message": "Pin actions/checkout to SHA for v7.0.0",
+      "timestamp": "2026-06-20T15:07:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/ab771576d782b8aaa340662f1b658ce3c61993f8",
+      "is_merge": false
+    },
+    {
+      "sha": "59d498e8e3b0b2d128392ecae96bc8b78ef3e02b",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/checkout from 6 to 7\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 6 to 7.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Commits](https://github.com/actions/checkout/compare/v6...v7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-20T10:03:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/59d498e8e3b0b2d128392ecae96bc8b78ef3e02b",
+      "is_merge": false
+    },
+    {
       "sha": "1076460397228cf560ff081c6422b09f16564fa2",
       "author": "JaredHatfield",
       "message": "Merge pull request #53 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-7.0.0\n\nBump codecov/codecov-action from 6.0.1 to 7.0.0",

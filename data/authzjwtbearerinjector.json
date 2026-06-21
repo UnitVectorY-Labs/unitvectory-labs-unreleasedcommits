@@ -6,6 +6,30 @@
   "latest_release_time": "2026-03-19T22:46:03Z",
   "unreleased_commits": [
     {
+      "sha": "2475f73cdb0281b16e90d07496d7e160bd11d81e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #126 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7\n\nchore(deps): bump actions/checkout from 6 to 7",
+      "timestamp": "2026-06-20T15:42:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/2475f73cdb0281b16e90d07496d7e160bd11d81e",
+      "is_merge": true
+    },
+    {
+      "sha": "e7251a37cc20fcd623e189c5e34df4f35fbd00f1",
+      "author": "JaredHatfield",
+      "message": "Pin actions/checkout to SHA for v7.0.0",
+      "timestamp": "2026-06-20T15:07:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/e7251a37cc20fcd623e189c5e34df4f35fbd00f1",
+      "is_merge": false
+    },
+    {
+      "sha": "0f712ee3a40f6745b17f44b6fce29b3c115a8db5",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/checkout from 6 to 7\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 6 to 7.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Commits](https://github.com/actions/checkout/compare/v6...v7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-20T10:02:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/0f712ee3a40f6745b17f44b6fce29b3c115a8db5",
+      "is_merge": false
+    },
+    {
       "sha": "69b2becbcfb85cc71cd3208460ba161823a650dc",
       "author": "JaredHatfield",
       "message": "Merge pull request #125 from UnitVectorY-Labs/dependabot/github_actions/unitvectory-labs/kuberollouttrigger-action-0.3.0\n\nchore(deps): bump unitvectory-labs/kuberollouttrigger-action from 0.2.0 to 0.3.0",

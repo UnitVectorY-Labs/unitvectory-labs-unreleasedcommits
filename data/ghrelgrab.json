@@ -6,6 +6,30 @@
   "latest_release_time": "2025-12-06T19:53:32Z",
   "unreleased_commits": [
     {
+      "sha": "ab4dd1f5dfe0491040b73f7871d63ad871934b44",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #66 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7\n\nchore(deps): bump actions/checkout from 6 to 7",
+      "timestamp": "2026-06-20T15:43:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/ab4dd1f5dfe0491040b73f7871d63ad871934b44",
+      "is_merge": true
+    },
+    {
+      "sha": "2e076af94437879e082c03e903afcf3b3450762c",
+      "author": "JaredHatfield",
+      "message": "Pin actions/checkout to SHA for v7.0.0",
+      "timestamp": "2026-06-20T15:07:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/2e076af94437879e082c03e903afcf3b3450762c",
+      "is_merge": false
+    },
+    {
+      "sha": "5fa85569d9d22f1516e1cfe58a6a0ea4be9950de",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/checkout from 6 to 7\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 6 to 7.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Commits](https://github.com/actions/checkout/compare/v6...v7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-20T10:02:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/5fa85569d9d22f1516e1cfe58a6a0ea4be9950de",
+      "is_merge": false
+    },
+    {
       "sha": "d271735cdca84fbad62a54579cdf9c0c75324d8f",
       "author": "JaredHatfield",
       "message": "Merge pull request #64 from UnitVectorY-Labs/dependabot/github_actions/unitvectory-labs/kuberollouttrigger-action-0.3.0\n\nchore(deps): bump unitvectory-labs/kuberollouttrigger-action from 0.2.0 to 0.3.0",

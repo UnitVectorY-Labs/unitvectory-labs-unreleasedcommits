@@ -6,12 +6,84 @@
   "latest_release_time": "2025-11-22T16:11:27Z",
   "unreleased_commits": [
     {
+      "sha": "deec1b71512571dca3e5d68e382af5dc3f369a9e",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for firestore-batch-incrementer (#163)\n\n* gitrepoforge: apply desired state for firestore-batch-incrementer\n\n* Fix .repver: hardcode .0 instead of {{patch}} in go version transform\n\n* Fix .repver: align - path indentation under targets (3 spaces)",
+      "timestamp": "2026-06-20T12:56:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/deec1b71512571dca3e5d68e382af5dc3f369a9e",
+      "is_merge": false
+    },
+    {
+      "sha": "a3b9734e5815984d8eaa6c193f2448207ce3b893",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #161 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.285.0\n\nchore(deps): bump google.golang.org/api from 0.284.0 to 0.285.0",
+      "timestamp": "2026-06-20T11:18:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/a3b9734e5815984d8eaa6c193f2448207ce3b893",
+      "is_merge": true
+    },
+    {
+      "sha": "3e81b47d1d1eb91e530db31e5b7ade125e1b0e7e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #162 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7.0.0\n\nchore(deps): bump actions/checkout from 6.0.3 to 7.0.0",
+      "timestamp": "2026-06-20T11:07:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/3e81b47d1d1eb91e530db31e5b7ade125e1b0e7e",
+      "is_merge": true
+    },
+    {
+      "sha": "4c9a7cfe1ca3efe417141eddc5d79ccab701186a",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/checkout from 6.0.3 to 7.0.0\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 6.0.3 to 7.0.0.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/df4cb1c069e1874edd31b4311f1884172cec0e10...9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-20T10:04:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/4c9a7cfe1ca3efe417141eddc5d79ccab701186a",
+      "is_merge": false
+    },
+    {
+      "sha": "378f2e7a0e1cd6aa82cfdb311d42e8c3800cf974",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/api from 0.284.0 to 0.285.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.284.0 to 0.285.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.284.0...v0.285.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.285.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-20T10:02:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/378f2e7a0e1cd6aa82cfdb311d42e8c3800cf974",
+      "is_merge": false
+    },
+    {
+      "sha": "bbf1a7d0f06a8656ed6b8c1e399342e92224e5d0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #157 from UnitVectorY-Labs/dependabot/github_actions/unitvectory-labs/kuberollouttrigger-action-0.3.0\n\nchore(deps): bump unitvectory-labs/kuberollouttrigger-action from 0.2.0 to 0.3.0",
+      "timestamp": "2026-06-20T01:59:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/bbf1a7d0f06a8656ed6b8c1e399342e92224e5d0",
+      "is_merge": true
+    },
+    {
+      "sha": "c2ca59b5d9516b217cc8a1f4dfae5100d3d589e5",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump unitvectory-labs/kuberollouttrigger-action\n\nBumps [unitvectory-labs/kuberollouttrigger-action](https://github.com/unitvectory-labs/kuberollouttrigger-action) from 0.2.0 to 0.3.0.\n- [Release notes](https://github.com/unitvectory-labs/kuberollouttrigger-action/releases)\n- [Commits](https://github.com/unitvectory-labs/kuberollouttrigger-action/compare/e95cb8eb9a669a16363c13734a3663a7bcca54f2...a22de2a2ec7e9bef05f8cd2d6c72fceeb61fa88c)\n\n---\nupdated-dependencies:\n- dependency-name: unitvectory-labs/kuberollouttrigger-action\n  dependency-version: 0.3.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-20T01:52:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/c2ca59b5d9516b217cc8a1f4dfae5100d3d589e5",
+      "is_merge": false
+    },
+    {
+      "sha": "ac4e3d0fda732c5caeae2ca97ae5faa4e4ead9e9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #159 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-7.0.0\n\nchore(deps): bump codecov/codecov-action from 6.0.1 to 7.0.0",
+      "timestamp": "2026-06-20T01:50:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/ac4e3d0fda732c5caeae2ca97ae5faa4e4ead9e9",
+      "is_merge": true
+    },
+    {
       "sha": "ac2f4980180353d82506e58f568afb18c3c466ad",
       "author": "JaredHatfield",
       "message": "Merge pull request #158 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.284.0\n\nchore(deps): bump google.golang.org/api from 0.283.0 to 0.284.0",
       "timestamp": "2026-06-13T22:10:15Z",
       "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/ac2f4980180353d82506e58f568afb18c3c466ad",
       "is_merge": true
+    },
+    {
+      "sha": "860ccb444a2dc8a74eecee086ba657e413ff0ef2",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump codecov/codecov-action from 6.0.1 to 7.0.0\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 6.0.1 to 7.0.0.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/e79a6962e0d4c0c17b229090214935d2e33f8354...fb8b3582c8e4def4969c97caa2f19720cb33a72f)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-13T21:23:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/860ccb444a2dc8a74eecee086ba657e413ff0ef2",
+      "is_merge": false
     },
     {
       "sha": "9a1f2109f0211c1c0047ef87d3f61a8daa0bf5e3",

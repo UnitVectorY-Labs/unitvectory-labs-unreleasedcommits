@@ -6,6 +6,70 @@
   "latest_release_time": "2026-03-29T17:23:19Z",
   "unreleased_commits": [
     {
+      "sha": "11545943e019a5c2e1fc8bb34c34c216a20f569c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #109 from UnitVectorY-Labs/gitrepoforge/hellorest\n\ngitrepoforge: apply desired state for hellorest",
+      "timestamp": "2026-06-20T14:54:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/11545943e019a5c2e1fc8bb34c34c216a20f569c",
+      "is_merge": true
+    },
+    {
+      "sha": "c02c14c6463320936013bfcb62ef3f5f5343adb1",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for hellorest",
+      "timestamp": "2026-06-20T14:50:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/c02c14c6463320936013bfcb62ef3f5f5343adb1",
+      "is_merge": false
+    },
+    {
+      "sha": "3d508339ee93edafd36f31197f9c908c3095629b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #107 from UnitVectorY-Labs/gitrepoforge/hellorest\n\ngitrepoforge: apply desired state for hellorest",
+      "timestamp": "2026-06-20T12:01:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/3d508339ee93edafd36f31197f9c908c3095629b",
+      "is_merge": true
+    },
+    {
+      "sha": "4682888e209e589b99fd60dd0b9764673f8000f0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #108 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7.0.0\n\nBump actions/checkout from 6.0.3 to 7.0.0",
+      "timestamp": "2026-06-20T11:06:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/4682888e209e589b99fd60dd0b9764673f8000f0",
+      "is_merge": true
+    },
+    {
+      "sha": "0e6d3ecefc63808be93ad2bc75fff3350eae8e2a",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/checkout from 6.0.3 to 7.0.0\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 6.0.3 to 7.0.0.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/df4cb1c069e1874edd31b4311f1884172cec0e10...9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-20T10:02:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/0e6d3ecefc63808be93ad2bc75fff3350eae8e2a",
+      "is_merge": false
+    },
+    {
+      "sha": "20274856ff125a6fa62aa63b6ff7dc530156d306",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #104 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-7.0.0\n\nBump codecov/codecov-action from 6.0.1 to 7.0.0",
+      "timestamp": "2026-06-20T01:50:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/20274856ff125a6fa62aa63b6ff7dc530156d306",
+      "is_merge": true
+    },
+    {
+      "sha": "30302aab11f8807222274c5f1f06bbd1c97806bf",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for hellorest",
+      "timestamp": "2026-06-20T01:12:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/30302aab11f8807222274c5f1f06bbd1c97806bf",
+      "is_merge": false
+    },
+    {
+      "sha": "8439ba82c79162d09db998cd0d7d4d996e496e31",
+      "author": "dependabot[bot]",
+      "message": "Bump codecov/codecov-action from 6.0.1 to 7.0.0\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 6.0.1 to 7.0.0.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/e79a6962e0d4c0c17b229090214935d2e33f8354...fb8b3582c8e4def4969c97caa2f19720cb33a72f)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-13T22:11:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/8439ba82c79162d09db998cd0d7d4d996e496e31",
+      "is_merge": false
+    },
+    {
       "sha": "b16a0160dc9149b0283da9f493ad242fec6bdad4",
       "author": "JaredHatfield",
       "message": "Merge pull request #105 from UnitVectorY-Labs/dependabot/github_actions/unitvectory-labs/kuberollouttrigger-action-0.3.0\n\nBump unitvectory-labs/kuberollouttrigger-action from 0.2.0 to 0.3.0",

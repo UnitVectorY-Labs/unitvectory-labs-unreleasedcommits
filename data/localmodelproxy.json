@@ -6,6 +6,30 @@
   "latest_release_time": "2026-05-30T22:25:50Z",
   "unreleased_commits": [
     {
+      "sha": "00fbd69ecd29536e2c95b497128915059c942f9c",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for localmodelproxy (#22)\n\n* gitrepoforge: apply desired state for localmodelproxy\n\n* Fix .repver: hardcode .0 instead of {{patch}} in go version transform\n\n* Fix .repver: align - path indentation under targets (3 spaces)",
+      "timestamp": "2026-06-20T12:54:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/00fbd69ecd29536e2c95b497128915059c942f9c",
+      "is_merge": false
+    },
+    {
+      "sha": "2b30d56e8824591530ec17a090d4944f62683f4d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #21 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7.0.0\n\nbuild(deps): bump actions/checkout from 6.0.3 to 7.0.0",
+      "timestamp": "2026-06-20T11:09:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/2b30d56e8824591530ec17a090d4944f62683f4d",
+      "is_merge": true
+    },
+    {
+      "sha": "43b55279f58f57b00b90ea31b641f2252dae05ea",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/checkout from 6.0.3 to 7.0.0\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 6.0.3 to 7.0.0.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/df4cb1c069e1874edd31b4311f1884172cec0e10...9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-20T10:05:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/43b55279f58f57b00b90ea31b641f2252dae05ea",
+      "is_merge": false
+    },
+    {
       "sha": "327d7f24b837ffb539bd60522e9130ba0b21c59d",
       "author": "JaredHatfield",
       "message": "Merge pull request #19 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/term-0.44.0\n\nbuild(deps): bump golang.org/x/term from 0.43.0 to 0.44.0",

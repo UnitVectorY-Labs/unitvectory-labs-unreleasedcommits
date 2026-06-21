@@ -6,6 +6,46 @@
   "latest_release_time": "2025-12-06T18:46:02Z",
   "unreleased_commits": [
     {
+      "sha": "119094ab16a6c7b6ffcc8fb1189ad5dfb23f2ca6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #39 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7\n\nBump actions/checkout from 6 to 7",
+      "timestamp": "2026-06-20T15:41:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/jwt-bearer-token-vendor/commit/119094ab16a6c7b6ffcc8fb1189ad5dfb23f2ca6",
+      "is_merge": true
+    },
+    {
+      "sha": "e0bb1df4c72f6a33d497a61ea74d57193fcfa39f",
+      "author": "JaredHatfield",
+      "message": "Pin actions/checkout to SHA for v7.0.0",
+      "timestamp": "2026-06-20T15:07:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/jwt-bearer-token-vendor/commit/e0bb1df4c72f6a33d497a61ea74d57193fcfa39f",
+      "is_merge": false
+    },
+    {
+      "sha": "22634a85bbeaae59b787202f13a08775f5f39a55",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/checkout from 6 to 7\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 6 to 7.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Commits](https://github.com/actions/checkout/compare/v6...v7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-20T10:02:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/jwt-bearer-token-vendor/commit/22634a85bbeaae59b787202f13a08775f5f39a55",
+      "is_merge": false
+    },
+    {
+      "sha": "63f56473dc958502b81cb93a66bdeb1350495888",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #38 from UnitVectorY-Labs/dependabot/npm_and_yarn/vercel/ncc-0.44.0\n\nBump @vercel/ncc from 0.38.4 to 0.44.0",
+      "timestamp": "2026-06-20T01:59:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/jwt-bearer-token-vendor/commit/63f56473dc958502b81cb93a66bdeb1350495888",
+      "is_merge": true
+    },
+    {
+      "sha": "787ec9824e89bf1e24997e5802a1d660be14a444",
+      "author": "dependabot[bot]",
+      "message": "Bump @vercel/ncc from 0.38.4 to 0.44.0\n\nBumps [@vercel/ncc](https://github.com/vercel/ncc) from 0.38.4 to 0.44.0.\n- [Release notes](https://github.com/vercel/ncc/releases)\n- [Commits](https://github.com/vercel/ncc/compare/0.38.4...0.44.0)\n\n---\nupdated-dependencies:\n- dependency-name: \"@vercel/ncc\"\n  dependency-version: 0.44.0\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-13T10:03:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/jwt-bearer-token-vendor/commit/787ec9824e89bf1e24997e5802a1d660be14a444",
+      "is_merge": false
+    },
+    {
       "sha": "50acb02bc658fac7f564983c42699308d8f0dd77",
       "author": "JaredHatfield",
       "message": "Merge pull request #37 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.2.0\n\nBump astral-sh/setup-uv from 8.1.0 to 8.2.0",

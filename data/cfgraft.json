@@ -4,6 +4,55 @@
   "default_branch": "main",
   "latest_release_tag": "v0.3.1",
   "latest_release_time": "2026-06-17T11:01:17Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "9d5b9fe6a957c8126444a035fc9fee3a24be4484",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #12 from UnitVectorY-Labs/gitrepoforge/cfgraft\n\ngitrepoforge: apply desired state for cfgraft",
+      "timestamp": "2026-06-20T18:52:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/9d5b9fe6a957c8126444a035fc9fee3a24be4484",
+      "is_merge": true
+    },
+    {
+      "sha": "dbbe56025b986f968cf0fa0fec4533f2a8f9dde5",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for cfgraft",
+      "timestamp": "2026-06-20T18:50:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/dbbe56025b986f968cf0fa0fec4533f2a8f9dde5",
+      "is_merge": false
+    },
+    {
+      "sha": "5709085e94e065c98ed5816ba8132b8736bee485",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #10 from UnitVectorY-Labs/dependabot/go_modules/charm.land/lipgloss/v2-2.0.4\n\nBump charm.land/lipgloss/v2 from 2.0.3 to 2.0.4",
+      "timestamp": "2026-06-20T15:48:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/5709085e94e065c98ed5816ba8132b8736bee485",
+      "is_merge": true
+    },
+    {
+      "sha": "d7ea4de5f703522436bfb9fc84e1635e73732188",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #11 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7.0.0\n\nBump actions/checkout from 6.0.3 to 7.0.0",
+      "timestamp": "2026-06-20T11:09:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/d7ea4de5f703522436bfb9fc84e1635e73732188",
+      "is_merge": true
+    },
+    {
+      "sha": "3a3d1e04e66a10b388388e07d026fd5ade12cd73",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/checkout from 6.0.3 to 7.0.0\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 6.0.3 to 7.0.0.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/df4cb1c069e1874edd31b4311f1884172cec0e10...9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-20T10:08:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/3a3d1e04e66a10b388388e07d026fd5ade12cd73",
+      "is_merge": false
+    },
+    {
+      "sha": "12efb670cc009ae8070937744b67be98e71c6c79",
+      "author": "dependabot[bot]",
+      "message": "Bump charm.land/lipgloss/v2 from 2.0.3 to 2.0.4\n\nBumps [charm.land/lipgloss/v2](https://github.com/charmbracelet/lipgloss) from 2.0.3 to 2.0.4.\n- [Release notes](https://github.com/charmbracelet/lipgloss/releases)\n- [Commits](https://github.com/charmbracelet/lipgloss/compare/v2.0.3...v2.0.4)\n\n---\nupdated-dependencies:\n- dependency-name: charm.land/lipgloss/v2\n  dependency-version: 2.0.4\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-20T10:06:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/12efb670cc009ae8070937744b67be98e71c6c79",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/cfgraft"
 }

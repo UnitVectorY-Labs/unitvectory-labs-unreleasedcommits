@@ -6,6 +6,46 @@
   "latest_release_time": "2025-10-20T23:04:50Z",
   "unreleased_commits": [
     {
+      "sha": "b17f1e20de175da2e349ce238ccaa18a8aaba3e2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #89 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7\n\nBump actions/checkout from 6 to 7",
+      "timestamp": "2026-06-20T15:41:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/b17f1e20de175da2e349ce238ccaa18a8aaba3e2",
+      "is_merge": true
+    },
+    {
+      "sha": "7eb0aabaefd1580540248c4d738352c12d737680",
+      "author": "JaredHatfield",
+      "message": "Pin actions/checkout to SHA for v7.0.0",
+      "timestamp": "2026-06-20T15:07:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/7eb0aabaefd1580540248c4d738352c12d737680",
+      "is_merge": false
+    },
+    {
+      "sha": "cf7b22ad3845f42d53838a1eee669dc6c386f2f6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #88 from UnitVectorY-Labs/dependabot/maven/org.sonatype.central-central-publishing-maven-plugin-0.11.0\n\nBump org.sonatype.central:central-publishing-maven-plugin from 0.10.0 to 0.11.0",
+      "timestamp": "2026-06-20T11:17:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/cf7b22ad3845f42d53838a1eee669dc6c386f2f6",
+      "is_merge": true
+    },
+    {
+      "sha": "5e4130109d2fe38fd84de73c69bb750eb9ebeb9f",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/checkout from 6 to 7\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 6 to 7.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Commits](https://github.com/actions/checkout/compare/v6...v7)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '7'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-20T10:05:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/5e4130109d2fe38fd84de73c69bb750eb9ebeb9f",
+      "is_merge": false
+    },
+    {
+      "sha": "cf75163d9c92d6b4b26dd92e14ddc14a06cbfa18",
+      "author": "dependabot[bot]",
+      "message": "Bump org.sonatype.central:central-publishing-maven-plugin\n\nBumps [org.sonatype.central:central-publishing-maven-plugin](https://github.com/sonatype/central-publishing-maven-plugin) from 0.10.0 to 0.11.0.\n- [Commits](https://github.com/sonatype/central-publishing-maven-plugin/commits)\n\n---\nupdated-dependencies:\n- dependency-name: org.sonatype.central:central-publishing-maven-plugin\n  dependency-version: 0.11.0\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-20T10:05:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/cf75163d9c92d6b4b26dd92e14ddc14a06cbfa18",
+      "is_merge": false
+    },
+    {
       "sha": "0d1ab2780c412b66155b3762510797b91909bd52",
       "author": "JaredHatfield",
       "message": "Merge pull request #87 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-7.0.0\n\nBump codecov/codecov-action from 6.0.1 to 7.0.0",

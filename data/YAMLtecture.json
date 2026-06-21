@@ -6,12 +6,60 @@
   "latest_release_time": "2026-05-23T23:27:11Z",
   "unreleased_commits": [
     {
+      "sha": "c5301bd275a98e200c911ce6ced47150a44658f2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #119 from UnitVectorY-Labs/gitrepoforge/YAMLtecture\n\ngitrepoforge: apply desired state for YAMLtecture",
+      "timestamp": "2026-06-20T14:55:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/c5301bd275a98e200c911ce6ced47150a44658f2",
+      "is_merge": true
+    },
+    {
+      "sha": "ce6785e906c15fc057a5caa34a22465934a25b1b",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for YAMLtecture",
+      "timestamp": "2026-06-20T14:45:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/ce6785e906c15fc057a5caa34a22465934a25b1b",
+      "is_merge": false
+    },
+    {
+      "sha": "fceb3491b0b667fc3cafc4e8d5e7e02e1a2225da",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #118 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7.0.0\n\nbuild(deps): bump actions/checkout from 6.0.3 to 7.0.0",
+      "timestamp": "2026-06-20T11:06:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/fceb3491b0b667fc3cafc4e8d5e7e02e1a2225da",
+      "is_merge": true
+    },
+    {
+      "sha": "06043d74e2c5d75448c925d00c1878ee46dd3735",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/checkout from 6.0.3 to 7.0.0\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 6.0.3 to 7.0.0.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/df4cb1c069e1874edd31b4311f1884172cec0e10...9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-20T10:04:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/06043d74e2c5d75448c925d00c1878ee46dd3735",
+      "is_merge": false
+    },
+    {
+      "sha": "2c6f06af994b72fc52b6b2fc4a7b88cd9a70c222",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #116 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-7.0.0\n\nbuild(deps): bump codecov/codecov-action from 6.0.1 to 7.0.0",
+      "timestamp": "2026-06-20T01:50:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/2c6f06af994b72fc52b6b2fc4a7b88cd9a70c222",
+      "is_merge": true
+    },
+    {
       "sha": "b533cb35fe1aef601d02eb5309c1ea480c63720a",
       "author": "JaredHatfield",
       "message": "Merge pull request #115 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/term-0.44.0\n\nbuild(deps): bump golang.org/x/term from 0.43.0 to 0.44.0",
       "timestamp": "2026-06-13T22:09:52Z",
       "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/b533cb35fe1aef601d02eb5309c1ea480c63720a",
       "is_merge": true
+    },
+    {
+      "sha": "3bf2b6706821b11a48cb53d42a0b6e746dad52f6",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump codecov/codecov-action from 6.0.1 to 7.0.0\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 6.0.1 to 7.0.0.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/e79a6962e0d4c0c17b229090214935d2e33f8354...fb8b3582c8e4def4969c97caa2f19720cb33a72f)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-13T21:22:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/3bf2b6706821b11a48cb53d42a0b6e746dad52f6",
+      "is_merge": false
     },
     {
       "sha": "23ef2e1aa652019071809933d459555002c00b8b",

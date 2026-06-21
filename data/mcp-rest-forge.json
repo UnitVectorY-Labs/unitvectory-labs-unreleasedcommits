@@ -6,6 +6,54 @@
   "latest_release_time": "2026-05-23T23:24:29Z",
   "unreleased_commits": [
     {
+      "sha": "90425d0fd7364f4a467788c950663056d9843bd0",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for mcp-rest-forge (#50)\n\n* gitrepoforge: apply desired state for mcp-rest-forge\n\n* Fix .repver: hardcode .0 instead of {{patch}} in go version transform\n\n* Fix .repver: align - path indentation under targets (3 spaces)",
+      "timestamp": "2026-06-20T12:54:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/90425d0fd7364f4a467788c950663056d9843bd0",
+      "is_merge": false
+    },
+    {
+      "sha": "9bbb4964228fcafd416795f8808e76a05544e938",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #48 from UnitVectorY-Labs/dependabot/go_modules/github.com/mark3labs/mcp-go-0.55.0\n\nbuild(deps): bump github.com/mark3labs/mcp-go from 0.54.1 to 0.55.0",
+      "timestamp": "2026-06-20T11:18:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/9bbb4964228fcafd416795f8808e76a05544e938",
+      "is_merge": true
+    },
+    {
+      "sha": "133d60e496758d52eb78fca271b3c0e97cd4a1af",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #49 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7.0.0\n\nbuild(deps): bump actions/checkout from 6.0.3 to 7.0.0",
+      "timestamp": "2026-06-20T11:08:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/133d60e496758d52eb78fca271b3c0e97cd4a1af",
+      "is_merge": true
+    },
+    {
+      "sha": "5a03c516d9af090a03cb7b132c0bdf21b5c157ae",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/checkout from 6.0.3 to 7.0.0\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 6.0.3 to 7.0.0.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/df4cb1c069e1874edd31b4311f1884172cec0e10...9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-20T10:03:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/5a03c516d9af090a03cb7b132c0bdf21b5c157ae",
+      "is_merge": false
+    },
+    {
+      "sha": "c9c2a794f5c6b8c12d225f0059f20e8bf86a7fda",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github.com/mark3labs/mcp-go from 0.54.1 to 0.55.0\n\nBumps [github.com/mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) from 0.54.1 to 0.55.0.\n- [Release notes](https://github.com/mark3labs/mcp-go/releases)\n- [Commits](https://github.com/mark3labs/mcp-go/compare/v0.54.1...v0.55.0)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/mark3labs/mcp-go\n  dependency-version: 0.55.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-20T10:03:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/c9c2a794f5c6b8c12d225f0059f20e8bf86a7fda",
+      "is_merge": false
+    },
+    {
+      "sha": "eff328c0142591a935e8397e56ec2bc7187045a0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #46 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-7.0.0\n\nbuild(deps): bump codecov/codecov-action from 6.0.1 to 7.0.0",
+      "timestamp": "2026-06-20T01:51:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/eff328c0142591a935e8397e56ec2bc7187045a0",
+      "is_merge": true
+    },
+    {
       "sha": "67b4c76b02a451f0c3ce2eeb7b6e777bace4f66b",
       "author": "JaredHatfield",
       "message": "Merge pull request #47 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.36.2\n\nbuild(deps): bump github/codeql-action from 4.36.1 to 4.36.2",
@@ -19,6 +67,14 @@
       "message": "build(deps): bump github/codeql-action from 4.36.1 to 4.36.2\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.36.1 to 4.36.2.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/87557b9c84dde89fdd9b10e88954ac2f4248e463...8aad20d150bbac5944a9f9d289da16a4b0d87c1e)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.36.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-06-13T10:07:22Z",
       "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/0dbe71c9f41f96be52ff49747b362da087ae1dba",
+      "is_merge": false
+    },
+    {
+      "sha": "871683026a75c79f0c5e068652d615f5f1fdfa62",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump codecov/codecov-action from 6.0.1 to 7.0.0\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 6.0.1 to 7.0.0.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/e79a6962e0d4c0c17b229090214935d2e33f8354...fb8b3582c8e4def4969c97caa2f19720cb33a72f)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-13T10:05:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/871683026a75c79f0c5e068652d615f5f1fdfa62",
       "is_merge": false
     },
     {

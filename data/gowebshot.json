@@ -6,6 +6,30 @@
   "latest_release_time": "2026-05-23T23:28:42Z",
   "unreleased_commits": [
     {
+      "sha": "8725704c18394ef1c82d733671af9667d597c34a",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for gowebshot (#33)\n\n* gitrepoforge: apply desired state for gowebshot\n\n* Fix .repver: hardcode .0 instead of {{patch}} in go version transform\n\n* Fix .repver: align - path indentation under targets (3 spaces)",
+      "timestamp": "2026-06-20T12:54:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/8725704c18394ef1c82d733671af9667d597c34a",
+      "is_merge": false
+    },
+    {
+      "sha": "de87ac623a112947ba6901f6014dd83b504356fe",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #32 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7.0.0\n\nBump actions/checkout from 6.0.3 to 7.0.0",
+      "timestamp": "2026-06-20T11:08:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/de87ac623a112947ba6901f6014dd83b504356fe",
+      "is_merge": true
+    },
+    {
+      "sha": "b92507cd4b0fc94ff5dbe2cc902504d65a80ba85",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/checkout from 6.0.3 to 7.0.0\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 6.0.3 to 7.0.0.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/df4cb1c069e1874edd31b4311f1884172cec0e10...9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-20T10:03:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/b92507cd4b0fc94ff5dbe2cc902504d65a80ba85",
+      "is_merge": false
+    },
+    {
       "sha": "205a5bff5ee5b501c922c7e07a5d5cb6bda5fa55",
       "author": "JaredHatfield",
       "message": "Merge pull request #31 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.36.2\n\nBump github/codeql-action from 4.36.1 to 4.36.2",
