@@ -6,6 +6,22 @@
   "latest_release_time": "2026-05-22T00:31:14Z",
   "unreleased_commits": [
     {
+      "sha": "1cac2da1fe28378f8f4666573fe482d0d817c8fa",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #71 from UnitVectorY-Labs/pin-actions-codeql\n\nPin github/codeql-action to SHA",
+      "timestamp": "2026-06-25T10:50:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/1cac2da1fe28378f8f4666573fe482d0d817c8fa",
+      "is_merge": true
+    },
+    {
+      "sha": "45bfe85ad6352117b724ec506b0a639779d9bf4e",
+      "author": "JaredHatfield",
+      "message": "pin github/codeql-action to SHA",
+      "timestamp": "2026-06-24T22:12:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/45bfe85ad6352117b724ec506b0a639779d9bf4e",
+      "is_merge": false
+    },
+    {
       "sha": "a37ed85d236fcb8dc5203738349acbb3b6a8e80f",
       "author": "JaredHatfield",
       "message": "Merge pull request #70 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7\n\nchore(deps): bump actions/checkout from 6 to 7",

@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-22T22:18:06Z",
   "unreleased_commits": [
     {
+      "sha": "d46321ec83aa60cfd1a31a9377585730537f79fa",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #198 from UnitVectorY-Labs/pin-actions-java\n\nPin actions/setup-java and maven-dependency-submission-action to SHA",
+      "timestamp": "2026-06-25T10:53:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/d46321ec83aa60cfd1a31a9377585730537f79fa",
+      "is_merge": true
+    },
+    {
+      "sha": "e38190f7adc05fc03a74d01b439abf6ccd19d65a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #199 from UnitVectorY-Labs/pin-actions-codeql\n\nPin github/codeql-action to SHA",
+      "timestamp": "2026-06-25T10:48:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/e38190f7adc05fc03a74d01b439abf6ccd19d65a",
+      "is_merge": true
+    },
+    {
+      "sha": "693ef2914b8ca48d4374bbf2a558fd71834953ca",
+      "author": "JaredHatfield",
+      "message": "pin github/codeql-action to SHA",
+      "timestamp": "2026-06-24T22:15:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/693ef2914b8ca48d4374bbf2a558fd71834953ca",
+      "is_merge": false
+    },
+    {
+      "sha": "1f346391ed577276ade1e37247ef9e0e89577994",
+      "author": "JaredHatfield",
+      "message": "pin actions/setup-java and maven-dependency-submission-action to SHA",
+      "timestamp": "2026-06-24T22:13:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/1f346391ed577276ade1e37247ef9e0e89577994",
+      "is_merge": false
+    },
+    {
       "sha": "54fdb0c06d8c8b66ad0fcb539cc25aed42e01d06",
       "author": "JaredHatfield",
       "message": "Update version number in README.md to 0.0.8",

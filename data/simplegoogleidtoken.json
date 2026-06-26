@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-22T22:44:58Z",
   "unreleased_commits": [
     {
+      "sha": "3efde2722808c448be453c41262bf36ca468f2bb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #136 from UnitVectorY-Labs/pin-actions-java\n\nPin actions/setup-java and maven-dependency-submission-action to SHA",
+      "timestamp": "2026-06-25T10:53:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/3efde2722808c448be453c41262bf36ca468f2bb",
+      "is_merge": true
+    },
+    {
+      "sha": "6de3e6ae8dc2279c16c25cd2827e950dd1332a85",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #137 from UnitVectorY-Labs/pin-actions-codeql\n\nPin github/codeql-action to SHA",
+      "timestamp": "2026-06-25T10:49:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/6de3e6ae8dc2279c16c25cd2827e950dd1332a85",
+      "is_merge": true
+    },
+    {
+      "sha": "72ca99fb624c8704970c08b06c4d35ea4a22ce1c",
+      "author": "JaredHatfield",
+      "message": "pin github/codeql-action to SHA",
+      "timestamp": "2026-06-24T22:15:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/72ca99fb624c8704970c08b06c4d35ea4a22ce1c",
+      "is_merge": false
+    },
+    {
+      "sha": "50f2fea353865c99609db675f9f50acf3aeb0db2",
+      "author": "JaredHatfield",
+      "message": "pin actions/setup-java and maven-dependency-submission-action to SHA",
+      "timestamp": "2026-06-24T22:13:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/50f2fea353865c99609db675f9f50acf3aeb0db2",
+      "is_merge": false
+    },
+    {
       "sha": "635dc130f85ac11def08e8b2c33b111c45404906",
       "author": "JaredHatfield",
       "message": "Update version of simplegoogleidtoken to 0.1.1 in README.md",

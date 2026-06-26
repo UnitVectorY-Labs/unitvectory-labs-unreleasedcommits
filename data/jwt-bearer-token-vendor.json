@@ -6,6 +6,38 @@
   "latest_release_time": "2025-12-06T18:46:02Z",
   "unreleased_commits": [
     {
+      "sha": "fa54a1e946ba6cfc695f646903eba62858feb89b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #40 from UnitVectorY-Labs/pin-actions-node-artifact\n\nPin actions/setup-node and actions/upload-artifact to SHA",
+      "timestamp": "2026-06-25T10:58:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/jwt-bearer-token-vendor/commit/fa54a1e946ba6cfc695f646903eba62858feb89b",
+      "is_merge": true
+    },
+    {
+      "sha": "9da7e7bfd47b9b963fa71e6e5ef9e76b1c4d5e34",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #41 from UnitVectorY-Labs/pin-actions-codeql\n\nPin github/codeql-action to SHA",
+      "timestamp": "2026-06-25T10:49:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/jwt-bearer-token-vendor/commit/9da7e7bfd47b9b963fa71e6e5ef9e76b1c4d5e34",
+      "is_merge": true
+    },
+    {
+      "sha": "783e724f6e81d194b2ab6bb8ce5b069a369b0509",
+      "author": "JaredHatfield",
+      "message": "pin github/codeql-action to SHA",
+      "timestamp": "2026-06-24T22:16:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/jwt-bearer-token-vendor/commit/783e724f6e81d194b2ab6bb8ce5b069a369b0509",
+      "is_merge": false
+    },
+    {
+      "sha": "a95787cd0fea30169222c7edc5d35a8aaff8d6a3",
+      "author": "JaredHatfield",
+      "message": "pin actions/setup-node and actions/upload-artifact to SHA",
+      "timestamp": "2026-06-24T21:43:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/jwt-bearer-token-vendor/commit/a95787cd0fea30169222c7edc5d35a8aaff8d6a3",
+      "is_merge": false
+    },
+    {
       "sha": "119094ab16a6c7b6ffcc8fb1189ad5dfb23f2ca6",
       "author": "JaredHatfield",
       "message": "Merge pull request #39 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7\n\nBump actions/checkout from 6 to 7",

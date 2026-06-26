@@ -6,6 +6,46 @@
   "latest_release_time": "2026-02-28T22:33:35Z",
   "unreleased_commits": [
     {
+      "sha": "56064aa34e6a7f7f205ef81fcf6550ba28d91a12",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #56 from UnitVectorY-Labs/gitrepoforge/isplaintextfile\n\ngitrepoforge: apply desired state for isplaintextfile",
+      "timestamp": "2026-06-26T01:14:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/56064aa34e6a7f7f205ef81fcf6550ba28d91a12",
+      "is_merge": true
+    },
+    {
+      "sha": "60dff4c3a2b25a8a635792e06c15785e9f793f00",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for isplaintextfile",
+      "timestamp": "2026-06-26T00:43:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/60dff4c3a2b25a8a635792e06c15785e9f793f00",
+      "is_merge": false
+    },
+    {
+      "sha": "ce1d67aa24f94eedb713c119028ed24eccc30d9a",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: add .gitrepoforge config",
+      "timestamp": "2026-06-26T00:42:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/ce1d67aa24f94eedb713c119028ed24eccc30d9a",
+      "is_merge": false
+    },
+    {
+      "sha": "b785b7c9821d16386b2bb7e0ce69328a3fc6d0b7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #55 from UnitVectorY-Labs/pin-actions-codeql\n\nPin github/codeql-action to SHA",
+      "timestamp": "2026-06-25T10:50:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/b785b7c9821d16386b2bb7e0ce69328a3fc6d0b7",
+      "is_merge": true
+    },
+    {
+      "sha": "9ab771f41388362a7aa9757021762945b9404bfb",
+      "author": "JaredHatfield",
+      "message": "pin github/codeql-action to SHA",
+      "timestamp": "2026-06-24T22:12:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/9ab771f41388362a7aa9757021762945b9404bfb",
+      "is_merge": false
+    },
+    {
       "sha": "8d610965304d2e4200b53e503c0c8b7b9c72fb8e",
       "author": "JaredHatfield",
       "message": "Merge pull request #54 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7\n\nBump actions/checkout from 6 to 7",

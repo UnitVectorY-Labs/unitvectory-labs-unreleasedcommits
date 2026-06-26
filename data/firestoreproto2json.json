@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-22T22:38:58Z",
   "unreleased_commits": [
     {
+      "sha": "043b070e5e4ab67786b97d319bd794de36f123ae",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #156 from UnitVectorY-Labs/pin-actions-java\n\nPin actions/setup-java and maven-dependency-submission-action to SHA",
+      "timestamp": "2026-06-25T10:52:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/043b070e5e4ab67786b97d319bd794de36f123ae",
+      "is_merge": true
+    },
+    {
+      "sha": "110f1ed84cccddbbf91da1fea6477a1d84354af1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #157 from UnitVectorY-Labs/pin-actions-codeql\n\nPin github/codeql-action to SHA",
+      "timestamp": "2026-06-25T10:48:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/110f1ed84cccddbbf91da1fea6477a1d84354af1",
+      "is_merge": true
+    },
+    {
+      "sha": "7d267ac43f9a6e1535025ce1694ef8999dceba63",
+      "author": "JaredHatfield",
+      "message": "pin github/codeql-action to SHA",
+      "timestamp": "2026-06-24T22:15:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/7d267ac43f9a6e1535025ce1694ef8999dceba63",
+      "is_merge": false
+    },
+    {
+      "sha": "7d598b2f83a5361bd644216adb762505d0992e1b",
+      "author": "JaredHatfield",
+      "message": "pin actions/setup-java and maven-dependency-submission-action to SHA",
+      "timestamp": "2026-06-24T22:13:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/7d598b2f83a5361bd644216adb762505d0992e1b",
+      "is_merge": false
+    },
+    {
       "sha": "fc95893527f5788819237ffd460b22b35fc68fe1",
       "author": "JaredHatfield",
       "message": "Update README.md version to 0.0.9",

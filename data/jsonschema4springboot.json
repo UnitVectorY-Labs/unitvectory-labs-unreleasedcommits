@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-22T22:26:01Z",
   "unreleased_commits": [
     {
+      "sha": "4462796aa723158677545f2244709c006b2be920",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #194 from UnitVectorY-Labs/pin-actions-java\n\nPin actions/setup-java and maven-dependency-submission-action to SHA",
+      "timestamp": "2026-06-25T10:53:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/4462796aa723158677545f2244709c006b2be920",
+      "is_merge": true
+    },
+    {
+      "sha": "3a42703720329a2d735e3fc90154feb78f9c1892",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #195 from UnitVectorY-Labs/pin-actions-codeql\n\nPin github/codeql-action to SHA",
+      "timestamp": "2026-06-25T10:48:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/3a42703720329a2d735e3fc90154feb78f9c1892",
+      "is_merge": true
+    },
+    {
+      "sha": "9b74f06d0bff101f8973e1ec772d5c0fa650b8f0",
+      "author": "JaredHatfield",
+      "message": "pin github/codeql-action to SHA",
+      "timestamp": "2026-06-24T22:15:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/9b74f06d0bff101f8973e1ec772d5c0fa650b8f0",
+      "is_merge": false
+    },
+    {
+      "sha": "1d6a713f9a7defd49b14f1758fbb88dd91815e35",
+      "author": "JaredHatfield",
+      "message": "pin actions/setup-java and maven-dependency-submission-action to SHA",
+      "timestamp": "2026-06-24T22:12:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/1d6a713f9a7defd49b14f1758fbb88dd91815e35",
+      "is_merge": false
+    },
+    {
       "sha": "6568e4b090f019cb7153dac906c56a305b880c21",
       "author": "JaredHatfield",
       "message": "Update version of jsonschema4springboot in README.md",

@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-07T17:43:01Z",
   "unreleased_commits": [
     {
+      "sha": "17ea85cda2800a547dc5a73ca896f71718fa0848",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #19 from UnitVectorY-Labs/pin-actions-node-artifact\n\nPin actions/setup-node and actions/upload-artifact to SHA",
+      "timestamp": "2026-06-25T10:58:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/17ea85cda2800a547dc5a73ca896f71718fa0848",
+      "is_merge": true
+    },
+    {
+      "sha": "79d1bcc61621032b1d5bc2f40217627d7b439090",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #20 from UnitVectorY-Labs/pin-actions-codeql\n\nPin github/codeql-action to SHA",
+      "timestamp": "2026-06-25T10:50:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/79d1bcc61621032b1d5bc2f40217627d7b439090",
+      "is_merge": true
+    },
+    {
+      "sha": "8b6ba8510c5f46e47d5e5edc78327bf91e4c340a",
+      "author": "JaredHatfield",
+      "message": "pin github/codeql-action to SHA",
+      "timestamp": "2026-06-24T22:17:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/8b6ba8510c5f46e47d5e5edc78327bf91e4c340a",
+      "is_merge": false
+    },
+    {
+      "sha": "e1440853af263aab27fa5161438b01ff938c43e4",
+      "author": "JaredHatfield",
+      "message": "pin actions/setup-node and actions/upload-artifact to SHA",
+      "timestamp": "2026-06-24T21:44:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/e1440853af263aab27fa5161438b01ff938c43e4",
+      "is_merge": false
+    },
+    {
       "sha": "26c556e5c47c495c643d250bd449b2356415fcd2",
       "author": "JaredHatfield",
       "message": "Merge pull request #18 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7\n\nBump actions/checkout from 6 to 7",

@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-22T22:22:29Z",
   "unreleased_commits": [
     {
+      "sha": "74b8febb52f9f04d7b624e5034aa7bb09ee57b2e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #204 from UnitVectorY-Labs/pin-actions-java\n\nPin actions/setup-java and maven-dependency-submission-action to SHA",
+      "timestamp": "2026-06-25T10:53:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/74b8febb52f9f04d7b624e5034aa7bb09ee57b2e",
+      "is_merge": true
+    },
+    {
+      "sha": "e00d75ad576f32faaa6c9f178523cfae891af93b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #205 from UnitVectorY-Labs/pin-actions-codeql\n\nPin github/codeql-action to SHA",
+      "timestamp": "2026-06-25T10:48:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/e00d75ad576f32faaa6c9f178523cfae891af93b",
+      "is_merge": true
+    },
+    {
+      "sha": "088e365949d62fd8e9be222f0a3e88c1917a3f7c",
+      "author": "JaredHatfield",
+      "message": "pin github/codeql-action to SHA",
+      "timestamp": "2026-06-24T22:15:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/088e365949d62fd8e9be222f0a3e88c1917a3f7c",
+      "is_merge": false
+    },
+    {
+      "sha": "06f2588dceef30f835a8e25a5d9056e685e00520",
+      "author": "JaredHatfield",
+      "message": "pin actions/setup-java and maven-dependency-submission-action to SHA",
+      "timestamp": "2026-06-24T22:13:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/06f2588dceef30f835a8e25a5d9056e685e00520",
+      "is_merge": false
+    },
+    {
       "sha": "4e54f698ae81b973486dbfc8432a3d6c0ec70b5e",
       "author": "JaredHatfield",
       "message": "Updated version in README to reference version 0.0.7",

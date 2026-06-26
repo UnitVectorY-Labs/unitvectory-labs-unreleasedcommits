@@ -4,6 +4,23 @@
   "default_branch": "main",
   "latest_release_tag": "v0.2.6",
   "latest_release_time": "2026-06-22T22:43:53Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "a48835e2a76c03d6ff1ec3391d6c1ddf041ae78e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #121 from UnitVectorY-Labs/pin-actions-codeql\n\nPin github/codeql-action to SHA",
+      "timestamp": "2026-06-25T10:49:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/a48835e2a76c03d6ff1ec3391d6c1ddf041ae78e",
+      "is_merge": true
+    },
+    {
+      "sha": "afca5edf877c47fed955d4b6a9c6a80e757a2d99",
+      "author": "JaredHatfield",
+      "message": "pin github/codeql-action to SHA",
+      "timestamp": "2026-06-24T22:11:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/afca5edf877c47fed955d4b6a9c6a80e757a2d99",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector"
 }

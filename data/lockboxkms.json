@@ -4,6 +4,23 @@
   "default_branch": "main",
   "latest_release_tag": "v0.3.6",
   "latest_release_time": "2026-06-22T22:28:39Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "870504b68cdf32bbb074ba653b6a73786a5690a7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #189 from UnitVectorY-Labs/pin-actions-codeql\n\nPin github/codeql-action to SHA",
+      "timestamp": "2026-06-25T10:49:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/870504b68cdf32bbb074ba653b6a73786a5690a7",
+      "is_merge": true
+    },
+    {
+      "sha": "f79d295c609826f81f799b58ee77eb770bbd11cf",
+      "author": "JaredHatfield",
+      "message": "pin github/codeql-action to SHA",
+      "timestamp": "2026-06-24T22:12:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/f79d295c609826f81f799b58ee77eb770bbd11cf",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/lockboxkms"
 }

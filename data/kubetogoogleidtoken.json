@@ -6,6 +6,38 @@
   "latest_release_time": "2025-11-12T01:30:20Z",
   "unreleased_commits": [
     {
+      "sha": "29da7d63bff0328b0f131a16f2db76e40a720c11",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #97 from UnitVectorY-Labs/pin-actions-java\n\nPin actions/setup-java and maven-dependency-submission-action to SHA",
+      "timestamp": "2026-06-25T10:55:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/29da7d63bff0328b0f131a16f2db76e40a720c11",
+      "is_merge": true
+    },
+    {
+      "sha": "7f3d170be4b91534e674652336be736699b1d95a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #98 from UnitVectorY-Labs/pin-actions-codeql\n\nPin github/codeql-action to SHA",
+      "timestamp": "2026-06-25T10:49:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/7f3d170be4b91534e674652336be736699b1d95a",
+      "is_merge": true
+    },
+    {
+      "sha": "32eed03972772b312fd0ea21489207ffe83b1e88",
+      "author": "JaredHatfield",
+      "message": "pin github/codeql-action to SHA",
+      "timestamp": "2026-06-24T22:15:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/32eed03972772b312fd0ea21489207ffe83b1e88",
+      "is_merge": false
+    },
+    {
+      "sha": "90450d3c02c308541dce591b00c6beb3ed00ff28",
+      "author": "JaredHatfield",
+      "message": "pin actions/setup-java and maven-dependency-submission-action to SHA",
+      "timestamp": "2026-06-24T22:13:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/90450d3c02c308541dce591b00c6beb3ed00ff28",
+      "is_merge": false
+    },
+    {
       "sha": "28d0ee1e104aa4a2bbad5dd58da510533b5c5d6e",
       "author": "JaredHatfield",
       "message": "Merge pull request #95 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7\n\nBump actions/checkout from 6 to 7",

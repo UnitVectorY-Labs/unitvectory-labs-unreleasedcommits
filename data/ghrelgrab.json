@@ -4,6 +4,23 @@
   "default_branch": "main",
   "latest_release_tag": "v0.2.0",
   "latest_release_time": "2026-06-22T22:13:38Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "e49fda0a2d392b09d845d955a3267089e336e430",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #67 from UnitVectorY-Labs/pin-actions-codeql\n\nPin github/codeql-action to SHA",
+      "timestamp": "2026-06-25T10:50:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/e49fda0a2d392b09d845d955a3267089e336e430",
+      "is_merge": true
+    },
+    {
+      "sha": "ce47c25d01ce3d689ffd206c2d1f8e1d9fc30c87",
+      "author": "JaredHatfield",
+      "message": "pin github/codeql-action to SHA",
+      "timestamp": "2026-06-24T22:12:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/ce47c25d01ce3d689ffd206c2d1f8e1d9fc30c87",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/ghrelgrab"
 }

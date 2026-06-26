@@ -6,6 +6,38 @@
   "latest_release_time": "2025-10-24T21:58:15Z",
   "unreleased_commits": [
     {
+      "sha": "c361723f7dd7c2d9d039d75d4cd9a0d9ac9153aa",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #129 from UnitVectorY-Labs/pin-actions-java\n\nPin actions/setup-java and maven-dependency-submission-action to SHA",
+      "timestamp": "2026-06-25T10:52:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/fileparamunit/commit/c361723f7dd7c2d9d039d75d4cd9a0d9ac9153aa",
+      "is_merge": true
+    },
+    {
+      "sha": "247baa257c9d383124919992c61ede898c1e8eca",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #130 from UnitVectorY-Labs/pin-actions-codeql\n\nPin github/codeql-action to SHA",
+      "timestamp": "2026-06-25T10:48:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/fileparamunit/commit/247baa257c9d383124919992c61ede898c1e8eca",
+      "is_merge": true
+    },
+    {
+      "sha": "3ee92d89728c3b848d33fa2e51fa98bf16935436",
+      "author": "JaredHatfield",
+      "message": "pin github/codeql-action to SHA",
+      "timestamp": "2026-06-24T22:15:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/fileparamunit/commit/3ee92d89728c3b848d33fa2e51fa98bf16935436",
+      "is_merge": false
+    },
+    {
+      "sha": "d59897312cde8c778b88d5605882ab754509cf7f",
+      "author": "JaredHatfield",
+      "message": "pin actions/setup-java and maven-dependency-submission-action to SHA",
+      "timestamp": "2026-06-24T22:13:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/fileparamunit/commit/d59897312cde8c778b88d5605882ab754509cf7f",
+      "is_merge": false
+    },
+    {
       "sha": "32c13aab672430cd7df3ab9f16a4a13336434667",
       "author": "JaredHatfield",
       "message": "Merge pull request #128 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7\n\nBump actions/checkout from 6 to 7",

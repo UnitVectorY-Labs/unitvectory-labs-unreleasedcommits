@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-23T10:57:11Z",
   "unreleased_commits": [
     {
+      "sha": "871dd61ecf527d252089c27af727e421d4332f6c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #107 from UnitVectorY-Labs/pin-actions-java\n\nPin actions/setup-java and maven-dependency-submission-action to SHA",
+      "timestamp": "2026-06-25T10:54:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/871dd61ecf527d252089c27af727e421d4332f6c",
+      "is_merge": true
+    },
+    {
+      "sha": "8c77b7cf6e882db6073c20d688e31d2ba24320b0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #108 from UnitVectorY-Labs/pin-actions-codeql\n\nPin github/codeql-action to SHA",
+      "timestamp": "2026-06-25T10:49:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/8c77b7cf6e882db6073c20d688e31d2ba24320b0",
+      "is_merge": true
+    },
+    {
+      "sha": "622f95ae8066f366783bec43d06342bf6862b235",
+      "author": "JaredHatfield",
+      "message": "pin github/codeql-action to SHA",
+      "timestamp": "2026-06-24T22:15:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/622f95ae8066f366783bec43d06342bf6862b235",
+      "is_merge": false
+    },
+    {
+      "sha": "088fb7ad020fa7bda403b83fe9a61242dba72666",
+      "author": "JaredHatfield",
+      "message": "pin actions/setup-java and maven-dependency-submission-action to SHA",
+      "timestamp": "2026-06-24T22:12:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/088fb7ad020fa7bda403b83fe9a61242dba72666",
+      "is_merge": false
+    },
+    {
       "sha": "6d1e09d915f08b15d1e784fe589ae01857d30384",
       "author": "JaredHatfield",
       "message": "Increment version to 0.0.7-SNAPSHOT",

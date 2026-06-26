@@ -4,6 +4,23 @@
   "default_branch": "main",
   "latest_release_tag": "v0.5.1",
   "latest_release_time": "2026-06-22T22:51:23Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "c3fde45f5d1a7084832654a10839690a00dfa898",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #101 from UnitVectorY-Labs/pin-actions-codeql\n\nPin github/codeql-action to SHA",
+      "timestamp": "2026-06-25T10:49:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/c3fde45f5d1a7084832654a10839690a00dfa898",
+      "is_merge": true
+    },
+    {
+      "sha": "e49ca9872fed8a69fb7ec025a7d185fe040a0fb6",
+      "author": "JaredHatfield",
+      "message": "pin github/codeql-action to SHA",
+      "timestamp": "2026-06-24T22:12:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/e49ca9872fed8a69fb7ec025a7d185fe040a0fb6",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/iapheaders"
 }

@@ -4,6 +4,23 @@
   "default_branch": "main",
   "latest_release_tag": "v0.3.1",
   "latest_release_time": "2026-06-22T22:50:44Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "83d25564b131615cc8d96709a9c8af78e1c68432",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #91 from UnitVectorY-Labs/pin-actions-codeql\n\nPin github/codeql-action to SHA",
+      "timestamp": "2026-06-25T10:50:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/83d25564b131615cc8d96709a9c8af78e1c68432",
+      "is_merge": true
+    },
+    {
+      "sha": "6959ef3d80ce335fce61f8b19a795dec7ff88f7f",
+      "author": "JaredHatfield",
+      "message": "pin github/codeql-action to SHA",
+      "timestamp": "2026-06-24T22:12:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/6959ef3d80ce335fce61f8b19a795dec7ff88f7f",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer"
 }

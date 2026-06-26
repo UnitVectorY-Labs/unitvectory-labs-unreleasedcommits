@@ -4,6 +4,23 @@
   "default_branch": "main",
   "latest_release_tag": "v0.3.6",
   "latest_release_time": "2026-06-22T22:43:20Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "42a3a77804c5a1085e0e784caf5956668f42793b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #127 from UnitVectorY-Labs/pin-actions-codeql\n\nPin github/codeql-action to SHA",
+      "timestamp": "2026-06-25T10:49:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/42a3a77804c5a1085e0e784caf5956668f42793b",
+      "is_merge": true
+    },
+    {
+      "sha": "a6e71cd1f20488ad582bcae9adfa43b7e402d6ad",
+      "author": "JaredHatfield",
+      "message": "pin github/codeql-action to SHA",
+      "timestamp": "2026-06-24T22:11:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/a6e71cd1f20488ad582bcae9adfa43b7e402d6ad",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector"
 }
