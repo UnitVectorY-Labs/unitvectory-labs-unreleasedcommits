@@ -6,6 +6,78 @@
   "latest_release_time": "2026-06-22T22:28:39Z",
   "unreleased_commits": [
     {
+      "sha": "e57717b55cb69b9788739e880735efb81f2747cd",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #191 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-6.0.0\n\nchore(deps): bump actions/cache from 5.0.5 to 6.0.0",
+      "timestamp": "2026-06-27T01:09:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/e57717b55cb69b9788739e880735efb81f2747cd",
+      "is_merge": true
+    },
+    {
+      "sha": "f8ae4e70926052493445ba2b3a911b3d266dccf5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #192 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.286.0\n\nchore(deps): bump google.golang.org/api from 0.285.0 to 0.286.0",
+      "timestamp": "2026-06-27T01:08:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/f8ae4e70926052493445ba2b3a911b3d266dccf5",
+      "is_merge": true
+    },
+    {
+      "sha": "f31d90ef79187d2979ed8f5fa496b22b9d9cff44",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #193 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.5.0\n\nchore(deps): bump actions/setup-go from 6.4.0 to 6.5.0",
+      "timestamp": "2026-06-27T01:08:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/f31d90ef79187d2979ed8f5fa496b22b9d9cff44",
+      "is_merge": true
+    },
+    {
+      "sha": "2ebab55f802d309fda0357d070fe8c1eb2b8ba03",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/setup-go from 6.4.0 to 6.5.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.4.0 to 6.5.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/4a3601121dd01d1626a1e23e37211e3254c1c06c...924ae3a1cded613372ab5595356fb5720e22ba16)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 6.5.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-26T10:21:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/2ebab55f802d309fda0357d070fe8c1eb2b8ba03",
+      "is_merge": false
+    },
+    {
+      "sha": "8736efa6bc80507b3490724e822a07089b4be95f",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/api from 0.285.0 to 0.286.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.285.0 to 0.286.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.285.0...v0.286.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.286.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-26T10:20:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/8736efa6bc80507b3490724e822a07089b4be95f",
+      "is_merge": false
+    },
+    {
+      "sha": "bd2fd457f596868371def191e038dd8a4a7c1369",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/cache from 5.0.5 to 6.0.0\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.5 to 6.0.0.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/27d5ce7f107fe9357f9df03efb73ab90386fccae...2c8a9bd7457de244a408f35966fab2fb45fda9c8)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 6.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-26T10:19:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/bd2fd457f596868371def191e038dd8a4a7c1369",
+      "is_merge": false
+    },
+    {
+      "sha": "2056d8fd1c023b5fd1bcffe85018e7514f718e6e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #190 from UnitVectorY-Labs/gitrepoforge/lockboxkms\n\ngitrepoforge: onboard lockboxkms",
+      "timestamp": "2026-06-26T10:19:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/2056d8fd1c023b5fd1bcffe85018e7514f718e6e",
+      "is_merge": true
+    },
+    {
+      "sha": "53c509760046cca741900a5069bbbfa2f0884deb",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: add .gitrepoforge config for lockboxkms",
+      "timestamp": "2026-06-26T10:15:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/53c509760046cca741900a5069bbbfa2f0884deb",
+      "is_merge": false
+    },
+    {
+      "sha": "bdfbc43052a5feb180644a90e6162e91c7434fdc",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for lockboxkms",
+      "timestamp": "2026-06-26T10:13:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/bdfbc43052a5feb180644a90e6162e91c7434fdc",
+      "is_merge": false
+    },
+    {
       "sha": "870504b68cdf32bbb074ba653b6a73786a5690a7",
       "author": "JaredHatfield",
       "message": "Merge pull request #189 from UnitVectorY-Labs/pin-actions-codeql\n\nPin github/codeql-action to SHA",

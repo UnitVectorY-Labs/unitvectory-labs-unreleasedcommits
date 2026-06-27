@@ -6,6 +6,38 @@
   "latest_release_time": "2026-02-28T22:30:45Z",
   "unreleased_commits": [
     {
+      "sha": "ca39224b556fa2fe80fccbcbd821cbac1108e634",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #55 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.5.0\n\nBump actions/setup-go from 6.4.0 to 6.5.0",
+      "timestamp": "2026-06-27T01:09:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/ca39224b556fa2fe80fccbcbd821cbac1108e634",
+      "is_merge": true
+    },
+    {
+      "sha": "57369bb357143244a2e207ed4a52543faea886d7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #56 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-6.0.0\n\nBump actions/cache from 5.0.5 to 6.0.0",
+      "timestamp": "2026-06-27T01:09:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/57369bb357143244a2e207ed4a52543faea886d7",
+      "is_merge": true
+    },
+    {
+      "sha": "44bb2045e998344e27f8bc96c505e73f41ab630e",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/cache from 5.0.5 to 6.0.0\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.5 to 6.0.0.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/27d5ce7f107fe9357f9df03efb73ab90386fccae...2c8a9bd7457de244a408f35966fab2fb45fda9c8)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 6.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-26T01:16:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/44bb2045e998344e27f8bc96c505e73f41ab630e",
+      "is_merge": false
+    },
+    {
+      "sha": "df67f9207e3e45294f1088dee6ccd7b631ab7244",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/setup-go from 6.4.0 to 6.5.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.4.0 to 6.5.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/4a3601121dd01d1626a1e23e37211e3254c1c06c...924ae3a1cded613372ab5595356fb5720e22ba16)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 6.5.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-26T01:15:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/df67f9207e3e45294f1088dee6ccd7b631ab7244",
+      "is_merge": false
+    },
+    {
       "sha": "e103816ddea8d6ae46c45afb2a627c3dda462d94",
       "author": "JaredHatfield",
       "message": "Merge pull request #54 from UnitVectorY-Labs/gitrepoforge/yamlequal\n\ngitrepoforge: apply desired state for yamlequal",

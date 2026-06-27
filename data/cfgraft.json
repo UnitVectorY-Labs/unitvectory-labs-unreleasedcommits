@@ -4,6 +4,55 @@
   "default_branch": "main",
   "latest_release_tag": "v0.3.2",
   "latest_release_time": "2026-06-22T22:54:41Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "05b30ca56b8ecda92e121e22b6fba5b89e5e83f1",
+      "author": "JaredHatfield",
+      "message": "Enable GitHub releases and add badges to README",
+      "timestamp": "2026-06-27T01:00:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/05b30ca56b8ecda92e121e22b6fba5b89e5e83f1",
+      "is_merge": false
+    },
+    {
+      "sha": "a0e2c0263efcb0ab762d8df37574c09e9de58a58",
+      "author": "JaredHatfield",
+      "message": "Updated documentation",
+      "timestamp": "2026-06-27T00:41:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/a0e2c0263efcb0ab762d8df37574c09e9de58a58",
+      "is_merge": false
+    },
+    {
+      "sha": "21ab4bed948eaf3f6a736fb39be20001f2217350",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #9 from UnitVectorY-Labs/fix/tui-mouse-sync-cleanup\n\nFix redundant syncComponents and improve test consistency",
+      "timestamp": "2026-06-27T00:16:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/21ab4bed948eaf3f6a736fb39be20001f2217350",
+      "is_merge": true
+    },
+    {
+      "sha": "dba0ee38aeef8e128e0709f1860b120c6d20dcf0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #13 from UnitVectorY-Labs/feat/stale-state-pruning-dot-source\n\nfeat: prune stale state for removed mappings/sources and fix dot-source handling",
+      "timestamp": "2026-06-27T00:15:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/dba0ee38aeef8e128e0709f1860b120c6d20dcf0",
+      "is_merge": true
+    },
+    {
+      "sha": "1f08ac42f1d24044324fd92746f5b1c9195a8769",
+      "author": "JaredHatfield",
+      "message": "feat: prune stale state for removed mappings/sources and fix dot-source handling\n\n- Prune state entries when a mapping or source is removed from config.yaml\n- Add dot-source mapping support in pathEqualOrNested for \".\" roots\n- Introduce nextKeys map to deduplicate state entries during planning\n- Update docs to reflect automatic stale state pruning behavior\n- Remove stale-state-resolution section from requirements (now implemented)\n- Add comprehensive tests for prune, dry-run preservation, and dot-source flows",
+      "timestamp": "2026-06-27T00:12:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/1f08ac42f1d24044324fd92746f5b1c9195a8769",
+      "is_merge": false
+    },
+    {
+      "sha": "e45c264efd9c9a40d1ee8d37a1f4ec86efe71fed",
+      "author": "JaredHatfield",
+      "message": "Fix redundant syncComponents and improve test consistency\n\n- Remove redundant syncComponents() call in updateMouseClick\n- Use t.TempDir() and filepath.Join in TestTUIMouseHoverAfterSourceBackUsesCurrentLayout\n- Add clarifying comment for rendered copy pattern in test",
+      "timestamp": "2026-06-17T22:36:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/e45c264efd9c9a40d1ee8d37a1f4ec86efe71fed",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/cfgraft"
 }
