@@ -6,6 +6,38 @@
   "latest_release_time": "2026-05-23T23:28:42Z",
   "unreleased_commits": [
     {
+      "sha": "2403043e03df7e3b78d6954ac5b531f2bbfe7e4b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #34 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.5.0\n\nBump actions/setup-go from 6.4.0 to 6.5.0",
+      "timestamp": "2026-06-27T11:04:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/2403043e03df7e3b78d6954ac5b531f2bbfe7e4b",
+      "is_merge": true
+    },
+    {
+      "sha": "70935e2d3cbbacbbb2090912f72e804fb0ac701d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #35 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-6.1.0\n\nBump actions/cache from 5.0.5 to 6.1.0",
+      "timestamp": "2026-06-27T10:45:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/70935e2d3cbbacbbb2090912f72e804fb0ac701d",
+      "is_merge": true
+    },
+    {
+      "sha": "af42887e4e7ec474109a574c1dd696cf24cad89a",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/cache from 5.0.5 to 6.1.0\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.5 to 6.1.0.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/27d5ce7f107fe9357f9df03efb73ab90386fccae...55cc8345863c7cc4c66a329aec7e433d2d1c52a9)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 6.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-27T10:05:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/af42887e4e7ec474109a574c1dd696cf24cad89a",
+      "is_merge": false
+    },
+    {
+      "sha": "02c67ce0b62cff6010a71dd38361d7a9266df1c1",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/setup-go from 6.4.0 to 6.5.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.4.0 to 6.5.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/4a3601121dd01d1626a1e23e37211e3254c1c06c...924ae3a1cded613372ab5595356fb5720e22ba16)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 6.5.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-27T10:05:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/02c67ce0b62cff6010a71dd38361d7a9266df1c1",
+      "is_merge": false
+    },
+    {
       "sha": "8725704c18394ef1c82d733671af9667d597c34a",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for gowebshot (#33)\n\n* gitrepoforge: apply desired state for gowebshot\n\n* Fix .repver: hardcode .0 instead of {{patch}} in go version transform\n\n* Fix .repver: align - path indentation under targets (3 spaces)",

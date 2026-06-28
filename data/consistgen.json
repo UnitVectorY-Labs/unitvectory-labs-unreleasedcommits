@@ -6,6 +6,54 @@
   "latest_release_time": "2025-10-20T23:04:50Z",
   "unreleased_commits": [
     {
+      "sha": "71488feaeaa063ebb7622d758d84e65aeddfb02b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #94 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-5.4.0\n\nBump actions/setup-java from 5.3.0 to 5.4.0",
+      "timestamp": "2026-06-27T11:30:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/71488feaeaa063ebb7622d758d84e65aeddfb02b",
+      "is_merge": true
+    },
+    {
+      "sha": "e49e746d4c3ca57798c824641a583ded3fd156cb",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/setup-java from 5.3.0 to 5.4.0\n\nBumps [actions/setup-java](https://github.com/actions/setup-java) from 5.3.0 to 5.4.0.\n- [Release notes](https://github.com/actions/setup-java/releases)\n- [Commits](https://github.com/actions/setup-java/compare/ad2b38190b15e4d6bdf0c97fb4fca8412226d287...1bcf9fb12cf4aa7d266a90ae39939e61372fe520)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-java\n  dependency-version: 5.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-27T11:23:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/e49e746d4c3ca57798c824641a583ded3fd156cb",
+      "is_merge": false
+    },
+    {
+      "sha": "748245b838935bce43f98793ef8bf92fba0d60df",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #93 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.36.2\n\nBump github/codeql-action/upload-sarif from 4.32.2 to 4.36.2",
+      "timestamp": "2026-06-27T11:21:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/748245b838935bce43f98793ef8bf92fba0d60df",
+      "is_merge": true
+    },
+    {
+      "sha": "6d561a8893c1f95d59450e1697b27f19d43fc20c",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action/upload-sarif from 4.32.2 to 4.36.2\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.32.2 to 4.36.2.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/45cbd0c69e560cd9e7cd7f8c32362050c9b7ded2...8aad20d150bbac5944a9f9d289da16a4b0d87c1e)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.36.2\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-27T11:10:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/6d561a8893c1f95d59450e1697b27f19d43fc20c",
+      "is_merge": false
+    },
+    {
+      "sha": "24e40f9c4b9c2fc99687913cf8120295d2d2b958",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #92 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-4.1.1\n\nBump actions/attest-build-provenance from 4.1.0 to 4.1.1",
+      "timestamp": "2026-06-27T11:08:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/24e40f9c4b9c2fc99687913cf8120295d2d2b958",
+      "is_merge": true
+    },
+    {
+      "sha": "2fda826291906b484af3bc6f4385a7131b1ad783",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/attest-build-provenance from 4.1.0 to 4.1.1\n\nBumps [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) from 4.1.0 to 4.1.1.\n- [Release notes](https://github.com/actions/attest-build-provenance/releases)\n- [Changelog](https://github.com/actions/attest-build-provenance/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest-build-provenance/compare/a2bbfa25375fe432b6a289bc6b6cd05ecd0c4c32...0f67c3f4856b2e3261c31976d6725780e5e4c373)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest-build-provenance\n  dependency-version: 4.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-27T10:04:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/2fda826291906b484af3bc6f4385a7131b1ad783",
+      "is_merge": false
+    },
+    {
       "sha": "78d078d456f3c80dedfbdfbb07798c74a6b6f79f",
       "author": "JaredHatfield",
       "message": "Merge pull request #90 from UnitVectorY-Labs/pin-actions-java\n\nPin actions/setup-java and maven-dependency-submission-action to SHA",

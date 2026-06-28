@@ -6,6 +6,70 @@
   "latest_release_time": "2026-05-22T00:31:14Z",
   "unreleased_commits": [
     {
+      "sha": "d26223697c8dbd13eabaf5349081cb5500eb7ce9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #74 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.36.2\n\nchore(deps): bump github/codeql-action/upload-sarif from 4.32.2 to 4.36.2",
+      "timestamp": "2026-06-27T11:22:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/d26223697c8dbd13eabaf5349081cb5500eb7ce9",
+      "is_merge": true
+    },
+    {
+      "sha": "1572f8537a44ca313fee6c68a0f7fff53fdc85b4",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #73 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-4.1.1\n\nchore(deps): bump actions/attest-build-provenance from 4.1.0 to 4.1.1",
+      "timestamp": "2026-06-27T11:09:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/1572f8537a44ca313fee6c68a0f7fff53fdc85b4",
+      "is_merge": true
+    },
+    {
+      "sha": "e05b8955a8db22df365a08759d5bc81e659a1911",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #75 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.5.0\n\nchore(deps): bump actions/setup-go from 6.4.0 to 6.5.0",
+      "timestamp": "2026-06-27T11:03:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/e05b8955a8db22df365a08759d5bc81e659a1911",
+      "is_merge": true
+    },
+    {
+      "sha": "4ea10616377230cfa971edd1150bdc54cd536bc7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #72 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-6.1.0\n\nchore(deps): bump actions/cache from 5.0.5 to 6.1.0",
+      "timestamp": "2026-06-27T10:44:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/4ea10616377230cfa971edd1150bdc54cd536bc7",
+      "is_merge": true
+    },
+    {
+      "sha": "d48203fda7eaea81fb960a06eacd44d98608ecaa",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/setup-go from 6.4.0 to 6.5.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.4.0 to 6.5.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/4a3601121dd01d1626a1e23e37211e3254c1c06c...924ae3a1cded613372ab5595356fb5720e22ba16)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 6.5.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-27T10:07:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/d48203fda7eaea81fb960a06eacd44d98608ecaa",
+      "is_merge": false
+    },
+    {
+      "sha": "73ff7850d2049fb6ba5b5e2513cca43705987c19",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.32.2 to 4.36.2.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/45cbd0c69e560cd9e7cd7f8c32362050c9b7ded2...8aad20d150bbac5944a9f9d289da16a4b0d87c1e)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.36.2\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-27T10:07:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/73ff7850d2049fb6ba5b5e2513cca43705987c19",
+      "is_merge": false
+    },
+    {
+      "sha": "ad3f609e9271d4ffb3583caa9e05d0ddfe9a7c8c",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/attest-build-provenance from 4.1.0 to 4.1.1\n\nBumps [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) from 4.1.0 to 4.1.1.\n- [Release notes](https://github.com/actions/attest-build-provenance/releases)\n- [Changelog](https://github.com/actions/attest-build-provenance/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest-build-provenance/compare/a2bbfa25375fe432b6a289bc6b6cd05ecd0c4c32...0f67c3f4856b2e3261c31976d6725780e5e4c373)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest-build-provenance\n  dependency-version: 4.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-27T10:06:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/ad3f609e9271d4ffb3583caa9e05d0ddfe9a7c8c",
+      "is_merge": false
+    },
+    {
+      "sha": "50c0d9db0cfeae6dc639520cc17f4513abbecad2",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/cache from 5.0.5 to 6.1.0\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.5 to 6.1.0.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/27d5ce7f107fe9357f9df03efb73ab90386fccae...55cc8345863c7cc4c66a329aec7e433d2d1c52a9)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 6.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-27T10:06:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/50c0d9db0cfeae6dc639520cc17f4513abbecad2",
+      "is_merge": false
+    },
+    {
       "sha": "1cac2da1fe28378f8f4666573fe482d0d817c8fa",
       "author": "JaredHatfield",
       "message": "Merge pull request #71 from UnitVectorY-Labs/pin-actions-codeql\n\nPin github/codeql-action to SHA",

@@ -4,6 +4,39 @@
   "default_branch": "main",
   "latest_release_tag": "v0.1.1",
   "latest_release_time": "2026-06-22T22:37:07Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "45cd12310b639be9229028f56493d7f418263a62",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #38 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.5.0\n\nbuild(deps): bump actions/setup-go from 6.4.0 to 6.5.0",
+      "timestamp": "2026-06-27T11:04:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/45cd12310b639be9229028f56493d7f418263a62",
+      "is_merge": true
+    },
+    {
+      "sha": "16a62d82ffe8ef704c30fbf00d3b1ad4b5385eeb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #37 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-6.1.0\n\nbuild(deps): bump actions/cache from 5.0.5 to 6.1.0",
+      "timestamp": "2026-06-27T10:45:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/16a62d82ffe8ef704c30fbf00d3b1ad4b5385eeb",
+      "is_merge": true
+    },
+    {
+      "sha": "ea6a4783b87b1e727b93902c8b9c63337b8a8d96",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/setup-go from 6.4.0 to 6.5.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.4.0 to 6.5.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/4a3601121dd01d1626a1e23e37211e3254c1c06c...924ae3a1cded613372ab5595356fb5720e22ba16)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 6.5.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-27T10:06:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/ea6a4783b87b1e727b93902c8b9c63337b8a8d96",
+      "is_merge": false
+    },
+    {
+      "sha": "fe110b87d5f41ddaefeefd8192fff4d07f268c2f",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/cache from 5.0.5 to 6.1.0\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.5 to 6.1.0.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/27d5ce7f107fe9357f9df03efb73ab90386fccae...55cc8345863c7cc4c66a329aec7e433d2d1c52a9)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 6.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-27T10:05:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/fe110b87d5f41ddaefeefd8192fff4d07f268c2f",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles"
 }

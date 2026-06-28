@@ -6,6 +6,70 @@
   "latest_release_time": "2026-06-22T22:50:44Z",
   "unreleased_commits": [
     {
+      "sha": "6153bf0e1b9f00cdc8f12fb7c9a347d84281927b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #95 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-4.1.1\n\nchore(deps): bump actions/attest-build-provenance from 4.1.0 to 4.1.1",
+      "timestamp": "2026-06-27T17:37:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/6153bf0e1b9f00cdc8f12fb7c9a347d84281927b",
+      "is_merge": true
+    },
+    {
+      "sha": "0d447fbe09c1c27cb9625461db552dac5fd38240",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/attest-build-provenance from 4.1.0 to 4.1.1\n\nBumps [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) from 4.1.0 to 4.1.1.\n- [Release notes](https://github.com/actions/attest-build-provenance/releases)\n- [Changelog](https://github.com/actions/attest-build-provenance/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest-build-provenance/compare/a2bbfa25375fe432b6a289bc6b6cd05ecd0c4c32...0f67c3f4856b2e3261c31976d6725780e5e4c373)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest-build-provenance\n  dependency-version: 4.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-27T11:24:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/0d447fbe09c1c27cb9625461db552dac5fd38240",
+      "is_merge": false
+    },
+    {
+      "sha": "39a7b04d5113882785fe6e8d1451b06817a6a308",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #94 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.36.2\n\nchore(deps): bump github/codeql-action/upload-sarif from 4.32.2 to 4.36.2",
+      "timestamp": "2026-06-27T11:22:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/39a7b04d5113882785fe6e8d1451b06817a6a308",
+      "is_merge": true
+    },
+    {
+      "sha": "b25c47a858b3050e3086e0c5f24ca131d567b9e5",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.32.2 to 4.36.2.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/45cbd0c69e560cd9e7cd7f8c32362050c9b7ded2...8aad20d150bbac5944a9f9d289da16a4b0d87c1e)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.36.2\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-27T11:04:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/b25c47a858b3050e3086e0c5f24ca131d567b9e5",
+      "is_merge": false
+    },
+    {
+      "sha": "471ac6d9739478f22a20a568543bad07be930711",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #93 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.5.0\n\nchore(deps): bump actions/setup-go from 6.4.0 to 6.5.0",
+      "timestamp": "2026-06-27T11:02:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/471ac6d9739478f22a20a568543bad07be930711",
+      "is_merge": true
+    },
+    {
+      "sha": "e92465aa896852466e4d9e02cb870e9c1dcb094b",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/setup-go from 6.4.0 to 6.5.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.4.0 to 6.5.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/4a3601121dd01d1626a1e23e37211e3254c1c06c...924ae3a1cded613372ab5595356fb5720e22ba16)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 6.5.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-27T10:45:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/e92465aa896852466e4d9e02cb870e9c1dcb094b",
+      "is_merge": false
+    },
+    {
+      "sha": "71c89e8df0bbe7dbd14641eae3a435d3b5ac812e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #92 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-6.1.0\n\nchore(deps): bump actions/cache from 5.0.5 to 6.1.0",
+      "timestamp": "2026-06-27T10:43:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/71c89e8df0bbe7dbd14641eae3a435d3b5ac812e",
+      "is_merge": true
+    },
+    {
+      "sha": "7e32cad17fe566ceea7ef62d751552e4145f74bd",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/cache from 5.0.5 to 6.1.0\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.5 to 6.1.0.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/27d5ce7f107fe9357f9df03efb73ab90386fccae...55cc8345863c7cc4c66a329aec7e433d2d1c52a9)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 6.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-27T10:02:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/7e32cad17fe566ceea7ef62d751552e4145f74bd",
+      "is_merge": false
+    },
+    {
       "sha": "83d25564b131615cc8d96709a9c8af78e1c68432",
       "author": "JaredHatfield",
       "message": "Merge pull request #91 from UnitVectorY-Labs/pin-actions-codeql\n\nPin github/codeql-action to SHA",

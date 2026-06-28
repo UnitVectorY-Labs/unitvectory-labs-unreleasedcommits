@@ -6,6 +6,38 @@
   "latest_release_time": "2026-05-24T00:42:30Z",
   "unreleased_commits": [
     {
+      "sha": "814b1afd0e787aa815a3129dca700c078a76f50d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #69 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.5.0\n\nbuild(deps): bump actions/setup-go from 6.4.0 to 6.5.0",
+      "timestamp": "2026-06-27T11:02:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/814b1afd0e787aa815a3129dca700c078a76f50d",
+      "is_merge": true
+    },
+    {
+      "sha": "2a31dc9f5955b180bc36eb0cb45259e3cba1d4bb",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/setup-go from 6.4.0 to 6.5.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.4.0 to 6.5.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/4a3601121dd01d1626a1e23e37211e3254c1c06c...924ae3a1cded613372ab5595356fb5720e22ba16)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 6.5.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-27T10:46:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/2a31dc9f5955b180bc36eb0cb45259e3cba1d4bb",
+      "is_merge": false
+    },
+    {
+      "sha": "698d9c583097fdd5b10cb64e05111f0c1d4ea107",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #68 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-6.1.0\n\nbuild(deps): bump actions/cache from 5.0.5 to 6.1.0",
+      "timestamp": "2026-06-27T10:43:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/698d9c583097fdd5b10cb64e05111f0c1d4ea107",
+      "is_merge": true
+    },
+    {
+      "sha": "cfdcbd7fde31a0d152f03c1b1c39dd414d6b457e",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/cache from 5.0.5 to 6.1.0\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.5 to 6.1.0.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/27d5ce7f107fe9357f9df03efb73ab90386fccae...55cc8345863c7cc4c66a329aec7e433d2d1c52a9)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 6.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-27T10:04:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/cfdcbd7fde31a0d152f03c1b1c39dd414d6b457e",
+      "is_merge": false
+    },
+    {
       "sha": "d5dc2c6b4064596e1600db0c997318e1c36cce58",
       "author": "JaredHatfield",
       "message": "Merge pull request #67 from UnitVectorY-Labs/gitrepoforge/tofu-template-tester\n\ngitrepoforge: apply desired state for tofu-template-tester",

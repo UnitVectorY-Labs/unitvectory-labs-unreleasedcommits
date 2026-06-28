@@ -6,6 +6,38 @@
   "latest_release_time": "2026-05-23T23:32:07Z",
   "unreleased_commits": [
     {
+      "sha": "d4f33fab2ab65e7d87a925967a3d6c197e279bbc",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #52 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.5.0\n\nbuild(deps): bump actions/setup-go from 6.4.0 to 6.5.0",
+      "timestamp": "2026-06-27T11:03:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/d4f33fab2ab65e7d87a925967a3d6c197e279bbc",
+      "is_merge": true
+    },
+    {
+      "sha": "c49e7b93f7154eabbeef5b9a359d11553196e678",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #53 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-6.1.0\n\nbuild(deps): bump actions/cache from 5.0.5 to 6.1.0",
+      "timestamp": "2026-06-27T10:44:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/c49e7b93f7154eabbeef5b9a359d11553196e678",
+      "is_merge": true
+    },
+    {
+      "sha": "e9c36eb6c9fac5c1a1c248a109e366f40271b294",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/cache from 5.0.5 to 6.1.0\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.5 to 6.1.0.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/27d5ce7f107fe9357f9df03efb73ab90386fccae...55cc8345863c7cc4c66a329aec7e433d2d1c52a9)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 6.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-27T10:07:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/e9c36eb6c9fac5c1a1c248a109e366f40271b294",
+      "is_merge": false
+    },
+    {
+      "sha": "99d269bbcf7ac2d20ed18a73190783a72bd697bf",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/setup-go from 6.4.0 to 6.5.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.4.0 to 6.5.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/4a3601121dd01d1626a1e23e37211e3254c1c06c...924ae3a1cded613372ab5595356fb5720e22ba16)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 6.5.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-27T10:07:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/99d269bbcf7ac2d20ed18a73190783a72bd697bf",
+      "is_merge": false
+    },
+    {
       "sha": "7c3e7eecd4ab00344adbfbb8da13f389c2b2bf97",
       "author": "JaredHatfield",
       "message": "Merge pull request #51 from UnitVectorY-Labs/gitrepoforge/bulkfilepr\n\ngitrepoforge: apply desired state for bulkfilepr",

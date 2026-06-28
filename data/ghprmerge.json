@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-20T11:22:53Z",
   "unreleased_commits": [
     {
+      "sha": "0d795a76c0bfc65e119a4e0ba9f6c7f81ffa1f78",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #68 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.5.0\n\nchore(deps): bump actions/setup-go from 6.4.0 to 6.5.0",
+      "timestamp": "2026-06-27T11:03:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/0d795a76c0bfc65e119a4e0ba9f6c7f81ffa1f78",
+      "is_merge": true
+    },
+    {
+      "sha": "13c7d18fb4fc413440b9ed3b1920fd90d70eeeee",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #67 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-6.1.0\n\nchore(deps): bump actions/cache from 5.0.5 to 6.1.0",
+      "timestamp": "2026-06-27T10:44:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/13c7d18fb4fc413440b9ed3b1920fd90d70eeeee",
+      "is_merge": true
+    },
+    {
+      "sha": "b52274a43cb957e6bc7c70a40a6e2d6e5a2e90a3",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/setup-go from 6.4.0 to 6.5.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.4.0 to 6.5.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/4a3601121dd01d1626a1e23e37211e3254c1c06c...924ae3a1cded613372ab5595356fb5720e22ba16)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 6.5.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-27T10:06:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/b52274a43cb957e6bc7c70a40a6e2d6e5a2e90a3",
+      "is_merge": false
+    },
+    {
+      "sha": "478be24f36aab58ae3ebab9ad86edb4db4e6e26a",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/cache from 5.0.5 to 6.1.0\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.5 to 6.1.0.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/27d5ce7f107fe9357f9df03efb73ab90386fccae...55cc8345863c7cc4c66a329aec7e433d2d1c52a9)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 6.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-27T10:05:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/478be24f36aab58ae3ebab9ad86edb4db4e6e26a",
+      "is_merge": false
+    },
+    {
       "sha": "0e58fcd07374bd1733c7d9b06074ee99479c42ee",
       "author": "JaredHatfield",
       "message": "Merge pull request #66 from UnitVectorY-Labs/gitrepoforge/ghprmerge\n\ngitrepoforge: apply desired state for ghprmerge",

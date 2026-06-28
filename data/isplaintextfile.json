@@ -6,6 +6,22 @@
   "latest_release_time": "2026-02-28T22:33:35Z",
   "unreleased_commits": [
     {
+      "sha": "41091c02b333be1f57b50844cf151e68fd20b050",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #59 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-6.1.0\n\nBump actions/cache from 6.0.0 to 6.1.0",
+      "timestamp": "2026-06-27T10:43:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/41091c02b333be1f57b50844cf151e68fd20b050",
+      "is_merge": true
+    },
+    {
+      "sha": "92d743b129600f36e3f5be82208846cd33a49d31",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/cache from 6.0.0 to 6.1.0\n\nBumps [actions/cache](https://github.com/actions/cache) from 6.0.0 to 6.1.0.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/2c8a9bd7457de244a408f35966fab2fb45fda9c8...55cc8345863c7cc4c66a329aec7e433d2d1c52a9)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 6.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-27T10:06:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/92d743b129600f36e3f5be82208846cd33a49d31",
+      "is_merge": false
+    },
+    {
       "sha": "db09ece9345dbdedda3cf78699ddccc1556fdcdf",
       "author": "JaredHatfield",
       "message": "Merge pull request #57 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.5.0\n\nBump actions/setup-go from 6.4.0 to 6.5.0",

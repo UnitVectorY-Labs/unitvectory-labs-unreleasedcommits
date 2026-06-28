@@ -4,6 +4,39 @@
   "default_branch": "main",
   "latest_release_tag": "v0.3.2",
   "latest_release_time": "2026-06-22T22:52:34Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "9eab7b07a0f1948a5e2fdbfcacef53931fc6090c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #95 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.5.0\n\nchore(deps): bump actions/setup-go from 6.4.0 to 6.5.0",
+      "timestamp": "2026-06-27T11:02:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/9eab7b07a0f1948a5e2fdbfcacef53931fc6090c",
+      "is_merge": true
+    },
+    {
+      "sha": "4b1565dcd1c6ee3b2a590b98d69ca0030d0670b3",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/setup-go from 6.4.0 to 6.5.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.4.0 to 6.5.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/4a3601121dd01d1626a1e23e37211e3254c1c06c...924ae3a1cded613372ab5595356fb5720e22ba16)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 6.5.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-27T10:46:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/4b1565dcd1c6ee3b2a590b98d69ca0030d0670b3",
+      "is_merge": false
+    },
+    {
+      "sha": "fc2492b4699620878411380f07b94b1ee95fa9ab",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #94 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-6.1.0\n\nchore(deps): bump actions/cache from 5.0.5 to 6.1.0",
+      "timestamp": "2026-06-27T10:44:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/fc2492b4699620878411380f07b94b1ee95fa9ab",
+      "is_merge": true
+    },
+    {
+      "sha": "d5ba56330042002fc53295f87fc86260c389c3e8",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/cache from 5.0.5 to 6.1.0\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.5 to 6.1.0.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/27d5ce7f107fe9357f9df03efb73ab90386fccae...55cc8345863c7cc4c66a329aec7e433d2d1c52a9)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 6.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-27T10:04:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/d5ba56330042002fc53295f87fc86260c389c3e8",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs"
 }

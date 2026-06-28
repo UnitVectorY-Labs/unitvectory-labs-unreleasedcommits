@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-03T10:38:18Z",
   "unreleased_commits": [
     {
+      "sha": "bfee35ae4ee60ef701130a50f4397db540f5a7ab",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #32 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.5.0\n\nBump actions/setup-go from 6.4.0 to 6.5.0",
+      "timestamp": "2026-06-27T11:04:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/bfee35ae4ee60ef701130a50f4397db540f5a7ab",
+      "is_merge": true
+    },
+    {
+      "sha": "1a1968221031f436bff8618eda5304df19d15097",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #31 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-6.1.0\n\nBump actions/cache from 5.0.5 to 6.1.0",
+      "timestamp": "2026-06-27T10:45:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/1a1968221031f436bff8618eda5304df19d15097",
+      "is_merge": true
+    },
+    {
+      "sha": "b84e6e823670194164255cf850aaba1814e73c49",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/setup-go from 6.4.0 to 6.5.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.4.0 to 6.5.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/4a3601121dd01d1626a1e23e37211e3254c1c06c...924ae3a1cded613372ab5595356fb5720e22ba16)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 6.5.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-27T10:05:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/b84e6e823670194164255cf850aaba1814e73c49",
+      "is_merge": false
+    },
+    {
+      "sha": "8b67e83ff208f06d1b2dcc9c2a976d2073be652f",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/cache from 5.0.5 to 6.1.0\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.5 to 6.1.0.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/27d5ce7f107fe9357f9df03efb73ab90386fccae...55cc8345863c7cc4c66a329aec7e433d2d1c52a9)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 6.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-27T10:04:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/8b67e83ff208f06d1b2dcc9c2a976d2073be652f",
+      "is_merge": false
+    },
+    {
       "sha": "66f8d21ea53f0ecf2f273a08de7ccc9e49f75bfa",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for frontmatterkit (#30)\n\n* gitrepoforge: apply desired state for frontmatterkit\n\n* Fix .repver: hardcode .0 instead of {{patch}} in go version transform\n\n* Fix .repver: align - path indentation under targets (3 spaces)",

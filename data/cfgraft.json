@@ -2,55 +2,39 @@
   "owner": "UnitVectorY-Labs",
   "name": "cfgraft",
   "default_branch": "main",
-  "latest_release_tag": "v0.3.2",
-  "latest_release_time": "2026-06-22T22:54:41Z",
+  "latest_release_tag": "v0.3.3",
+  "latest_release_time": "2026-06-27T09:55:34Z",
   "unreleased_commits": [
     {
-      "sha": "05b30ca56b8ecda92e121e22b6fba5b89e5e83f1",
+      "sha": "3512fc22527e7dfdbbe2af36cef22665309dac96",
       "author": "JaredHatfield",
-      "message": "Enable GitHub releases and add badges to README",
-      "timestamp": "2026-06-27T01:00:50Z",
-      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/05b30ca56b8ecda92e121e22b6fba5b89e5e83f1",
-      "is_merge": false
-    },
-    {
-      "sha": "a0e2c0263efcb0ab762d8df37574c09e9de58a58",
-      "author": "JaredHatfield",
-      "message": "Updated documentation",
-      "timestamp": "2026-06-27T00:41:14Z",
-      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/a0e2c0263efcb0ab762d8df37574c09e9de58a58",
-      "is_merge": false
-    },
-    {
-      "sha": "21ab4bed948eaf3f6a736fb39be20001f2217350",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #9 from UnitVectorY-Labs/fix/tui-mouse-sync-cleanup\n\nFix redundant syncComponents and improve test consistency",
-      "timestamp": "2026-06-27T00:16:16Z",
-      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/21ab4bed948eaf3f6a736fb39be20001f2217350",
+      "message": "Merge pull request #15 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.5.0\n\nBump actions/setup-go from 6.4.0 to 6.5.0",
+      "timestamp": "2026-06-27T11:04:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/3512fc22527e7dfdbbe2af36cef22665309dac96",
       "is_merge": true
     },
     {
-      "sha": "dba0ee38aeef8e128e0709f1860b120c6d20dcf0",
+      "sha": "989b1c6d035d33c271394f51b1465c8661ae0765",
       "author": "JaredHatfield",
-      "message": "Merge pull request #13 from UnitVectorY-Labs/feat/stale-state-pruning-dot-source\n\nfeat: prune stale state for removed mappings/sources and fix dot-source handling",
-      "timestamp": "2026-06-27T00:15:09Z",
-      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/dba0ee38aeef8e128e0709f1860b120c6d20dcf0",
+      "message": "Merge pull request #14 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-6.1.0\n\nBump actions/cache from 5.0.5 to 6.1.0",
+      "timestamp": "2026-06-27T10:46:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/989b1c6d035d33c271394f51b1465c8661ae0765",
       "is_merge": true
     },
     {
-      "sha": "1f08ac42f1d24044324fd92746f5b1c9195a8769",
-      "author": "JaredHatfield",
-      "message": "feat: prune stale state for removed mappings/sources and fix dot-source handling\n\n- Prune state entries when a mapping or source is removed from config.yaml\n- Add dot-source mapping support in pathEqualOrNested for \".\" roots\n- Introduce nextKeys map to deduplicate state entries during planning\n- Update docs to reflect automatic stale state pruning behavior\n- Remove stale-state-resolution section from requirements (now implemented)\n- Add comprehensive tests for prune, dry-run preservation, and dot-source flows",
-      "timestamp": "2026-06-27T00:12:07Z",
-      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/1f08ac42f1d24044324fd92746f5b1c9195a8769",
+      "sha": "18fc18bcc6fa4fcd24a757eca6f5da19aa1cc1c7",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/setup-go from 6.4.0 to 6.5.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.4.0 to 6.5.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/4a3601121dd01d1626a1e23e37211e3254c1c06c...924ae3a1cded613372ab5595356fb5720e22ba16)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 6.5.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-27T10:12:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/18fc18bcc6fa4fcd24a757eca6f5da19aa1cc1c7",
       "is_merge": false
     },
     {
-      "sha": "e45c264efd9c9a40d1ee8d37a1f4ec86efe71fed",
-      "author": "JaredHatfield",
-      "message": "Fix redundant syncComponents and improve test consistency\n\n- Remove redundant syncComponents() call in updateMouseClick\n- Use t.TempDir() and filepath.Join in TestTUIMouseHoverAfterSourceBackUsesCurrentLayout\n- Add clarifying comment for rendered copy pattern in test",
-      "timestamp": "2026-06-17T22:36:42Z",
-      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/e45c264efd9c9a40d1ee8d37a1f4ec86efe71fed",
+      "sha": "ad20bc8582bc4685f2410d9c94454b7517bfb110",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/cache from 5.0.5 to 6.1.0\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.5 to 6.1.0.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/27d5ce7f107fe9357f9df03efb73ab90386fccae...55cc8345863c7cc4c66a329aec7e433d2d1c52a9)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 6.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-27T10:12:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/ad20bc8582bc4685f2410d9c94454b7517bfb110",
       "is_merge": false
     }
   ],

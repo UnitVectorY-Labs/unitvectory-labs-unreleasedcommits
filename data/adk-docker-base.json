@@ -6,6 +6,22 @@
   "latest_release_time": "2025-10-25T13:36:20Z",
   "unreleased_commits": [
     {
+      "sha": "4018875109c49837a702b68a280ec9c37cefc826",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #97 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-4.1.1\n\nBump actions/attest-build-provenance from 4.1.0 to 4.1.1",
+      "timestamp": "2026-06-27T11:09:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/4018875109c49837a702b68a280ec9c37cefc826",
+      "is_merge": true
+    },
+    {
+      "sha": "bf6a9a5fe6fa3f2d373ac23e195e499f7c8022ee",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/attest-build-provenance from 4.1.0 to 4.1.1\n\nBumps [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) from 4.1.0 to 4.1.1.\n- [Release notes](https://github.com/actions/attest-build-provenance/releases)\n- [Changelog](https://github.com/actions/attest-build-provenance/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest-build-provenance/compare/a2bbfa25375fe432b6a289bc6b6cd05ecd0c4c32...0f67c3f4856b2e3261c31976d6725780e5e4c373)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest-build-provenance\n  dependency-version: 4.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-27T10:04:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/bf6a9a5fe6fa3f2d373ac23e195e499f7c8022ee",
+      "is_merge": false
+    },
+    {
       "sha": "2df60a3c6c80b38f6ad2da28461abd74b69729d0",
       "author": "JaredHatfield",
       "message": "Merge pull request #95 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7.0.0\n\nBump actions/checkout from 6.0.3 to 7.0.0",

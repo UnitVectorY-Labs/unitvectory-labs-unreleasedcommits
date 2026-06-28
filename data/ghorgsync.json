@@ -4,6 +4,39 @@
   "default_branch": "main",
   "latest_release_tag": "v0.3.7",
   "latest_release_time": "2026-06-22T22:54:11Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "c91a2505592af771a7b7443b27668c2d5260fa58",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #52 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.5.0\n\nbuild(deps): bump actions/setup-go from 6.4.0 to 6.5.0",
+      "timestamp": "2026-06-27T11:04:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/c91a2505592af771a7b7443b27668c2d5260fa58",
+      "is_merge": true
+    },
+    {
+      "sha": "fc4d5d2362f92ef5b59dd95f4d05e174f39b0731",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #53 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-6.1.0\n\nbuild(deps): bump actions/cache from 5.0.5 to 6.1.0",
+      "timestamp": "2026-06-27T10:45:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/fc4d5d2362f92ef5b59dd95f4d05e174f39b0731",
+      "is_merge": true
+    },
+    {
+      "sha": "0c2d153b07a9a50f0e3eeb898cd0002a884eb112",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/cache from 5.0.5 to 6.1.0\n\nBumps [actions/cache](https://github.com/actions/cache) from 5.0.5 to 6.1.0.\n- [Release notes](https://github.com/actions/cache/releases)\n- [Changelog](https://github.com/actions/cache/blob/main/RELEASES.md)\n- [Commits](https://github.com/actions/cache/compare/27d5ce7f107fe9357f9df03efb73ab90386fccae...55cc8345863c7cc4c66a329aec7e433d2d1c52a9)\n\n---\nupdated-dependencies:\n- dependency-name: actions/cache\n  dependency-version: 6.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-27T10:07:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/0c2d153b07a9a50f0e3eeb898cd0002a884eb112",
+      "is_merge": false
+    },
+    {
+      "sha": "e9f178107177b26dcb0a57a154b294b806ea0218",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/setup-go from 6.4.0 to 6.5.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.4.0 to 6.5.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/4a3601121dd01d1626a1e23e37211e3254c1c06c...924ae3a1cded613372ab5595356fb5720e22ba16)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 6.5.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-27T10:05:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/e9f178107177b26dcb0a57a154b294b806ea0218",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/ghorgsync"
 }
