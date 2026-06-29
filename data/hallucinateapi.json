@@ -1,0 +1,34 @@
+{
+  "owner": "UnitVectorY-Labs",
+  "name": "hallucinateapi",
+  "default_branch": "main",
+  "latest_release_tag": "v0.1.0",
+  "latest_release_time": "2026-06-28T15:16:00Z",
+  "unreleased_commits": [
+    {
+      "sha": "ad3e0a48f938a4e9060d1e9efaddd685f97e527e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #67 from UnitVectorY-Labs/docs/add-install-guide\n\ndocs: add INSTALL.md guide and adjust nav ordering",
+      "timestamp": "2026-06-28T22:41:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/ad3e0a48f938a4e9060d1e9efaddd685f97e527e",
+      "is_merge": true
+    },
+    {
+      "sha": "cbb8de4e257e7cb7a00b88ca98ad65270f69aef5",
+      "author": "JaredHatfield",
+      "message": "docs: add INSTALL.md guide and adjust nav ordering",
+      "timestamp": "2026-06-28T21:50:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/cbb8de4e257e7cb7a00b88ca98ad65270f69aef5",
+      "is_merge": false
+    },
+    {
+      "sha": "c4d3c48da36aeb32eefa3802d426625614a25046",
+      "author": "JaredHatfield",
+      "message": "Enable GitHub releases and add release/Go Report Card badges to README",
+      "timestamp": "2026-06-28T15:23:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/c4d3c48da36aeb32eefa3802d426625614a25046",
+      "is_merge": false
+    }
+  ],
+  "repository_url": "https://github.com/UnitVectorY-Labs/hallucinateapi"
+}
