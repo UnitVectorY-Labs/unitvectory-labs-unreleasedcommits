@@ -6,6 +6,30 @@
   "latest_release_time": "2026-06-28T15:16:00Z",
   "unreleased_commits": [
     {
+      "sha": "a981c2ac3dab7f9d5db47c540a6bd69f25a4c1c2",
+      "author": "JaredHatfield",
+      "message": "Rename SKILLS.md to SKILL.md",
+      "timestamp": "2026-07-02T00:59:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/a981c2ac3dab7f9d5db47c540a6bd69f25a4c1c2",
+      "is_merge": false
+    },
+    {
+      "sha": "b4636a9cacea9e5d276fbce0c2d2c107b77a1ecb",
+      "author": "JaredHatfield",
+      "message": "Revert \"fix: remove trailing space from README.md\"\n\nThis reverts commit 6c69bbe3a58e9dfbce70757db45881a03325caab.",
+      "timestamp": "2026-07-01T02:39:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/b4636a9cacea9e5d276fbce0c2d2c107b77a1ecb",
+      "is_merge": false
+    },
+    {
+      "sha": "6c69bbe3a58e9dfbce70757db45881a03325caab",
+      "author": "JaredHatfield",
+      "message": "fix: remove trailing space from README.md",
+      "timestamp": "2026-07-01T02:38:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/6c69bbe3a58e9dfbce70757db45881a03325caab",
+      "is_merge": false
+    },
+    {
       "sha": "ad3e0a48f938a4e9060d1e9efaddd685f97e527e",
       "author": "JaredHatfield",
       "message": "Merge pull request #67 from UnitVectorY-Labs/docs/add-install-guide\n\ndocs: add INSTALL.md guide and adjust nav ordering",
