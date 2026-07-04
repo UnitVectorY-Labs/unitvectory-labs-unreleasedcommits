@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:43:53Z",
   "unreleased_commits": [
     {
+      "sha": "3a86a6b04b08005907bf616f835f3bc1a8b7259b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #126 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/net-0.55.0\n\nchore(deps): bump golang.org/x/net from 0.51.0 to 0.55.0",
+      "timestamp": "2026-07-03T16:58:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/3a86a6b04b08005907bf616f835f3bc1a8b7259b",
+      "is_merge": true
+    },
+    {
+      "sha": "a96122dbf49c4cb238e1e669b8372b74344d6b39",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump golang.org/x/net from 0.51.0 to 0.55.0\n\nBumps [golang.org/x/net](https://github.com/golang/net) from 0.51.0 to 0.55.0.\n- [Commits](https://github.com/golang/net/compare/v0.51.0...v0.55.0)\n\n---\nupdated-dependencies:\n- dependency-name: golang.org/x/net\n  dependency-version: 0.55.0\n  dependency-type: indirect\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-03T15:06:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/a96122dbf49c4cb238e1e669b8372b74344d6b39",
+      "is_merge": false
+    },
+    {
       "sha": "e65e7faf259e60fe5f34c7476afa355db174fbd7",
       "author": "JaredHatfield",
       "message": "Merge pull request #123 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-4.1.1\n\nchore(deps): bump actions/attest-build-provenance from 4.1.0 to 4.1.1",

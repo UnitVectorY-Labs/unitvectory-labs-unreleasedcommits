@@ -6,6 +6,38 @@
   "latest_release_time": "2026-05-22T00:31:14Z",
   "unreleased_commits": [
     {
+      "sha": "bfb393c7fbfe2cd75dd2ee7dae10903bec293b45",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #77 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-4.1.1\n\nchore(deps): bump actions/attest-build-provenance from 4.1.0 to 4.1.1",
+      "timestamp": "2026-07-03T18:20:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/bfb393c7fbfe2cd75dd2ee7dae10903bec293b45",
+      "is_merge": true
+    },
+    {
+      "sha": "22552b98c8bddf7621ca6973bb97e86416c6120d",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/attest-build-provenance from 4.1.0 to 4.1.1\n\nBumps [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) from 4.1.0 to 4.1.1.\n- [Release notes](https://github.com/actions/attest-build-provenance/releases)\n- [Changelog](https://github.com/actions/attest-build-provenance/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest-build-provenance/compare/a2bbfa25375fe432b6a289bc6b6cd05ecd0c4c32...0f67c3f4856b2e3261c31976d6725780e5e4c373)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest-build-provenance\n  dependency-version: 4.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-03T17:00:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/22552b98c8bddf7621ca6973bb97e86416c6120d",
+      "is_merge": false
+    },
+    {
+      "sha": "55d213b6866fea27e2825d5d62cbf870c8269e90",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #76 from UnitVectorY-Labs/gitrepoforge/gologhttpjson\n\ngitrepoforge: onboard gologhttpjson",
+      "timestamp": "2026-07-03T16:57:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/55d213b6866fea27e2825d5d62cbf870c8269e90",
+      "is_merge": true
+    },
+    {
+      "sha": "0b72839de49e840875b6c6d1272b8cd085d26290",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for gologhttpjson",
+      "timestamp": "2026-07-03T11:11:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/0b72839de49e840875b6c6d1272b8cd085d26290",
+      "is_merge": false
+    },
+    {
       "sha": "d26223697c8dbd13eabaf5349081cb5500eb7ce9",
       "author": "JaredHatfield",
       "message": "Merge pull request #74 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.36.2\n\nchore(deps): bump github/codeql-action/upload-sarif from 4.32.2 to 4.36.2",
