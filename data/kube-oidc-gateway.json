@@ -6,6 +6,54 @@
   "latest_release_time": "2026-03-02T11:56:38Z",
   "unreleased_commits": [
     {
+      "sha": "f3869dffc735897a557a0e8d46141859a288fce8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #79 from UnitVectorY-Labs/dependabot/github_actions/docker/setup-buildx-action-4.2.0\n\nchore(deps): bump docker/setup-buildx-action from 4.1.0 to 4.2.0",
+      "timestamp": "2026-07-04T15:59:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/f3869dffc735897a557a0e8d46141859a288fce8",
+      "is_merge": true
+    },
+    {
+      "sha": "d630f560fe8dae2d1aceac8ff62216445add480c",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/setup-buildx-action from 4.1.0 to 4.2.0\n\nBumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 4.1.0 to 4.2.0.\n- [Release notes](https://github.com/docker/setup-buildx-action/releases)\n- [Commits](https://github.com/docker/setup-buildx-action/compare/d7f5e7f509e45cec5c76c4d5afdd7de93d0b3df5...bb05f3f5519dd87d3ba754cc423b652a5edd6d2c)\n\n---\nupdated-dependencies:\n- dependency-name: docker/setup-buildx-action\n  dependency-version: 4.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T15:21:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/d630f560fe8dae2d1aceac8ff62216445add480c",
+      "is_merge": false
+    },
+    {
+      "sha": "f696f971fb63fb5928bb5c2e582ed02208ce3c52",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #80 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.4.0\n\nchore(deps): bump docker/login-action from 4.2.0 to 4.4.0",
+      "timestamp": "2026-07-04T15:19:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/f696f971fb63fb5928bb5c2e582ed02208ce3c52",
+      "is_merge": true
+    },
+    {
+      "sha": "16eb33e0bdf5e812944bae695e89608e164d0ce2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #77 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.36.3\n\nchore(deps): bump github/codeql-action/upload-sarif from 4.36.2 to 4.36.3",
+      "timestamp": "2026-07-04T15:10:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/16eb33e0bdf5e812944bae695e89608e164d0ce2",
+      "is_merge": true
+    },
+    {
+      "sha": "11812d34405bae3c2d2c71314568d7f1d9965f19",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/login-action from 4.2.0 to 4.4.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.2.0 to 4.4.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/650006c6eb7dba73a995cc03b0b2d7f5ca915bee...af1e73f918a031802d376d3c8bbc3fe56130a9b0)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:06:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/11812d34405bae3c2d2c71314568d7f1d9965f19",
+      "is_merge": false
+    },
+    {
+      "sha": "3dd667eae74b067685a2a813cd79f032a5f6efa9",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.36.2 to 4.36.3.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/8aad20d150bbac5944a9f9d289da16a4b0d87c1e...54f647b7e1bb85c95cddabcd46b0c578ec92bc1a)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.36.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:04:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/3dd667eae74b067685a2a813cd79f032a5f6efa9",
+      "is_merge": false
+    },
+    {
       "sha": "a9cd34761607cf2d376962371ce5336d0af1c046",
       "author": "JaredHatfield",
       "message": "Merge pull request #73 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-4.1.1\n\nchore(deps): bump actions/attest-build-provenance from 4.1.0 to 4.1.1",

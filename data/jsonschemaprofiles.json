@@ -6,6 +6,30 @@
   "latest_release_time": "2026-06-22T22:37:07Z",
   "unreleased_commits": [
     {
+      "sha": "25dada4da96c26ed021d931e734e3bd32790a070",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for jsonschemaprofiles (#40)",
+      "timestamp": "2026-07-04T21:58:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/25dada4da96c26ed021d931e734e3bd32790a070",
+      "is_merge": false
+    },
+    {
+      "sha": "400db40ef09a48b318ad0ac71d1ab080fa413a8f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #39 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-4.1.1\n\nbuild(deps): bump actions/attest from 4.1.0 to 4.1.1",
+      "timestamp": "2026-07-04T15:14:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/400db40ef09a48b318ad0ac71d1ab080fa413a8f",
+      "is_merge": true
+    },
+    {
+      "sha": "7734ecd87012838ef70485f29ddea2623ec4b1e2",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/attest from 4.1.0 to 4.1.1\n\nBumps [actions/attest](https://github.com/actions/attest) from 4.1.0 to 4.1.1.\n- [Release notes](https://github.com/actions/attest/releases)\n- [Changelog](https://github.com/actions/attest/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest/compare/59d89421af93a897026c735860bf21b6eb4f7b26...a1948c3f048ba23858d222213b7c278aabede763)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest\n  dependency-version: 4.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:10:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/7734ecd87012838ef70485f29ddea2623ec4b1e2",
+      "is_merge": false
+    },
+    {
       "sha": "45cd12310b639be9229028f56493d7f418263a62",
       "author": "JaredHatfield",
       "message": "Merge pull request #38 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.5.0\n\nbuild(deps): bump actions/setup-go from 6.4.0 to 6.5.0",

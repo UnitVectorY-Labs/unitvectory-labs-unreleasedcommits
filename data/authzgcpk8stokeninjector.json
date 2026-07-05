@@ -6,6 +6,70 @@
   "latest_release_time": "2026-06-22T22:43:53Z",
   "unreleased_commits": [
     {
+      "sha": "12498605ab79ad870bbb8c56a2b919db23099262",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #133 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.4.0\n\nchore(deps): bump docker/login-action from 4.2.0 to 4.4.0",
+      "timestamp": "2026-07-04T22:05:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/12498605ab79ad870bbb8c56a2b919db23099262",
+      "is_merge": true
+    },
+    {
+      "sha": "4bd3c7645de9c1f3ecea03ef750827ce30356b5d",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/login-action from 4.2.0 to 4.4.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.2.0 to 4.4.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/650006c6eb7dba73a995cc03b0b2d7f5ca915bee...af1e73f918a031802d376d3c8bbc3fe56130a9b0)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T18:32:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/4bd3c7645de9c1f3ecea03ef750827ce30356b5d",
+      "is_merge": false
+    },
+    {
+      "sha": "0b40ac109d034fec2d802bbdcb5783a85d681b5f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #135 from UnitVectorY-Labs/fix/codeql-v4.36.3\n\nfix: bump github/codeql-action from v4.36.2 to v4.36.3",
+      "timestamp": "2026-07-04T18:29:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/0b40ac109d034fec2d802bbdcb5783a85d681b5f",
+      "is_merge": true
+    },
+    {
+      "sha": "3cbc295f558ec3e9dd403ca058661db60c346330",
+      "author": "JaredHatfield",
+      "message": "fix: bump github/codeql-action from v4.36.2 to v4.36.3",
+      "timestamp": "2026-07-04T16:22:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/3cbc295f558ec3e9dd403ca058661db60c346330",
+      "is_merge": false
+    },
+    {
+      "sha": "58018292e3284338f2bc91d7094168eef01b9102",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #134 from UnitVectorY-Labs/dependabot/github_actions/docker/metadata-action-6.2.0\n\nchore(deps): bump docker/metadata-action from 6.1.0 to 6.2.0",
+      "timestamp": "2026-07-04T15:58:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/58018292e3284338f2bc91d7094168eef01b9102",
+      "is_merge": true
+    },
+    {
+      "sha": "c793d36430e3327b6b6963e379846cf5eded913e",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/metadata-action from 6.1.0 to 6.2.0\n\nBumps [docker/metadata-action](https://github.com/docker/metadata-action) from 6.1.0 to 6.2.0.\n- [Release notes](https://github.com/docker/metadata-action/releases)\n- [Commits](https://github.com/docker/metadata-action/compare/80c7e94dd9b9319bd5eb7a0e0fe9291e23a2a2e9...dc802804100637a589fabce1cb79ff13a1411302)\n\n---\nupdated-dependencies:\n- dependency-name: docker/metadata-action\n  dependency-version: 6.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T15:14:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/c793d36430e3327b6b6963e379846cf5eded913e",
+      "is_merge": false
+    },
+    {
+      "sha": "97d6fbdd5f1c2c787be0fc51d5097bbf70c4ac18",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #129 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.36.3\n\nchore(deps): bump github/codeql-action/upload-sarif from 4.36.2 to 4.36.3",
+      "timestamp": "2026-07-04T15:10:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/97d6fbdd5f1c2c787be0fc51d5097bbf70c4ac18",
+      "is_merge": true
+    },
+    {
+      "sha": "c53c3bc9d3311df06f8c914638231d19746c361d",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.36.2 to 4.36.3.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/8aad20d150bbac5944a9f9d289da16a4b0d87c1e...54f647b7e1bb85c95cddabcd46b0c578ec92bc1a)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.36.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:04:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/c53c3bc9d3311df06f8c914638231d19746c361d",
+      "is_merge": false
+    },
+    {
       "sha": "3a86a6b04b08005907bf616f835f3bc1a8b7259b",
       "author": "JaredHatfield",
       "message": "Merge pull request #126 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/net-0.55.0\n\nchore(deps): bump golang.org/x/net from 0.51.0 to 0.55.0",

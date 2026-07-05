@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-23T10:57:11Z",
   "unreleased_commits": [
     {
+      "sha": "cb973e2f3a4da87082e0aa8fede3cce5b6ecfa8e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #117 from UnitVectorY-Labs/fix/codeql-v4.36.3\n\nfix: bump github/codeql-action from v4.36.2 to v4.36.3",
+      "timestamp": "2026-07-04T18:29:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/cb973e2f3a4da87082e0aa8fede3cce5b6ecfa8e",
+      "is_merge": true
+    },
+    {
+      "sha": "de9e50a5552a654aac5d009d572dddc4ea1dbd31",
+      "author": "JaredHatfield",
+      "message": "fix: bump github/codeql-action from v4.36.2 to v4.36.3",
+      "timestamp": "2026-07-04T16:23:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/de9e50a5552a654aac5d009d572dddc4ea1dbd31",
+      "is_merge": false
+    },
+    {
+      "sha": "0e01823b4167b922d9a1126f29225551c8d327e2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #112 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.36.3\n\nBump github/codeql-action/upload-sarif from 4.36.2 to 4.36.3",
+      "timestamp": "2026-07-04T15:08:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/0e01823b4167b922d9a1126f29225551c8d327e2",
+      "is_merge": true
+    },
+    {
+      "sha": "024e28a58f269466f09df2441b0dddbefcb9a3b9",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action/upload-sarif from 4.36.2 to 4.36.3\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.36.2 to 4.36.3.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/8aad20d150bbac5944a9f9d289da16a4b0d87c1e...54f647b7e1bb85c95cddabcd46b0c578ec92bc1a)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.36.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:06:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/024e28a58f269466f09df2441b0dddbefcb9a3b9",
+      "is_merge": false
+    },
+    {
       "sha": "061616c3f577080cd5c81d80a1414514537d35c0",
       "author": "JaredHatfield",
       "message": "Merge pull request #109 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-5.4.0\n\nBump actions/setup-java from 5.3.0 to 5.4.0",

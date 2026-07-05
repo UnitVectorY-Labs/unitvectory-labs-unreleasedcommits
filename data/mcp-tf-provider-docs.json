@@ -6,6 +6,46 @@
   "latest_release_time": "2026-06-22T22:52:34Z",
   "unreleased_commits": [
     {
+      "sha": "8033d9f2ada66b326f6e7ccbe5173d8e1da1dc3e",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for mcp-tf-provider-docs (#98)",
+      "timestamp": "2026-07-04T19:49:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/8033d9f2ada66b326f6e7ccbe5173d8e1da1dc3e",
+      "is_merge": false
+    },
+    {
+      "sha": "28d724ee3e05b98bf3f98fc851e8c370884e7cee",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #97 from UnitVectorY-Labs/dependabot/go_modules/github.com/mark3labs/mcp-go-0.55.1\n\nchore(deps): bump github.com/mark3labs/mcp-go from 0.55.0 to 0.55.1",
+      "timestamp": "2026-07-04T15:19:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/28d724ee3e05b98bf3f98fc851e8c370884e7cee",
+      "is_merge": true
+    },
+    {
+      "sha": "48da3e56ea56f39bcf1668b1b984b0d38884d32c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #96 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-4.1.1\n\nchore(deps): bump actions/attest from 4.1.0 to 4.1.1",
+      "timestamp": "2026-07-04T15:13:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/48da3e56ea56f39bcf1668b1b984b0d38884d32c",
+      "is_merge": true
+    },
+    {
+      "sha": "096f1425c034612780711efc88ddc7b1e22ba77e",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github.com/mark3labs/mcp-go from 0.55.0 to 0.55.1\n\nBumps [github.com/mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) from 0.55.0 to 0.55.1.\n- [Release notes](https://github.com/mark3labs/mcp-go/releases)\n- [Commits](https://github.com/mark3labs/mcp-go/compare/v0.55.0...v0.55.1)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/mark3labs/mcp-go\n  dependency-version: 0.55.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:13:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/096f1425c034612780711efc88ddc7b1e22ba77e",
+      "is_merge": false
+    },
+    {
+      "sha": "3fe431a37cb84df847ca9916cc658394bd0115da",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/attest from 4.1.0 to 4.1.1\n\nBumps [actions/attest](https://github.com/actions/attest) from 4.1.0 to 4.1.1.\n- [Release notes](https://github.com/actions/attest/releases)\n- [Changelog](https://github.com/actions/attest/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest/compare/59d89421af93a897026c735860bf21b6eb4f7b26...a1948c3f048ba23858d222213b7c278aabede763)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest\n  dependency-version: 4.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:08:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/3fe431a37cb84df847ca9916cc658394bd0115da",
+      "is_merge": false
+    },
+    {
       "sha": "9eab7b07a0f1948a5e2fdbfcacef53931fc6090c",
       "author": "JaredHatfield",
       "message": "Merge pull request #95 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.5.0\n\nchore(deps): bump actions/setup-go from 6.4.0 to 6.5.0",

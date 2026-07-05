@@ -6,6 +6,30 @@
   "latest_release_time": "2026-06-03T10:38:18Z",
   "unreleased_commits": [
     {
+      "sha": "330849debbae9ddd8ebed59f376d4b614014f43d",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for frontmatterkit (#34)",
+      "timestamp": "2026-07-04T21:53:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/330849debbae9ddd8ebed59f376d4b614014f43d",
+      "is_merge": false
+    },
+    {
+      "sha": "8260bb1ed8329533b5cd6464225b38bf204f2463",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #33 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-4.1.1\n\nBump actions/attest from 4.1.0 to 4.1.1",
+      "timestamp": "2026-07-04T15:14:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/8260bb1ed8329533b5cd6464225b38bf204f2463",
+      "is_merge": true
+    },
+    {
+      "sha": "0d6eaea7554d68e8e1e98adc41354fc18f9b35c6",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/attest from 4.1.0 to 4.1.1\n\nBumps [actions/attest](https://github.com/actions/attest) from 4.1.0 to 4.1.1.\n- [Release notes](https://github.com/actions/attest/releases)\n- [Changelog](https://github.com/actions/attest/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest/compare/59d89421af93a897026c735860bf21b6eb4f7b26...a1948c3f048ba23858d222213b7c278aabede763)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest\n  dependency-version: 4.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:08:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/0d6eaea7554d68e8e1e98adc41354fc18f9b35c6",
+      "is_merge": false
+    },
+    {
       "sha": "bfee35ae4ee60ef701130a50f4397db540f5a7ab",
       "author": "JaredHatfield",
       "message": "Merge pull request #32 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.5.0\n\nBump actions/setup-go from 6.4.0 to 6.5.0",

@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-22T22:38:58Z",
   "unreleased_commits": [
     {
+      "sha": "f9fe03368c128475e85e7cf150783dff7a36b000",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #166 from UnitVectorY-Labs/fix/codeql-v4.36.3\n\nfix: bump github/codeql-action from v4.36.2 to v4.36.3",
+      "timestamp": "2026-07-04T18:29:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/f9fe03368c128475e85e7cf150783dff7a36b000",
+      "is_merge": true
+    },
+    {
+      "sha": "8420ab2716f624ca199689ab12067f4ba469767b",
+      "author": "JaredHatfield",
+      "message": "fix: bump github/codeql-action from v4.36.2 to v4.36.3",
+      "timestamp": "2026-07-04T16:17:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/8420ab2716f624ca199689ab12067f4ba469767b",
+      "is_merge": false
+    },
+    {
+      "sha": "8bc14eb890778dbfa64db2736c6d98b39d292990",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #164 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.36.3\n\nBump github/codeql-action/upload-sarif from 4.36.2 to 4.36.3",
+      "timestamp": "2026-07-04T15:08:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/8bc14eb890778dbfa64db2736c6d98b39d292990",
+      "is_merge": true
+    },
+    {
+      "sha": "9f4244b9221932b310e0627d9d2c5a6220b80f64",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action/upload-sarif from 4.36.2 to 4.36.3\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.36.2 to 4.36.3.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/8aad20d150bbac5944a9f9d289da16a4b0d87c1e...54f647b7e1bb85c95cddabcd46b0c578ec92bc1a)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.36.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:02:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/9f4244b9221932b310e0627d9d2c5a6220b80f64",
+      "is_merge": false
+    },
+    {
       "sha": "06f11672638a3d54093c7511452cfe18c2ca8d68",
       "author": "JaredHatfield",
       "message": "Merge pull request #158 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-5.4.0\n\nBump actions/setup-java from 5.3.0 to 5.4.0",

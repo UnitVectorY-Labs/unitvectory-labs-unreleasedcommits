@@ -6,6 +6,70 @@
   "latest_release_time": "2026-06-22T22:28:39Z",
   "unreleased_commits": [
     {
+      "sha": "68f5269c82535abbd96f168de6ec33607a016885",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #198 from UnitVectorY-Labs/gitrepoforge/lockboxkms\n\ngitrepoforge: apply desired state for lockboxkms",
+      "timestamp": "2026-07-04T19:49:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/68f5269c82535abbd96f168de6ec33607a016885",
+      "is_merge": true
+    },
+    {
+      "sha": "aca22c41c98eb66f0338caaa38aed64014fb4262",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for lockboxkms",
+      "timestamp": "2026-07-04T18:59:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/aca22c41c98eb66f0338caaa38aed64014fb4262",
+      "is_merge": false
+    },
+    {
+      "sha": "9896900cd61bf77004155274972982ded24a49ed",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #196 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-4.1.1\n\nchore(deps): bump actions/attest-build-provenance from 4.1.0 to 4.1.1",
+      "timestamp": "2026-07-04T18:46:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/9896900cd61bf77004155274972982ded24a49ed",
+      "is_merge": true
+    },
+    {
+      "sha": "2e57d7f82e34f2169af76e54a1d5532fea09c0a1",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/attest-build-provenance from 4.1.0 to 4.1.1\n\nBumps [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) from 4.1.0 to 4.1.1.\n- [Release notes](https://github.com/actions/attest-build-provenance/releases)\n- [Changelog](https://github.com/actions/attest-build-provenance/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest-build-provenance/compare/a2bbfa25375fe432b6a289bc6b6cd05ecd0c4c32...0f67c3f4856b2e3261c31976d6725780e5e4c373)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest-build-provenance\n  dependency-version: 4.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T16:02:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/2e57d7f82e34f2169af76e54a1d5532fea09c0a1",
+      "is_merge": false
+    },
+    {
+      "sha": "9ff292643e90bb2db31aa7947b464ede7918d9d1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #195 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-7.3.0\n\nchore(deps): bump docker/build-push-action from 7.2.0 to 7.3.0",
+      "timestamp": "2026-07-04T15:58:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/9ff292643e90bb2db31aa7947b464ede7918d9d1",
+      "is_merge": true
+    },
+    {
+      "sha": "4dbb43d90d4af463a0e53a61d985dd9fe948a302",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #197 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.287.0\n\nchore(deps): bump google.golang.org/api from 0.286.0 to 0.287.0",
+      "timestamp": "2026-07-04T15:18:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/4dbb43d90d4af463a0e53a61d985dd9fe948a302",
+      "is_merge": true
+    },
+    {
+      "sha": "4ba6c8f86cce5166c016a79424eb7e96046614b1",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/api from 0.286.0 to 0.287.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.286.0 to 0.287.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.286.0...v0.287.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.287.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:07:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/4ba6c8f86cce5166c016a79424eb7e96046614b1",
+      "is_merge": false
+    },
+    {
+      "sha": "6bbd68cf5eaf1003242568b173d038be8f265ef6",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/build-push-action from 7.2.0 to 7.3.0\n\nBumps [docker/build-push-action](https://github.com/docker/build-push-action) from 7.2.0 to 7.3.0.\n- [Release notes](https://github.com/docker/build-push-action/releases)\n- [Commits](https://github.com/docker/build-push-action/compare/f9f3042f7e2789586610d6e8b85c8f03e5195baf...53b7df96c91f9c12dcc8a07bcb9ccacbed38856a)\n\n---\nupdated-dependencies:\n- dependency-name: docker/build-push-action\n  dependency-version: 7.3.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:06:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/6bbd68cf5eaf1003242568b173d038be8f265ef6",
+      "is_merge": false
+    },
+    {
       "sha": "0f8d432a1d8558642051ad37c24e7fd8d389e176",
       "author": "JaredHatfield",
       "message": "Merge pull request #194 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-6.1.0\n\nchore(deps): bump actions/cache from 6.0.0 to 6.1.0",

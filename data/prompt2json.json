@@ -6,6 +6,38 @@
   "latest_release_time": "2026-05-23T23:28:58Z",
   "unreleased_commits": [
     {
+      "sha": "44755747c8d021701b323b2747379aa3a864fcec",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #70 from UnitVectorY-Labs/gitrepoforge/prompt2json\n\ngitrepoforge: apply desired state for prompt2json",
+      "timestamp": "2026-07-04T19:49:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/44755747c8d021701b323b2747379aa3a864fcec",
+      "is_merge": true
+    },
+    {
+      "sha": "5ee0cc9aa6146ad81b5e36b15444f099ec3f2c84",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for prompt2json",
+      "timestamp": "2026-07-04T18:59:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/5ee0cc9aa6146ad81b5e36b15444f099ec3f2c84",
+      "is_merge": false
+    },
+    {
+      "sha": "4ed52f87d69cb4004d465d2b2905683e9266ccd4",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #69 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-4.1.1\n\nchore(deps): bump actions/attest from 4.1.0 to 4.1.1",
+      "timestamp": "2026-07-04T15:13:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/4ed52f87d69cb4004d465d2b2905683e9266ccd4",
+      "is_merge": true
+    },
+    {
+      "sha": "1415e4d09c7bfac07f4c91f0e5fe3e175c9374d5",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/attest from 4.1.0 to 4.1.1\n\nBumps [actions/attest](https://github.com/actions/attest) from 4.1.0 to 4.1.1.\n- [Release notes](https://github.com/actions/attest/releases)\n- [Changelog](https://github.com/actions/attest/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest/compare/59d89421af93a897026c735860bf21b6eb4f7b26...a1948c3f048ba23858d222213b7c278aabede763)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest\n  dependency-version: 4.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:06:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/1415e4d09c7bfac07f4c91f0e5fe3e175c9374d5",
+      "is_merge": false
+    },
+    {
       "sha": "4047dd8c2b4a4732464687d7fd97325bf3daa469",
       "author": "JaredHatfield",
       "message": "Merge pull request #67 from UnitVectorY-Labs/dependabot/go_modules/github.com/UnitVectorY-Labs/gcpvalidate-0.1.2\n\nchore(deps): bump github.com/UnitVectorY-Labs/gcpvalidate from 0.1.1 to 0.1.2",

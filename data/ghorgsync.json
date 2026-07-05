@@ -6,6 +6,30 @@
   "latest_release_time": "2026-06-22T22:54:11Z",
   "unreleased_commits": [
     {
+      "sha": "7364e3346b0b903e4fcfd8840acd967b159e7886",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for ghorgsync (#55)",
+      "timestamp": "2026-07-04T21:55:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/7364e3346b0b903e4fcfd8840acd967b159e7886",
+      "is_merge": false
+    },
+    {
+      "sha": "63741a5653853f5510e9d60c02dba6087c83048d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #54 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-4.1.1\n\nbuild(deps): bump actions/attest from 4.1.0 to 4.1.1",
+      "timestamp": "2026-07-04T15:14:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/63741a5653853f5510e9d60c02dba6087c83048d",
+      "is_merge": true
+    },
+    {
+      "sha": "07330e05d4a2e25f79f0c699fccde6af9dab06b1",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/attest from 4.1.0 to 4.1.1\n\nBumps [actions/attest](https://github.com/actions/attest) from 4.1.0 to 4.1.1.\n- [Release notes](https://github.com/actions/attest/releases)\n- [Changelog](https://github.com/actions/attest/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest/compare/59d89421af93a897026c735860bf21b6eb4f7b26...a1948c3f048ba23858d222213b7c278aabede763)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest\n  dependency-version: 4.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:04:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/07330e05d4a2e25f79f0c699fccde6af9dab06b1",
+      "is_merge": false
+    },
+    {
       "sha": "c91a2505592af771a7b7443b27668c2d5260fa58",
       "author": "JaredHatfield",
       "message": "Merge pull request #52 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.5.0\n\nbuild(deps): bump actions/setup-go from 6.4.0 to 6.5.0",

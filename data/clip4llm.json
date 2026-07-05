@@ -6,6 +6,30 @@
   "latest_release_time": "2026-05-23T23:31:43Z",
   "unreleased_commits": [
     {
+      "sha": "ee74391cb371eff3f7df9922408c71e3b18a94f0",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for clip4llm (#90)",
+      "timestamp": "2026-07-04T21:55:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/ee74391cb371eff3f7df9922408c71e3b18a94f0",
+      "is_merge": false
+    },
+    {
+      "sha": "12acdcc5ec787ba3086ab8fff57c1ad194b1ebe4",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #89 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-4.1.1\n\nbuild(deps): bump actions/attest from 4.1.0 to 4.1.1",
+      "timestamp": "2026-07-04T15:12:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/12acdcc5ec787ba3086ab8fff57c1ad194b1ebe4",
+      "is_merge": true
+    },
+    {
+      "sha": "0f3cd46da4dfaedd245209fbd91722b4d9d07991",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/attest from 4.1.0 to 4.1.1\n\nBumps [actions/attest](https://github.com/actions/attest) from 4.1.0 to 4.1.1.\n- [Release notes](https://github.com/actions/attest/releases)\n- [Changelog](https://github.com/actions/attest/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest/compare/59d89421af93a897026c735860bf21b6eb4f7b26...a1948c3f048ba23858d222213b7c278aabede763)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest\n  dependency-version: 4.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:02:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/0f3cd46da4dfaedd245209fbd91722b4d9d07991",
+      "is_merge": false
+    },
+    {
       "sha": "d5d69fa944debe2ba0d6c09f10c80cd5ed84d49d",
       "author": "JaredHatfield",
       "message": "Merge pull request #87 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.5.0\n\nbuild(deps): bump actions/setup-go from 6.4.0 to 6.5.0",

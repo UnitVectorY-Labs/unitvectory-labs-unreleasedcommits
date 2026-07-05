@@ -6,6 +6,30 @@
   "latest_release_time": "2026-06-22T22:49:50Z",
   "unreleased_commits": [
     {
+      "sha": "51c9b15747a321e7f57336b50f7df3b8ec0dd873",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for YAMLtecture (#123)",
+      "timestamp": "2026-07-04T21:52:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/51c9b15747a321e7f57336b50f7df3b8ec0dd873",
+      "is_merge": false
+    },
+    {
+      "sha": "2c7b6d17df2137670defb8966c6adc9b2e3f853d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #122 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-4.1.1\n\nbuild(deps): bump actions/attest from 4.1.0 to 4.1.1",
+      "timestamp": "2026-07-04T15:12:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/2c7b6d17df2137670defb8966c6adc9b2e3f853d",
+      "is_merge": true
+    },
+    {
+      "sha": "3bd08d8e33ed36bbbaff10dcca9229aa388f6826",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/attest from 4.1.0 to 4.1.1\n\nBumps [actions/attest](https://github.com/actions/attest) from 4.1.0 to 4.1.1.\n- [Release notes](https://github.com/actions/attest/releases)\n- [Changelog](https://github.com/actions/attest/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest/compare/59d89421af93a897026c735860bf21b6eb4f7b26...a1948c3f048ba23858d222213b7c278aabede763)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest\n  dependency-version: 4.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:07:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/3bd08d8e33ed36bbbaff10dcca9229aa388f6826",
+      "is_merge": false
+    },
+    {
       "sha": "0478fb36da79239309cb512124bfbafeb2a8f26f",
       "author": "JaredHatfield",
       "message": "Merge pull request #121 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.5.0\n\nbuild(deps): bump actions/setup-go from 6.4.0 to 6.5.0",

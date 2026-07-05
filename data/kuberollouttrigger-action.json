@@ -6,6 +6,54 @@
   "latest_release_time": "2026-06-07T17:43:01Z",
   "unreleased_commits": [
     {
+      "sha": "b1aea854b203f01f66d4f47aa013aa477566f3c1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #26 from UnitVectorY-Labs/fix/codeql-v4.36.3\n\nfix: bump github/codeql-action from v4.36.2 to v4.36.3",
+      "timestamp": "2026-07-04T18:30:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/b1aea854b203f01f66d4f47aa013aa477566f3c1",
+      "is_merge": true
+    },
+    {
+      "sha": "17314aef880f0f03c3e09f055b6e0910394c84e0",
+      "author": "JaredHatfield",
+      "message": "fix: bump github/codeql-action from v4.36.2 to v4.36.3",
+      "timestamp": "2026-07-04T16:33:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/17314aef880f0f03c3e09f055b6e0910394c84e0",
+      "is_merge": false
+    },
+    {
+      "sha": "37f3c3574620d83c6d481918fe3c1d0dc7c27e46",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #22 from UnitVectorY-Labs/dependabot/npm_and_yarn/vercel/ncc-0.44.1\n\nBump @vercel/ncc from 0.44.0 to 0.44.1",
+      "timestamp": "2026-07-04T15:19:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/37f3c3574620d83c6d481918fe3c1d0dc7c27e46",
+      "is_merge": true
+    },
+    {
+      "sha": "77f9ca8e6ac4ff6d3b8d24f1844d928f792f4227",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #23 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.36.3\n\nBump github/codeql-action/upload-sarif from 4.36.2 to 4.36.3",
+      "timestamp": "2026-07-04T15:11:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/77f9ca8e6ac4ff6d3b8d24f1844d928f792f4227",
+      "is_merge": true
+    },
+    {
+      "sha": "313b1be849769db4b5571227002331fd63d9eef9",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action/upload-sarif from 4.36.2 to 4.36.3\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.36.2 to 4.36.3.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/8aad20d150bbac5944a9f9d289da16a4b0d87c1e...54f647b7e1bb85c95cddabcd46b0c578ec92bc1a)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.36.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:08:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/313b1be849769db4b5571227002331fd63d9eef9",
+      "is_merge": false
+    },
+    {
+      "sha": "e28024b903fe39d772240ef6d0e57cc9866b89ed",
+      "author": "dependabot[bot]",
+      "message": "Bump @vercel/ncc from 0.44.0 to 0.44.1\n\nBumps [@vercel/ncc](https://github.com/vercel/ncc) from 0.44.0 to 0.44.1.\n- [Release notes](https://github.com/vercel/ncc/releases)\n- [Commits](https://github.com/vercel/ncc/compare/0.44.0...0.44.1)\n\n---\nupdated-dependencies:\n- dependency-name: \"@vercel/ncc\"\n  dependency-version: 0.44.1\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:06:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/e28024b903fe39d772240ef6d0e57cc9866b89ed",
+      "is_merge": false
+    },
+    {
       "sha": "e7373f465b0ea197bc10e9910c25f3ff7a0131ae",
       "author": "JaredHatfield",
       "message": "Merge pull request #21 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.36.2\n\nBump github/codeql-action/upload-sarif from 4.32.2 to 4.36.2",

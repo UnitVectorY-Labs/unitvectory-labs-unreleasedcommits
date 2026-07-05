@@ -6,6 +6,46 @@
   "latest_release_time": "2026-06-22T22:42:42Z",
   "unreleased_commits": [
     {
+      "sha": "3c5e0e5fb70f330a7e2a82dceda03a99f2131dd7",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for hellorest (#114)",
+      "timestamp": "2026-07-04T21:57:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/3c5e0e5fb70f330a7e2a82dceda03a99f2131dd7",
+      "is_merge": false
+    },
+    {
+      "sha": "bb8a7317608dfd948f913e8be363edc4928f79ab",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #112 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-7.3.0\n\nBump docker/build-push-action from 7.2.0 to 7.3.0",
+      "timestamp": "2026-07-04T15:58:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/bb8a7317608dfd948f913e8be363edc4928f79ab",
+      "is_merge": true
+    },
+    {
+      "sha": "ab37939833020e0ac5afacd81b432c52e967c4ac",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/build-push-action from 7.2.0 to 7.3.0\n\nBumps [docker/build-push-action](https://github.com/docker/build-push-action) from 7.2.0 to 7.3.0.\n- [Release notes](https://github.com/docker/build-push-action/releases)\n- [Commits](https://github.com/docker/build-push-action/compare/f9f3042f7e2789586610d6e8b85c8f03e5195baf...53b7df96c91f9c12dcc8a07bcb9ccacbed38856a)\n\n---\nupdated-dependencies:\n- dependency-name: docker/build-push-action\n  dependency-version: 7.3.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T15:20:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/ab37939833020e0ac5afacd81b432c52e967c4ac",
+      "is_merge": false
+    },
+    {
+      "sha": "173e7e05481c0b543d4f2de375b82e2f3de04d83",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #113 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-4.1.1\n\nBump actions/attest-build-provenance from 4.1.0 to 4.1.1",
+      "timestamp": "2026-07-04T15:18:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/173e7e05481c0b543d4f2de375b82e2f3de04d83",
+      "is_merge": true
+    },
+    {
+      "sha": "81c75c846ff5f4a55f0469f747a37830888ea63d",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/attest-build-provenance from 4.1.0 to 4.1.1\n\nBumps [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) from 4.1.0 to 4.1.1.\n- [Release notes](https://github.com/actions/attest-build-provenance/releases)\n- [Changelog](https://github.com/actions/attest-build-provenance/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest-build-provenance/compare/a2bbfa25375fe432b6a289bc6b6cd05ecd0c4c32...0f67c3f4856b2e3261c31976d6725780e5e4c373)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest-build-provenance\n  dependency-version: 4.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:07:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/81c75c846ff5f4a55f0469f747a37830888ea63d",
+      "is_merge": false
+    },
+    {
       "sha": "17c4e9e2f0be6bce51fdf7318880b5bb7ab47b2c",
       "author": "JaredHatfield",
       "message": "Merge pull request #111 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.5.0\n\nBump actions/setup-go from 6.4.0 to 6.5.0",

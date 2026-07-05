@@ -6,6 +6,22 @@
   "latest_release_time": "2026-02-28T22:30:45Z",
   "unreleased_commits": [
     {
+      "sha": "5dcff8e840e632205f425e2c8223102c4ace35a7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #58 from UnitVectorY-Labs/gitrepoforge/yamlequal\n\ngitrepoforge: apply desired state for yamlequal",
+      "timestamp": "2026-07-04T19:49:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/5dcff8e840e632205f425e2c8223102c4ace35a7",
+      "is_merge": true
+    },
+    {
+      "sha": "a15abb3f451351ff3a2e076317a61703df95b43e",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for yamlequal",
+      "timestamp": "2026-07-04T18:59:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/a15abb3f451351ff3a2e076317a61703df95b43e",
+      "is_merge": false
+    },
+    {
       "sha": "8d0c6f560ba814f32fe11b1bc9bb81e48af7096a",
       "author": "JaredHatfield",
       "message": "Merge pull request #57 from UnitVectorY-Labs/dependabot/github_actions/actions/cache-6.1.0\n\nBump actions/cache from 6.0.0 to 6.1.0",

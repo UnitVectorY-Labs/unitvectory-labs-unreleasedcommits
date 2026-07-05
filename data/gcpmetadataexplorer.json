@@ -6,6 +6,54 @@
   "latest_release_time": "2026-06-22T22:50:44Z",
   "unreleased_commits": [
     {
+      "sha": "1d1c0a9d5982fe1a8fd3fa522f9662310cea714b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #102 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.4.0\n\nchore(deps): bump docker/login-action from 4.2.0 to 4.4.0",
+      "timestamp": "2026-07-04T22:05:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/1d1c0a9d5982fe1a8fd3fa522f9662310cea714b",
+      "is_merge": true
+    },
+    {
+      "sha": "548480e9c017ac53876e97aafa6432605cb321ec",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/login-action from 4.2.0 to 4.4.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.2.0 to 4.4.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/650006c6eb7dba73a995cc03b0b2d7f5ca915bee...af1e73f918a031802d376d3c8bbc3fe56130a9b0)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T16:01:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/548480e9c017ac53876e97aafa6432605cb321ec",
+      "is_merge": false
+    },
+    {
+      "sha": "cb272678ddeb6478ce4582e332396bc105d909b4",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #100 from UnitVectorY-Labs/dependabot/github_actions/docker/metadata-action-6.2.0\n\nchore(deps): bump docker/metadata-action from 6.1.0 to 6.2.0",
+      "timestamp": "2026-07-04T15:58:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/cb272678ddeb6478ce4582e332396bc105d909b4",
+      "is_merge": true
+    },
+    {
+      "sha": "ded3dd377e3dc01c745c7abd615c1c5344ed4f2d",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/metadata-action from 6.1.0 to 6.2.0\n\nBumps [docker/metadata-action](https://github.com/docker/metadata-action) from 6.1.0 to 6.2.0.\n- [Release notes](https://github.com/docker/metadata-action/releases)\n- [Commits](https://github.com/docker/metadata-action/compare/80c7e94dd9b9319bd5eb7a0e0fe9291e23a2a2e9...dc802804100637a589fabce1cb79ff13a1411302)\n\n---\nupdated-dependencies:\n- dependency-name: docker/metadata-action\n  dependency-version: 6.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T15:13:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/ded3dd377e3dc01c745c7abd615c1c5344ed4f2d",
+      "is_merge": false
+    },
+    {
+      "sha": "bc4470b97e9c4deeb08d0f3e0421cab8f773dec2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #101 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.36.3\n\nchore(deps): bump github/codeql-action/upload-sarif from 4.36.2 to 4.36.3",
+      "timestamp": "2026-07-04T15:10:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/bc4470b97e9c4deeb08d0f3e0421cab8f773dec2",
+      "is_merge": true
+    },
+    {
+      "sha": "4f95f5f81ed238e7343f49872612fdcd8d496bd6",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.36.2 to 4.36.3.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/8aad20d150bbac5944a9f9d289da16a4b0d87c1e...54f647b7e1bb85c95cddabcd46b0c578ec92bc1a)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.36.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:08:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/4f95f5f81ed238e7343f49872612fdcd8d496bd6",
+      "is_merge": false
+    },
+    {
       "sha": "6153bf0e1b9f00cdc8f12fb7c9a347d84281927b",
       "author": "JaredHatfield",
       "message": "Merge pull request #95 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-4.1.1\n\nchore(deps): bump actions/attest-build-provenance from 4.1.0 to 4.1.1",

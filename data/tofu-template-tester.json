@@ -6,6 +6,38 @@
   "latest_release_time": "2026-05-24T00:42:30Z",
   "unreleased_commits": [
     {
+      "sha": "e6496c452360ebd3a4627af0c85f8904d7f0f4f0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #71 from UnitVectorY-Labs/gitrepoforge/tofu-template-tester\n\ngitrepoforge: apply desired state for tofu-template-tester",
+      "timestamp": "2026-07-04T19:49:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/e6496c452360ebd3a4627af0c85f8904d7f0f4f0",
+      "is_merge": true
+    },
+    {
+      "sha": "80149e6b133f7796ea05018895e12235d78b75cc",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for tofu-template-tester",
+      "timestamp": "2026-07-04T18:59:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/80149e6b133f7796ea05018895e12235d78b75cc",
+      "is_merge": false
+    },
+    {
+      "sha": "e72d1e0cfb89ca4b79a0f14b7d92d1cba599874e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #70 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-4.1.1\n\nbuild(deps): bump actions/attest from 4.1.0 to 4.1.1",
+      "timestamp": "2026-07-04T15:13:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/e72d1e0cfb89ca4b79a0f14b7d92d1cba599874e",
+      "is_merge": true
+    },
+    {
+      "sha": "21b3edd590808e8fe6bc18b1b56a5e93a3d8fdf7",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/attest from 4.1.0 to 4.1.1\n\nBumps [actions/attest](https://github.com/actions/attest) from 4.1.0 to 4.1.1.\n- [Release notes](https://github.com/actions/attest/releases)\n- [Changelog](https://github.com/actions/attest/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest/compare/59d89421af93a897026c735860bf21b6eb4f7b26...a1948c3f048ba23858d222213b7c278aabede763)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest\n  dependency-version: 4.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:06:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/21b3edd590808e8fe6bc18b1b56a5e93a3d8fdf7",
+      "is_merge": false
+    },
+    {
       "sha": "814b1afd0e787aa815a3129dca700c078a76f50d",
       "author": "JaredHatfield",
       "message": "Merge pull request #69 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.5.0\n\nbuild(deps): bump actions/setup-go from 6.4.0 to 6.5.0",

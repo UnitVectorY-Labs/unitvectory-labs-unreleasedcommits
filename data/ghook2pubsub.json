@@ -6,6 +6,70 @@
   "latest_release_time": "2026-06-22T22:29:17Z",
   "unreleased_commits": [
     {
+      "sha": "9a9a16d2384353771d356fc4da01209164f9605c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #59 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.4.0\n\nBump docker/login-action from 4.2.0 to 4.4.0",
+      "timestamp": "2026-07-04T22:05:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/9a9a16d2384353771d356fc4da01209164f9605c",
+      "is_merge": true
+    },
+    {
+      "sha": "feab89e78c54ebc2d837b3a75892dc43ff4e0746",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/login-action from 4.2.0 to 4.4.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.2.0 to 4.4.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/650006c6eb7dba73a995cc03b0b2d7f5ca915bee...af1e73f918a031802d376d3c8bbc3fe56130a9b0)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T16:02:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/feab89e78c54ebc2d837b3a75892dc43ff4e0746",
+      "is_merge": false
+    },
+    {
+      "sha": "631b4113a234dda369e905dffb4c1a4bbd0ed4db",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #58 from UnitVectorY-Labs/dependabot/github_actions/docker/setup-buildx-action-4.2.0\n\nBump docker/setup-buildx-action from 4.1.0 to 4.2.0",
+      "timestamp": "2026-07-04T15:59:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/631b4113a234dda369e905dffb4c1a4bbd0ed4db",
+      "is_merge": true
+    },
+    {
+      "sha": "5f71b3fabfa75afde66444ffb170d3fa5dfcc2ba",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #60 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-7.3.0\n\nBump docker/build-push-action from 7.2.0 to 7.3.0",
+      "timestamp": "2026-07-04T15:20:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/5f71b3fabfa75afde66444ffb170d3fa5dfcc2ba",
+      "is_merge": true
+    },
+    {
+      "sha": "ad919fa147263c731ccc3106bf00ba428359353c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #61 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.36.3\n\nBump github/codeql-action/upload-sarif from 4.36.2 to 4.36.3",
+      "timestamp": "2026-07-04T15:11:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/ad919fa147263c731ccc3106bf00ba428359353c",
+      "is_merge": true
+    },
+    {
+      "sha": "46521c86435ef9d533dc0013f60a1e0ddd4fbc66",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action/upload-sarif from 4.36.2 to 4.36.3\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.36.2 to 4.36.3.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/8aad20d150bbac5944a9f9d289da16a4b0d87c1e...54f647b7e1bb85c95cddabcd46b0c578ec92bc1a)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.36.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:08:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/46521c86435ef9d533dc0013f60a1e0ddd4fbc66",
+      "is_merge": false
+    },
+    {
+      "sha": "a5143ca8024fbfe0ee1b5b71c524f74ab5c0b543",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/build-push-action from 7.2.0 to 7.3.0\n\nBumps [docker/build-push-action](https://github.com/docker/build-push-action) from 7.2.0 to 7.3.0.\n- [Release notes](https://github.com/docker/build-push-action/releases)\n- [Commits](https://github.com/docker/build-push-action/compare/f9f3042f7e2789586610d6e8b85c8f03e5195baf...53b7df96c91f9c12dcc8a07bcb9ccacbed38856a)\n\n---\nupdated-dependencies:\n- dependency-name: docker/build-push-action\n  dependency-version: 7.3.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:07:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/a5143ca8024fbfe0ee1b5b71c524f74ab5c0b543",
+      "is_merge": false
+    },
+    {
+      "sha": "f2f99cdf8a52749f1948845d8d31a243280c794c",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/setup-buildx-action from 4.1.0 to 4.2.0\n\nBumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 4.1.0 to 4.2.0.\n- [Release notes](https://github.com/docker/setup-buildx-action/releases)\n- [Commits](https://github.com/docker/setup-buildx-action/compare/d7f5e7f509e45cec5c76c4d5afdd7de93d0b3df5...bb05f3f5519dd87d3ba754cc423b652a5edd6d2c)\n\n---\nupdated-dependencies:\n- dependency-name: docker/setup-buildx-action\n  dependency-version: 4.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:07:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/f2f99cdf8a52749f1948845d8d31a243280c794c",
+      "is_merge": false
+    },
+    {
       "sha": "00dcf834fefcf6371a57de006b26582e724ea398",
       "author": "JaredHatfield",
       "message": "Merge pull request #53 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-4.1.1\n\nBump actions/attest-build-provenance from 4.1.0 to 4.1.1",

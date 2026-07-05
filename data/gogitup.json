@@ -6,6 +6,30 @@
   "latest_release_time": "2026-06-10T07:40:04Z",
   "unreleased_commits": [
     {
+      "sha": "46b9db454a13e9342b4f9374b87708f23b5d885e",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for gogitup (#45)",
+      "timestamp": "2026-07-04T21:53:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/46b9db454a13e9342b4f9374b87708f23b5d885e",
+      "is_merge": false
+    },
+    {
+      "sha": "42f7320ae66a8ccdaf6447cf353550c1c454f35a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #44 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-4.1.1\n\nbuild(deps): bump actions/attest from 4.1.0 to 4.1.1",
+      "timestamp": "2026-07-04T15:14:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/42f7320ae66a8ccdaf6447cf353550c1c454f35a",
+      "is_merge": true
+    },
+    {
+      "sha": "e1244abc22b72b56661b2985644d9d1ea643163f",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/attest from 4.1.0 to 4.1.1\n\nBumps [actions/attest](https://github.com/actions/attest) from 4.1.0 to 4.1.1.\n- [Release notes](https://github.com/actions/attest/releases)\n- [Changelog](https://github.com/actions/attest/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest/compare/59d89421af93a897026c735860bf21b6eb4f7b26...a1948c3f048ba23858d222213b7c278aabede763)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest\n  dependency-version: 4.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:08:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/e1244abc22b72b56661b2985644d9d1ea643163f",
+      "is_merge": false
+    },
+    {
       "sha": "e676235c603780de25451c77962f2ea877a04db6",
       "author": "JaredHatfield",
       "message": "Merge pull request #42 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-6.5.0\n\nbuild(deps): bump actions/setup-go from 6.4.0 to 6.5.0",

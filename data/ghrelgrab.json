@@ -6,6 +6,70 @@
   "latest_release_time": "2026-06-22T22:13:38Z",
   "unreleased_commits": [
     {
+      "sha": "5181a0f2976013d5c53f949681e263201a4f9539",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #75 from UnitVectorY-Labs/dependabot/github_actions/docker/setup-buildx-action-4.2.0\n\nchore(deps): bump docker/setup-buildx-action from 4.1.0 to 4.2.0",
+      "timestamp": "2026-07-04T22:05:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/5181a0f2976013d5c53f949681e263201a4f9539",
+      "is_merge": true
+    },
+    {
+      "sha": "37daa7e03320c64b0d84de23c61ba60b4558f7b3",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #76 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-7.3.0\n\nchore(deps): bump docker/build-push-action from 7.2.0 to 7.3.0",
+      "timestamp": "2026-07-04T15:59:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/37daa7e03320c64b0d84de23c61ba60b4558f7b3",
+      "is_merge": true
+    },
+    {
+      "sha": "f37ba6072d14e662cb3fd8d0abe5bea10c2b2592",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/setup-buildx-action from 4.1.0 to 4.2.0\n\nBumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 4.1.0 to 4.2.0.\n- [Release notes](https://github.com/docker/setup-buildx-action/releases)\n- [Commits](https://github.com/docker/setup-buildx-action/compare/d7f5e7f509e45cec5c76c4d5afdd7de93d0b3df5...bb05f3f5519dd87d3ba754cc423b652a5edd6d2c)\n\n---\nupdated-dependencies:\n- dependency-name: docker/setup-buildx-action\n  dependency-version: 4.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T15:21:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/f37ba6072d14e662cb3fd8d0abe5bea10c2b2592",
+      "is_merge": false
+    },
+    {
+      "sha": "3ae5202d4a784b69d76280475cfb165b7aae1441",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #77 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.4.0\n\nchore(deps): bump docker/login-action from 4.2.0 to 4.4.0",
+      "timestamp": "2026-07-04T15:19:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/3ae5202d4a784b69d76280475cfb165b7aae1441",
+      "is_merge": true
+    },
+    {
+      "sha": "f5445e4551b89be6229cbb0ce791fb8043fdaf47",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #79 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.36.3\n\nchore(deps): bump github/codeql-action/upload-sarif from 4.36.2 to 4.36.3",
+      "timestamp": "2026-07-04T15:10:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/f5445e4551b89be6229cbb0ce791fb8043fdaf47",
+      "is_merge": true
+    },
+    {
+      "sha": "34cc3f6f3bda05928604bcf16e37c3aef1ee8cc6",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.36.2 to 4.36.3.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/8aad20d150bbac5944a9f9d289da16a4b0d87c1e...54f647b7e1bb85c95cddabcd46b0c578ec92bc1a)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.36.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:08:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/34cc3f6f3bda05928604bcf16e37c3aef1ee8cc6",
+      "is_merge": false
+    },
+    {
+      "sha": "42b96060250ed496afb58817cfc7bb64a3516bb9",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/login-action from 4.2.0 to 4.4.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.2.0 to 4.4.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/650006c6eb7dba73a995cc03b0b2d7f5ca915bee...af1e73f918a031802d376d3c8bbc3fe56130a9b0)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:04:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/42b96060250ed496afb58817cfc7bb64a3516bb9",
+      "is_merge": false
+    },
+    {
+      "sha": "be34007709ebd955fd9c1a050bff4de94ef72371",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/build-push-action from 7.2.0 to 7.3.0\n\nBumps [docker/build-push-action](https://github.com/docker/build-push-action) from 7.2.0 to 7.3.0.\n- [Release notes](https://github.com/docker/build-push-action/releases)\n- [Commits](https://github.com/docker/build-push-action/compare/f9f3042f7e2789586610d6e8b85c8f03e5195baf...53b7df96c91f9c12dcc8a07bcb9ccacbed38856a)\n\n---\nupdated-dependencies:\n- dependency-name: docker/build-push-action\n  dependency-version: 7.3.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:04:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/be34007709ebd955fd9c1a050bff4de94ef72371",
+      "is_merge": false
+    },
+    {
       "sha": "2188414b6cc6d0468095d2898b937a52c2eab0dd",
       "author": "JaredHatfield",
       "message": "Merge pull request #69 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-4.1.1\n\nchore(deps): bump actions/attest from 4.1.0 to 4.1.1",

@@ -4,6 +4,39 @@
   "default_branch": "main",
   "latest_release_tag": "v0.8.0",
   "latest_release_time": "2026-06-27T19:52:48Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "9f7b37fb9dfe1f9b9ab80192c1bd0b59fc501340",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #27 from UnitVectorY-Labs/gitrepoforge/localmodelproxy\n\ngitrepoforge: apply desired state for localmodelproxy",
+      "timestamp": "2026-07-04T19:48:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/9f7b37fb9dfe1f9b9ab80192c1bd0b59fc501340",
+      "is_merge": true
+    },
+    {
+      "sha": "3c972ebe95660d36f0982d2fa0672dc9d2e1e2e3",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for localmodelproxy",
+      "timestamp": "2026-07-04T18:57:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/3c972ebe95660d36f0982d2fa0672dc9d2e1e2e3",
+      "is_merge": false
+    },
+    {
+      "sha": "34cd67c793b886cad2cd8844db639b23a8f5c66a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #26 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-4.1.1\n\nbuild(deps): bump actions/attest from 4.1.0 to 4.1.1",
+      "timestamp": "2026-07-04T15:14:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/34cd67c793b886cad2cd8844db639b23a8f5c66a",
+      "is_merge": true
+    },
+    {
+      "sha": "a866a0397c080d5144d115530ed10a0e30bc5601",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/attest from 4.1.0 to 4.1.1\n\nBumps [actions/attest](https://github.com/actions/attest) from 4.1.0 to 4.1.1.\n- [Release notes](https://github.com/actions/attest/releases)\n- [Changelog](https://github.com/actions/attest/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest/compare/59d89421af93a897026c735860bf21b6eb4f7b26...a1948c3f048ba23858d222213b7c278aabede763)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest\n  dependency-version: 4.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:12:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/a866a0397c080d5144d115530ed10a0e30bc5601",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/localmodelproxy"
 }
