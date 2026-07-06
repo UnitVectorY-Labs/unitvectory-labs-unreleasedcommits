@@ -6,6 +6,54 @@
   "latest_release_time": "2026-06-22T22:50:44Z",
   "unreleased_commits": [
     {
+      "sha": "ea454aeaacca8c9d036a47bedbb323a5e8180a5c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #103 from UnitVectorY-Labs/fix/codeql-v4.36.3\n\nfix: bump github/codeql-action from v4.36.2 to v4.36.3",
+      "timestamp": "2026-07-05T14:45:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/ea454aeaacca8c9d036a47bedbb323a5e8180a5c",
+      "is_merge": true
+    },
+    {
+      "sha": "8277ae330534146f801028cb25609ff31041e77b",
+      "author": "JaredHatfield",
+      "message": "fix: bump github/codeql-action from v4.36.2 to v4.36.3",
+      "timestamp": "2026-07-04T16:22:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/8277ae330534146f801028cb25609ff31041e77b",
+      "is_merge": false
+    },
+    {
+      "sha": "9b0397d692f716903d1af396efeddfe1331237c1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #96 from UnitVectorY-Labs/dependabot/github_actions/docker/setup-buildx-action-4.2.0\n\nchore(deps): bump docker/setup-buildx-action from 4.1.0 to 4.2.0",
+      "timestamp": "2026-07-05T13:25:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/9b0397d692f716903d1af396efeddfe1331237c1",
+      "is_merge": true
+    },
+    {
+      "sha": "b1dd7d392c2703d2fe186ef84cecfd52d8e3c0df",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #98 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-7.3.0\n\nchore(deps): bump docker/build-push-action from 7.2.0 to 7.3.0",
+      "timestamp": "2026-07-05T13:23:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/b1dd7d392c2703d2fe186ef84cecfd52d8e3c0df",
+      "is_merge": true
+    },
+    {
+      "sha": "ce4e545132c315350c4101a99919bbb35b2a40be",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/build-push-action from 7.2.0 to 7.3.0\n\nBumps [docker/build-push-action](https://github.com/docker/build-push-action) from 7.2.0 to 7.3.0.\n- [Release notes](https://github.com/docker/build-push-action/releases)\n- [Commits](https://github.com/docker/build-push-action/compare/f9f3042f7e2789586610d6e8b85c8f03e5195baf...53b7df96c91f9c12dcc8a07bcb9ccacbed38856a)\n\n---\nupdated-dependencies:\n- dependency-name: docker/build-push-action\n  dependency-version: 7.3.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T22:07:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/ce4e545132c315350c4101a99919bbb35b2a40be",
+      "is_merge": false
+    },
+    {
+      "sha": "4b072fa78794f32e9ee1b76a7851fa66b757f5a4",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/setup-buildx-action from 4.1.0 to 4.2.0\n\nBumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 4.1.0 to 4.2.0.\n- [Release notes](https://github.com/docker/setup-buildx-action/releases)\n- [Commits](https://github.com/docker/setup-buildx-action/compare/d7f5e7f509e45cec5c76c4d5afdd7de93d0b3df5...bb05f3f5519dd87d3ba754cc423b652a5edd6d2c)\n\n---\nupdated-dependencies:\n- dependency-name: docker/setup-buildx-action\n  dependency-version: 4.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T22:07:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/4b072fa78794f32e9ee1b76a7851fa66b757f5a4",
+      "is_merge": false
+    },
+    {
       "sha": "1d1c0a9d5982fe1a8fd3fa522f9662310cea714b",
       "author": "JaredHatfield",
       "message": "Merge pull request #102 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.4.0\n\nchore(deps): bump docker/login-action from 4.2.0 to 4.4.0",

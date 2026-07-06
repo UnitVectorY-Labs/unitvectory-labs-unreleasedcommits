@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-22T22:29:17Z",
   "unreleased_commits": [
     {
+      "sha": "d94d7961d24104b7aad2180a3da38d838e0d7185",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #55 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/net-0.55.0\n\nBump golang.org/x/net from 0.52.0 to 0.55.0",
+      "timestamp": "2026-07-05T14:43:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/d94d7961d24104b7aad2180a3da38d838e0d7185",
+      "is_merge": true
+    },
+    {
+      "sha": "4ffe50d0bfa778430b5e8f36dc1d9bd5e8ae1ce3",
+      "author": "dependabot[bot]",
+      "message": "Bump golang.org/x/net from 0.52.0 to 0.55.0\n\nBumps [golang.org/x/net](https://github.com/golang/net) from 0.52.0 to 0.55.0.\n- [Commits](https://github.com/golang/net/compare/v0.52.0...v0.55.0)\n\n---\nupdated-dependencies:\n- dependency-name: golang.org/x/net\n  dependency-version: 0.55.0\n  dependency-type: indirect\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-05T14:41:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/4ffe50d0bfa778430b5e8f36dc1d9bd5e8ae1ce3",
+      "is_merge": false
+    },
+    {
+      "sha": "63a3cfcc68c61e534826971376b4dd5248ffb22a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #56 from UnitVectorY-Labs/dependabot/github_actions/docker/metadata-action-6.2.0\n\nBump docker/metadata-action from 6.1.0 to 6.2.0",
+      "timestamp": "2026-07-05T13:11:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/63a3cfcc68c61e534826971376b4dd5248ffb22a",
+      "is_merge": true
+    },
+    {
+      "sha": "e34cd788b8410e3468ed8b045f6442cc4859b525",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #57 from UnitVectorY-Labs/dependabot/go_modules/github.com/klauspost/compress-1.19.0\n\nBump github.com/klauspost/compress from 1.18.6 to 1.19.0",
+      "timestamp": "2026-07-05T13:04:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/e34cd788b8410e3468ed8b045f6442cc4859b525",
+      "is_merge": true
+    },
+    {
       "sha": "9a9a16d2384353771d356fc4da01209164f9605c",
       "author": "JaredHatfield",
       "message": "Merge pull request #59 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.4.0\n\nBump docker/login-action from 4.2.0 to 4.4.0",
@@ -67,6 +99,22 @@
       "message": "Bump docker/setup-buildx-action from 4.1.0 to 4.2.0\n\nBumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 4.1.0 to 4.2.0.\n- [Release notes](https://github.com/docker/setup-buildx-action/releases)\n- [Commits](https://github.com/docker/setup-buildx-action/compare/d7f5e7f509e45cec5c76c4d5afdd7de93d0b3df5...bb05f3f5519dd87d3ba754cc423b652a5edd6d2c)\n\n---\nupdated-dependencies:\n- dependency-name: docker/setup-buildx-action\n  dependency-version: 4.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-07-04T10:07:44Z",
       "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/f2f99cdf8a52749f1948845d8d31a243280c794c",
+      "is_merge": false
+    },
+    {
+      "sha": "4dd982cd13845cd58da6cca43f4e96899fa8e464",
+      "author": "dependabot[bot]",
+      "message": "Bump github.com/klauspost/compress from 1.18.6 to 1.19.0\n\nBumps [github.com/klauspost/compress](https://github.com/klauspost/compress) from 1.18.6 to 1.19.0.\n- [Release notes](https://github.com/klauspost/compress/releases)\n- [Commits](https://github.com/klauspost/compress/compare/v1.18.6...v1.19.0)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/klauspost/compress\n  dependency-version: 1.19.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:07:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/4dd982cd13845cd58da6cca43f4e96899fa8e464",
+      "is_merge": false
+    },
+    {
+      "sha": "b1ad4d92ecf3569d9aa8631ed6a704a0aee91b67",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/metadata-action from 6.1.0 to 6.2.0\n\nBumps [docker/metadata-action](https://github.com/docker/metadata-action) from 6.1.0 to 6.2.0.\n- [Release notes](https://github.com/docker/metadata-action/releases)\n- [Commits](https://github.com/docker/metadata-action/compare/80c7e94dd9b9319bd5eb7a0e0fe9291e23a2a2e9...dc802804100637a589fabce1cb79ff13a1411302)\n\n---\nupdated-dependencies:\n- dependency-name: docker/metadata-action\n  dependency-version: 6.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:07:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/b1ad4d92ecf3569d9aa8631ed6a704a0aee91b67",
       "is_merge": false
     },
     {

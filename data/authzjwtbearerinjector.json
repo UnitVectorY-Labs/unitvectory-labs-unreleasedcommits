@@ -6,6 +6,62 @@
   "latest_release_time": "2026-06-22T22:43:20Z",
   "unreleased_commits": [
     {
+      "sha": "79a0a9e0c47e4e2ef63c46f6ea68476063faa3d2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #132 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/net-0.55.0\n\nchore(deps): bump golang.org/x/net from 0.53.0 to 0.55.0",
+      "timestamp": "2026-07-05T14:43:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/79a0a9e0c47e4e2ef63c46f6ea68476063faa3d2",
+      "is_merge": true
+    },
+    {
+      "sha": "5fe4564087b51728ea69a1cb6f74297ce08c520f",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump golang.org/x/net from 0.53.0 to 0.55.0\n\nBumps [golang.org/x/net](https://github.com/golang/net) from 0.53.0 to 0.55.0.\n- [Commits](https://github.com/golang/net/compare/v0.53.0...v0.55.0)\n\n---\nupdated-dependencies:\n- dependency-name: golang.org/x/net\n  dependency-version: 0.55.0\n  dependency-type: indirect\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-05T14:41:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/5fe4564087b51728ea69a1cb6f74297ce08c520f",
+      "is_merge": false
+    },
+    {
+      "sha": "8f2c946ed2d5de472920ba3b415f4245ab44b0b3",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #133 from UnitVectorY-Labs/dependabot/github_actions/docker/setup-buildx-action-4.2.0\n\nchore(deps): bump docker/setup-buildx-action from 4.1.0 to 4.2.0",
+      "timestamp": "2026-07-05T13:23:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/8f2c946ed2d5de472920ba3b415f4245ab44b0b3",
+      "is_merge": true
+    },
+    {
+      "sha": "c922e718285a2b8e59ba5bb479663f8f2bafe865",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/setup-buildx-action from 4.1.0 to 4.2.0\n\nBumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 4.1.0 to 4.2.0.\n- [Release notes](https://github.com/docker/setup-buildx-action/releases)\n- [Commits](https://github.com/docker/setup-buildx-action/compare/d7f5e7f509e45cec5c76c4d5afdd7de93d0b3df5...bb05f3f5519dd87d3ba754cc423b652a5edd6d2c)\n\n---\nupdated-dependencies:\n- dependency-name: docker/setup-buildx-action\n  dependency-version: 4.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-05T13:13:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/c922e718285a2b8e59ba5bb479663f8f2bafe865",
+      "is_merge": false
+    },
+    {
+      "sha": "af5198eb57653c4f0b50720506fe0bbec8b0a38f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #135 from UnitVectorY-Labs/dependabot/github_actions/docker/metadata-action-6.2.0\n\nchore(deps): bump docker/metadata-action from 6.1.0 to 6.2.0",
+      "timestamp": "2026-07-05T13:11:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/af5198eb57653c4f0b50720506fe0bbec8b0a38f",
+      "is_merge": true
+    },
+    {
+      "sha": "35636232c45298dd2362deb100b835f46c336850",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #136 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/grpc-1.82.0\n\nchore(deps): bump google.golang.org/grpc from 1.81.1 to 1.82.0",
+      "timestamp": "2026-07-05T13:10:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/35636232c45298dd2362deb100b835f46c336850",
+      "is_merge": true
+    },
+    {
+      "sha": "0e74b87fc6d26dad511148dbbb150b5b843cf910",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/metadata-action from 6.1.0 to 6.2.0\n\nBumps [docker/metadata-action](https://github.com/docker/metadata-action) from 6.1.0 to 6.2.0.\n- [Release notes](https://github.com/docker/metadata-action/releases)\n- [Commits](https://github.com/docker/metadata-action/compare/80c7e94dd9b9319bd5eb7a0e0fe9291e23a2a2e9...dc802804100637a589fabce1cb79ff13a1411302)\n\n---\nupdated-dependencies:\n- dependency-name: docker/metadata-action\n  dependency-version: 6.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T22:06:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/0e74b87fc6d26dad511148dbbb150b5b843cf910",
+      "is_merge": false
+    },
+    {
       "sha": "e16c6989c3ca0c69ca61cc49a8646637341bb9e4",
       "author": "JaredHatfield",
       "message": "Merge pull request #134 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.4.0\n\nchore(deps): bump docker/login-action from 4.2.0 to 4.4.0",
@@ -67,6 +123,14 @@
       "message": "chore(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.36.2 to 4.36.3.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/8aad20d150bbac5944a9f9d289da16a4b0d87c1e...54f647b7e1bb85c95cddabcd46b0c578ec92bc1a)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.36.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-07-04T10:07:45Z",
       "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/370c432fd28b8990eb0585b3af819d2f339b678f",
+      "is_merge": false
+    },
+    {
+      "sha": "6b51c8cca76851363c810e38234e4558319e38ae",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/grpc from 1.81.1 to 1.82.0\n\nBumps [google.golang.org/grpc](https://github.com/grpc/grpc-go) from 1.81.1 to 1.82.0.\n- [Release notes](https://github.com/grpc/grpc-go/releases)\n- [Commits](https://github.com/grpc/grpc-go/compare/v1.81.1...v1.82.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/grpc\n  dependency-version: 1.82.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:06:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/6b51c8cca76851363c810e38234e4558319e38ae",
       "is_merge": false
     },
     {

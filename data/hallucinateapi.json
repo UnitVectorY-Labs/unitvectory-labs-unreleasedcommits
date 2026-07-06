@@ -6,6 +6,14 @@
   "latest_release_time": "2026-06-28T15:16:00Z",
   "unreleased_commits": [
     {
+      "sha": "a2c105d0bb29d646c8f210e58976a28ec4a13391",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #69 from UnitVectorY-Labs/dependabot/go_modules/github.com/pb33f/libopenapi-0.38.5\n\nbuild(deps): bump github.com/pb33f/libopenapi from 0.38.2 to 0.38.5",
+      "timestamp": "2026-07-05T13:23:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/a2c105d0bb29d646c8f210e58976a28ec4a13391",
+      "is_merge": true
+    },
+    {
       "sha": "0a8f7f91c0b1852fdadd13b01307edd2891b5771",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for hallucinateapi (#71)",
@@ -35,6 +43,14 @@
       "message": "build(deps): bump docker/build-push-action from 7.2.0 to 7.3.0\n\nBumps [docker/build-push-action](https://github.com/docker/build-push-action) from 7.2.0 to 7.3.0.\n- [Release notes](https://github.com/docker/build-push-action/releases)\n- [Commits](https://github.com/docker/build-push-action/compare/f9f3042f7e2789586610d6e8b85c8f03e5195baf...53b7df96c91f9c12dcc8a07bcb9ccacbed38856a)\n\n---\nupdated-dependencies:\n- dependency-name: docker/build-push-action\n  dependency-version: 7.3.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-07-04T10:10:38Z",
       "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/ccd7bda8c446f31ba8f5308961823f7db9b4e120",
+      "is_merge": false
+    },
+    {
+      "sha": "903c93587219714331f19f1cd2a33e1c29d58e7a",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github.com/pb33f/libopenapi from 0.38.2 to 0.38.5\n\nBumps [github.com/pb33f/libopenapi](https://github.com/pb33f/libopenapi) from 0.38.2 to 0.38.5.\n- [Release notes](https://github.com/pb33f/libopenapi/releases)\n- [Commits](https://github.com/pb33f/libopenapi/compare/v0.38.2...v0.38.5)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/pb33f/libopenapi\n  dependency-version: 0.38.5\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:08:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/903c93587219714331f19f1cd2a33e1c29d58e7a",
       "is_merge": false
     },
     {

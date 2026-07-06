@@ -6,6 +6,46 @@
   "latest_release_time": "2026-06-22T22:30:53Z",
   "unreleased_commits": [
     {
+      "sha": "837ee15c3f77a9778dfb660987822906da39eebc",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #187 from UnitVectorY-Labs/dependabot/github_actions/docker/metadata-action-6.2.0\n\nchore(deps): bump docker/metadata-action from 6.1.0 to 6.2.0",
+      "timestamp": "2026-07-05T13:25:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/837ee15c3f77a9778dfb660987822906da39eebc",
+      "is_merge": true
+    },
+    {
+      "sha": "1872036e4519db786bd58e6d99bf09c5bb6f8770",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #189 from UnitVectorY-Labs/dependabot/github_actions/docker/setup-buildx-action-4.2.0\n\nchore(deps): bump docker/setup-buildx-action from 4.1.0 to 4.2.0",
+      "timestamp": "2026-07-05T13:24:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/1872036e4519db786bd58e6d99bf09c5bb6f8770",
+      "is_merge": true
+    },
+    {
+      "sha": "46f799934ee912b79527646f775823e47c364625",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #192 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.287.0\n\nchore(deps): bump google.golang.org/api from 0.286.0 to 0.287.0",
+      "timestamp": "2026-07-05T13:23:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/46f799934ee912b79527646f775823e47c364625",
+      "is_merge": true
+    },
+    {
+      "sha": "0b9dc431cbe8fea04d2b6a6f761134960024181d",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/setup-buildx-action from 4.1.0 to 4.2.0\n\nBumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 4.1.0 to 4.2.0.\n- [Release notes](https://github.com/docker/setup-buildx-action/releases)\n- [Commits](https://github.com/docker/setup-buildx-action/compare/d7f5e7f509e45cec5c76c4d5afdd7de93d0b3df5...bb05f3f5519dd87d3ba754cc423b652a5edd6d2c)\n\n---\nupdated-dependencies:\n- dependency-name: docker/setup-buildx-action\n  dependency-version: 4.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T22:07:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/0b9dc431cbe8fea04d2b6a6f761134960024181d",
+      "is_merge": false
+    },
+    {
+      "sha": "be05e96e14990f314343021b4c76420a4b5a3fb7",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/metadata-action from 6.1.0 to 6.2.0\n\nBumps [docker/metadata-action](https://github.com/docker/metadata-action) from 6.1.0 to 6.2.0.\n- [Release notes](https://github.com/docker/metadata-action/releases)\n- [Commits](https://github.com/docker/metadata-action/compare/80c7e94dd9b9319bd5eb7a0e0fe9291e23a2a2e9...dc802804100637a589fabce1cb79ff13a1411302)\n\n---\nupdated-dependencies:\n- dependency-name: docker/metadata-action\n  dependency-version: 6.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T22:06:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/be05e96e14990f314343021b4c76420a4b5a3fb7",
+      "is_merge": false
+    },
+    {
       "sha": "d7b4e72c307fde96df23469e086b45c8956937cf",
       "author": "JaredHatfield",
       "message": "Merge pull request #193 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.4.0\n\nchore(deps): bump docker/login-action from 4.2.0 to 4.4.0",
@@ -60,6 +100,14 @@
       "timestamp": "2026-07-04T15:10:01Z",
       "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/b1ec95a2cbbc453142e1ed85ddc8b7a7186aafd2",
       "is_merge": true
+    },
+    {
+      "sha": "8840e839181adb99231b7fdbdf28e7848e416483",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/api from 0.286.0 to 0.287.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.286.0 to 0.287.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.286.0...v0.287.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.287.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:07:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/8840e839181adb99231b7fdbdf28e7848e416483",
+      "is_merge": false
     },
     {
       "sha": "3f390ec7f90145be6d1092fa735e8a78a1aef34d",

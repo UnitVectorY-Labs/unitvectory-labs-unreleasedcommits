@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-23T10:57:11Z",
   "unreleased_commits": [
     {
+      "sha": "33fe65d00344abdf541e44519df87b085a48ab58",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #113 from UnitVectorY-Labs/dependabot/maven/org.junit.jupiter-junit-jupiter-api-6.1.1\n\nBump org.junit.jupiter:junit-jupiter-api from 6.1.0 to 6.1.1",
+      "timestamp": "2026-07-05T11:16:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/33fe65d00344abdf541e44519df87b085a48ab58",
+      "is_merge": true
+    },
+    {
+      "sha": "644dd4f3591e20692c3d3576c163fa7c57cd10b1",
+      "author": "dependabot[bot]",
+      "message": "Bump org.junit.jupiter:junit-jupiter-api from 6.1.0 to 6.1.1\n\nBumps [org.junit.jupiter:junit-jupiter-api](https://github.com/junit-team/junit-framework) from 6.1.0 to 6.1.1.\n- [Release notes](https://github.com/junit-team/junit-framework/releases)\n- [Commits](https://github.com/junit-team/junit-framework/compare/r6.1.0...r6.1.1)\n\n---\nupdated-dependencies:\n- dependency-name: org.junit.jupiter:junit-jupiter-api\n  dependency-version: 6.1.1\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-05T11:14:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/644dd4f3591e20692c3d3576c163fa7c57cd10b1",
+      "is_merge": false
+    },
+    {
       "sha": "cb973e2f3a4da87082e0aa8fede3cce5b6ecfa8e",
       "author": "JaredHatfield",
       "message": "Merge pull request #117 from UnitVectorY-Labs/fix/codeql-v4.36.3\n\nfix: bump github/codeql-action from v4.36.2 to v4.36.3",
