@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:49:10Z",
   "unreleased_commits": [
     {
+      "sha": "5fc555c2ed51ac61b1254ce7f424cde6f331a2bd",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #119 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to v1.26.5",
+      "timestamp": "2026-07-10T01:22:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/5fc555c2ed51ac61b1254ce7f424cde6f331a2bd",
+      "is_merge": true
+    },
+    {
+      "sha": "462dbcab95bd3a94767f2c93f738aed1a3411eaf",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.5",
+      "timestamp": "2026-07-10T00:56:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/462dbcab95bd3a94767f2c93f738aed1a3411eaf",
+      "is_merge": false
+    },
+    {
       "sha": "ee400a477a5f2e1f3bf0d9bd1ef4101e18106455",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for mcp-graphql-forge (#118)",

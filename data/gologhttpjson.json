@@ -6,6 +6,22 @@
   "latest_release_time": "2026-05-22T00:31:14Z",
   "unreleased_commits": [
     {
+      "sha": "f9d6f77b1edd200ecf47b0cfdfa874fc39e3824e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #80 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to v1.26.5",
+      "timestamp": "2026-07-10T01:23:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/f9d6f77b1edd200ecf47b0cfdfa874fc39e3824e",
+      "is_merge": true
+    },
+    {
+      "sha": "0b6ab7623d56978777fcc740cedccdddf7405a26",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.5",
+      "timestamp": "2026-07-10T00:55:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/0b6ab7623d56978777fcc740cedccdddf7405a26",
+      "is_merge": false
+    },
+    {
       "sha": "d115392613ce9b71ab29b5560bb2ee6defdcab82",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for gologhttpjson (#79)",

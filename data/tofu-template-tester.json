@@ -6,6 +6,22 @@
   "latest_release_time": "2026-05-24T00:42:30Z",
   "unreleased_commits": [
     {
+      "sha": "c65e21f3c64be317466e48342fe4c6cf0a50aa7b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #72 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to v1.26.5",
+      "timestamp": "2026-07-10T01:23:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/c65e21f3c64be317466e48342fe4c6cf0a50aa7b",
+      "is_merge": true
+    },
+    {
+      "sha": "b602735f81f248f0e9f07ca4d6d98b5e3ab2fdf8",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.5",
+      "timestamp": "2026-07-10T00:57:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/b602735f81f248f0e9f07ca4d6d98b5e3ab2fdf8",
+      "is_merge": false
+    },
+    {
       "sha": "e6496c452360ebd3a4627af0c85f8904d7f0f4f0",
       "author": "JaredHatfield",
       "message": "Merge pull request #71 from UnitVectorY-Labs/gitrepoforge/tofu-template-tester\n\ngitrepoforge: apply desired state for tofu-template-tester",

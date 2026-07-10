@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:52:34Z",
   "unreleased_commits": [
     {
+      "sha": "768ab33ae493447d18eacdcfe1b267a7abc3b72c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #99 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to v1.26.5",
+      "timestamp": "2026-07-10T01:23:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/768ab33ae493447d18eacdcfe1b267a7abc3b72c",
+      "is_merge": true
+    },
+    {
+      "sha": "64e85919dfdf28b773506f74c4d3d4b3cee1ddcb",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.5",
+      "timestamp": "2026-07-10T00:56:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/64e85919dfdf28b773506f74c4d3d4b3cee1ddcb",
+      "is_merge": false
+    },
+    {
       "sha": "8033d9f2ada66b326f6e7ccbe5173d8e1da1dc3e",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for mcp-tf-provider-docs (#98)",

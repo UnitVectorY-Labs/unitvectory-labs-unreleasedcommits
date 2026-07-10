@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-20T11:22:53Z",
   "unreleased_commits": [
     {
+      "sha": "68fddff18ea9e5f23588d60d25b31e6145493ef6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #71 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to v1.26.5",
+      "timestamp": "2026-07-10T01:24:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/68fddff18ea9e5f23588d60d25b31e6145493ef6",
+      "is_merge": true
+    },
+    {
+      "sha": "7b69bedc64635cdb7ba7f0e47cddab465d34fdb3",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.5",
+      "timestamp": "2026-07-10T00:55:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/7b69bedc64635cdb7ba7f0e47cddab465d34fdb3",
+      "is_merge": false
+    },
+    {
       "sha": "63e8ff0571e87ea84973eaddccb3355140f07c18",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for ghprmerge (#70)",

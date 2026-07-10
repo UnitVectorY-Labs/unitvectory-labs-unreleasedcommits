@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:37:07Z",
   "unreleased_commits": [
     {
+      "sha": "9aeba43bf61046f07647d512c313f3c40b152dcb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #41 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to v1.26.5",
+      "timestamp": "2026-07-10T01:24:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/9aeba43bf61046f07647d512c313f3c40b152dcb",
+      "is_merge": true
+    },
+    {
+      "sha": "d960ee36b7683d844fda8994696908e3a23d4815",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.5",
+      "timestamp": "2026-07-10T00:56:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/d960ee36b7683d844fda8994696908e3a23d4815",
+      "is_merge": false
+    },
+    {
       "sha": "25dada4da96c26ed021d931e734e3bd32790a070",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for jsonschemaprofiles (#40)",

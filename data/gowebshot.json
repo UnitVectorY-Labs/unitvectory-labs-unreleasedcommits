@@ -6,6 +6,22 @@
   "latest_release_time": "2026-05-23T23:28:42Z",
   "unreleased_commits": [
     {
+      "sha": "ce59ed55675c19f37b020afe3a9e7eb9bf9eecca",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #38 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to v1.26.5",
+      "timestamp": "2026-07-10T01:24:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/ce59ed55675c19f37b020afe3a9e7eb9bf9eecca",
+      "is_merge": true
+    },
+    {
+      "sha": "38b72053cea7344f65542e51d2e9f087b3acd8c4",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.5",
+      "timestamp": "2026-07-10T00:55:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/38b72053cea7344f65542e51d2e9f087b3acd8c4",
+      "is_merge": false
+    },
+    {
       "sha": "9c60e7921589c3c27817da2084c218f008756f57",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for gowebshot (#37)",

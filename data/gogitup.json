@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-10T07:40:04Z",
   "unreleased_commits": [
     {
+      "sha": "5c84b7bf7135125355dbf28a9e950bb35fed4034",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #46 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to v1.26.5",
+      "timestamp": "2026-07-10T01:24:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/5c84b7bf7135125355dbf28a9e950bb35fed4034",
+      "is_merge": true
+    },
+    {
+      "sha": "b51b8f280dc97e8940a092af7b1d8b9e96e45ffc",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.5",
+      "timestamp": "2026-07-10T00:55:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/b51b8f280dc97e8940a092af7b1d8b9e96e45ffc",
+      "is_merge": false
+    },
+    {
       "sha": "46b9db454a13e9342b4f9374b87708f23b5d885e",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for gogitup (#45)",

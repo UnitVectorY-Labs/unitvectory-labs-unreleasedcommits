@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-27T09:55:34Z",
   "unreleased_commits": [
     {
+      "sha": "82bd654ec0c9d28e8e3da2c1cf05ffc1d7665bff",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #19 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to v1.26.5",
+      "timestamp": "2026-07-10T01:25:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/82bd654ec0c9d28e8e3da2c1cf05ffc1d7665bff",
+      "is_merge": true
+    },
+    {
+      "sha": "fefab89b2ac836b72166d1e34be285ddaa57509e",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.5",
+      "timestamp": "2026-07-10T00:54:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/fefab89b2ac836b72166d1e34be285ddaa57509e",
+      "is_merge": false
+    },
+    {
       "sha": "13abc49d080143f0083dc7b9d93e42188013473e",
       "author": "JaredHatfield",
       "message": "Merge pull request #16 from UnitVectorY-Labs/dependabot/go_modules/charm.land/lipgloss/v2-2.0.5\n\nBump charm.land/lipgloss/v2 from 2.0.4 to 2.0.5",

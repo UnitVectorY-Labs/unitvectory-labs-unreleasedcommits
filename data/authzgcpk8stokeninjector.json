@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:43:53Z",
   "unreleased_commits": [
     {
+      "sha": "c8e0d7c46c13cd5a75c6477089bab16e10813ac5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #136 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to 1.26.5",
+      "timestamp": "2026-07-10T01:22:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/c8e0d7c46c13cd5a75c6477089bab16e10813ac5",
+      "is_merge": true
+    },
+    {
+      "sha": "edfe812b59f606f3d2131ae0407c8c78a2191c9c",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.26.5",
+      "timestamp": "2026-07-10T00:54:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/edfe812b59f606f3d2131ae0407c8c78a2191c9c",
+      "is_merge": false
+    },
+    {
       "sha": "5e0078fc1d9a816ff2f12111e91f50bd8e202156",
       "author": "JaredHatfield",
       "message": "Merge pull request #130 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-7.3.0\n\nchore(deps): bump docker/build-push-action from 7.2.0 to 7.3.0",

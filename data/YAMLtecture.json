@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:49:50Z",
   "unreleased_commits": [
     {
+      "sha": "e51b2acee3a786237a3e63da4c22fc6553cc3b43",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #124 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to v1.26.5",
+      "timestamp": "2026-07-10T01:22:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/e51b2acee3a786237a3e63da4c22fc6553cc3b43",
+      "is_merge": true
+    },
+    {
+      "sha": "c93e2e700c1c059fbd413a56c751e1870376a903",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.5",
+      "timestamp": "2026-07-10T00:57:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/c93e2e700c1c059fbd413a56c751e1870376a903",
+      "is_merge": false
+    },
+    {
       "sha": "51c9b15747a321e7f57336b50f7df3b8ec0dd873",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for YAMLtecture (#123)",

@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:43:20Z",
   "unreleased_commits": [
     {
+      "sha": "841985db6280c1709b01a5acbe6ad3e74b899186",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #142 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to 1.26.5",
+      "timestamp": "2026-07-10T01:21:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/841985db6280c1709b01a5acbe6ad3e74b899186",
+      "is_merge": true
+    },
+    {
+      "sha": "5d994582ff2e7495fa273b3f58a1b6a0bd4a5e1e",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.26.5",
+      "timestamp": "2026-07-10T00:54:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/5d994582ff2e7495fa273b3f58a1b6a0bd4a5e1e",
+      "is_merge": false
+    },
+    {
       "sha": "79a0a9e0c47e4e2ef63c46f6ea68476063faa3d2",
       "author": "JaredHatfield",
       "message": "Merge pull request #132 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/net-0.55.0\n\nchore(deps): bump golang.org/x/net from 0.53.0 to 0.55.0",

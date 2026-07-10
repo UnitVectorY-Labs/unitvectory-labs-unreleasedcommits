@@ -6,6 +6,22 @@
   "latest_release_time": "2026-05-22T00:44:26Z",
   "unreleased_commits": [
     {
+      "sha": "61f3c651618fdc78015e2b73e78321c5a3c6eb3e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #94 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to v1.26.5",
+      "timestamp": "2026-07-10T01:22:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/61f3c651618fdc78015e2b73e78321c5a3c6eb3e",
+      "is_merge": true
+    },
+    {
+      "sha": "f8845b35c6d7ca9088e0bfe36aa3efb1c75f4006",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.5",
+      "timestamp": "2026-07-10T00:55:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/f8845b35c6d7ca9088e0bfe36aa3efb1c75f4006",
+      "is_merge": false
+    },
+    {
       "sha": "585b8b7614b7ddad00d335a44e4ca872b09f7c93",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for goenvecho (#93)",

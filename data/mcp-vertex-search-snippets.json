@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:53:03Z",
   "unreleased_commits": [
     {
+      "sha": "0bb9afdce0daa5f84dcb16792996db4129df8a61",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #97 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to v1.26.5",
+      "timestamp": "2026-07-10T01:23:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/0bb9afdce0daa5f84dcb16792996db4129df8a61",
+      "is_merge": true
+    },
+    {
+      "sha": "454bef89fa5019b7971202e0e5449ad8ab2f2a1a",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.5",
+      "timestamp": "2026-07-10T00:56:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/454bef89fa5019b7971202e0e5449ad8ab2f2a1a",
+      "is_merge": false
+    },
+    {
       "sha": "e6f84604430cfa1b9fd0ae654f224db4fa1a1f0e",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for mcp-vertex-search-snippets (#96)",

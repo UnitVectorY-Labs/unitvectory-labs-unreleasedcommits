@@ -6,6 +6,22 @@
   "latest_release_time": "2026-05-23T23:32:07Z",
   "unreleased_commits": [
     {
+      "sha": "62b757cfbe84e498822724ad0ac7a29e10ee3782",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #56 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to v1.26.5",
+      "timestamp": "2026-07-10T01:24:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/62b757cfbe84e498822724ad0ac7a29e10ee3782",
+      "is_merge": true
+    },
+    {
+      "sha": "63183327ca5d04454f891f081eaac2564ba98071",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.5",
+      "timestamp": "2026-07-10T00:54:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/63183327ca5d04454f891f081eaac2564ba98071",
+      "is_merge": false
+    },
+    {
       "sha": "e9323a4b5f1f9f7d53228c020842afeaf6180623",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for bulkfilepr (#55)",

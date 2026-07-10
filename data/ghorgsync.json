@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:54:11Z",
   "unreleased_commits": [
     {
+      "sha": "e1db90f52b6f52b36b398c1e67790c3fc17fed49",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #56 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to v1.26.5",
+      "timestamp": "2026-07-10T01:24:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/e1db90f52b6f52b36b398c1e67790c3fc17fed49",
+      "is_merge": true
+    },
+    {
+      "sha": "43dd6941afa4d50051cb7d710a35e46ccc284f4e",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.5",
+      "timestamp": "2026-07-10T00:55:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/43dd6941afa4d50051cb7d710a35e46ccc284f4e",
+      "is_merge": false
+    },
+    {
       "sha": "7364e3346b0b903e4fcfd8840acd967b159e7886",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for ghorgsync (#55)",

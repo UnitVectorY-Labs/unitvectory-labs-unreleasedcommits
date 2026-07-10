@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:30:53Z",
   "unreleased_commits": [
     {
+      "sha": "0fadf3623024afd17d616236142f8faf207fa523",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #196 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to 1.26.5",
+      "timestamp": "2026-07-10T01:22:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/0fadf3623024afd17d616236142f8faf207fa523",
+      "is_merge": true
+    },
+    {
+      "sha": "06736f2ec0bb846a6ba7e0b62127686438d5c9f2",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.26.5",
+      "timestamp": "2026-07-10T00:55:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/06736f2ec0bb846a6ba7e0b62127686438d5c9f2",
+      "is_merge": false
+    },
+    {
       "sha": "837ee15c3f77a9778dfb660987822906da39eebc",
       "author": "JaredHatfield",
       "message": "Merge pull request #187 from UnitVectorY-Labs/dependabot/github_actions/docker/metadata-action-6.2.0\n\nchore(deps): bump docker/metadata-action from 6.1.0 to 6.2.0",

@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:28:39Z",
   "unreleased_commits": [
     {
+      "sha": "5e7ba66b938118670cefded6d87759bbd473f8c8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #199 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to v1.26.5",
+      "timestamp": "2026-07-10T01:21:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/5e7ba66b938118670cefded6d87759bbd473f8c8",
+      "is_merge": true
+    },
+    {
+      "sha": "90b4612c9812fde554129cd05cd93af851cb8d38",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.5",
+      "timestamp": "2026-07-10T00:56:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/90b4612c9812fde554129cd05cd93af851cb8d38",
+      "is_merge": false
+    },
+    {
       "sha": "68f5269c82535abbd96f168de6ec33607a016885",
       "author": "JaredHatfield",
       "message": "Merge pull request #198 from UnitVectorY-Labs/gitrepoforge/lockboxkms\n\ngitrepoforge: apply desired state for lockboxkms",

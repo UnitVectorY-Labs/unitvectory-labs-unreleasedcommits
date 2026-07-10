@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:48:37Z",
   "unreleased_commits": [
     {
+      "sha": "24033858a62deb7c68d6ee61017a5f16ecbe29f3",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #107 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to v1.26.5",
+      "timestamp": "2026-07-10T01:23:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/24033858a62deb7c68d6ee61017a5f16ecbe29f3",
+      "is_merge": true
+    },
+    {
+      "sha": "a679a57922fcde13ecb4305ceb69eb7b8fd2b153",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.5",
+      "timestamp": "2026-07-10T00:56:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/a679a57922fcde13ecb4305ceb69eb7b8fd2b153",
+      "is_merge": false
+    },
+    {
       "sha": "9691ca3ba50e43dc23c7bbaf597cad2f069909fa",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for mcp-acronym-lookup (#106)",

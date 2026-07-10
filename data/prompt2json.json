@@ -6,6 +6,22 @@
   "latest_release_time": "2026-05-23T23:28:58Z",
   "unreleased_commits": [
     {
+      "sha": "e39f6d357f4e7d1e3e924910c0b10964f4a5a419",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #71 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to v1.26.5",
+      "timestamp": "2026-07-10T01:23:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/e39f6d357f4e7d1e3e924910c0b10964f4a5a419",
+      "is_merge": true
+    },
+    {
+      "sha": "866ad888283e5b071ae248007b3decd5c01b19a4",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.5",
+      "timestamp": "2026-07-10T00:57:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/866ad888283e5b071ae248007b3decd5c01b19a4",
+      "is_merge": false
+    },
+    {
       "sha": "44755747c8d021701b323b2747379aa3a864fcec",
       "author": "JaredHatfield",
       "message": "Merge pull request #70 from UnitVectorY-Labs/gitrepoforge/prompt2json\n\ngitrepoforge: apply desired state for prompt2json",

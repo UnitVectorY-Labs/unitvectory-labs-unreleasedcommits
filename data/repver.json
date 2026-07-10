@@ -6,6 +6,22 @@
   "latest_release_time": "2026-05-23T23:29:22Z",
   "unreleased_commits": [
     {
+      "sha": "458a8bb598d238addf2f100d6e9f13e72eb1050d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #80 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to v1.26.5",
+      "timestamp": "2026-07-10T01:22:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/458a8bb598d238addf2f100d6e9f13e72eb1050d",
+      "is_merge": true
+    },
+    {
+      "sha": "431fd592eefa82fc2865a8976b083d6880bf63f7",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.5",
+      "timestamp": "2026-07-10T00:57:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/431fd592eefa82fc2865a8976b083d6880bf63f7",
+      "is_merge": false
+    },
+    {
       "sha": "327d77892a6ab6a28dcd43cc3e80f85ce372b4bc",
       "author": "JaredHatfield",
       "message": "Merge pull request #79 from UnitVectorY-Labs/gitrepoforge/repver\n\ngitrepoforge: apply desired state for repver",

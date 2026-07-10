@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:14:27Z",
   "unreleased_commits": [
     {
+      "sha": "e299d22236a11b914e6a50ef0b284b451927ccde",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #172 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to v1.26.5",
+      "timestamp": "2026-07-10T01:22:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/e299d22236a11b914e6a50ef0b284b451927ccde",
+      "is_merge": true
+    },
+    {
+      "sha": "811ceaad84cdde3ed3432bac529f93edcc35646d",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.5",
+      "timestamp": "2026-07-10T00:54:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/811ceaad84cdde3ed3432bac529f93edcc35646d",
+      "is_merge": false
+    },
+    {
       "sha": "92b07d998469beafa36c8c74fa1bcad1ae7b1f59",
       "author": "JaredHatfield",
       "message": "Merge pull request #168 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.287.0\n\nchore(deps): bump google.golang.org/api from 0.286.0 to 0.287.0",

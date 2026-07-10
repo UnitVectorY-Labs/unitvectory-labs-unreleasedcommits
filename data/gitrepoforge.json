@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-17T11:03:43Z",
   "unreleased_commits": [
     {
+      "sha": "ab72ff9969a957f575e9089602a145629d339053",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #50 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to v1.26.5",
+      "timestamp": "2026-07-10T01:24:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/gitrepoforge/commit/ab72ff9969a957f575e9089602a145629d339053",
+      "is_merge": true
+    },
+    {
+      "sha": "facfe4a4cdc84f48e642a49035153217db2c898b",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.5",
+      "timestamp": "2026-07-10T00:55:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/gitrepoforge/commit/facfe4a4cdc84f48e642a49035153217db2c898b",
+      "is_merge": false
+    },
+    {
       "sha": "72334d1faed610fd2b09f535a8878c35d53ab986",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for gitrepoforge (#49)",

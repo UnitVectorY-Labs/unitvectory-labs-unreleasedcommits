@@ -6,6 +6,22 @@
   "latest_release_time": "2026-02-28T22:30:45Z",
   "unreleased_commits": [
     {
+      "sha": "aec14f259d056be8b70a5aa6bfcdf5c36567710f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #59 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to v1.26.5",
+      "timestamp": "2026-07-10T01:22:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/aec14f259d056be8b70a5aa6bfcdf5c36567710f",
+      "is_merge": true
+    },
+    {
+      "sha": "5e7130c5238ff190d412216ca0ae00a8b1610582",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.5",
+      "timestamp": "2026-07-10T00:57:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/5e7130c5238ff190d412216ca0ae00a8b1610582",
+      "is_merge": false
+    },
+    {
       "sha": "5dcff8e840e632205f425e2c8223102c4ace35a7",
       "author": "JaredHatfield",
       "message": "Merge pull request #58 from UnitVectorY-Labs/gitrepoforge/yamlequal\n\ngitrepoforge: apply desired state for yamlequal",

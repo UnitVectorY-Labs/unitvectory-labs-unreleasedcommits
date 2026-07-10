@@ -6,6 +6,22 @@
   "latest_release_time": "2026-03-02T11:56:38Z",
   "unreleased_commits": [
     {
+      "sha": "8b63a401d067ca04068de00381712a582d6269ec",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #81 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to 1.26.5",
+      "timestamp": "2026-07-10T01:23:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/8b63a401d067ca04068de00381712a582d6269ec",
+      "is_merge": true
+    },
+    {
+      "sha": "1efce1e6acd5e54c57e8e963b38db447594592ae",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.26.5",
+      "timestamp": "2026-07-10T00:56:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/1efce1e6acd5e54c57e8e963b38db447594592ae",
+      "is_merge": false
+    },
+    {
       "sha": "df535b86af2832284eaafb47b1c35cce2d7cec4e",
       "author": "JaredHatfield",
       "message": "Merge pull request #76 from UnitVectorY-Labs/dependabot/github_actions/docker/metadata-action-6.2.0\n\nchore(deps): bump docker/metadata-action from 6.1.0 to 6.2.0",

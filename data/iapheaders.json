@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:51:23Z",
   "unreleased_commits": [
     {
+      "sha": "e75415122e21514c1b9775921537482ddc07a1f1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #115 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to 1.26.5",
+      "timestamp": "2026-07-10T01:22:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/e75415122e21514c1b9775921537482ddc07a1f1",
+      "is_merge": true
+    },
+    {
+      "sha": "2f05d6e6d6128f50c378c59fc8df10b776c19d09",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.26.5",
+      "timestamp": "2026-07-10T00:56:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/2f05d6e6d6128f50c378c59fc8df10b776c19d09",
+      "is_merge": false
+    },
+    {
       "sha": "aa03a377078a7a0323ff08f458b9afe4635060a7",
       "author": "JaredHatfield",
       "message": "Merge pull request #106 from UnitVectorY-Labs/dependabot/go_modules/github.com/lestrrat-go/jwx/v2-2.1.7\n\nchore(deps): bump github.com/lestrrat-go/jwx/v2 from 2.1.6 to 2.1.7",

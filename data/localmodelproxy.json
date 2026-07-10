@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-27T19:52:48Z",
   "unreleased_commits": [
     {
+      "sha": "23a37715f49005b3c03bc37756b2ef517c39d67d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #28 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to v1.26.5",
+      "timestamp": "2026-07-10T01:25:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/23a37715f49005b3c03bc37756b2ef517c39d67d",
+      "is_merge": true
+    },
+    {
+      "sha": "79af7a08012447db931abcdea4b99c988b1dde0e",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.5",
+      "timestamp": "2026-07-10T00:56:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/79af7a08012447db931abcdea4b99c988b1dde0e",
+      "is_merge": false
+    },
+    {
       "sha": "9f7b37fb9dfe1f9b9ab80192c1bd0b59fc501340",
       "author": "JaredHatfield",
       "message": "Merge pull request #27 from UnitVectorY-Labs/gitrepoforge/localmodelproxy\n\ngitrepoforge: apply desired state for localmodelproxy",

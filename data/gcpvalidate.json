@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:25:21Z",
   "unreleased_commits": [
     {
+      "sha": "e8a0278c86539b6c479bafb89491230096bcd941",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #50 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to v1.26.5",
+      "timestamp": "2026-07-10T01:23:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpvalidate/commit/e8a0278c86539b6c479bafb89491230096bcd941",
+      "is_merge": true
+    },
+    {
+      "sha": "b6643c3f5fddc63cc4009d0ad0d8d68070147a28",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.5",
+      "timestamp": "2026-07-10T00:55:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpvalidate/commit/b6643c3f5fddc63cc4009d0ad0d8d68070147a28",
+      "is_merge": false
+    },
+    {
       "sha": "fea10de47cb7e8e3e22a1e9e1c44c89f9753c3f6",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for gcpvalidate (#49)",

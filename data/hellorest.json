@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:42:42Z",
   "unreleased_commits": [
     {
+      "sha": "015eeaf07b04f1a773b7a846f2292a6e48d384fc",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #115 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to v1.26.5",
+      "timestamp": "2026-07-10T01:21:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/015eeaf07b04f1a773b7a846f2292a6e48d384fc",
+      "is_merge": true
+    },
+    {
+      "sha": "496e0463328aa9c41e745ac1df35b03b6d491f81",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.5",
+      "timestamp": "2026-07-10T00:55:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/496e0463328aa9c41e745ac1df35b03b6d491f81",
+      "is_merge": false
+    },
+    {
       "sha": "3c5e0e5fb70f330a7e2a82dceda03a99f2131dd7",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for hellorest (#114)",

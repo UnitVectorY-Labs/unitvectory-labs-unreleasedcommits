@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:51:56Z",
   "unreleased_commits": [
     {
+      "sha": "38118b7f450905bfbad2fe19024cfd72d2406e1a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #56 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to v1.26.5",
+      "timestamp": "2026-07-10T01:24:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/38118b7f450905bfbad2fe19024cfd72d2406e1a",
+      "is_merge": true
+    },
+    {
+      "sha": "bf16bbc3d1263b8c90e24b4a4e70c77402353a27",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.5",
+      "timestamp": "2026-07-10T00:56:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/bf16bbc3d1263b8c90e24b4a4e70c77402353a27",
+      "is_merge": false
+    },
+    {
       "sha": "f269c043b5ac2d2ee9549f307124aa5d6fb77e6b",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for mcp-rest-forge (#55)",

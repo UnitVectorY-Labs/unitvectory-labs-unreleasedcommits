@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-03T10:38:18Z",
   "unreleased_commits": [
     {
+      "sha": "14ac7317d967deb4d8f1f579857cf2454e755b4d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #35 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to v1.26.5",
+      "timestamp": "2026-07-10T01:24:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/14ac7317d967deb4d8f1f579857cf2454e755b4d",
+      "is_merge": true
+    },
+    {
+      "sha": "8829c0f6d7053fdea2cdbc6984939bdd77178c75",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.5",
+      "timestamp": "2026-07-10T00:54:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/8829c0f6d7053fdea2cdbc6984939bdd77178c75",
+      "is_merge": false
+    },
+    {
       "sha": "330849debbae9ddd8ebed59f376d4b614014f43d",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for frontmatterkit (#34)",

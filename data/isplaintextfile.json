@@ -6,6 +6,22 @@
   "latest_release_time": "2026-02-28T22:33:35Z",
   "unreleased_commits": [
     {
+      "sha": "fdc204e2bdf00e704ed95079d4ad54968240f34f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #61 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to v1.26.5",
+      "timestamp": "2026-07-10T01:22:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/fdc204e2bdf00e704ed95079d4ad54968240f34f",
+      "is_merge": true
+    },
+    {
+      "sha": "3890c49542e96e6d8c21d0d0ea6060587e6ab6e9",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.5",
+      "timestamp": "2026-07-10T00:56:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/3890c49542e96e6d8c21d0d0ea6060587e6ab6e9",
+      "is_merge": false
+    },
+    {
       "sha": "79306af0ad7864aed1bff49abda094553079fea0",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for isplaintextfile (#60)",

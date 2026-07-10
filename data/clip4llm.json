@@ -6,6 +6,22 @@
   "latest_release_time": "2026-05-23T23:31:43Z",
   "unreleased_commits": [
     {
+      "sha": "e58ae696f9113c22d0c8e21f2512025fd307d6e7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #91 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to v1.26.5",
+      "timestamp": "2026-07-10T01:21:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/e58ae696f9113c22d0c8e21f2512025fd307d6e7",
+      "is_merge": true
+    },
+    {
+      "sha": "71151705129b522ee1c8186ce29507e9d74cf037",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.26.5",
+      "timestamp": "2026-07-10T00:54:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/71151705129b522ee1c8186ce29507e9d74cf037",
+      "is_merge": false
+    },
+    {
       "sha": "ee74391cb371eff3f7df9922408c71e3b18a94f0",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for clip4llm (#90)",
