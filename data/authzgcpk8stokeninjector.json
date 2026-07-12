@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:43:53Z",
   "unreleased_commits": [
     {
+      "sha": "d5c9ad3cd9329fbfb6088e57dd0a62007e5709d0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #138 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.3.2\n\nchore(deps): bump astral-sh/setup-uv from 8.2.0 to 8.3.2",
+      "timestamp": "2026-07-11T12:01:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/d5c9ad3cd9329fbfb6088e57dd0a62007e5709d0",
+      "is_merge": true
+    },
+    {
+      "sha": "1ddc3a91bee7f1be6a77429045c44bfa3a84dd64",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 8.2.0 to 8.3.2\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.2.0 to 8.3.2.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/fac544c07dec837d0ccb6301d7b5580bf5edae39...11f9893b081a58869d3b5fccaea48c9e9e46f990)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.3.2\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-11T10:05:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/1ddc3a91bee7f1be6a77429045c44bfa3a84dd64",
+      "is_merge": false
+    },
+    {
       "sha": "c8e0d7c46c13cd5a75c6477089bab16e10813ac5",
       "author": "JaredHatfield",
       "message": "Merge pull request #136 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to 1.26.5",

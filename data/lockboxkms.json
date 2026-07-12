@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-22T22:28:39Z",
   "unreleased_commits": [
     {
+      "sha": "b8ce48446d0a0641945e201d37863b341aa8a1e7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #200 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.287.1\n\nchore(deps): bump google.golang.org/api from 0.287.0 to 0.287.1",
+      "timestamp": "2026-07-11T12:16:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/b8ce48446d0a0641945e201d37863b341aa8a1e7",
+      "is_merge": true
+    },
+    {
+      "sha": "dc5de8ecf4b47dc5b31d511ed36d941195ffd763",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #202 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.3.2\n\nchore(deps): bump astral-sh/setup-uv from 8.2.0 to 8.3.2",
+      "timestamp": "2026-07-11T12:01:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/dc5de8ecf4b47dc5b31d511ed36d941195ffd763",
+      "is_merge": true
+    },
+    {
+      "sha": "99ac6ec9adb3f616891419887322d2ad9541a29e",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 8.2.0 to 8.3.2\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.2.0 to 8.3.2.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/fac544c07dec837d0ccb6301d7b5580bf5edae39...11f9893b081a58869d3b5fccaea48c9e9e46f990)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.3.2\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-11T10:07:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/99ac6ec9adb3f616891419887322d2ad9541a29e",
+      "is_merge": false
+    },
+    {
+      "sha": "343e15cc009f9177f8a255c30064da5e89cf0ba4",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/api from 0.287.0 to 0.287.1\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.287.0 to 0.287.1.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.287.0...v0.287.1)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.287.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-11T10:06:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/343e15cc009f9177f8a255c30064da5e89cf0ba4",
+      "is_merge": false
+    },
+    {
       "sha": "5e7ba66b938118670cefded6d87759bbd473f8c8",
       "author": "JaredHatfield",
       "message": "Merge pull request #199 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to v1.26.5",

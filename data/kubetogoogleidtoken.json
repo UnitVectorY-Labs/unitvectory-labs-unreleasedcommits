@@ -6,6 +6,38 @@
   "latest_release_time": "2025-11-12T01:30:20Z",
   "unreleased_commits": [
     {
+      "sha": "393b8c15b316f14700e5a43b6a36de452535cc79",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #110 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.0\n\nBump github/codeql-action/upload-sarif from 4.36.3 to 4.37.0",
+      "timestamp": "2026-07-11T12:07:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/393b8c15b316f14700e5a43b6a36de452535cc79",
+      "is_merge": true
+    },
+    {
+      "sha": "ef3a85753725c4123370e71ce85e9311eb2d3dae",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #111 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.3.2\n\nBump astral-sh/setup-uv from 8.2.0 to 8.3.2",
+      "timestamp": "2026-07-11T12:01:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/ef3a85753725c4123370e71ce85e9311eb2d3dae",
+      "is_merge": true
+    },
+    {
+      "sha": "5ef72585e928522469755530d415bf6d7f2df0e4",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 8.2.0 to 8.3.2\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.2.0 to 8.3.2.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/fac544c07dec837d0ccb6301d7b5580bf5edae39...11f9893b081a58869d3b5fccaea48c9e9e46f990)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.3.2\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-11T10:08:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/5ef72585e928522469755530d415bf6d7f2df0e4",
+      "is_merge": false
+    },
+    {
+      "sha": "7c179f4a026fbec2fa72bf9c3bf0df884f494b3c",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action/upload-sarif from 4.36.3 to 4.37.0\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.36.3 to 4.37.0.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/54f647b7e1bb85c95cddabcd46b0c578ec92bc1a...99df26d4f13ea111d4ec1a7dddef6063f76b97e9)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-11T10:05:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/7c179f4a026fbec2fa72bf9c3bf0df884f494b3c",
+      "is_merge": false
+    },
+    {
       "sha": "6271a9629d39881f26d7767a8bc42a738fe7b389",
       "author": "JaredHatfield",
       "message": "fix: bump github/codeql-action from v4.36.2 to v4.36.3 (#107)",

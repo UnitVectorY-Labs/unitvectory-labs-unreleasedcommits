@@ -6,6 +6,94 @@
   "latest_release_time": "2026-06-20T11:22:53Z",
   "unreleased_commits": [
     {
+      "sha": "21b7c14ddc60dc9eadba7d6fff3b32d3047cf9d0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #78 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",
+      "timestamp": "2026-07-11T17:58:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/21b7c14ddc60dc9eadba7d6fff3b32d3047cf9d0",
+      "is_merge": true
+    },
+    {
+      "sha": "8b81a2d5f5e30dc3f9c80ef04196e06790b261da",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.0",
+      "timestamp": "2026-07-11T13:58:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/8b81a2d5f5e30dc3f9c80ef04196e06790b261da",
+      "is_merge": false
+    },
+    {
+      "sha": "a357ae9fd324859814086a3feae877634c579910",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #76 from UnitVectorY-Labs/copilot/add-author-flag-for-pr-filtering\n\nfeat: add --author filter flag and GHPRMERGE_MIN_GROUP_SIZE env var",
+      "timestamp": "2026-07-11T12:45:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/a357ae9fd324859814086a3feae877634c579910",
+      "is_merge": true
+    },
+    {
+      "sha": "a2ce225520ef995db603a7d56dccaa136285fb2a",
+      "author": "Copilot",
+      "message": "fix: clarify GHPRMERGE_MIN_GROUP_SIZE error message and min-group-size extraction comment",
+      "timestamp": "2026-07-11T12:34:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/a2ce225520ef995db603a7d56dccaa136285fb2a",
+      "is_merge": false
+    },
+    {
+      "sha": "ed0fbe9c07b14a60977e5a39c6d08cbdb4f98c49",
+      "author": "Copilot",
+      "message": "fix: validate GHPRMERGE_MIN_GROUP_SIZE is positive integer and clarify flag extraction",
+      "timestamp": "2026-07-11T12:33:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/ed0fbe9c07b14a60977e5a39c6d08cbdb4f98c49",
+      "is_merge": false
+    },
+    {
+      "sha": "de12c33a526771fe9d65535b89fad994b1df037e",
+      "author": "Copilot",
+      "message": "fix: add error checking for GHPRMERGE_MIN_GROUP_SIZE env var parsing",
+      "timestamp": "2026-07-11T12:32:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/de12c33a526771fe9d65535b89fad994b1df037e",
+      "is_merge": false
+    },
+    {
+      "sha": "abc3367531fbcb9c92545729a40fc15afa1ea9ac",
+      "author": "Copilot",
+      "message": "feat: add --author flag and GHPRMERGE_AUTHOR/GHPRMERGE_MIN_GROUP_SIZE env vars with docs updates",
+      "timestamp": "2026-07-11T12:31:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/abc3367531fbcb9c92545729a40fc15afa1ea9ac",
+      "is_merge": false
+    },
+    {
+      "sha": "f6b272a2c874beb7917ce93e3df1d4d6a4716ae6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #73 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.0\n\nchore(deps): bump github/codeql-action/upload-sarif from 4.36.3 to 4.37.0",
+      "timestamp": "2026-07-11T12:10:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/f6b272a2c874beb7917ce93e3df1d4d6a4716ae6",
+      "is_merge": true
+    },
+    {
+      "sha": "002fc6d1aaedaf6abfdeda713d9344c5fda01785",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #72 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.3.2\n\nchore(deps): bump astral-sh/setup-uv from 8.2.0 to 8.3.2",
+      "timestamp": "2026-07-11T12:04:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/002fc6d1aaedaf6abfdeda713d9344c5fda01785",
+      "is_merge": true
+    },
+    {
+      "sha": "fe6cffe8e128fed4e953bfa4c203c92c3b5040ed",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action/upload-sarif\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-11T10:06:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/fe6cffe8e128fed4e953bfa4c203c92c3b5040ed",
+      "is_merge": false
+    },
+    {
+      "sha": "1d0fe1243a0771a4ca903ab026cc6eee52e1cbc8",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 8.2.0 to 8.3.2\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.2.0 to 8.3.2.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/fac544c07dec837d0ccb6301d7b5580bf5edae39...11f9893b081a58869d3b5fccaea48c9e9e46f990)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.3.2\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-11T10:05:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/1d0fe1243a0771a4ca903ab026cc6eee52e1cbc8",
+      "is_merge": false
+    },
+    {
       "sha": "68fddff18ea9e5f23588d60d25b31e6145493ef6",
       "author": "JaredHatfield",
       "message": "Merge pull request #71 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to v1.26.5",

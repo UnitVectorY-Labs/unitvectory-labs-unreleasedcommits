@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-22T22:26:01Z",
   "unreleased_commits": [
     {
+      "sha": "90df2d62c4d94293e767804e144cc588d09b806b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #206 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.0\n\nBump github/codeql-action/upload-sarif from 4.36.3 to 4.37.0",
+      "timestamp": "2026-07-11T12:06:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/90df2d62c4d94293e767804e144cc588d09b806b",
+      "is_merge": true
+    },
+    {
+      "sha": "e2b9dec3b6e24da56675caca0aebdea712f9c2a5",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action/upload-sarif from 4.36.3 to 4.37.0\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.36.3 to 4.37.0.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/54f647b7e1bb85c95cddabcd46b0c578ec92bc1a...99df26d4f13ea111d4ec1a7dddef6063f76b97e9)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-11T12:01:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/e2b9dec3b6e24da56675caca0aebdea712f9c2a5",
+      "is_merge": false
+    },
+    {
+      "sha": "d1dcf18ba3b47b340b0048d77d9528db0fcf5f48",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #204 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.3.2\n\nBump astral-sh/setup-uv from 8.2.0 to 8.3.2",
+      "timestamp": "2026-07-11T11:59:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/d1dcf18ba3b47b340b0048d77d9528db0fcf5f48",
+      "is_merge": true
+    },
+    {
+      "sha": "4e89f143e9cadc0662dd17981ed06188f6cdf184",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 8.2.0 to 8.3.2\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.2.0 to 8.3.2.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/fac544c07dec837d0ccb6301d7b5580bf5edae39...11f9893b081a58869d3b5fccaea48c9e9e46f990)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.3.2\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-11T10:02:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/4e89f143e9cadc0662dd17981ed06188f6cdf184",
+      "is_merge": false
+    },
+    {
       "sha": "6b85092d4dbfdf850b2cc177d466ba6fa7df50ee",
       "author": "JaredHatfield",
       "message": "Merge pull request #203 from UnitVectorY-Labs/fix/codeql-v4.36.3\n\nfix: bump github/codeql-action from v4.36.2 to v4.36.3",

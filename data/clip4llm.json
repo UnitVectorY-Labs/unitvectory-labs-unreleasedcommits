@@ -6,6 +6,54 @@
   "latest_release_time": "2026-05-23T23:31:43Z",
   "unreleased_commits": [
     {
+      "sha": "4fc0a6853f020e46f44dd81b8e472b61f1cb8297",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #96 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",
+      "timestamp": "2026-07-11T17:57:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/4fc0a6853f020e46f44dd81b8e472b61f1cb8297",
+      "is_merge": true
+    },
+    {
+      "sha": "175e5f6c87b3e4cb4794d8d429c41a251c38da84",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.0",
+      "timestamp": "2026-07-11T13:31:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/175e5f6c87b3e4cb4794d8d429c41a251c38da84",
+      "is_merge": false
+    },
+    {
+      "sha": "fa825a51c90c0b3110f80a44d15ea203b2da5873",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #95 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.0\n\nbuild(deps): bump github/codeql-action/upload-sarif from 4.36.3 to 4.37.0",
+      "timestamp": "2026-07-11T12:07:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/fa825a51c90c0b3110f80a44d15ea203b2da5873",
+      "is_merge": true
+    },
+    {
+      "sha": "626e76c4910a310cfca4854b8e4c83d06a40b715",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #93 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.3.2\n\nbuild(deps): bump astral-sh/setup-uv from 8.2.0 to 8.3.2",
+      "timestamp": "2026-07-11T12:00:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/626e76c4910a310cfca4854b8e4c83d06a40b715",
+      "is_merge": true
+    },
+    {
+      "sha": "0541651341e95352d833c513237e772cf37c8b57",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.36.3 to 4.37.0.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/54f647b7e1bb85c95cddabcd46b0c578ec92bc1a...99df26d4f13ea111d4ec1a7dddef6063f76b97e9)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-11T10:07:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/0541651341e95352d833c513237e772cf37c8b57",
+      "is_merge": false
+    },
+    {
+      "sha": "bcd57b52e5ad633e781787595763000613bf7431",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 8.2.0 to 8.3.2\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.2.0 to 8.3.2.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/fac544c07dec837d0ccb6301d7b5580bf5edae39...11f9893b081a58869d3b5fccaea48c9e9e46f990)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.3.2\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-11T10:05:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/bcd57b52e5ad633e781787595763000613bf7431",
+      "is_merge": false
+    },
+    {
       "sha": "e58ae696f9113c22d0c8e21f2512025fd307d6e7",
       "author": "JaredHatfield",
       "message": "Merge pull request #91 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to v1.26.5",

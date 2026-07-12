@@ -6,6 +6,38 @@
   "latest_release_time": "2026-05-24T00:42:30Z",
   "unreleased_commits": [
     {
+      "sha": "238ddac0c80cfea297076f04fd548d4be1636988",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #74 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.0\n\nbuild(deps): bump github/codeql-action/upload-sarif from 4.36.3 to 4.37.0",
+      "timestamp": "2026-07-11T12:09:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/238ddac0c80cfea297076f04fd548d4be1636988",
+      "is_merge": true
+    },
+    {
+      "sha": "78d5774d34d229523949e416442b27318f547542",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #73 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.3.2\n\nbuild(deps): bump astral-sh/setup-uv from 8.2.0 to 8.3.2",
+      "timestamp": "2026-07-11T12:03:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/78d5774d34d229523949e416442b27318f547542",
+      "is_merge": true
+    },
+    {
+      "sha": "7fe23439dcbb138cf877a9cf990cf13d04e92132",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.36.3 to 4.37.0.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/54f647b7e1bb85c95cddabcd46b0c578ec92bc1a...99df26d4f13ea111d4ec1a7dddef6063f76b97e9)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-11T10:09:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/7fe23439dcbb138cf877a9cf990cf13d04e92132",
+      "is_merge": false
+    },
+    {
+      "sha": "e698bae3f29c112ef4f05fa129a88d1a52911707",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 8.2.0 to 8.3.2\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.2.0 to 8.3.2.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/fac544c07dec837d0ccb6301d7b5580bf5edae39...11f9893b081a58869d3b5fccaea48c9e9e46f990)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.3.2\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-11T10:08:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/e698bae3f29c112ef4f05fa129a88d1a52911707",
+      "is_merge": false
+    },
+    {
       "sha": "c65e21f3c64be317466e48342fe4c6cf0a50aa7b",
       "author": "JaredHatfield",
       "message": "Merge pull request #72 from UnitVectorY-Labs/repver/go-v1.26.5\n\nUpdate Go version to v1.26.5",
