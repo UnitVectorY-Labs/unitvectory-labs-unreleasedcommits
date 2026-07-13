@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-23T10:57:11Z",
   "unreleased_commits": [
     {
+      "sha": "e0ea921f0a1cf64bbad166389bcabf57ba568bf0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #124 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",
+      "timestamp": "2026-07-12T09:30:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/e0ea921f0a1cf64bbad166389bcabf57ba568bf0",
+      "is_merge": true
+    },
+    {
+      "sha": "f58a9a5ed375c246ad49256e5bcb8fc9201d0239",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.0",
+      "timestamp": "2026-07-11T19:33:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/f58a9a5ed375c246ad49256e5bcb8fc9201d0239",
+      "is_merge": false
+    },
+    {
       "sha": "d292493aaafc3ed4b3245f2e1f26a515147b2a7a",
       "author": "JaredHatfield",
       "message": "Merge pull request #118 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-5.5.0\n\nBump actions/setup-java from 5.4.0 to 5.5.0",

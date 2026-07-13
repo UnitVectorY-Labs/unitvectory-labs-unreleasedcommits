@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:43:20Z",
   "unreleased_commits": [
     {
+      "sha": "a49c2f4d1d01b2c0d46a7795924ee62b5f9cddf2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #147 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",
+      "timestamp": "2026-07-12T09:30:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/a49c2f4d1d01b2c0d46a7795924ee62b5f9cddf2",
+      "is_merge": true
+    },
+    {
+      "sha": "8b4a7d857f6021ac2d448a6eb6f002b479e5e32b",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.0",
+      "timestamp": "2026-07-11T19:58:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/8b4a7d857f6021ac2d448a6eb6f002b479e5e32b",
+      "is_merge": false
+    },
+    {
       "sha": "b26eb8f74fd44eb45ea92bc64cddf01c6a1e347d",
       "author": "JaredHatfield",
       "message": "Merge pull request #145 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.3.2\n\nchore(deps): bump astral-sh/setup-uv from 8.2.0 to 8.3.2",

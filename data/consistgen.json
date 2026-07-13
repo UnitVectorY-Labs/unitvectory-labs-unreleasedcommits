@@ -6,6 +6,22 @@
   "latest_release_time": "2026-07-02T10:52:46Z",
   "unreleased_commits": [
     {
+      "sha": "8d6a177ba387a8be936181beb48ebd3fd650dc6f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #106 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",
+      "timestamp": "2026-07-12T09:30:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/8d6a177ba387a8be936181beb48ebd3fd650dc6f",
+      "is_merge": true
+    },
+    {
+      "sha": "244071199b70859a22d6a10c3f71b414f956478f",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.0",
+      "timestamp": "2026-07-11T19:50:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/244071199b70859a22d6a10c3f71b414f956478f",
+      "is_merge": false
+    },
+    {
       "sha": "2d86adf6122d8011eebdf349e73fa00b1c78d728",
       "author": "JaredHatfield",
       "message": "Merge pull request #105 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-5.5.0\n\nBump actions/setup-java from 5.4.0 to 5.5.0",

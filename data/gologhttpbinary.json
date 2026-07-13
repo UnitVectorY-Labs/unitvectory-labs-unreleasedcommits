@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:47:31Z",
   "unreleased_commits": [
     {
+      "sha": "6ddc466bcb5f1b87cb4f3b9e9af277db1fa22bb5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #106 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",
+      "timestamp": "2026-07-12T09:31:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpbinary/commit/6ddc466bcb5f1b87cb4f3b9e9af277db1fa22bb5",
+      "is_merge": true
+    },
+    {
+      "sha": "e2a8bfd98e9c683015a2d080d56e48b2f06022a2",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.0",
+      "timestamp": "2026-07-11T20:43:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpbinary/commit/e2a8bfd98e9c683015a2d080d56e48b2f06022a2",
+      "is_merge": false
+    },
+    {
       "sha": "8de0f90c243cd55f4e341ac68b0290cc3c855d7c",
       "author": "JaredHatfield",
       "message": "Merge pull request #104 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.3.2\n\nchore(deps): bump astral-sh/setup-uv from 8.2.0 to 8.3.2",

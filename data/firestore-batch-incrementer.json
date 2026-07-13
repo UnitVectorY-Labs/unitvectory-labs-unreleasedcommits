@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:14:27Z",
   "unreleased_commits": [
     {
+      "sha": "2570eb087783e06e6b0d4f0aa4aa09e4483f0462",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #178 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",
+      "timestamp": "2026-07-12T09:32:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/2570eb087783e06e6b0d4f0aa4aa09e4483f0462",
+      "is_merge": true
+    },
+    {
+      "sha": "30354e27755f7971b78f20d8c8835ac357d531c4",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.0",
+      "timestamp": "2026-07-11T21:54:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/30354e27755f7971b78f20d8c8835ac357d531c4",
+      "is_merge": false
+    },
+    {
       "sha": "b854d29cb53807e03cffee3881cc65fdfd69cb5f",
       "author": "JaredHatfield",
       "message": "Merge pull request #173 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.287.1\n\nchore(deps): bump google.golang.org/api from 0.287.0 to 0.287.1",

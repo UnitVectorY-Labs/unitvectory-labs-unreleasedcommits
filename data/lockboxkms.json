@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:28:39Z",
   "unreleased_commits": [
     {
+      "sha": "779dd234857ec48a4f1261daf2f5cf9778b485b7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #205 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",
+      "timestamp": "2026-07-12T09:31:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/779dd234857ec48a4f1261daf2f5cf9778b485b7",
+      "is_merge": true
+    },
+    {
+      "sha": "b89990c13b6634cb9c737b35724a0ad15be8c77a",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.0",
+      "timestamp": "2026-07-11T20:08:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/b89990c13b6634cb9c737b35724a0ad15be8c77a",
+      "is_merge": false
+    },
+    {
       "sha": "b8ce48446d0a0641945e201d37863b341aa8a1e7",
       "author": "JaredHatfield",
       "message": "Merge pull request #200 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.287.1\n\nchore(deps): bump google.golang.org/api from 0.287.0 to 0.287.1",

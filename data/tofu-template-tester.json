@@ -6,6 +6,22 @@
   "latest_release_time": "2026-05-24T00:42:30Z",
   "unreleased_commits": [
     {
+      "sha": "56d819da7db880467ee8555b444c2607abd0f3c5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #77 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",
+      "timestamp": "2026-07-12T09:32:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/56d819da7db880467ee8555b444c2607abd0f3c5",
+      "is_merge": true
+    },
+    {
+      "sha": "3d9d8163988e7e9e756ebbc6e87314d3e3c77606",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.0",
+      "timestamp": "2026-07-11T22:13:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/3d9d8163988e7e9e756ebbc6e87314d3e3c77606",
+      "is_merge": false
+    },
+    {
       "sha": "238ddac0c80cfea297076f04fd548d4be1636988",
       "author": "JaredHatfield",
       "message": "Merge pull request #74 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.0\n\nbuild(deps): bump github/codeql-action/upload-sarif from 4.36.3 to 4.37.0",

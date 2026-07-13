@@ -6,6 +6,22 @@
   "latest_release_time": "2026-02-28T22:33:35Z",
   "unreleased_commits": [
     {
+      "sha": "fdeae872107c6938c6ccc6d56513f401940b5432",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #66 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",
+      "timestamp": "2026-07-12T09:31:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/fdeae872107c6938c6ccc6d56513f401940b5432",
+      "is_merge": true
+    },
+    {
+      "sha": "9b510ecdd9e280f3fcd6de1ef0faf9e4dbe9de2d",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.0",
+      "timestamp": "2026-07-11T21:19:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/9b510ecdd9e280f3fcd6de1ef0faf9e4dbe9de2d",
+      "is_merge": false
+    },
+    {
       "sha": "ac2fcac0792aedab5444cfb07e9cd85e0beff736",
       "author": "JaredHatfield",
       "message": "Merge pull request #63 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.0\n\nBump github/codeql-action/upload-sarif from 4.36.3 to 4.37.0",
