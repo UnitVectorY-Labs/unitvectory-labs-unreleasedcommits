@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-22T22:22:29Z",
   "unreleased_commits": [
     {
+      "sha": "bc8f51bf69b34f345ed143ad5c0edc1378db4a2b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #215 from UnitVectorY-Labs/dependabot/maven/com.google.cloud-google-cloud-firestore-3.44.0\n\nBump com.google.cloud:google-cloud-firestore from 3.43.1 to 3.44.0",
+      "timestamp": "2026-07-15T00:27:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/bc8f51bf69b34f345ed143ad5c0edc1378db4a2b",
+      "is_merge": true
+    },
+    {
+      "sha": "3af833e89398d336b046140e27ab4247d07e8529",
+      "author": "dependabot[bot]",
+      "message": "Bump com.google.cloud:google-cloud-firestore from 3.43.1 to 3.44.0\n\nBumps [com.google.cloud:google-cloud-firestore](https://github.com/googleapis/google-cloud-java) from 3.43.1 to 3.44.0.\n- [Release notes](https://github.com/googleapis/google-cloud-java/releases)\n- [Changelog](https://github.com/googleapis/google-cloud-java/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/googleapis/google-cloud-java/commits)\n\n---\nupdated-dependencies:\n- dependency-name: com.google.cloud:google-cloud-firestore\n  dependency-version: 3.44.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-15T00:25:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/3af833e89398d336b046140e27ab4247d07e8529",
+      "is_merge": false
+    },
+    {
+      "sha": "2e5928ed7e0013f6e879fdf96c798e282eb233ee",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #219 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.0\n\nBump github/codeql-action/upload-sarif from 4.36.3 to 4.37.0",
+      "timestamp": "2026-07-14T22:51:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/2e5928ed7e0013f6e879fdf96c798e282eb233ee",
+      "is_merge": true
+    },
+    {
+      "sha": "90e3fef6cd05b73a485ca23652c84169675dc69b",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action/upload-sarif from 4.36.3 to 4.37.0\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.36.3 to 4.37.0.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/54f647b7e1bb85c95cddabcd46b0c578ec92bc1a...99df26d4f13ea111d4ec1a7dddef6063f76b97e9)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-12T09:35:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/90e3fef6cd05b73a485ca23652c84169675dc69b",
+      "is_merge": false
+    },
+    {
       "sha": "73d7e909a83fcc1e949b1859c32d861639a4dadb",
       "author": "JaredHatfield",
       "message": "Merge pull request #221 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",

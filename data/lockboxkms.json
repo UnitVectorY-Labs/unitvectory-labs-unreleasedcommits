@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:28:39Z",
   "unreleased_commits": [
     {
+      "sha": "0752662729e989302d9c95e841436ed846a0cd5c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #206 from UnitVectorY-Labs/gitrepoforge/lockboxkms\n\ngitrepoforge: apply desired state for lockboxkms",
+      "timestamp": "2026-07-15T01:39:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/0752662729e989302d9c95e841436ed846a0cd5c",
+      "is_merge": true
+    },
+    {
+      "sha": "d20ea72a42a753f05573adeae72c3010c4f76021",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for lockboxkms",
+      "timestamp": "2026-07-15T00:49:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/d20ea72a42a753f05573adeae72c3010c4f76021",
+      "is_merge": false
+    },
+    {
       "sha": "779dd234857ec48a4f1261daf2f5cf9778b485b7",
       "author": "JaredHatfield",
       "message": "Merge pull request #205 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",

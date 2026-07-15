@@ -4,6 +4,39 @@
   "default_branch": "main",
   "latest_release_tag": "v0.5.0",
   "latest_release_time": "2026-07-14T00:19:37Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "1b3b3025a27c2516d23995d243cc738a11fbe4e1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #83 from UnitVectorY-Labs/gitrepoforge/ghprmerge\n\ngitrepoforge: apply desired state for ghprmerge",
+      "timestamp": "2026-07-15T01:40:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/1b3b3025a27c2516d23995d243cc738a11fbe4e1",
+      "is_merge": true
+    },
+    {
+      "sha": "a89c8df88ad642eb80d67aab5d7c9dcc60af2aa4",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for ghprmerge",
+      "timestamp": "2026-07-15T00:48:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/a89c8df88ad642eb80d67aab5d7c9dcc60af2aa4",
+      "is_merge": false
+    },
+    {
+      "sha": "06c70e92f2f28dfd17ec949f2fda301499d1653b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #82 from UnitVectorY-Labs/fix/author-flag-dependabot-login\n\nfix: correct --author flag example to use dependabot[bot] login",
+      "timestamp": "2026-07-14T22:49:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/06c70e92f2f28dfd17ec949f2fda301499d1653b",
+      "is_merge": true
+    },
+    {
+      "sha": "66fe8c8ffa9cc8697ea709aa54af14ad8633dcbb",
+      "author": "JaredHatfield",
+      "message": "fix: correct --author flag example to use dependabot[bot] login\n\nThe --author flag uses exact string matching against the GitHub API\nuser.login field. For Dependabot PRs, the API returns dependabot[bot],\nnot app/dependabot. The previous documentation and flag help incorrectly\nused app/dependabot, causing --author app/dependabot to match zero PRs.\n\nUpdated flag help text and all documentation to use the correct\ndependabot[bot] login.",
+      "timestamp": "2026-07-14T22:47:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/66fe8c8ffa9cc8697ea709aa54af14ad8633dcbb",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/ghprmerge"
 }

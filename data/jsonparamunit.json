@@ -6,6 +6,38 @@
   "latest_release_time": "2025-12-06T19:45:33Z",
   "unreleased_commits": [
     {
+      "sha": "9ce8c70775d73432db98e83b9fb66c8a1f4d0193",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #176 from UnitVectorY-Labs/dependabot/maven/com.fasterxml.jackson.core-jackson-databind-2.22.1\n\nBump com.fasterxml.jackson.core:jackson-databind from 2.22.0 to 2.22.1",
+      "timestamp": "2026-07-15T00:27:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/9ce8c70775d73432db98e83b9fb66c8a1f4d0193",
+      "is_merge": true
+    },
+    {
+      "sha": "f48d55b29f86a7cc3f828c08b3a5b8183b48267e",
+      "author": "dependabot[bot]",
+      "message": "Bump com.fasterxml.jackson.core:jackson-databind from 2.22.0 to 2.22.1\n\nBumps [com.fasterxml.jackson.core:jackson-databind](https://github.com/FasterXML/jackson) from 2.22.0 to 2.22.1.\n- [Commits](https://github.com/FasterXML/jackson/commits)\n\n---\nupdated-dependencies:\n- dependency-name: com.fasterxml.jackson.core:jackson-databind\n  dependency-version: 2.22.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-15T00:25:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/f48d55b29f86a7cc3f828c08b3a5b8183b48267e",
+      "is_merge": false
+    },
+    {
+      "sha": "620b4720abb54b2f8ca3b35e8a1ab114f9d01e4d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #179 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-5.5.0\n\nBump actions/setup-java from 5.4.0 to 5.5.0",
+      "timestamp": "2026-07-14T22:51:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/620b4720abb54b2f8ca3b35e8a1ab114f9d01e4d",
+      "is_merge": true
+    },
+    {
+      "sha": "3006928ddd3a459cbc4c8417f48ceaf1eba2c937",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/setup-java from 5.4.0 to 5.5.0\n\nBumps [actions/setup-java](https://github.com/actions/setup-java) from 5.4.0 to 5.5.0.\n- [Release notes](https://github.com/actions/setup-java/releases)\n- [Commits](https://github.com/actions/setup-java/compare/1bcf9fb12cf4aa7d266a90ae39939e61372fe520...0f481fcb613427c0f801b606911222b5b6f3083a)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-java\n  dependency-version: 5.5.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-12T09:32:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/3006928ddd3a459cbc4c8417f48ceaf1eba2c937",
+      "is_merge": false
+    },
+    {
       "sha": "98b28816d6a497054e83d11cc7c0f8c7a0f93ef9",
       "author": "JaredHatfield",
       "message": "Merge pull request #183 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",

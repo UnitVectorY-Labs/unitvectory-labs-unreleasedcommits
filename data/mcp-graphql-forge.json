@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:49:10Z",
   "unreleased_commits": [
     {
+      "sha": "87ddd5b6c21941cd8229f81b537dcee1e7a51596",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for mcp-graphql-forge (#125)",
+      "timestamp": "2026-07-15T01:30:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/87ddd5b6c21941cd8229f81b537dcee1e7a51596",
+      "is_merge": true
+    },
+    {
+      "sha": "e6b82875b99b8b49447de3da90a2ed5549b90f11",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for mcp-graphql-forge",
+      "timestamp": "2026-07-15T00:49:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/e6b82875b99b8b49447de3da90a2ed5549b90f11",
+      "is_merge": false
+    },
+    {
       "sha": "7b7507d528ee0003290e24df7c34a0e78b0e9d2e",
       "author": "JaredHatfield",
       "message": "Merge pull request #124 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",

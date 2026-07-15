@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:54:11Z",
   "unreleased_commits": [
     {
+      "sha": "86d1fcf3dbb86b7f8d3ce15c18dcf8770024ebdc",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for ghorgsync (#62)",
+      "timestamp": "2026-07-15T01:40:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/86d1fcf3dbb86b7f8d3ce15c18dcf8770024ebdc",
+      "is_merge": true
+    },
+    {
+      "sha": "cd7a7404bfef74cc5d5270058e0e9ac982b43392",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for ghorgsync",
+      "timestamp": "2026-07-15T00:48:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/cd7a7404bfef74cc5d5270058e0e9ac982b43392",
+      "is_merge": false
+    },
+    {
       "sha": "7afa39999cd351b6afbc2992f689a766e9ed57ec",
       "author": "JaredHatfield",
       "message": "Merge pull request #61 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",

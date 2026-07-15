@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:26:01Z",
   "unreleased_commits": [
     {
+      "sha": "8b82dcfb360abddb14a798e4d16ed884a2e822a0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #207 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-5.5.0\n\nBump actions/setup-java from 5.4.0 to 5.5.0",
+      "timestamp": "2026-07-14T22:51:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/8b82dcfb360abddb14a798e4d16ed884a2e822a0",
+      "is_merge": true
+    },
+    {
+      "sha": "2eb3a484d37aebe9cda08a55e5b4b38b76f7adde",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/setup-java from 5.4.0 to 5.5.0\n\nBumps [actions/setup-java](https://github.com/actions/setup-java) from 5.4.0 to 5.5.0.\n- [Release notes](https://github.com/actions/setup-java/releases)\n- [Commits](https://github.com/actions/setup-java/compare/1bcf9fb12cf4aa7d266a90ae39939e61372fe520...0f481fcb613427c0f801b606911222b5b6f3083a)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-java\n  dependency-version: 5.5.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-12T09:33:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/2eb3a484d37aebe9cda08a55e5b4b38b76f7adde",
+      "is_merge": false
+    },
+    {
       "sha": "fec147a8267166cd141a4b76052bf97d6c1a5aa8",
       "author": "JaredHatfield",
       "message": "Merge pull request #210 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",

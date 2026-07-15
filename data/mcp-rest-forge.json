@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:51:56Z",
   "unreleased_commits": [
     {
+      "sha": "6146a3ea7470e667e26ace2ef307dc0f233a725a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #62 from UnitVectorY-Labs/gitrepoforge/mcp-rest-forge\n\ngitrepoforge: apply desired state for mcp-rest-forge",
+      "timestamp": "2026-07-15T01:30:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/6146a3ea7470e667e26ace2ef307dc0f233a725a",
+      "is_merge": true
+    },
+    {
+      "sha": "881165b059b832dc3b305e51c0aa62ddc1145960",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for mcp-rest-forge",
+      "timestamp": "2026-07-15T00:49:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/881165b059b832dc3b305e51c0aa62ddc1145960",
+      "is_merge": false
+    },
+    {
       "sha": "9cbc2c404b519c1d50612456f02a03b7a23e9b90",
       "author": "JaredHatfield",
       "message": "Merge pull request #61 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",

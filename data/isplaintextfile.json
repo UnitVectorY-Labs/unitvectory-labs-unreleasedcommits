@@ -6,6 +6,22 @@
   "latest_release_time": "2026-02-28T22:33:35Z",
   "unreleased_commits": [
     {
+      "sha": "07b086ef3901387ea62ceb8fa53e787856884dc0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #67 from UnitVectorY-Labs/gitrepoforge/isplaintextfile\n\ngitrepoforge: apply desired state for isplaintextfile",
+      "timestamp": "2026-07-15T01:39:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/07b086ef3901387ea62ceb8fa53e787856884dc0",
+      "is_merge": true
+    },
+    {
+      "sha": "81640c4e1602fc2106749019a59553b9349391cf",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for isplaintextfile",
+      "timestamp": "2026-07-15T00:49:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/81640c4e1602fc2106749019a59553b9349391cf",
+      "is_merge": false
+    },
+    {
       "sha": "fdeae872107c6938c6ccc6d56513f401940b5432",
       "author": "JaredHatfield",
       "message": "Merge pull request #66 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",

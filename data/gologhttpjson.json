@@ -6,6 +6,22 @@
   "latest_release_time": "2026-05-22T00:31:14Z",
   "unreleased_commits": [
     {
+      "sha": "64c6174545c89b0352e23c519750b040382c3c0c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #86 from UnitVectorY-Labs/gitrepoforge/gologhttpjson\n\ngitrepoforge: apply desired state for gologhttpjson",
+      "timestamp": "2026-07-15T01:40:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/64c6174545c89b0352e23c519750b040382c3c0c",
+      "is_merge": true
+    },
+    {
+      "sha": "53b982de83196d97db5a555056d276b13e0596fe",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for gologhttpjson",
+      "timestamp": "2026-07-15T00:49:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/53b982de83196d97db5a555056d276b13e0596fe",
+      "is_merge": false
+    },
+    {
       "sha": "89a480b2a9836dbeffd622b0f092558237224694",
       "author": "JaredHatfield",
       "message": "Merge pull request #85 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",

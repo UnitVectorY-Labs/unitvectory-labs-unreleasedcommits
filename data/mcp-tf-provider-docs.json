@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:52:34Z",
   "unreleased_commits": [
     {
+      "sha": "c0db1b0e70f9f41c33938713f26851c038420d38",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #105 from UnitVectorY-Labs/gitrepoforge/mcp-tf-provider-docs\n\ngitrepoforge: apply desired state for mcp-tf-provider-docs",
+      "timestamp": "2026-07-15T01:29:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/c0db1b0e70f9f41c33938713f26851c038420d38",
+      "is_merge": true
+    },
+    {
+      "sha": "3f73b9f1f53db7129cfdfe0715ba5d2a01f34193",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for mcp-tf-provider-docs",
+      "timestamp": "2026-07-15T00:49:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/3f73b9f1f53db7129cfdfe0715ba5d2a01f34193",
+      "is_merge": false
+    },
+    {
       "sha": "f780f0ed73516c82fa9df10295adf948a194b387",
       "author": "JaredHatfield",
       "message": "Merge pull request #104 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",

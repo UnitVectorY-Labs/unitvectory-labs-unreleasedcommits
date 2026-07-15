@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-27T19:52:48Z",
   "unreleased_commits": [
     {
+      "sha": "577bc3ad1003e6b694e6d47da158012bb92bf774",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #34 from UnitVectorY-Labs/gitrepoforge/localmodelproxy\n\ngitrepoforge: apply desired state for localmodelproxy",
+      "timestamp": "2026-07-15T01:39:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/577bc3ad1003e6b694e6d47da158012bb92bf774",
+      "is_merge": true
+    },
+    {
+      "sha": "c37560fd7501e481c9233a1a31e7d6f49d24977b",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for localmodelproxy",
+      "timestamp": "2026-07-15T00:49:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/c37560fd7501e481c9233a1a31e7d6f49d24977b",
+      "is_merge": false
+    },
+    {
       "sha": "36de56b9b5a6be5fef0ae6a0daf24b3271c0ba1b",
       "author": "JaredHatfield",
       "message": "Merge pull request #33 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",

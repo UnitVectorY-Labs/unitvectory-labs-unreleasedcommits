@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:49:50Z",
   "unreleased_commits": [
     {
+      "sha": "d8dabbb2581193cf9a5c3ec5aa6637805ca41d12",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for YAMLtecture (#130)",
+      "timestamp": "2026-07-15T01:41:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/d8dabbb2581193cf9a5c3ec5aa6637805ca41d12",
+      "is_merge": true
+    },
+    {
+      "sha": "4ffb7e97e905ea209fee5031385db22ea94cc4ee",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for YAMLtecture",
+      "timestamp": "2026-07-15T00:48:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/4ffb7e97e905ea209fee5031385db22ea94cc4ee",
+      "is_merge": false
+    },
+    {
       "sha": "ebb4f105a40dd2a20d8f3baa347026c045e0894c",
       "author": "JaredHatfield",
       "message": "Merge pull request #129 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",

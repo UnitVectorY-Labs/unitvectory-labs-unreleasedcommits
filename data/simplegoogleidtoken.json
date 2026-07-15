@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-22T22:44:58Z",
   "unreleased_commits": [
     {
+      "sha": "98c9dd492332385cf31a39d2cf25086fc6533dc8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #146 from UnitVectorY-Labs/dependabot/maven/com.google.auth-google-auth-library-oauth2-http-1.49.0\n\nBump com.google.auth:google-auth-library-oauth2-http from 1.48.0 to 1.49.0",
+      "timestamp": "2026-07-15T00:27:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/98c9dd492332385cf31a39d2cf25086fc6533dc8",
+      "is_merge": true
+    },
+    {
+      "sha": "f2070b9ca564ef592d2019519e632c77a2eb3ceb",
+      "author": "dependabot[bot]",
+      "message": "Bump com.google.auth:google-auth-library-oauth2-http\n\nBumps com.google.auth:google-auth-library-oauth2-http from 1.48.0 to 1.49.0.\n\n---\nupdated-dependencies:\n- dependency-name: com.google.auth:google-auth-library-oauth2-http\n  dependency-version: 1.49.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-15T00:25:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/f2070b9ca564ef592d2019519e632c77a2eb3ceb",
+      "is_merge": false
+    },
+    {
+      "sha": "7f978f6bf8e83d1e4c07e14004121f05e23b1764",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #150 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.0\n\nBump github/codeql-action/upload-sarif from 4.36.3 to 4.37.0",
+      "timestamp": "2026-07-14T22:51:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/7f978f6bf8e83d1e4c07e14004121f05e23b1764",
+      "is_merge": true
+    },
+    {
+      "sha": "d62b69cf139eaf7cc905c7448a69017d801e7876",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action/upload-sarif from 4.36.3 to 4.37.0\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.36.3 to 4.37.0.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/54f647b7e1bb85c95cddabcd46b0c578ec92bc1a...99df26d4f13ea111d4ec1a7dddef6063f76b97e9)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-12T09:32:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/d62b69cf139eaf7cc905c7448a69017d801e7876",
+      "is_merge": false
+    },
+    {
       "sha": "4c7ba70b913aadf327b123ee92f82f4d50f67acf",
       "author": "JaredHatfield",
       "message": "Merge pull request #153 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",

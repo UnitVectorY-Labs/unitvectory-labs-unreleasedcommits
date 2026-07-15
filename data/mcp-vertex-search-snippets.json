@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:53:03Z",
   "unreleased_commits": [
     {
+      "sha": "9414fccbc91035271428ae18091fa909bedd5f46",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for mcp-vertex-search-snippets (#103)",
+      "timestamp": "2026-07-15T01:29:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/9414fccbc91035271428ae18091fa909bedd5f46",
+      "is_merge": true
+    },
+    {
+      "sha": "263cceb8d899240704ded8cd03dfde5c002b07b3",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for mcp-vertex-search-snippets",
+      "timestamp": "2026-07-15T00:49:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/263cceb8d899240704ded8cd03dfde5c002b07b3",
+      "is_merge": false
+    },
+    {
       "sha": "bc8b996905177048a87989edbab59a2725719296",
       "author": "JaredHatfield",
       "message": "Merge pull request #102 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",

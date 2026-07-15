@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:14:27Z",
   "unreleased_commits": [
     {
+      "sha": "b30ca0e209974054f644ea6aace621efa64545c3",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #179 from UnitVectorY-Labs/gitrepoforge/firestore-batch-incrementer\n\ngitrepoforge: apply desired state for firestore-batch-incrementer",
+      "timestamp": "2026-07-15T01:40:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/b30ca0e209974054f644ea6aace621efa64545c3",
+      "is_merge": true
+    },
+    {
+      "sha": "d2071830959657ae144ad3981804dd42181f55bf",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for firestore-batch-incrementer",
+      "timestamp": "2026-07-15T00:48:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/d2071830959657ae144ad3981804dd42181f55bf",
+      "is_merge": false
+    },
+    {
       "sha": "2570eb087783e06e6b0d4f0aa4aa09e4483f0462",
       "author": "JaredHatfield",
       "message": "Merge pull request #178 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",

@@ -6,6 +6,22 @@
   "latest_release_time": "2026-05-23T23:28:58Z",
   "unreleased_commits": [
     {
+      "sha": "0d2498bc24089f13f76b2a5b59bcdeee1c7ca4dc",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #77 from UnitVectorY-Labs/gitrepoforge/prompt2json\n\ngitrepoforge: apply desired state for prompt2json",
+      "timestamp": "2026-07-15T01:29:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/0d2498bc24089f13f76b2a5b59bcdeee1c7ca4dc",
+      "is_merge": true
+    },
+    {
+      "sha": "956bc7f8573c0c4919f70511bc1726fc531c07ab",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for prompt2json",
+      "timestamp": "2026-07-15T00:49:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/956bc7f8573c0c4919f70511bc1726fc531c07ab",
+      "is_merge": false
+    },
+    {
       "sha": "52fcb42ab44fa2d26400b91b041ca8f8e8006632",
       "author": "JaredHatfield",
       "message": "Merge pull request #76 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",

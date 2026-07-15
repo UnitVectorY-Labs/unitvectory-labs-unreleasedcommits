@@ -6,6 +6,22 @@
   "latest_release_time": "2026-05-23T23:29:22Z",
   "unreleased_commits": [
     {
+      "sha": "c7750298a32e27cccd7a6f4542000857fe7f4465",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #86 from UnitVectorY-Labs/gitrepoforge/repver\n\ngitrepoforge: apply desired state for repver",
+      "timestamp": "2026-07-15T01:29:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/c7750298a32e27cccd7a6f4542000857fe7f4465",
+      "is_merge": true
+    },
+    {
+      "sha": "d94af776a714df2bd6205412af958d0ebd93a2ec",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for repver",
+      "timestamp": "2026-07-15T00:49:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/d94af776a714df2bd6205412af958d0ebd93a2ec",
+      "is_merge": false
+    },
+    {
       "sha": "26dd8a7bbc51839320766edc6ad06bf906bd7c34",
       "author": "JaredHatfield",
       "message": "Merge pull request #85 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",

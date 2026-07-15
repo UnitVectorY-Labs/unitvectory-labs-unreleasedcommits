@@ -6,6 +6,22 @@
   "latest_release_time": "2026-05-23T23:32:07Z",
   "unreleased_commits": [
     {
+      "sha": "024829a9529296a44a4df439cbc428f5113eb10b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #62 from UnitVectorY-Labs/gitrepoforge/bulkfilepr\n\ngitrepoforge: apply desired state for bulkfilepr",
+      "timestamp": "2026-07-15T01:40:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/024829a9529296a44a4df439cbc428f5113eb10b",
+      "is_merge": true
+    },
+    {
+      "sha": "9eba9c29c2d1eac06146dd9ec9c259e635de66d9",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for bulkfilepr",
+      "timestamp": "2026-07-15T00:48:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/9eba9c29c2d1eac06146dd9ec9c259e635de66d9",
+      "is_merge": false
+    },
+    {
       "sha": "835420835498d5fdeeb0961b10d3da2f7f7d2b14",
       "author": "JaredHatfield",
       "message": "Merge pull request #61 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",

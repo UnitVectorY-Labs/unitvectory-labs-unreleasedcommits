@@ -6,6 +6,22 @@
   "latest_release_time": "2026-05-24T00:42:30Z",
   "unreleased_commits": [
     {
+      "sha": "fa9b4e5b651a0764302098da88e506d136db462a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #78 from UnitVectorY-Labs/gitrepoforge/tofu-template-tester\n\ngitrepoforge: apply desired state for tofu-template-tester",
+      "timestamp": "2026-07-15T01:29:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/fa9b4e5b651a0764302098da88e506d136db462a",
+      "is_merge": true
+    },
+    {
+      "sha": "ec9715a9ea1fbebd29bebc7fc69cfe7d415297e9",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for tofu-template-tester",
+      "timestamp": "2026-07-15T00:49:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/ec9715a9ea1fbebd29bebc7fc69cfe7d415297e9",
+      "is_merge": false
+    },
+    {
       "sha": "56d819da7db880467ee8555b444c2607abd0f3c5",
       "author": "JaredHatfield",
       "message": "Merge pull request #77 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",

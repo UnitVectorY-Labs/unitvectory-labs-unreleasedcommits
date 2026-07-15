@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-10T07:40:04Z",
   "unreleased_commits": [
     {
+      "sha": "4efa06eb2a8ec5069f1bed02a9e24f9aafd9ec33",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for gogitup (#52)",
+      "timestamp": "2026-07-15T01:40:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/4efa06eb2a8ec5069f1bed02a9e24f9aafd9ec33",
+      "is_merge": true
+    },
+    {
+      "sha": "0ffa72db53c6f057bddd3119c50eb132d660bce8",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for gogitup",
+      "timestamp": "2026-07-15T00:49:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/0ffa72db53c6f057bddd3119c50eb132d660bce8",
+      "is_merge": false
+    },
+    {
       "sha": "23515969b75ac2f4da27e9fdc11f15adb4df3d4c",
       "author": "JaredHatfield",
       "message": "Merge pull request #51 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",

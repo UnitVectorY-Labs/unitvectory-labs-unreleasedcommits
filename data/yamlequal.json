@@ -6,6 +6,22 @@
   "latest_release_time": "2026-02-28T22:30:45Z",
   "unreleased_commits": [
     {
+      "sha": "cddd07c049ba36916e8fa5e60b68d1ea2fc8710c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #65 from UnitVectorY-Labs/gitrepoforge/yamlequal\n\ngitrepoforge: apply desired state for yamlequal",
+      "timestamp": "2026-07-15T01:29:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/cddd07c049ba36916e8fa5e60b68d1ea2fc8710c",
+      "is_merge": true
+    },
+    {
+      "sha": "3d2a19073ce65ce0a043b96a7af232b02fef618b",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for yamlequal",
+      "timestamp": "2026-07-15T00:50:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/3d2a19073ce65ce0a043b96a7af232b02fef618b",
+      "is_merge": false
+    },
+    {
       "sha": "96a320b46c3956ad0c171c1c23ecc2883674c537",
       "author": "JaredHatfield",
       "message": "Merge pull request #64 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",

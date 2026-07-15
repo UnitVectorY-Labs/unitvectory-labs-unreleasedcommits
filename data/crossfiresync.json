@@ -6,6 +6,54 @@
   "latest_release_time": "2026-06-22T22:18:06Z",
   "unreleased_commits": [
     {
+      "sha": "1703e687076dae0d6a2cb6f86b5c00bcf2df83d6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #210 from UnitVectorY-Labs/dependabot/maven/com.google.cloud-libraries-bom-26.85.0\n\nBump com.google.cloud:libraries-bom from 26.84.0 to 26.85.0",
+      "timestamp": "2026-07-15T00:28:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/1703e687076dae0d6a2cb6f86b5c00bcf2df83d6",
+      "is_merge": true
+    },
+    {
+      "sha": "75db53851213d2209e38703550317be32eb1dbd7",
+      "author": "dependabot[bot]",
+      "message": "Bump com.google.cloud:libraries-bom from 26.84.0 to 26.85.0\n\nBumps [com.google.cloud:libraries-bom](https://github.com/googleapis/google-cloud-java) from 26.84.0 to 26.85.0.\n- [Release notes](https://github.com/googleapis/google-cloud-java/releases)\n- [Changelog](https://github.com/googleapis/google-cloud-java/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/googleapis/google-cloud-java/commits/libraries-bom/v26.85.0)\n\n---\nupdated-dependencies:\n- dependency-name: com.google.cloud:libraries-bom\n  dependency-version: 26.85.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-15T00:25:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/75db53851213d2209e38703550317be32eb1dbd7",
+      "is_merge": false
+    },
+    {
+      "sha": "6119d3765c2b41dfd0516d226e7127ddcc8fb9df",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #212 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.0\n\nBump github/codeql-action/upload-sarif from 4.36.3 to 4.37.0",
+      "timestamp": "2026-07-15T00:23:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/6119d3765c2b41dfd0516d226e7127ddcc8fb9df",
+      "is_merge": true
+    },
+    {
+      "sha": "49c79055e4c58f406dcb787c36e2047b7d1f7eb9",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action/upload-sarif from 4.36.3 to 4.37.0\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.36.3 to 4.37.0.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/54f647b7e1bb85c95cddabcd46b0c578ec92bc1a...99df26d4f13ea111d4ec1a7dddef6063f76b97e9)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-14T22:53:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/49c79055e4c58f406dcb787c36e2047b7d1f7eb9",
+      "is_merge": false
+    },
+    {
+      "sha": "29890c8b9ea6d01aa22622956a2de5bd8de83c3f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #214 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-5.5.0\n\nBump actions/setup-java from 5.4.0 to 5.5.0",
+      "timestamp": "2026-07-14T22:51:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/29890c8b9ea6d01aa22622956a2de5bd8de83c3f",
+      "is_merge": true
+    },
+    {
+      "sha": "2f62baa70669f657c39dab07acd49f5725fdc057",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/setup-java from 5.4.0 to 5.5.0\n\nBumps [actions/setup-java](https://github.com/actions/setup-java) from 5.4.0 to 5.5.0.\n- [Release notes](https://github.com/actions/setup-java/releases)\n- [Commits](https://github.com/actions/setup-java/compare/1bcf9fb12cf4aa7d266a90ae39939e61372fe520...0f481fcb613427c0f801b606911222b5b6f3083a)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-java\n  dependency-version: 5.5.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-11T17:59:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/2f62baa70669f657c39dab07acd49f5725fdc057",
+      "is_merge": false
+    },
+    {
       "sha": "dbb94a37a88c00b127d1b4edb012062ddfbb88ca",
       "author": "JaredHatfield",
       "message": "Merge pull request #216 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",

@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-03T10:38:18Z",
   "unreleased_commits": [
     {
+      "sha": "b4cc7f06227c5781dff87fbbc6899cdb572dda4e",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for frontmatterkit (#41)",
+      "timestamp": "2026-07-15T01:40:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/b4cc7f06227c5781dff87fbbc6899cdb572dda4e",
+      "is_merge": true
+    },
+    {
+      "sha": "53a81f6688835102303f2b9d4b365927bad059f6",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for frontmatterkit",
+      "timestamp": "2026-07-15T00:48:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/53a81f6688835102303f2b9d4b365927bad059f6",
+      "is_merge": false
+    },
+    {
       "sha": "da1fed61a1194034d756a14fba14c83160562a08",
       "author": "JaredHatfield",
       "message": "Merge pull request #40 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",

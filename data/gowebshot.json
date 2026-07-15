@@ -6,6 +6,22 @@
   "latest_release_time": "2026-05-23T23:28:42Z",
   "unreleased_commits": [
     {
+      "sha": "f1f952122b2557de1f51399adb2998d800721a44",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for gowebshot (#44)",
+      "timestamp": "2026-07-15T01:40:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/f1f952122b2557de1f51399adb2998d800721a44",
+      "is_merge": true
+    },
+    {
+      "sha": "9a3eb3d13d6f3a20bede15eec8dd68d833d37323",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for gowebshot",
+      "timestamp": "2026-07-15T00:49:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/9a3eb3d13d6f3a20bede15eec8dd68d833d37323",
+      "is_merge": false
+    },
+    {
       "sha": "eec0da0170e7cf14ea1376afa6c241ebe5df2dc1",
       "author": "JaredHatfield",
       "message": "Merge pull request #43 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",
