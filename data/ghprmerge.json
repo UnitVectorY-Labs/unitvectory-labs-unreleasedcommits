@@ -6,6 +6,54 @@
   "latest_release_time": "2026-07-14T00:19:37Z",
   "unreleased_commits": [
     {
+      "sha": "0bab3225ae19c883bdb1988bb29caa8440554372",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #86 from UnitVectorY-Labs/chore/codeql-4.37.1\n\nBump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:53:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/0bab3225ae19c883bdb1988bb29caa8440554372",
+      "is_merge": true
+    },
+    {
+      "sha": "40baf86be2c5f1b256b5e908162f82b150e93964",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:30:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/40baf86be2c5f1b256b5e908162f82b150e93964",
+      "is_merge": false
+    },
+    {
+      "sha": "1e576fa1410a2433ee03550da575e8602f4f14e8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #85 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/term-0.45.0\n\nchore(deps): bump golang.org/x/term from 0.44.0 to 0.45.0",
+      "timestamp": "2026-07-18T14:02:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/1e576fa1410a2433ee03550da575e8602f4f14e8",
+      "is_merge": true
+    },
+    {
+      "sha": "b0a4a5558bd0460830458be547e361d4004fd686",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #84 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.0.0\n\nchore(deps): bump actions/setup-go from 6.5.0 to 7.0.0",
+      "timestamp": "2026-07-18T13:54:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/b0a4a5558bd0460830458be547e361d4004fd686",
+      "is_merge": true
+    },
+    {
+      "sha": "ca7130f5232776a14df6866c04e9150c6f3f2b02",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump golang.org/x/term from 0.44.0 to 0.45.0\n\nBumps [golang.org/x/term](https://github.com/golang/term) from 0.44.0 to 0.45.0.\n- [Commits](https://github.com/golang/term/compare/v0.44.0...v0.45.0)\n\n---\nupdated-dependencies:\n- dependency-name: golang.org/x/term\n  dependency-version: 0.45.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-18T10:08:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/ca7130f5232776a14df6866c04e9150c6f3f2b02",
+      "is_merge": false
+    },
+    {
+      "sha": "a2c9d15b308d2e83797c9a1a7cdc45f717cd3434",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/setup-go from 6.5.0 to 7.0.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.5.0 to 7.0.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/924ae3a1cded613372ab5595356fb5720e22ba16...b7ad1dad31e06c5925ef5d2fc7ad053ef454303e)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-18T10:08:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/a2c9d15b308d2e83797c9a1a7cdc45f717cd3434",
+      "is_merge": false
+    },
+    {
       "sha": "1b3b3025a27c2516d23995d243cc738a11fbe4e1",
       "author": "JaredHatfield",
       "message": "Merge pull request #83 from UnitVectorY-Labs/gitrepoforge/ghprmerge\n\ngitrepoforge: apply desired state for ghprmerge",

@@ -6,6 +6,54 @@
   "latest_release_time": "2026-06-22T22:14:27Z",
   "unreleased_commits": [
     {
+      "sha": "c93f150defac6203d771e9391ab5e879cd18c1c5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #183 from UnitVectorY-Labs/chore/codeql-4.37.1\n\nBump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:52:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/c93f150defac6203d771e9391ab5e879cd18c1c5",
+      "is_merge": true
+    },
+    {
+      "sha": "c4ddebf2ba14baa95344c5df9594ba42ef389422",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:30:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/c4ddebf2ba14baa95344c5df9594ba42ef389422",
+      "is_merge": false
+    },
+    {
+      "sha": "bb5f99343ac576fa1dda171eeb75798273ce45f1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #182 from UnitVectorY-Labs/dependabot/go_modules/cloud.google.com/go/firestore-1.23.0\n\nchore(deps): bump cloud.google.com/go/firestore from 1.22.0 to 1.23.0",
+      "timestamp": "2026-07-18T14:01:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/bb5f99343ac576fa1dda171eeb75798273ce45f1",
+      "is_merge": true
+    },
+    {
+      "sha": "a171bb26b0f8808a14f709ec7c50a7ecc69ac951",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #180 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.0.0\n\nchore(deps): bump actions/setup-go from 6.5.0 to 7.0.0",
+      "timestamp": "2026-07-18T13:53:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/a171bb26b0f8808a14f709ec7c50a7ecc69ac951",
+      "is_merge": true
+    },
+    {
+      "sha": "ff005ded0b867f95ce5e89f2bd1933aeb6e3b949",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump cloud.google.com/go/firestore from 1.22.0 to 1.23.0\n\nBumps [cloud.google.com/go/firestore](https://github.com/googleapis/google-cloud-go) from 1.22.0 to 1.23.0.\n- [Release notes](https://github.com/googleapis/google-cloud-go/releases)\n- [Changelog](https://github.com/googleapis/google-cloud-go/blob/main/documentai/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-cloud-go/compare/dlp/v1.22.0...kms/v1.23.0)\n\n---\nupdated-dependencies:\n- dependency-name: cloud.google.com/go/firestore\n  dependency-version: 1.23.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-18T10:06:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/ff005ded0b867f95ce5e89f2bd1933aeb6e3b949",
+      "is_merge": false
+    },
+    {
+      "sha": "5433c98a26ebe6338e67be4c794eff3cb1a6eb24",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/setup-go from 6.5.0 to 7.0.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.5.0 to 7.0.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/924ae3a1cded613372ab5595356fb5720e22ba16...b7ad1dad31e06c5925ef5d2fc7ad053ef454303e)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-18T10:05:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/5433c98a26ebe6338e67be4c794eff3cb1a6eb24",
+      "is_merge": false
+    },
+    {
       "sha": "b30ca0e209974054f644ea6aace621efa64545c3",
       "author": "JaredHatfield",
       "message": "Merge pull request #179 from UnitVectorY-Labs/gitrepoforge/firestore-batch-incrementer\n\ngitrepoforge: apply desired state for firestore-batch-incrementer",

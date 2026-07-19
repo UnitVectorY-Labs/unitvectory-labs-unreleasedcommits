@@ -6,6 +6,38 @@
   "latest_release_time": "2026-05-22T00:44:26Z",
   "unreleased_commits": [
     {
+      "sha": "6a89f949e5b4fb99336c7ea298a702852ef7779e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #102 from UnitVectorY-Labs/chore/codeql-4.37.1\n\nBump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:51:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/6a89f949e5b4fb99336c7ea298a702852ef7779e",
+      "is_merge": true
+    },
+    {
+      "sha": "1b13bc5d8b43ce76f75cfd32bda138d2e6c8ff0c",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:30:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/1b13bc5d8b43ce76f75cfd32bda138d2e6c8ff0c",
+      "is_merge": false
+    },
+    {
+      "sha": "6b019b5b9aa6479f5bd7f277de6ad93e3a0bee46",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #101 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.0.0\n\nchore(deps): bump actions/setup-go from 6.5.0 to 7.0.0",
+      "timestamp": "2026-07-18T13:52:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/6b019b5b9aa6479f5bd7f277de6ad93e3a0bee46",
+      "is_merge": true
+    },
+    {
+      "sha": "b8e32b110266be9a314953a570fdf15e4050e1e2",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/setup-go from 6.5.0 to 7.0.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.5.0 to 7.0.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/924ae3a1cded613372ab5595356fb5720e22ba16...b7ad1dad31e06c5925ef5d2fc7ad053ef454303e)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-18T10:06:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/b8e32b110266be9a314953a570fdf15e4050e1e2",
+      "is_merge": false
+    },
+    {
       "sha": "cbd3565cfb73ed88db2b3c3133af033ca84a6eab",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for goenvecho (#100)",

@@ -6,6 +6,54 @@
   "latest_release_time": "2026-06-27T19:52:48Z",
   "unreleased_commits": [
     {
+      "sha": "adb3dfa1973845e831b76a541365c0dae3434930",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #37 from UnitVectorY-Labs/chore/codeql-4.37.1\n\nBump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:54:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/adb3dfa1973845e831b76a541365c0dae3434930",
+      "is_merge": true
+    },
+    {
+      "sha": "771e47e399154fbb3f2b25d88832f0c2f3c34439",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:33:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/771e47e399154fbb3f2b25d88832f0c2f3c34439",
+      "is_merge": false
+    },
+    {
+      "sha": "1ac547b3ede779603883a29fcda6d2630f6e610c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #35 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/term-0.45.0\n\nbuild(deps): bump golang.org/x/term from 0.44.0 to 0.45.0",
+      "timestamp": "2026-07-18T14:03:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/1ac547b3ede779603883a29fcda6d2630f6e610c",
+      "is_merge": true
+    },
+    {
+      "sha": "4eb7f2d8c02a8e9b09236eba07881a33db402cb9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #36 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.0.0\n\nbuild(deps): bump actions/setup-go from 6.5.0 to 7.0.0",
+      "timestamp": "2026-07-18T13:55:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/4eb7f2d8c02a8e9b09236eba07881a33db402cb9",
+      "is_merge": true
+    },
+    {
+      "sha": "3223c059a81ae826b4e38352e8abac8f5223ae56",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/setup-go from 6.5.0 to 7.0.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.5.0 to 7.0.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/924ae3a1cded613372ab5595356fb5720e22ba16...b7ad1dad31e06c5925ef5d2fc7ad053ef454303e)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-18T10:06:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/3223c059a81ae826b4e38352e8abac8f5223ae56",
+      "is_merge": false
+    },
+    {
+      "sha": "32f859cd89d65069ef35745926571c57b5f35df9",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump golang.org/x/term from 0.44.0 to 0.45.0\n\nBumps [golang.org/x/term](https://github.com/golang/term) from 0.44.0 to 0.45.0.\n- [Commits](https://github.com/golang/term/compare/v0.44.0...v0.45.0)\n\n---\nupdated-dependencies:\n- dependency-name: golang.org/x/term\n  dependency-version: 0.45.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-18T10:05:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/32f859cd89d65069ef35745926571c57b5f35df9",
+      "is_merge": false
+    },
+    {
       "sha": "577bc3ad1003e6b694e6d47da158012bb92bf774",
       "author": "JaredHatfield",
       "message": "Merge pull request #34 from UnitVectorY-Labs/gitrepoforge/localmodelproxy\n\ngitrepoforge: apply desired state for localmodelproxy",

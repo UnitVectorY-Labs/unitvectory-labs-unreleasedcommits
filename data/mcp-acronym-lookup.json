@@ -6,6 +6,54 @@
   "latest_release_time": "2026-06-22T22:48:37Z",
   "unreleased_commits": [
     {
+      "sha": "56b841972f2f0fb02f40b118d04ba598dd9da1fc",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #116 from UnitVectorY-Labs/chore/codeql-4.37.1\n\nBump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:52:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/56b841972f2f0fb02f40b118d04ba598dd9da1fc",
+      "is_merge": true
+    },
+    {
+      "sha": "92f2f877c96150fdd30ca14c16ffd8047e04682b",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:33:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/92f2f877c96150fdd30ca14c16ffd8047e04682b",
+      "is_merge": false
+    },
+    {
+      "sha": "aef8f0a47f4054353328a44706dce71e5d3d5860",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #114 from UnitVectorY-Labs/dependabot/go_modules/github.com/mark3labs/mcp-go-0.56.0\n\nchore(deps): bump github.com/mark3labs/mcp-go from 0.55.1 to 0.56.0",
+      "timestamp": "2026-07-18T14:01:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/aef8f0a47f4054353328a44706dce71e5d3d5860",
+      "is_merge": true
+    },
+    {
+      "sha": "1bb9ef44e165abeacb80d349d7d5d0e37b3ca5bc",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #115 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.0.0\n\nchore(deps): bump actions/setup-go from 6.5.0 to 7.0.0",
+      "timestamp": "2026-07-18T13:53:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/1bb9ef44e165abeacb80d349d7d5d0e37b3ca5bc",
+      "is_merge": true
+    },
+    {
+      "sha": "f00d3b091bda094e8d6ee724871d27f099b1d767",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/setup-go from 6.5.0 to 7.0.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.5.0 to 7.0.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/924ae3a1cded613372ab5595356fb5720e22ba16...b7ad1dad31e06c5925ef5d2fc7ad053ef454303e)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-18T10:06:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/f00d3b091bda094e8d6ee724871d27f099b1d767",
+      "is_merge": false
+    },
+    {
+      "sha": "058fa55899d671dab4491a0c69e65593440aa2eb",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github.com/mark3labs/mcp-go from 0.55.1 to 0.56.0\n\nBumps [github.com/mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) from 0.55.1 to 0.56.0.\n- [Release notes](https://github.com/mark3labs/mcp-go/releases)\n- [Commits](https://github.com/mark3labs/mcp-go/compare/v0.55.1...v0.56.0)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/mark3labs/mcp-go\n  dependency-version: 0.56.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-18T10:04:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/058fa55899d671dab4491a0c69e65593440aa2eb",
+      "is_merge": false
+    },
+    {
       "sha": "846d44607adb89ecf4be690bf0e4528647c9a54b",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for mcp-acronym-lookup (#113)",

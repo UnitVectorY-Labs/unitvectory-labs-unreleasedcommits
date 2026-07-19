@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-22T22:18:06Z",
   "unreleased_commits": [
     {
+      "sha": "d71ca437ed5a92bc66961d93e6ca3d2bafe1ed7b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #223 from UnitVectorY-Labs/chore/codeql-4.37.1\n\nBump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:50:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/d71ca437ed5a92bc66961d93e6ca3d2bafe1ed7b",
+      "is_merge": true
+    },
+    {
+      "sha": "ae8dfc19db28a7e4566136ec613941ca5aa465a7",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:29:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/ae8dfc19db28a7e4566136ec613941ca5aa465a7",
+      "is_merge": false
+    },
+    {
+      "sha": "083bbb8545d607c2f26b929f3da77c633004a171",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #221 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-5.6.0\n\nBump actions/setup-java from 5.5.0 to 5.6.0",
+      "timestamp": "2026-07-18T13:51:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/083bbb8545d607c2f26b929f3da77c633004a171",
+      "is_merge": true
+    },
+    {
+      "sha": "3df3da24e2daf63fe68a49241052c0e8c0cc3748",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/setup-java from 5.5.0 to 5.6.0\n\nBumps [actions/setup-java](https://github.com/actions/setup-java) from 5.5.0 to 5.6.0.\n- [Release notes](https://github.com/actions/setup-java/releases)\n- [Commits](https://github.com/actions/setup-java/compare/0f481fcb613427c0f801b606911222b5b6f3083a...03ad4de0992f5dab5e18fcb136590ce7c4a0ac95)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-java\n  dependency-version: 5.6.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-18T10:02:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/3df3da24e2daf63fe68a49241052c0e8c0cc3748",
+      "is_merge": false
+    },
+    {
       "sha": "1703e687076dae0d6a2cb6f86b5c00bcf2df83d6",
       "author": "JaredHatfield",
       "message": "Merge pull request #210 from UnitVectorY-Labs/dependabot/maven/com.google.cloud-libraries-bom-26.85.0\n\nBump com.google.cloud:libraries-bom from 26.84.0 to 26.85.0",

@@ -6,6 +6,38 @@
   "latest_release_time": "2026-05-23T23:29:22Z",
   "unreleased_commits": [
     {
+      "sha": "891cd48c46ce23bf1014a0ab0c0d8f64d2861085",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #88 from UnitVectorY-Labs/chore/codeql-4.37.1\n\nBump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:52:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/891cd48c46ce23bf1014a0ab0c0d8f64d2861085",
+      "is_merge": true
+    },
+    {
+      "sha": "1a34242d6e3d0212e4442acc97df96cc40c5ddd3",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:34:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/1a34242d6e3d0212e4442acc97df96cc40c5ddd3",
+      "is_merge": false
+    },
+    {
+      "sha": "65315b0753216756358ea16b895243563f8f0b02",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #87 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.0.0\n\nbuild(deps): bump actions/setup-go from 6.5.0 to 7.0.0",
+      "timestamp": "2026-07-18T13:53:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/65315b0753216756358ea16b895243563f8f0b02",
+      "is_merge": true
+    },
+    {
+      "sha": "4d32ee155d4be82195bd31bccaf23e2861d15b3f",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/setup-go from 6.5.0 to 7.0.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.5.0 to 7.0.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/924ae3a1cded613372ab5595356fb5720e22ba16...b7ad1dad31e06c5925ef5d2fc7ad053ef454303e)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-18T10:09:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/4d32ee155d4be82195bd31bccaf23e2861d15b3f",
+      "is_merge": false
+    },
+    {
       "sha": "c7750298a32e27cccd7a6f4542000857fe7f4465",
       "author": "JaredHatfield",
       "message": "Merge pull request #86 from UnitVectorY-Labs/gitrepoforge/repver\n\ngitrepoforge: apply desired state for repver",

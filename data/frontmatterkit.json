@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-03T10:38:18Z",
   "unreleased_commits": [
     {
+      "sha": "4aae48777ba67a59addd32d1425f92a3c4b1f12d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #43 from UnitVectorY-Labs/chore/codeql-4.37.1\n\nBump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:54:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/4aae48777ba67a59addd32d1425f92a3c4b1f12d",
+      "is_merge": true
+    },
+    {
+      "sha": "b28d679f8c5d477d24aa4f9d14b1f989d2e37fb9",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:30:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/b28d679f8c5d477d24aa4f9d14b1f989d2e37fb9",
+      "is_merge": false
+    },
+    {
+      "sha": "7c7e425d849f3836a8aa4c82f595c60aaaed7b13",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #42 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.0.0\n\nBump actions/setup-go from 6.5.0 to 7.0.0",
+      "timestamp": "2026-07-18T13:55:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/7c7e425d849f3836a8aa4c82f595c60aaaed7b13",
+      "is_merge": true
+    },
+    {
+      "sha": "9b2ea6ce502d2f5f7692259f6ad322d5dfc353f1",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/setup-go from 6.5.0 to 7.0.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.5.0 to 7.0.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/924ae3a1cded613372ab5595356fb5720e22ba16...b7ad1dad31e06c5925ef5d2fc7ad053ef454303e)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-18T10:04:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/9b2ea6ce502d2f5f7692259f6ad322d5dfc353f1",
+      "is_merge": false
+    },
+    {
       "sha": "b4cc7f06227c5781dff87fbbc6899cdb572dda4e",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for frontmatterkit (#41)",

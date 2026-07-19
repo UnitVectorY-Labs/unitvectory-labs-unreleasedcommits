@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-22T22:43:53Z",
   "unreleased_commits": [
     {
+      "sha": "a9f6809cb1114b60be60f884a84c69cb6aadd20f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #147 from UnitVectorY-Labs/chore/codeql-4.37.1\n\nBump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:51:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/a9f6809cb1114b60be60f884a84c69cb6aadd20f",
+      "is_merge": true
+    },
+    {
+      "sha": "7ced1577bbae5656161482d2a1b1a83d3e26f4af",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:29:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/7ced1577bbae5656161482d2a1b1a83d3e26f4af",
+      "is_merge": false
+    },
+    {
+      "sha": "e6e80ec5e8bd64e4be862447ed9857187f7a0b43",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #146 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.0.0\n\nchore(deps): bump actions/setup-go from 6.5.0 to 7.0.0",
+      "timestamp": "2026-07-18T13:52:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/e6e80ec5e8bd64e4be862447ed9857187f7a0b43",
+      "is_merge": true
+    },
+    {
+      "sha": "e0ddba6fb27ec27eacdf5fc745228dd10bed848a",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/setup-go from 6.5.0 to 7.0.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.5.0 to 7.0.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/924ae3a1cded613372ab5595356fb5720e22ba16...b7ad1dad31e06c5925ef5d2fc7ad053ef454303e)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-18T10:06:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/e0ddba6fb27ec27eacdf5fc745228dd10bed848a",
+      "is_merge": false
+    },
+    {
       "sha": "65bd93b1189c2f8b2f36579663b7c4c23fe6ccf0",
       "author": "JaredHatfield",
       "message": "Merge pull request #137 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.0\n\nchore(deps): bump github/codeql-action/upload-sarif from 4.36.3 to 4.37.0",

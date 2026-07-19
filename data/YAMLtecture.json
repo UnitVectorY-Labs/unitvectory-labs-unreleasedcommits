@@ -6,6 +6,54 @@
   "latest_release_time": "2026-06-22T22:49:50Z",
   "unreleased_commits": [
     {
+      "sha": "824db838f6dee7517cd61cbd5e1cec7fc7c2f8f3",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #133 from UnitVectorY-Labs/chore/codeql-4.37.1\n\nBump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:52:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/824db838f6dee7517cd61cbd5e1cec7fc7c2f8f3",
+      "is_merge": true
+    },
+    {
+      "sha": "98f93b2bb69b18d931ed5a7dd90ce920986eff6f",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:35:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/98f93b2bb69b18d931ed5a7dd90ce920986eff6f",
+      "is_merge": false
+    },
+    {
+      "sha": "da571a11fe9d9e94b0975852715942921ece32ef",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #131 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/term-0.45.0\n\nbuild(deps): bump golang.org/x/term from 0.44.0 to 0.45.0",
+      "timestamp": "2026-07-18T14:01:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/da571a11fe9d9e94b0975852715942921ece32ef",
+      "is_merge": true
+    },
+    {
+      "sha": "75ffd38c8639b010ded80f8e1b086d4408cc9dd6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #132 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.0.0\n\nbuild(deps): bump actions/setup-go from 6.5.0 to 7.0.0",
+      "timestamp": "2026-07-18T13:53:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/75ffd38c8639b010ded80f8e1b086d4408cc9dd6",
+      "is_merge": true
+    },
+    {
+      "sha": "3772875a0b88ca04a3bab435ff0205dec69f7475",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/setup-go from 6.5.0 to 7.0.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.5.0 to 7.0.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/924ae3a1cded613372ab5595356fb5720e22ba16...b7ad1dad31e06c5925ef5d2fc7ad053ef454303e)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-18T10:07:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/3772875a0b88ca04a3bab435ff0205dec69f7475",
+      "is_merge": false
+    },
+    {
+      "sha": "defa527b749d94dfc495c3afd2860eab87d50e8e",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump golang.org/x/term from 0.44.0 to 0.45.0\n\nBumps [golang.org/x/term](https://github.com/golang/term) from 0.44.0 to 0.45.0.\n- [Commits](https://github.com/golang/term/compare/v0.44.0...v0.45.0)\n\n---\nupdated-dependencies:\n- dependency-name: golang.org/x/term\n  dependency-version: 0.45.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-18T10:04:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/defa527b749d94dfc495c3afd2860eab87d50e8e",
+      "is_merge": false
+    },
+    {
       "sha": "d8dabbb2581193cf9a5c3ec5aa6637805ca41d12",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for YAMLtecture (#130)",

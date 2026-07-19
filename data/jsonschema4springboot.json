@@ -6,6 +6,54 @@
   "latest_release_time": "2026-06-22T22:26:01Z",
   "unreleased_commits": [
     {
+      "sha": "8188456dc5d79019ec622649cb1dd6f8b8df4cac",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #216 from UnitVectorY-Labs/chore/codeql-4.37.1\n\nBump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:50:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/8188456dc5d79019ec622649cb1dd6f8b8df4cac",
+      "is_merge": true
+    },
+    {
+      "sha": "7c051a8c2c4bdfb62fea62af51214991cbccb0fe",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:32:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/7c051a8c2c4bdfb62fea62af51214991cbccb0fe",
+      "is_merge": false
+    },
+    {
+      "sha": "56ab0ed9decbea736d5da7f8da1d5d19b501399e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #215 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.1\n\nBump github/codeql-action/upload-sarif from 4.37.0 to 4.37.1",
+      "timestamp": "2026-07-18T13:59:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/56ab0ed9decbea736d5da7f8da1d5d19b501399e",
+      "is_merge": true
+    },
+    {
+      "sha": "93173a1003c2837abb2971845b5b47b267b79548",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action/upload-sarif from 4.37.0 to 4.37.1\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.0 to 4.37.1.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/99df26d4f13ea111d4ec1a7dddef6063f76b97e9...7188fc363630916deb702c7fdcf4e481b751f97a)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-18T13:54:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/93173a1003c2837abb2971845b5b47b267b79548",
+      "is_merge": false
+    },
+    {
+      "sha": "fdc230f18111d12cf7b91b5a050a50c0b9798aaf",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #214 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-5.6.0\n\nBump actions/setup-java from 5.5.0 to 5.6.0",
+      "timestamp": "2026-07-18T13:51:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/fdc230f18111d12cf7b91b5a050a50c0b9798aaf",
+      "is_merge": true
+    },
+    {
+      "sha": "060ff5a9a2498e01b3a89d4cf1967de251b0cbbd",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/setup-java from 5.5.0 to 5.6.0\n\nBumps [actions/setup-java](https://github.com/actions/setup-java) from 5.5.0 to 5.6.0.\n- [Release notes](https://github.com/actions/setup-java/releases)\n- [Commits](https://github.com/actions/setup-java/compare/0f481fcb613427c0f801b606911222b5b6f3083a...03ad4de0992f5dab5e18fcb136590ce7c4a0ac95)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-java\n  dependency-version: 5.6.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-18T10:04:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/060ff5a9a2498e01b3a89d4cf1967de251b0cbbd",
+      "is_merge": false
+    },
+    {
       "sha": "8b82dcfb360abddb14a798e4d16ed884a2e822a0",
       "author": "JaredHatfield",
       "message": "Merge pull request #207 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-5.5.0\n\nBump actions/setup-java from 5.4.0 to 5.5.0",

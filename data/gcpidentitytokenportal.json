@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-22T22:30:53Z",
   "unreleased_commits": [
     {
+      "sha": "90e15ff069b3552adf53546447c7c2bfc9e35ca6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #208 from UnitVectorY-Labs/chore/codeql-4.37.1\n\nBump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:51:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/90e15ff069b3552adf53546447c7c2bfc9e35ca6",
+      "is_merge": true
+    },
+    {
+      "sha": "7b58d41ff53d22ff3a246afadcad844ccea9aff5",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:30:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/7b58d41ff53d22ff3a246afadcad844ccea9aff5",
+      "is_merge": false
+    },
+    {
+      "sha": "587e839896d4c6339855a7cc68a0851a89b894ec",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #205 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.0.0\n\nchore(deps): bump actions/setup-go from 6.5.0 to 7.0.0",
+      "timestamp": "2026-07-18T13:52:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/587e839896d4c6339855a7cc68a0851a89b894ec",
+      "is_merge": true
+    },
+    {
+      "sha": "6894d968912d3b577dd301db61c8ca8f3e13dab4",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/setup-go from 6.5.0 to 7.0.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.5.0 to 7.0.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/924ae3a1cded613372ab5595356fb5720e22ba16...b7ad1dad31e06c5925ef5d2fc7ad053ef454303e)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-18T10:04:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/6894d968912d3b577dd301db61c8ca8f3e13dab4",
+      "is_merge": false
+    },
+    {
       "sha": "3b5c1b5ca81fd279aa8a93ccaf047f352e6c53fc",
       "author": "JaredHatfield",
       "message": "Merge pull request #199 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.288.0\n\nchore(deps): bump google.golang.org/api from 0.287.0 to 0.288.0",

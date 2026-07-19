@@ -6,6 +6,54 @@
   "latest_release_time": "2026-06-22T22:28:39Z",
   "unreleased_commits": [
     {
+      "sha": "cc01474e0afb01884a32d9e70567c67ea0025d4e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #210 from UnitVectorY-Labs/chore/codeql-4.37.1\n\nBump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:51:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/cc01474e0afb01884a32d9e70567c67ea0025d4e",
+      "is_merge": true
+    },
+    {
+      "sha": "46f8c8fa33fdca5dc07ecd876892597a87f66055",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:33:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/46f8c8fa33fdca5dc07ecd876892597a87f66055",
+      "is_merge": false
+    },
+    {
+      "sha": "de1798eeead4c803c65ad4733d16a80ea1a41643",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #207 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.288.0\n\nchore(deps): bump google.golang.org/api from 0.287.1 to 0.288.0",
+      "timestamp": "2026-07-18T14:00:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/de1798eeead4c803c65ad4733d16a80ea1a41643",
+      "is_merge": true
+    },
+    {
+      "sha": "47c6634a9b4b875996c41b3803f578f0f84771b5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #209 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.0.0\n\nchore(deps): bump actions/setup-go from 6.5.0 to 7.0.0",
+      "timestamp": "2026-07-18T13:52:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/47c6634a9b4b875996c41b3803f578f0f84771b5",
+      "is_merge": true
+    },
+    {
+      "sha": "cb340838e7aae2fbe8b333ee5d5896e6a7c0ebfb",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/setup-go from 6.5.0 to 7.0.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.5.0 to 7.0.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/924ae3a1cded613372ab5595356fb5720e22ba16...b7ad1dad31e06c5925ef5d2fc7ad053ef454303e)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-18T10:04:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/cb340838e7aae2fbe8b333ee5d5896e6a7c0ebfb",
+      "is_merge": false
+    },
+    {
+      "sha": "7f5693ac921513ddc1bf2521ff91321855ce3240",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/api from 0.287.1 to 0.288.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.287.1 to 0.288.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.287.1...v0.288.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.288.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-18T10:02:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/7f5693ac921513ddc1bf2521ff91321855ce3240",
+      "is_merge": false
+    },
+    {
       "sha": "0752662729e989302d9c95e841436ed846a0cd5c",
       "author": "JaredHatfield",
       "message": "Merge pull request #206 from UnitVectorY-Labs/gitrepoforge/lockboxkms\n\ngitrepoforge: apply desired state for lockboxkms",

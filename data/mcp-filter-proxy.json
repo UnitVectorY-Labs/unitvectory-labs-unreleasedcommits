@@ -4,6 +4,39 @@
   "default_branch": "main",
   "latest_release_tag": "v0.1.0",
   "latest_release_time": "2026-07-17T02:14:05Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "917232181c63521bd2b3e7cbcafefd75026c288c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #6 from UnitVectorY-Labs/chore/codeql-4.37.1\n\nBump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:54:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-filter-proxy/commit/917232181c63521bd2b3e7cbcafefd75026c288c",
+      "is_merge": true
+    },
+    {
+      "sha": "8b88cb2271ccef4152cb42c2fe975a886076e284",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:33:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-filter-proxy/commit/8b88cb2271ccef4152cb42c2fe975a886076e284",
+      "is_merge": false
+    },
+    {
+      "sha": "993b3b6c0617d0d9b0a22454772fc4a8eba30e6c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #5 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.0.0\n\nbuild(deps): bump actions/setup-go from 6.5.0 to 7.0.0",
+      "timestamp": "2026-07-18T13:55:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-filter-proxy/commit/993b3b6c0617d0d9b0a22454772fc4a8eba30e6c",
+      "is_merge": true
+    },
+    {
+      "sha": "8427fee76e02a81529260c9a357156f282d2a0f7",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/setup-go from 6.5.0 to 7.0.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.5.0 to 7.0.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/924ae3a1cded613372ab5595356fb5720e22ba16...b7ad1dad31e06c5925ef5d2fc7ad053ef454303e)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-18T10:11:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-filter-proxy/commit/8427fee76e02a81529260c9a357156f282d2a0f7",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/mcp-filter-proxy"
 }

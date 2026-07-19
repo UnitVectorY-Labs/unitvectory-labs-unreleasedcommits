@@ -6,6 +6,38 @@
   "latest_release_time": "2025-11-12T01:30:20Z",
   "unreleased_commits": [
     {
+      "sha": "074e7dc5e1867a4a63aca3a2af656849109f7ce4",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #120 from UnitVectorY-Labs/chore/codeql-4.37.1\n\nBump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:51:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/074e7dc5e1867a4a63aca3a2af656849109f7ce4",
+      "is_merge": true
+    },
+    {
+      "sha": "addc51a87bb6e6221114d1fba893fc574bf9c39f",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:33:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/addc51a87bb6e6221114d1fba893fc574bf9c39f",
+      "is_merge": false
+    },
+    {
+      "sha": "f784d03db6888746b446f647079e7e00face4f2f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #116 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-5.6.0\n\nBump actions/setup-java from 5.5.0 to 5.6.0",
+      "timestamp": "2026-07-18T13:52:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/f784d03db6888746b446f647079e7e00face4f2f",
+      "is_merge": true
+    },
+    {
+      "sha": "b79ac99cd4c73eca7537acd58875c91448013b15",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/setup-java from 5.5.0 to 5.6.0\n\nBumps [actions/setup-java](https://github.com/actions/setup-java) from 5.5.0 to 5.6.0.\n- [Release notes](https://github.com/actions/setup-java/releases)\n- [Commits](https://github.com/actions/setup-java/compare/0f481fcb613427c0f801b606911222b5b6f3083a...03ad4de0992f5dab5e18fcb136590ce7c4a0ac95)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-java\n  dependency-version: 5.6.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-18T10:04:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/b79ac99cd4c73eca7537acd58875c91448013b15",
+      "is_merge": false
+    },
+    {
       "sha": "9e650404376510a697db5b249fd5b43164f964dd",
       "author": "JaredHatfield",
       "message": "Merge pull request #112 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-5.5.0\n\nBump actions/setup-java from 5.4.0 to 5.5.0",

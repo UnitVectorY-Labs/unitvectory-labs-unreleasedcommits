@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-22T22:42:42Z",
   "unreleased_commits": [
     {
+      "sha": "138cf472e7415c64be4fec79498f1a83be114f40",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #123 from UnitVectorY-Labs/chore/codeql-4.37.1\n\nBump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:51:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/138cf472e7415c64be4fec79498f1a83be114f40",
+      "is_merge": true
+    },
+    {
+      "sha": "e2906bfbd7ec643317bd8d4baa341eafbf68d118",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:31:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/e2906bfbd7ec643317bd8d4baa341eafbf68d118",
+      "is_merge": false
+    },
+    {
+      "sha": "dcd40f621f91828210521201869968288c7879bc",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #122 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.0.0\n\nbuild(deps): bump actions/setup-go from 6.5.0 to 7.0.0",
+      "timestamp": "2026-07-18T13:52:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/dcd40f621f91828210521201869968288c7879bc",
+      "is_merge": true
+    },
+    {
+      "sha": "0d0a05dc36fdaf649396a1bed321745726dd094c",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/setup-go from 6.5.0 to 7.0.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.5.0 to 7.0.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/924ae3a1cded613372ab5595356fb5720e22ba16...b7ad1dad31e06c5925ef5d2fc7ad053ef454303e)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-18T10:06:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/0d0a05dc36fdaf649396a1bed321745726dd094c",
+      "is_merge": false
+    },
+    {
       "sha": "da8385ead35d071ad09e45adb82249675633d370",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for hellorest (#121)",

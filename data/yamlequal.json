@@ -6,6 +6,38 @@
   "latest_release_time": "2026-02-28T22:30:45Z",
   "unreleased_commits": [
     {
+      "sha": "122ee6643cafcd30a96727c06669e2859e0a2c0a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #67 from UnitVectorY-Labs/chore/codeql-4.37.1\n\nBump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:52:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/122ee6643cafcd30a96727c06669e2859e0a2c0a",
+      "is_merge": true
+    },
+    {
+      "sha": "0e5d202ace87362ade344df3b65a6e09efb61d98",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:35:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/0e5d202ace87362ade344df3b65a6e09efb61d98",
+      "is_merge": false
+    },
+    {
+      "sha": "6cd69e8a5205e9e65d8b6c74e8203324b0a2861b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #66 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.0.0\n\nbuild(deps): bump actions/setup-go from 6.5.0 to 7.0.0",
+      "timestamp": "2026-07-18T13:53:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/6cd69e8a5205e9e65d8b6c74e8203324b0a2861b",
+      "is_merge": true
+    },
+    {
+      "sha": "caa97eb78d4f2d7d649b22f40604217297ab59c1",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/setup-go from 6.5.0 to 7.0.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.5.0 to 7.0.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/924ae3a1cded613372ab5595356fb5720e22ba16...b7ad1dad31e06c5925ef5d2fc7ad053ef454303e)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-18T10:07:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/caa97eb78d4f2d7d649b22f40604217297ab59c1",
+      "is_merge": false
+    },
+    {
       "sha": "cddd07c049ba36916e8fa5e60b68d1ea2fc8710c",
       "author": "JaredHatfield",
       "message": "Merge pull request #65 from UnitVectorY-Labs/gitrepoforge/yamlequal\n\ngitrepoforge: apply desired state for yamlequal",

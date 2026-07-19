@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-22T22:37:07Z",
   "unreleased_commits": [
     {
+      "sha": "701d1ea844c47adfccb03e4cf87b3889a0fdedd7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #51 from UnitVectorY-Labs/chore/codeql-4.37.1\n\nBump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:54:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/701d1ea844c47adfccb03e4cf87b3889a0fdedd7",
+      "is_merge": true
+    },
+    {
+      "sha": "3cd991de1e3de6a4586504f6a722bd9694d3f9c5",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:32:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/3cd991de1e3de6a4586504f6a722bd9694d3f9c5",
+      "is_merge": false
+    },
+    {
+      "sha": "6cf53e2c542be60fb3240dd120378cd23cd6c235",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #50 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.0.0\n\nbuild(deps): bump actions/setup-go from 6.5.0 to 7.0.0",
+      "timestamp": "2026-07-18T13:55:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/6cf53e2c542be60fb3240dd120378cd23cd6c235",
+      "is_merge": true
+    },
+    {
+      "sha": "1ceac6cd47bb027a9514089f33bfe1611772a209",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/setup-go from 6.5.0 to 7.0.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.5.0 to 7.0.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/924ae3a1cded613372ab5595356fb5720e22ba16...b7ad1dad31e06c5925ef5d2fc7ad053ef454303e)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-18T10:08:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/1ceac6cd47bb027a9514089f33bfe1611772a209",
+      "is_merge": false
+    },
+    {
       "sha": "0d2c3c059002dbadd9b1cf113d5a3fea3a2e9a1c",
       "author": "JaredHatfield",
       "message": "Merge pull request #48 from UnitVectorY-Labs/gitrepoforge/jsonschemaprofiles\n\ngitrepoforge: apply desired state for jsonschemaprofiles",

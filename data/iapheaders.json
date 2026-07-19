@@ -6,6 +6,54 @@
   "latest_release_time": "2026-06-22T22:51:23Z",
   "unreleased_commits": [
     {
+      "sha": "33dfd5c9c78ac0383df5836ff99026fcd662d8b5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #125 from UnitVectorY-Labs/chore/codeql-4.37.1\n\nBump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:51:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/33dfd5c9c78ac0383df5836ff99026fcd662d8b5",
+      "is_merge": true
+    },
+    {
+      "sha": "e73502002cae809f200fd8e49252b71e2a5fddbc",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:32:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/e73502002cae809f200fd8e49252b71e2a5fddbc",
+      "is_merge": false
+    },
+    {
+      "sha": "b816ac9ecffd1c535177f938cf137a466caa9ce5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #124 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.1\n\nchore(deps): bump github/codeql-action/upload-sarif from 4.37.0 to 4.37.1",
+      "timestamp": "2026-07-18T14:01:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/b816ac9ecffd1c535177f938cf137a466caa9ce5",
+      "is_merge": true
+    },
+    {
+      "sha": "c757422dcb0e273d12e1e7397cb1b7dc9534f1a1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #121 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.0.0\n\nchore(deps): bump actions/setup-go from 6.5.0 to 7.0.0",
+      "timestamp": "2026-07-18T13:52:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/c757422dcb0e273d12e1e7397cb1b7dc9534f1a1",
+      "is_merge": true
+    },
+    {
+      "sha": "3a814dd0dfce688261536c48362ed658a9b521e1",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.0 to 4.37.1.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/99df26d4f13ea111d4ec1a7dddef6063f76b97e9...7188fc363630916deb702c7fdcf4e481b751f97a)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-18T10:05:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/3a814dd0dfce688261536c48362ed658a9b521e1",
+      "is_merge": false
+    },
+    {
+      "sha": "8932ed0f0084102e7c2eb4fecb736224d9c2aeba",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/setup-go from 6.5.0 to 7.0.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.5.0 to 7.0.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/924ae3a1cded613372ab5595356fb5720e22ba16...b7ad1dad31e06c5925ef5d2fc7ad053ef454303e)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-18T10:04:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/8932ed0f0084102e7c2eb4fecb736224d9c2aeba",
+      "is_merge": false
+    },
+    {
       "sha": "e9e1c259f26100f74c333dcea11a5f46347d3858",
       "author": "JaredHatfield",
       "message": "Merge pull request #120 from UnitVectorY-Labs/chore/codeql-4.37.0\n\nBump CodeQL version to 4.37.0",

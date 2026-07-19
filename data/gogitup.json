@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-10T07:40:04Z",
   "unreleased_commits": [
     {
+      "sha": "cc0d61b32341487cb9bb50e2cc6460b29b1a2762",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #54 from UnitVectorY-Labs/chore/codeql-4.37.1\n\nBump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:53:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/cc0d61b32341487cb9bb50e2cc6460b29b1a2762",
+      "is_merge": true
+    },
+    {
+      "sha": "94316b17ed1da2c31e1973ad23cfce7d9036cf6f",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:30:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/94316b17ed1da2c31e1973ad23cfce7d9036cf6f",
+      "is_merge": false
+    },
+    {
+      "sha": "cad6384eccb1cb8789d1a097af0cd0abf0577ad0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #53 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.0.0\n\nbuild(deps): bump actions/setup-go from 6.5.0 to 7.0.0",
+      "timestamp": "2026-07-18T13:55:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/cad6384eccb1cb8789d1a097af0cd0abf0577ad0",
+      "is_merge": true
+    },
+    {
+      "sha": "e808128394f4f8dfb202313a82a5a91ee560798d",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/setup-go from 6.5.0 to 7.0.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.5.0 to 7.0.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/924ae3a1cded613372ab5595356fb5720e22ba16...b7ad1dad31e06c5925ef5d2fc7ad053ef454303e)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-18T10:08:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/e808128394f4f8dfb202313a82a5a91ee560798d",
+      "is_merge": false
+    },
+    {
       "sha": "4efa06eb2a8ec5069f1bed02a9e24f9aafd9ec33",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for gogitup (#52)",

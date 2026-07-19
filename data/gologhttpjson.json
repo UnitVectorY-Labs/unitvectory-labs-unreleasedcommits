@@ -6,6 +6,38 @@
   "latest_release_time": "2026-05-22T00:31:14Z",
   "unreleased_commits": [
     {
+      "sha": "cee54547b3639d3427cae90ec259236ae676da27",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #88 from UnitVectorY-Labs/chore/codeql-4.37.1\n\nBump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:53:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/cee54547b3639d3427cae90ec259236ae676da27",
+      "is_merge": true
+    },
+    {
+      "sha": "a38599526117d71da56c4cb0fa7ac026056f41cd",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.1",
+      "timestamp": "2026-07-18T14:30:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/a38599526117d71da56c4cb0fa7ac026056f41cd",
+      "is_merge": false
+    },
+    {
+      "sha": "731b04ae9346e45027d39cf93c208c4248ca035d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #87 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.0.0\n\nchore(deps): bump actions/setup-go from 6.5.0 to 7.0.0",
+      "timestamp": "2026-07-18T13:54:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/731b04ae9346e45027d39cf93c208c4248ca035d",
+      "is_merge": true
+    },
+    {
+      "sha": "0b94b1e6e13e208043f87488aaa2fd5be3d766bf",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/setup-go from 6.5.0 to 7.0.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.5.0 to 7.0.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/924ae3a1cded613372ab5595356fb5720e22ba16...b7ad1dad31e06c5925ef5d2fc7ad053ef454303e)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-18T10:08:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/0b94b1e6e13e208043f87488aaa2fd5be3d766bf",
+      "is_merge": false
+    },
+    {
       "sha": "64c6174545c89b0352e23c519750b040382c3c0c",
       "author": "JaredHatfield",
       "message": "Merge pull request #86 from UnitVectorY-Labs/gitrepoforge/gologhttpjson\n\ngitrepoforge: apply desired state for gologhttpjson",
