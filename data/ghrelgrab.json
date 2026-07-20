@@ -6,6 +6,14 @@
   "latest_release_time": "2026-06-22T22:13:38Z",
   "unreleased_commits": [
     {
+      "sha": "cd78554aa871c61b9592c63f3ed6ed64a825d134",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #92 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-4.2.0\n\nchore(deps): bump actions/attest from 4.1.1 to 4.2.0",
+      "timestamp": "2026-07-19T12:07:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/cd78554aa871c61b9592c63f3ed6ed64a825d134",
+      "is_merge": true
+    },
+    {
       "sha": "ed048461eae36094af1b64e66713e7eb671beb7d",
       "author": "JaredHatfield",
       "message": "Merge pull request #93 from UnitVectorY-Labs/chore/codeql-4.37.1\n\nBump CodeQL version to 4.37.1",
@@ -36,6 +44,14 @@
       "timestamp": "2026-07-18T13:54:00Z",
       "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/699758ade3dee3636fb64439c23094cb45b81f09",
       "is_merge": true
+    },
+    {
+      "sha": "bb8f0726f0f51b38e23c5a95613805d37b2ba53b",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/attest from 4.1.1 to 4.2.0\n\nBumps [actions/attest](https://github.com/actions/attest) from 4.1.1 to 4.2.0.\n- [Release notes](https://github.com/actions/attest/releases)\n- [Changelog](https://github.com/actions/attest/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest/compare/a1948c3f048ba23858d222213b7c278aabede763...f7c74d28b9d84cb8768d0b8ca14a4bac6ef463e6)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest\n  dependency-version: 4.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-18T10:07:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/bb8f0726f0f51b38e23c5a95613805d37b2ba53b",
+      "is_merge": false
     },
     {
       "sha": "2d8d5a2ed446a94b77c5b25ba90b7b4a7fdd8077",
