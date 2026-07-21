@@ -6,6 +6,14 @@
   "latest_release_time": "2026-06-22T22:43:53Z",
   "unreleased_commits": [
     {
+      "sha": "a84b133c18eac3188f2836c6478058bfa8242840",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #142 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/grpc-1.82.1\n\nchore(deps): bump google.golang.org/grpc from 1.82.0 to 1.82.1",
+      "timestamp": "2026-07-20T22:12:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/a84b133c18eac3188f2836c6478058bfa8242840",
+      "is_merge": true
+    },
+    {
       "sha": "90a0b2b317f6586b1729fdc98641cb92e5d1ed87",
       "author": "dependabot[bot]",
       "message": "chore(deps): bump github/codeql-action/upload-sarif (#144)\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.0 to 4.37.1.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/99df26d4f13ea111d4ec1a7dddef6063f76b97e9...7188fc363630916deb702c7fdcf4e481b751f97a)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e\nCo-authored-by: dependabot[bot] \u003c49699333+dependabot[bot]@users.noreply.github.com\u003e",
@@ -43,6 +51,14 @@
       "message": "chore(deps): bump actions/setup-go from 6.5.0 to 7.0.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.5.0 to 7.0.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/924ae3a1cded613372ab5595356fb5720e22ba16...b7ad1dad31e06c5925ef5d2fc7ad053ef454303e)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-07-18T10:06:12Z",
       "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/e0ddba6fb27ec27eacdf5fc745228dd10bed848a",
+      "is_merge": false
+    },
+    {
+      "sha": "bb05da31a7279f3f46c660da5a918ec6d9878629",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/grpc from 1.82.0 to 1.82.1\n\nBumps [google.golang.org/grpc](https://github.com/grpc/grpc-go) from 1.82.0 to 1.82.1.\n- [Release notes](https://github.com/grpc/grpc-go/releases)\n- [Commits](https://github.com/grpc/grpc-go/compare/v1.82.0...v1.82.1)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/grpc\n  dependency-version: 1.82.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-18T10:04:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/bb05da31a7279f3f46c660da5a918ec6d9878629",
       "is_merge": false
     },
     {

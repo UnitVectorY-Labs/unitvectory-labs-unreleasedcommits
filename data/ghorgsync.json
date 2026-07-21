@@ -6,6 +6,14 @@
   "latest_release_time": "2026-06-22T22:54:11Z",
   "unreleased_commits": [
     {
+      "sha": "f3f90dcd7f7df2ded7a09f7d647ff802401a6279",
+      "author": "JaredHatfield",
+      "message": "Add context7.json with URL and public key",
+      "timestamp": "2026-07-20T11:03:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/f3f90dcd7f7df2ded7a09f7d647ff802401a6279",
+      "is_merge": false
+    },
+    {
       "sha": "d906a1ebfc56a3cfb30e6872808b79d3d090861d",
       "author": "JaredHatfield",
       "message": "Merge pull request #65 from UnitVectorY-Labs/chore/codeql-4.37.1\n\nBump CodeQL version to 4.37.1",
