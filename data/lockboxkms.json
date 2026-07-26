@@ -6,6 +6,70 @@
   "latest_release_time": "2026-06-22T22:28:39Z",
   "unreleased_commits": [
     {
+      "sha": "1267a8591a8ecfcdfd82350f1ef945eead1de793",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #218 from UnitVectorY-Labs/chore/codeql-4.37.3\n\nBump CodeQL version to 4.37.3",
+      "timestamp": "2026-07-25T16:24:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/1267a8591a8ecfcdfd82350f1ef945eead1de793",
+      "is_merge": true
+    },
+    {
+      "sha": "c09cf25debc5351327cca68c0389575bd290218e",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.3",
+      "timestamp": "2026-07-25T15:02:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/c09cf25debc5351327cca68c0389575bd290218e",
+      "is_merge": false
+    },
+    {
+      "sha": "078bfe2bb914b06d7db491ffbd397fec457ea209",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #214 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-9.0.0\n\nchore(deps): bump astral-sh/setup-uv from 8.3.2 to 9.0.0",
+      "timestamp": "2026-07-25T13:24:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/078bfe2bb914b06d7db491ffbd397fec457ea209",
+      "is_merge": true
+    },
+    {
+      "sha": "488f627df37e868564afcfc477d9d1bed447c0d0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #213 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7.0.1\n\nchore(deps): bump actions/checkout from 7.0.0 to 7.0.1",
+      "timestamp": "2026-07-25T13:23:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/488f627df37e868564afcfc477d9d1bed447c0d0",
+      "is_merge": true
+    },
+    {
+      "sha": "dda0ef09beea71d8de8a20558af06ef62d85d93a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #211 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/grpc-1.82.1\n\nchore(deps): bump google.golang.org/grpc from 1.82.0 to 1.82.1",
+      "timestamp": "2026-07-25T13:23:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/dda0ef09beea71d8de8a20558af06ef62d85d93a",
+      "is_merge": true
+    },
+    {
+      "sha": "5e022c953b1b7e0558f9153963773587ed27a0dc",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 8.3.2 to 9.0.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.3.2 to 9.0.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/11f9893b081a58869d3b5fccaea48c9e9e46f990...c771a70e6277c0a99b617c7a806ffedaca235ff9)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 9.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:08:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/5e022c953b1b7e0558f9153963773587ed27a0dc",
+      "is_merge": false
+    },
+    {
+      "sha": "a1ab0534085984a5e04acfdf4c4d3cb9632a7534",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/checkout from 7.0.0 to 7.0.1\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 7.0.0 to 7.0.1.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0...3d3c42e5aac5ba805825da76410c181273ba90b1)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: 7.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:07:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/a1ab0534085984a5e04acfdf4c4d3cb9632a7534",
+      "is_merge": false
+    },
+    {
+      "sha": "537df45cf49bf1171e16a4472a80b03963ab29a4",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/grpc from 1.82.0 to 1.82.1\n\nBumps [google.golang.org/grpc](https://github.com/grpc/grpc-go) from 1.82.0 to 1.82.1.\n- [Release notes](https://github.com/grpc/grpc-go/releases)\n- [Commits](https://github.com/grpc/grpc-go/compare/v1.82.0...v1.82.1)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/grpc\n  dependency-version: 1.82.1\n  dependency-type: indirect\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T02:35:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/537df45cf49bf1171e16a4472a80b03963ab29a4",
+      "is_merge": false
+    },
+    {
       "sha": "d5c75e3c5860eff81e6cc326d3464bda93923358",
       "author": "JaredHatfield",
       "message": "Merge pull request #208 from UnitVectorY-Labs/dependabot/go_modules/cloud.google.com/go/kms-1.32.0\n\nchore(deps): bump cloud.google.com/go/kms from 1.31.0 to 1.32.0",

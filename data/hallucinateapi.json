@@ -6,6 +6,70 @@
   "latest_release_time": "2026-06-28T15:16:00Z",
   "unreleased_commits": [
     {
+      "sha": "8edb72abfa721657f5670d045f2689f8f74f4886",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #88 from UnitVectorY-Labs/chore/codeql-4.37.3\n\nBump CodeQL version to 4.37.3",
+      "timestamp": "2026-07-25T16:27:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/8edb72abfa721657f5670d045f2689f8f74f4886",
+      "is_merge": true
+    },
+    {
+      "sha": "e9692b853c3a395fd5702641bdc1589f929c3897",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.3",
+      "timestamp": "2026-07-25T14:54:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/e9692b853c3a395fd5702641bdc1589f929c3897",
+      "is_merge": false
+    },
+    {
+      "sha": "6518c75113d2b31e4b170e78bb40219930ddc818",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #87 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-9.0.0\n\nbuild(deps): bump astral-sh/setup-uv from 8.3.2 to 9.0.0",
+      "timestamp": "2026-07-25T13:29:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/6518c75113d2b31e4b170e78bb40219930ddc818",
+      "is_merge": true
+    },
+    {
+      "sha": "76c598549057b93561be319f34ec1370adc8d598",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #83 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7.0.1\n\nbuild(deps): bump actions/checkout from 7.0.0 to 7.0.1",
+      "timestamp": "2026-07-25T13:28:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/76c598549057b93561be319f34ec1370adc8d598",
+      "is_merge": true
+    },
+    {
+      "sha": "d01b0ed9336db48f5b5cda8d9a76438d0c9ee0ca",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #82 from UnitVectorY-Labs/dependabot/go_modules/github.com/pb33f/libopenapi-0.38.7\n\nbuild(deps): bump github.com/pb33f/libopenapi from 0.38.6 to 0.38.7",
+      "timestamp": "2026-07-25T13:28:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/d01b0ed9336db48f5b5cda8d9a76438d0c9ee0ca",
+      "is_merge": true
+    },
+    {
+      "sha": "4c25cfc1c9b9e81c24d9f8d99d23075e8aafbdae",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 8.3.2 to 9.0.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.3.2 to 9.0.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/11f9893b081a58869d3b5fccaea48c9e9e46f990...c771a70e6277c0a99b617c7a806ffedaca235ff9)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 9.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:15:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/4c25cfc1c9b9e81c24d9f8d99d23075e8aafbdae",
+      "is_merge": false
+    },
+    {
+      "sha": "d49934b59a8a8b7c5b6cb028798c5535e2cb8e2c",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/checkout from 7.0.0 to 7.0.1\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 7.0.0 to 7.0.1.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0...3d3c42e5aac5ba805825da76410c181273ba90b1)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: 7.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:05:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/d49934b59a8a8b7c5b6cb028798c5535e2cb8e2c",
+      "is_merge": false
+    },
+    {
+      "sha": "96e498efb9e5eec5c3a58760f537526cf7107a07",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github.com/pb33f/libopenapi from 0.38.6 to 0.38.7\n\nBumps [github.com/pb33f/libopenapi](https://github.com/pb33f/libopenapi) from 0.38.6 to 0.38.7.\n- [Release notes](https://github.com/pb33f/libopenapi/releases)\n- [Commits](https://github.com/pb33f/libopenapi/compare/v0.38.6...v0.38.7)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/pb33f/libopenapi\n  dependency-version: 0.38.7\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:05:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/96e498efb9e5eec5c3a58760f537526cf7107a07",
+      "is_merge": false
+    },
+    {
       "sha": "d498472bbb6945c776e2de29d310a220c73b092b",
       "author": "JaredHatfield",
       "message": "Merge pull request #79 from UnitVectorY-Labs/dependabot/go_modules/github.com/pb33f/libopenapi-0.38.6\n\nbuild(deps): bump github.com/pb33f/libopenapi from 0.38.5 to 0.38.6",

@@ -6,6 +6,70 @@
   "latest_release_time": "2026-06-22T22:49:10Z",
   "unreleased_commits": [
     {
+      "sha": "687192f570aa4ae03989da138fa014634718bc58",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #135 from UnitVectorY-Labs/chore/codeql-4.37.3\n\nBump CodeQL version to 4.37.3",
+      "timestamp": "2026-07-25T16:26:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/687192f570aa4ae03989da138fa014634718bc58",
+      "is_merge": true
+    },
+    {
+      "sha": "99f2a525cc0f3d42559ba32ab7322607259e95eb",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.3",
+      "timestamp": "2026-07-25T15:02:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/99f2a525cc0f3d42559ba32ab7322607259e95eb",
+      "is_merge": false
+    },
+    {
+      "sha": "edb7253e0032623cf234a8e58050f6c619a53a61",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #134 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-9.0.0\n\nchore(deps): bump astral-sh/setup-uv from 8.3.2 to 9.0.0",
+      "timestamp": "2026-07-25T13:26:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/edb7253e0032623cf234a8e58050f6c619a53a61",
+      "is_merge": true
+    },
+    {
+      "sha": "90242b940ea3a0569d3ab3e4e2ed5e26228ba374",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #131 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7.0.1\n\nchore(deps): bump actions/checkout from 7.0.0 to 7.0.1",
+      "timestamp": "2026-07-25T13:25:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/90242b940ea3a0569d3ab3e4e2ed5e26228ba374",
+      "is_merge": true
+    },
+    {
+      "sha": "71f04416cfc9c035d6c609fd6091d717c577cc85",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #129 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-4.2.0\n\nchore(deps): bump actions/attest from 4.1.1 to 4.2.0",
+      "timestamp": "2026-07-25T13:22:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/71f04416cfc9c035d6c609fd6091d717c577cc85",
+      "is_merge": true
+    },
+    {
+      "sha": "038bd5c0a12f87b6e6e30597f55eaf5daf0cef10",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 8.3.2 to 9.0.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.3.2 to 9.0.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/11f9893b081a58869d3b5fccaea48c9e9e46f990...c771a70e6277c0a99b617c7a806ffedaca235ff9)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 9.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:09:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/038bd5c0a12f87b6e6e30597f55eaf5daf0cef10",
+      "is_merge": false
+    },
+    {
+      "sha": "41931e9f573c84ed6534a7aae930c877152f7546",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/checkout from 7.0.0 to 7.0.1\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 7.0.0 to 7.0.1.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0...3d3c42e5aac5ba805825da76410c181273ba90b1)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: 7.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:07:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/41931e9f573c84ed6534a7aae930c877152f7546",
+      "is_merge": false
+    },
+    {
+      "sha": "f45fbe961e685fbd88d73df6ce7e0b160110eccf",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/attest from 4.1.1 to 4.2.0\n\nBumps [actions/attest](https://github.com/actions/attest) from 4.1.1 to 4.2.0.\n- [Release notes](https://github.com/actions/attest/releases)\n- [Changelog](https://github.com/actions/attest/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest/compare/a1948c3f048ba23858d222213b7c278aabede763...f7c74d28b9d84cb8768d0b8ca14a4bac6ef463e6)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest\n  dependency-version: 4.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:06:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/f45fbe961e685fbd88d73df6ce7e0b160110eccf",
+      "is_merge": false
+    },
+    {
       "sha": "904ee87f5a134e473d1c6a2cd0ffb9879ded79ab",
       "author": "JaredHatfield",
       "message": "Merge pull request #128 from UnitVectorY-Labs/chore/codeql-4.37.1\n\nBump CodeQL version to 4.37.1",

@@ -6,6 +6,70 @@
   "latest_release_time": "2026-06-22T22:54:11Z",
   "unreleased_commits": [
     {
+      "sha": "2872c5595cb15178b0a86dde5463503ffc412e6d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #72 from UnitVectorY-Labs/chore/codeql-4.37.3\n\nBump CodeQL version to 4.37.3",
+      "timestamp": "2026-07-25T16:27:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/2872c5595cb15178b0a86dde5463503ffc412e6d",
+      "is_merge": true
+    },
+    {
+      "sha": "aa8f7131e54fdf7139a8979cba513d7727e415bd",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.3",
+      "timestamp": "2026-07-25T14:54:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/aa8f7131e54fdf7139a8979cba513d7727e415bd",
+      "is_merge": false
+    },
+    {
+      "sha": "fab3e71000957545b69b2ce521030b4fa5dc35a6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #66 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-9.0.0\n\nbuild(deps): bump astral-sh/setup-uv from 8.3.2 to 9.0.0",
+      "timestamp": "2026-07-25T13:28:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/fab3e71000957545b69b2ce521030b4fa5dc35a6",
+      "is_merge": true
+    },
+    {
+      "sha": "0d675017c7246b6a719fc812e5bfa0b4c74b706f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #71 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7.0.1\n\nbuild(deps): bump actions/checkout from 7.0.0 to 7.0.1",
+      "timestamp": "2026-07-25T13:28:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/0d675017c7246b6a719fc812e5bfa0b4c74b706f",
+      "is_merge": true
+    },
+    {
+      "sha": "b86c0624f9736e3204719987d9a9ed7da19937ad",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #68 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-4.2.0\n\nbuild(deps): bump actions/attest from 4.1.1 to 4.2.0",
+      "timestamp": "2026-07-25T13:23:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/b86c0624f9736e3204719987d9a9ed7da19937ad",
+      "is_merge": true
+    },
+    {
+      "sha": "d7de4207e2c01d83a6f2015cd6316ab8f7deb7b9",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/checkout from 7.0.0 to 7.0.1\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 7.0.0 to 7.0.1.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0...3d3c42e5aac5ba805825da76410c181273ba90b1)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: 7.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:12:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/d7de4207e2c01d83a6f2015cd6316ab8f7deb7b9",
+      "is_merge": false
+    },
+    {
+      "sha": "a91c17d33ba811abac239b6c350bd16b1f990d77",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/attest from 4.1.1 to 4.2.0\n\nBumps [actions/attest](https://github.com/actions/attest) from 4.1.1 to 4.2.0.\n- [Release notes](https://github.com/actions/attest/releases)\n- [Changelog](https://github.com/actions/attest/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest/compare/a1948c3f048ba23858d222213b7c278aabede763...f7c74d28b9d84cb8768d0b8ca14a4bac6ef463e6)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest\n  dependency-version: 4.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:11:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/a91c17d33ba811abac239b6c350bd16b1f990d77",
+      "is_merge": false
+    },
+    {
+      "sha": "60aee3d88c4592f13cf3c7b1a65da11ad870690e",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 8.3.2 to 9.0.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.3.2 to 9.0.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/11f9893b081a58869d3b5fccaea48c9e9e46f990...c771a70e6277c0a99b617c7a806ffedaca235ff9)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 9.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:11:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/60aee3d88c4592f13cf3c7b1a65da11ad870690e",
+      "is_merge": false
+    },
+    {
       "sha": "f3f90dcd7f7df2ded7a09f7d647ff802401a6279",
       "author": "JaredHatfield",
       "message": "Add context7.json with URL and public key",

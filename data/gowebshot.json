@@ -6,6 +6,70 @@
   "latest_release_time": "2026-05-23T23:28:42Z",
   "unreleased_commits": [
     {
+      "sha": "97ae6d706897f08102613eb1545ba586c8a98c5c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #53 from UnitVectorY-Labs/chore/codeql-4.37.3\n\nBump CodeQL version to 4.37.3",
+      "timestamp": "2026-07-25T16:27:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/97ae6d706897f08102613eb1545ba586c8a98c5c",
+      "is_merge": true
+    },
+    {
+      "sha": "6a3fbff1ff132afadc1474389c952bd8bb810915",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.3",
+      "timestamp": "2026-07-25T14:54:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/6a3fbff1ff132afadc1474389c952bd8bb810915",
+      "is_merge": false
+    },
+    {
+      "sha": "3ce55b86b4356fc055e3e0ff6047939d3ab26450",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #52 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-9.0.0\n\nbuild(deps): bump astral-sh/setup-uv from 8.3.2 to 9.0.0",
+      "timestamp": "2026-07-25T13:29:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/3ce55b86b4356fc055e3e0ff6047939d3ab26450",
+      "is_merge": true
+    },
+    {
+      "sha": "7bdd495ad6908bb323e1a42a7ef8020537486e96",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #48 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7.0.1\n\nbuild(deps): bump actions/checkout from 7.0.0 to 7.0.1",
+      "timestamp": "2026-07-25T13:28:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/7bdd495ad6908bb323e1a42a7ef8020537486e96",
+      "is_merge": true
+    },
+    {
+      "sha": "2c53b502b6be70be7cdd2f6aeffa6c79aa7ab4f6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #47 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-4.2.0\n\nbuild(deps): bump actions/attest from 4.1.1 to 4.2.0",
+      "timestamp": "2026-07-25T13:24:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/2c53b502b6be70be7cdd2f6aeffa6c79aa7ab4f6",
+      "is_merge": true
+    },
+    {
+      "sha": "c73ac6a128bbc72cd5b1c5e158400493db238a13",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 8.3.2 to 9.0.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.3.2 to 9.0.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/11f9893b081a58869d3b5fccaea48c9e9e46f990...c771a70e6277c0a99b617c7a806ffedaca235ff9)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 9.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:11:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/c73ac6a128bbc72cd5b1c5e158400493db238a13",
+      "is_merge": false
+    },
+    {
+      "sha": "175f8d276d8c1398fd788e8ff4eacc7b62bcbdd9",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/checkout from 7.0.0 to 7.0.1\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 7.0.0 to 7.0.1.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0...3d3c42e5aac5ba805825da76410c181273ba90b1)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: 7.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:09:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/175f8d276d8c1398fd788e8ff4eacc7b62bcbdd9",
+      "is_merge": false
+    },
+    {
+      "sha": "69ac24082f4afba8dd548fec16e1b12782e0d664",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/attest from 4.1.1 to 4.2.0\n\nBumps [actions/attest](https://github.com/actions/attest) from 4.1.1 to 4.2.0.\n- [Release notes](https://github.com/actions/attest/releases)\n- [Changelog](https://github.com/actions/attest/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest/compare/a1948c3f048ba23858d222213b7c278aabede763...f7c74d28b9d84cb8768d0b8ca14a4bac6ef463e6)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest\n  dependency-version: 4.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:09:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/69ac24082f4afba8dd548fec16e1b12782e0d664",
+      "is_merge": false
+    },
+    {
       "sha": "630a7a2fddfd06f4187c6446e0f61a3520ed02ca",
       "author": "JaredHatfield",
       "message": "Merge pull request #46 from UnitVectorY-Labs/chore/codeql-4.37.1\n\nBump CodeQL version to 4.37.1",

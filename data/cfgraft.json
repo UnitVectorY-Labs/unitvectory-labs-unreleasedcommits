@@ -6,6 +6,54 @@
   "latest_release_time": "2026-06-27T09:55:34Z",
   "unreleased_commits": [
     {
+      "sha": "82fa39d6c92b7d3adeb7d8a9e4e7e3cbcdeeb3fa",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #36 from UnitVectorY-Labs/chore/codeql-4.37.3\n\nBump CodeQL version to 4.37.3",
+      "timestamp": "2026-07-25T15:34:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/82fa39d6c92b7d3adeb7d8a9e4e7e3cbcdeeb3fa",
+      "is_merge": true
+    },
+    {
+      "sha": "d35971a6d1ca1b92fcb4d29a3c3cd4395ecec3a3",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.3",
+      "timestamp": "2026-07-25T14:47:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/d35971a6d1ca1b92fcb4d29a3c3cd4395ecec3a3",
+      "is_merge": false
+    },
+    {
+      "sha": "1a0dd97d0353633cb92667a3891fd302cef3c57c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #30 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7.0.1\n\nbuild(deps): bump actions/checkout from 7.0.0 to 7.0.1",
+      "timestamp": "2026-07-25T13:29:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/1a0dd97d0353633cb92667a3891fd302cef3c57c",
+      "is_merge": true
+    },
+    {
+      "sha": "fd800b41f3bd10752ad94002fac4180f5e07d1b9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #31 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-4.2.0\n\nbuild(deps): bump actions/attest from 4.1.1 to 4.2.0",
+      "timestamp": "2026-07-25T13:24:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/fd800b41f3bd10752ad94002fac4180f5e07d1b9",
+      "is_merge": true
+    },
+    {
+      "sha": "23a9f582feb9ba49667e8578259939ad1d7e0082",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/attest from 4.1.1 to 4.2.0\n\nBumps [actions/attest](https://github.com/actions/attest) from 4.1.1 to 4.2.0.\n- [Release notes](https://github.com/actions/attest/releases)\n- [Changelog](https://github.com/actions/attest/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest/compare/a1948c3f048ba23858d222213b7c278aabede763...f7c74d28b9d84cb8768d0b8ca14a4bac6ef463e6)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest\n  dependency-version: 4.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:05:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/23a9f582feb9ba49667e8578259939ad1d7e0082",
+      "is_merge": false
+    },
+    {
+      "sha": "9c1d4d2ab761859635f874b189e497c684589743",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/checkout from 7.0.0 to 7.0.1\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 7.0.0 to 7.0.1.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0...3d3c42e5aac5ba805825da76410c181273ba90b1)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: 7.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:05:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/9c1d4d2ab761859635f874b189e497c684589743",
+      "is_merge": false
+    },
+    {
       "sha": "e86945fb0bf643daa5a66ba25678d12d457d006d",
       "author": "JaredHatfield",
       "message": "Merge pull request #29 from UnitVectorY-Labs/chore/codeql-4.37.1\n\nBump CodeQL version to 4.37.1",

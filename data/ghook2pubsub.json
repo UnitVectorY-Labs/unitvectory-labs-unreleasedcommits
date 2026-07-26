@@ -6,6 +6,102 @@
   "latest_release_time": "2026-07-10T22:44:24Z",
   "unreleased_commits": [
     {
+      "sha": "6e4be01a551d28e33b5f7aa23600e13e1f8bae11",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #76 from UnitVectorY-Labs/chore/codeql-4.37.3\n\nBump CodeQL version to 4.37.3",
+      "timestamp": "2026-07-25T16:27:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/6e4be01a551d28e33b5f7aa23600e13e1f8bae11",
+      "is_merge": true
+    },
+    {
+      "sha": "e585db3dc703d008d267621662ca70665518bba8",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.3",
+      "timestamp": "2026-07-25T14:54:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/e585db3dc703d008d267621662ca70665518bba8",
+      "is_merge": false
+    },
+    {
+      "sha": "174a3e51205b9e4482d03fb13e72b467fc131c88",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #74 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-9.0.0\n\nBump astral-sh/setup-uv from 8.3.2 to 9.0.0",
+      "timestamp": "2026-07-25T13:28:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/174a3e51205b9e4482d03fb13e72b467fc131c88",
+      "is_merge": true
+    },
+    {
+      "sha": "b3ea624742aa39f4c75e6fae921ebaa184bf6164",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #71 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7.0.1\n\nBump actions/checkout from 7.0.0 to 7.0.1",
+      "timestamp": "2026-07-25T13:28:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/b3ea624742aa39f4c75e6fae921ebaa184bf6164",
+      "is_merge": true
+    },
+    {
+      "sha": "1f12b65bb1b2f7b9799900e487856e4a615ef01c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #75 from UnitVectorY-Labs/dependabot/go_modules/github.com/klauspost/compress-1.19.1\n\nBump github.com/klauspost/compress from 1.19.0 to 1.19.1",
+      "timestamp": "2026-07-25T13:25:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/1f12b65bb1b2f7b9799900e487856e4a615ef01c",
+      "is_merge": true
+    },
+    {
+      "sha": "af1816d5439a43a0d1a49a31cced3a6685a44c79",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #70 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/grpc-1.82.1\n\nBump google.golang.org/grpc from 1.82.0 to 1.82.1",
+      "timestamp": "2026-07-25T13:24:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/af1816d5439a43a0d1a49a31cced3a6685a44c79",
+      "is_merge": true
+    },
+    {
+      "sha": "01a09f16e625984c57126b03f7de109306999e29",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #72 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.5.1\n\nBump docker/login-action from 4.4.0 to 4.5.1",
+      "timestamp": "2026-07-25T13:23:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/01a09f16e625984c57126b03f7de109306999e29",
+      "is_merge": true
+    },
+    {
+      "sha": "a6a10c2997d8b3719f34712e1594d97c353a23e9",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 8.3.2 to 9.0.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.3.2 to 9.0.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/11f9893b081a58869d3b5fccaea48c9e9e46f990...c771a70e6277c0a99b617c7a806ffedaca235ff9)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 9.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:08:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/a6a10c2997d8b3719f34712e1594d97c353a23e9",
+      "is_merge": false
+    },
+    {
+      "sha": "1d8f217cbdb3362be8e204411e19319c6df542cc",
+      "author": "dependabot[bot]",
+      "message": "Bump github.com/klauspost/compress from 1.19.0 to 1.19.1\n\nBumps [github.com/klauspost/compress](https://github.com/klauspost/compress) from 1.19.0 to 1.19.1.\n- [Release notes](https://github.com/klauspost/compress/releases)\n- [Commits](https://github.com/klauspost/compress/compare/v1.19.0...v1.19.1)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/klauspost/compress\n  dependency-version: 1.19.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:08:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/1d8f217cbdb3362be8e204411e19319c6df542cc",
+      "is_merge": false
+    },
+    {
+      "sha": "07f3b3945c943efb6f24525856320d8ef60791e7",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/login-action from 4.4.0 to 4.5.1\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.4.0 to 4.5.1.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/af1e73f918a031802d376d3c8bbc3fe56130a9b0...abd2ef45e78c5afb21d64d4ca52ee8550d9572c7)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.5.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:07:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/07f3b3945c943efb6f24525856320d8ef60791e7",
+      "is_merge": false
+    },
+    {
+      "sha": "837f455f164c80be005dc3c5876ad22cce06e76d",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/checkout from 7.0.0 to 7.0.1\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 7.0.0 to 7.0.1.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0...3d3c42e5aac5ba805825da76410c181273ba90b1)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: 7.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:07:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/837f455f164c80be005dc3c5876ad22cce06e76d",
+      "is_merge": false
+    },
+    {
+      "sha": "2b5760a7032e4e46ef61b2789863560bca679ecb",
+      "author": "dependabot[bot]",
+      "message": "Bump google.golang.org/grpc from 1.82.0 to 1.82.1\n\nBumps [google.golang.org/grpc](https://github.com/grpc/grpc-go) from 1.82.0 to 1.82.1.\n- [Release notes](https://github.com/grpc/grpc-go/releases)\n- [Commits](https://github.com/grpc/grpc-go/compare/v1.82.0...v1.82.1)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/grpc\n  dependency-version: 1.82.1\n  dependency-type: indirect\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T05:35:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/2b5760a7032e4e46ef61b2789863560bca679ecb",
+      "is_merge": false
+    },
+    {
       "sha": "6aea2f0fc0e3e2a80ebb444bbe8adbabc0629688",
       "author": "dependabot[bot]",
       "message": "Bump github/codeql-action/upload-sarif from 4.37.0 to 4.37.1 (#67)\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.0 to 4.37.1.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/99df26d4f13ea111d4ec1a7dddef6063f76b97e9...7188fc363630916deb702c7fdcf4e481b751f97a)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e\nCo-authored-by: dependabot[bot] \u003c49699333+dependabot[bot]@users.noreply.github.com\u003e",

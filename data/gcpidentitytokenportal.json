@@ -6,6 +6,102 @@
   "latest_release_time": "2026-06-22T22:30:53Z",
   "unreleased_commits": [
     {
+      "sha": "6e64d7ba531bcbcf390e26df7ce5b5b0bb4b96a1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #217 from UnitVectorY-Labs/chore/codeql-4.37.3\n\nBump CodeQL version to 4.37.3",
+      "timestamp": "2026-07-25T16:25:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/6e64d7ba531bcbcf390e26df7ce5b5b0bb4b96a1",
+      "is_merge": true
+    },
+    {
+      "sha": "f96a600211ad8dae2a815311c05087bde2a2ba95",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.3",
+      "timestamp": "2026-07-25T14:54:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/f96a600211ad8dae2a815311c05087bde2a2ba95",
+      "is_merge": false
+    },
+    {
+      "sha": "29daa16bc9403e9a84acbd34c557381ef13db2cd",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #211 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.290.0\n\nchore(deps): bump google.golang.org/api from 0.289.0 to 0.290.0",
+      "timestamp": "2026-07-25T13:28:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/29daa16bc9403e9a84acbd34c557381ef13db2cd",
+      "is_merge": true
+    },
+    {
+      "sha": "6200f051a3315e054ff8120e934b8c2b97b1ea26",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #212 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-9.0.0\n\nchore(deps): bump astral-sh/setup-uv from 8.3.2 to 9.0.0",
+      "timestamp": "2026-07-25T13:25:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/6200f051a3315e054ff8120e934b8c2b97b1ea26",
+      "is_merge": true
+    },
+    {
+      "sha": "ef221019c7b73a20ab67fac5bd76c8ba7b47d0b5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #215 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7.0.1\n\nchore(deps): bump actions/checkout from 7.0.0 to 7.0.1",
+      "timestamp": "2026-07-25T13:24:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/ef221019c7b73a20ab67fac5bd76c8ba7b47d0b5",
+      "is_merge": true
+    },
+    {
+      "sha": "cb2d8275359c76cdbdcf4386a0175a078ceb8c41",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #209 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/grpc-1.82.1\n\nchore(deps): bump google.golang.org/grpc from 1.82.0 to 1.82.1",
+      "timestamp": "2026-07-25T13:23:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/cb2d8275359c76cdbdcf4386a0175a078ceb8c41",
+      "is_merge": true
+    },
+    {
+      "sha": "f913697e9c701aaf5e3ef40db58cffb9969e3d20",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #216 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.5.1\n\nchore(deps): bump docker/login-action from 4.4.0 to 4.5.1",
+      "timestamp": "2026-07-25T13:23:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/f913697e9c701aaf5e3ef40db58cffb9969e3d20",
+      "is_merge": true
+    },
+    {
+      "sha": "b33ab535caea22aa9aca72dda4131a16dcdbef90",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/login-action from 4.4.0 to 4.5.1\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.4.0 to 4.5.1.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/af1e73f918a031802d376d3c8bbc3fe56130a9b0...abd2ef45e78c5afb21d64d4ca52ee8550d9572c7)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.5.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:14:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/b33ab535caea22aa9aca72dda4131a16dcdbef90",
+      "is_merge": false
+    },
+    {
+      "sha": "bfba4973419e4d952236890c46cb2b305d5a2264",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/checkout from 7.0.0 to 7.0.1\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 7.0.0 to 7.0.1.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0...3d3c42e5aac5ba805825da76410c181273ba90b1)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: 7.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:12:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/bfba4973419e4d952236890c46cb2b305d5a2264",
+      "is_merge": false
+    },
+    {
+      "sha": "4e7acec9f827f3a555cd0c1ca99a894f59bb8037",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 8.3.2 to 9.0.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.3.2 to 9.0.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/11f9893b081a58869d3b5fccaea48c9e9e46f990...c771a70e6277c0a99b617c7a806ffedaca235ff9)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 9.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:03:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/4e7acec9f827f3a555cd0c1ca99a894f59bb8037",
+      "is_merge": false
+    },
+    {
+      "sha": "c89af9dd0d3b2448030a23817d60ab68415019d5",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/api from 0.289.0 to 0.290.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.289.0 to 0.290.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.289.0...v0.290.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.290.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:02:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/c89af9dd0d3b2448030a23817d60ab68415019d5",
+      "is_merge": false
+    },
+    {
+      "sha": "12962f4e3ccf83d86baf82f0d737bf51371a851a",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/grpc from 1.82.0 to 1.82.1\n\nBumps [google.golang.org/grpc](https://github.com/grpc/grpc-go) from 1.82.0 to 1.82.1.\n- [Release notes](https://github.com/grpc/grpc-go/releases)\n- [Commits](https://github.com/grpc/grpc-go/compare/v1.82.0...v1.82.1)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/grpc\n  dependency-version: 1.82.1\n  dependency-type: indirect\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T02:10:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/12962f4e3ccf83d86baf82f0d737bf51371a851a",
+      "is_merge": false
+    },
+    {
       "sha": "ab51b448fe2bb74e6cf28acc2f2ccd85e4d2ca9f",
       "author": "JaredHatfield",
       "message": "Merge pull request #206 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.289.0\n\nchore(deps): bump google.golang.org/api from 0.288.0 to 0.289.0",

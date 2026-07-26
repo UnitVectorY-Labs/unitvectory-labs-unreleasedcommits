@@ -6,6 +6,70 @@
   "latest_release_time": "2026-05-24T00:42:30Z",
   "unreleased_commits": [
     {
+      "sha": "f7a6c84873145302d36ea98e61f45d14788297c8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #87 from UnitVectorY-Labs/chore/codeql-4.37.3\n\nBump CodeQL version to 4.37.3",
+      "timestamp": "2026-07-25T16:26:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/f7a6c84873145302d36ea98e61f45d14788297c8",
+      "is_merge": true
+    },
+    {
+      "sha": "e1a40de6920f240a32ec3697b420e918bd0e8628",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.3",
+      "timestamp": "2026-07-25T15:04:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/e1a40de6920f240a32ec3697b420e918bd0e8628",
+      "is_merge": false
+    },
+    {
+      "sha": "baebaec1c3e9626a052dc1dcad6a0cf18f739561",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #85 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-9.0.0\n\nbuild(deps): bump astral-sh/setup-uv from 8.3.2 to 9.0.0",
+      "timestamp": "2026-07-25T13:26:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/baebaec1c3e9626a052dc1dcad6a0cf18f739561",
+      "is_merge": true
+    },
+    {
+      "sha": "39256d28db18d479da1f9dd07e1804ddb09a967f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #84 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7.0.1\n\nbuild(deps): bump actions/checkout from 7.0.0 to 7.0.1",
+      "timestamp": "2026-07-25T13:25:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/39256d28db18d479da1f9dd07e1804ddb09a967f",
+      "is_merge": true
+    },
+    {
+      "sha": "ac2dc3730bc396947969d95a7d5ee3c0743faeff",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #86 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-4.2.0\n\nbuild(deps): bump actions/attest from 4.1.1 to 4.2.0",
+      "timestamp": "2026-07-25T13:22:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/ac2dc3730bc396947969d95a7d5ee3c0743faeff",
+      "is_merge": true
+    },
+    {
+      "sha": "f698927899fc546fba08deaecbd7e10cc8f35562",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/attest from 4.1.1 to 4.2.0\n\nBumps [actions/attest](https://github.com/actions/attest) from 4.1.1 to 4.2.0.\n- [Release notes](https://github.com/actions/attest/releases)\n- [Changelog](https://github.com/actions/attest/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest/compare/a1948c3f048ba23858d222213b7c278aabede763...f7c74d28b9d84cb8768d0b8ca14a4bac6ef463e6)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest\n  dependency-version: 4.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:17:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/f698927899fc546fba08deaecbd7e10cc8f35562",
+      "is_merge": false
+    },
+    {
+      "sha": "810798b4d8a08fce1e07f4bf1974c9796dbcd686",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 8.3.2 to 9.0.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.3.2 to 9.0.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/11f9893b081a58869d3b5fccaea48c9e9e46f990...c771a70e6277c0a99b617c7a806ffedaca235ff9)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 9.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:12:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/810798b4d8a08fce1e07f4bf1974c9796dbcd686",
+      "is_merge": false
+    },
+    {
+      "sha": "322162edf18a27bcca1f5816e1e1706d203bccb9",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/checkout from 7.0.0 to 7.0.1\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 7.0.0 to 7.0.1.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0...3d3c42e5aac5ba805825da76410c181273ba90b1)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: 7.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:08:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/322162edf18a27bcca1f5816e1e1706d203bccb9",
+      "is_merge": false
+    },
+    {
       "sha": "355ef739ea9188e719e89e2422a7477759ccf9e8",
       "author": "JaredHatfield",
       "message": "Merge pull request #80 from UnitVectorY-Labs/chore/codeql-4.37.1\n\nBump CodeQL version to 4.37.1",

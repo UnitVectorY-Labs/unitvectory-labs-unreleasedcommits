@@ -6,6 +6,70 @@
   "latest_release_time": "2026-06-22T22:43:20Z",
   "unreleased_commits": [
     {
+      "sha": "df93903184540bb140d804d85506b33ff95280b6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #160 from UnitVectorY-Labs/chore/codeql-4.37.3\n\nBump CodeQL version to 4.37.3",
+      "timestamp": "2026-07-25T15:32:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/df93903184540bb140d804d85506b33ff95280b6",
+      "is_merge": true
+    },
+    {
+      "sha": "611701709b37bb8e58524ab415eb67f5b7e9f310",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.3",
+      "timestamp": "2026-07-25T14:47:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/611701709b37bb8e58524ab415eb67f5b7e9f310",
+      "is_merge": false
+    },
+    {
+      "sha": "6007f51bc05a267ef7e48aa8268855882851a323",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #155 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-9.0.0\n\nchore(deps): bump astral-sh/setup-uv from 8.3.2 to 9.0.0",
+      "timestamp": "2026-07-25T13:24:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/6007f51bc05a267ef7e48aa8268855882851a323",
+      "is_merge": true
+    },
+    {
+      "sha": "08ded84d0f080deaa4a7c0e2ab793e9cfcfe7b26",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #157 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7.0.1\n\nchore(deps): bump actions/checkout from 7.0.0 to 7.0.1",
+      "timestamp": "2026-07-25T13:23:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/08ded84d0f080deaa4a7c0e2ab793e9cfcfe7b26",
+      "is_merge": true
+    },
+    {
+      "sha": "154959dc118fa62272e3b428fe22f323ab238887",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #156 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.5.1\n\nchore(deps): bump docker/login-action from 4.4.0 to 4.5.1",
+      "timestamp": "2026-07-25T13:22:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/154959dc118fa62272e3b428fe22f323ab238887",
+      "is_merge": true
+    },
+    {
+      "sha": "94edfb4c387fafc89993e778fb892dbd1eb1cc3f",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/checkout from 7.0.0 to 7.0.1\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 7.0.0 to 7.0.1.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0...3d3c42e5aac5ba805825da76410c181273ba90b1)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: 7.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:14:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/94edfb4c387fafc89993e778fb892dbd1eb1cc3f",
+      "is_merge": false
+    },
+    {
+      "sha": "7e763af4acb8a1a48fdb3a9135e4ce5cadf3effb",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/login-action from 4.4.0 to 4.5.1\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.4.0 to 4.5.1.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/af1e73f918a031802d376d3c8bbc3fe56130a9b0...abd2ef45e78c5afb21d64d4ca52ee8550d9572c7)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.5.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:03:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/7e763af4acb8a1a48fdb3a9135e4ce5cadf3effb",
+      "is_merge": false
+    },
+    {
+      "sha": "bc6e66bbfc15b91dc8894c1698f8cb4bf514bdb3",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 8.3.2 to 9.0.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.3.2 to 9.0.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/11f9893b081a58869d3b5fccaea48c9e9e46f990...c771a70e6277c0a99b617c7a806ffedaca235ff9)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 9.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:03:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/bc6e66bbfc15b91dc8894c1698f8cb4bf514bdb3",
+      "is_merge": false
+    },
+    {
       "sha": "6374dc598e074253124ccf283683bb640cfa3887",
       "author": "JaredHatfield",
       "message": "Merge pull request #148 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/grpc-1.82.1\n\nchore(deps): bump google.golang.org/grpc from 1.82.0 to 1.82.1",

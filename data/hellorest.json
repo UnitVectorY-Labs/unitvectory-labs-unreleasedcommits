@@ -6,6 +6,54 @@
   "latest_release_time": "2026-06-22T22:42:42Z",
   "unreleased_commits": [
     {
+      "sha": "7b8f3fd608ea3d6f12c734a040e1e6b29475fcba",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #129 from UnitVectorY-Labs/chore/codeql-4.37.3\n\nBump CodeQL version to 4.37.3",
+      "timestamp": "2026-07-25T16:24:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/7b8f3fd608ea3d6f12c734a040e1e6b29475fcba",
+      "is_merge": true
+    },
+    {
+      "sha": "dd2bfffd4f6c4861a8aac05255757299606bcbff",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.3",
+      "timestamp": "2026-07-25T14:54:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/dd2bfffd4f6c4861a8aac05255757299606bcbff",
+      "is_merge": false
+    },
+    {
+      "sha": "a08d09c5bf3c2f0e4ebfaa539e4f662874c158c2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #128 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-9.0.0\n\nbuild(deps): bump astral-sh/setup-uv from 8.3.2 to 9.0.0",
+      "timestamp": "2026-07-25T13:24:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/a08d09c5bf3c2f0e4ebfaa539e4f662874c158c2",
+      "is_merge": true
+    },
+    {
+      "sha": "dac2482c1e16672e025c139339f7dbfb8895e02e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #126 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7.0.1\n\nbuild(deps): bump actions/checkout from 7.0.0 to 7.0.1",
+      "timestamp": "2026-07-25T13:23:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/dac2482c1e16672e025c139339f7dbfb8895e02e",
+      "is_merge": true
+    },
+    {
+      "sha": "c61c2400609a175940aa9ac03abe0c5359ca12bc",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 8.3.2 to 9.0.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.3.2 to 9.0.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/11f9893b081a58869d3b5fccaea48c9e9e46f990...c771a70e6277c0a99b617c7a806ffedaca235ff9)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 9.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:13:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/c61c2400609a175940aa9ac03abe0c5359ca12bc",
+      "is_merge": false
+    },
+    {
+      "sha": "876fb565511d971352690c378fefe2bf89ca3bd6",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/checkout from 7.0.0 to 7.0.1\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 7.0.0 to 7.0.1.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0...3d3c42e5aac5ba805825da76410c181273ba90b1)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: 7.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:12:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/876fb565511d971352690c378fefe2bf89ca3bd6",
+      "is_merge": false
+    },
+    {
       "sha": "138cf472e7415c64be4fec79498f1a83be114f40",
       "author": "JaredHatfield",
       "message": "Merge pull request #123 from UnitVectorY-Labs/chore/codeql-4.37.1\n\nBump CodeQL version to 4.37.1",
