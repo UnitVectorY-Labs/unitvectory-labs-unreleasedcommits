@@ -6,6 +6,14 @@
   "latest_release_time": "2026-07-17T02:14:05Z",
   "unreleased_commits": [
     {
+      "sha": "b8eff53a7d582b7b8b54fe73d7dc29a669a40190",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #7 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-9.0.0\n\nbuild(deps): bump astral-sh/setup-uv from 8.3.2 to 9.0.0",
+      "timestamp": "2026-07-26T12:11:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-filter-proxy/commit/b8eff53a7d582b7b8b54fe73d7dc29a669a40190",
+      "is_merge": true
+    },
+    {
       "sha": "f6d6f6a129ca56aaabb11f42e58a922bc5297f80",
       "author": "JaredHatfield",
       "message": "Merge pull request #13 from UnitVectorY-Labs/chore/codeql-4.37.3\n\nBump CodeQL version to 4.37.3",
@@ -51,6 +59,14 @@
       "message": "build(deps): bump actions/attest from 4.1.1 to 4.2.0\n\nBumps [actions/attest](https://github.com/actions/attest) from 4.1.1 to 4.2.0.\n- [Release notes](https://github.com/actions/attest/releases)\n- [Changelog](https://github.com/actions/attest/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest/compare/a1948c3f048ba23858d222213b7c278aabede763...f7c74d28b9d84cb8768d0b8ca14a4bac6ef463e6)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest\n  dependency-version: 4.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-07-25T10:05:11Z",
       "url": "https://github.com/UnitVectorY-Labs/mcp-filter-proxy/commit/f4f451cea43c18ef66c185463e470b575d748194",
+      "is_merge": false
+    },
+    {
+      "sha": "d71c25a3fc290b7420ea9d0d49d4e9dea0d2f2ff",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 8.3.2 to 9.0.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.3.2 to 9.0.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/11f9893b081a58869d3b5fccaea48c9e9e46f990...c771a70e6277c0a99b617c7a806ffedaca235ff9)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 9.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:05:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-filter-proxy/commit/d71c25a3fc290b7420ea9d0d49d4e9dea0d2f2ff",
       "is_merge": false
     },
     {
