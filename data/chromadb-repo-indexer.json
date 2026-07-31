@@ -1,0 +1,9 @@
+{
+  "owner": "UnitVectorY-Labs",
+  "name": "chromadb-repo-indexer",
+  "default_branch": "main",
+  "latest_release_tag": "v1.0.0",
+  "latest_release_time": "2026-07-31T01:17:02Z",
+  "unreleased_commits": null,
+  "repository_url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer"
+}
