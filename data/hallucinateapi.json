@@ -6,6 +6,14 @@
   "latest_release_time": "2026-06-28T15:16:00Z",
   "unreleased_commits": [
     {
+      "sha": "9689358b83ca4253f1cd98bf39321f03ad36a12c",
+      "author": "JaredHatfield",
+      "message": "Add GitHub Actions workflow for ChromaDB indexing",
+      "timestamp": "2026-08-01T03:27:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/9689358b83ca4253f1cd98bf39321f03ad36a12c",
+      "is_merge": false
+    },
+    {
       "sha": "8edb72abfa721657f5670d045f2689f8f74f4886",
       "author": "JaredHatfield",
       "message": "Merge pull request #88 from UnitVectorY-Labs/chore/codeql-4.37.3\n\nBump CodeQL version to 4.37.3",

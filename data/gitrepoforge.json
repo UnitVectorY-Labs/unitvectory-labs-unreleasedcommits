@@ -6,6 +6,14 @@
   "latest_release_time": "2026-06-17T11:03:43Z",
   "unreleased_commits": [
     {
+      "sha": "16289e36b9090d1f5d21617e8d644c8b904e2d6c",
+      "author": "JaredHatfield",
+      "message": "Add ChromaDB indexing workflow",
+      "timestamp": "2026-08-01T02:52:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/gitrepoforge/commit/16289e36b9090d1f5d21617e8d644c8b904e2d6c",
+      "is_merge": false
+    },
+    {
       "sha": "ba2fba5e72512abbc974409653dcb9fee686773b",
       "author": "JaredHatfield",
       "message": "Merge pull request #65 from UnitVectorY-Labs/chore/codeql-4.37.3\n\nBump CodeQL version to 4.37.3",

@@ -6,6 +6,14 @@
   "latest_release_time": "2026-06-03T10:38:18Z",
   "unreleased_commits": [
     {
+      "sha": "99e2faf3c8423cb9a47c7d8572dcda44d1ce73b9",
+      "author": "JaredHatfield",
+      "message": "Add GitHub Actions workflow for ChromaDB indexing",
+      "timestamp": "2026-08-01T03:27:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/99e2faf3c8423cb9a47c7d8572dcda44d1ce73b9",
+      "is_merge": false
+    },
+    {
       "sha": "0022190cf50115ffa6ad879a76a8552deea40bcd",
       "author": "JaredHatfield",
       "message": "Merge pull request #47 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-9.0.0\n\nBump astral-sh/setup-uv from 8.3.2 to 9.0.0",

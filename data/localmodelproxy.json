@@ -6,6 +6,14 @@
   "latest_release_time": "2026-07-27T11:00:47Z",
   "unreleased_commits": [
     {
+      "sha": "2666e48bc6dd73cbffc10c1ee44a95bd7c7df84c",
+      "author": "JaredHatfield",
+      "message": "Add ChromaDB indexing workflow",
+      "timestamp": "2026-08-01T03:27:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/2666e48bc6dd73cbffc10c1ee44a95bd7c7df84c",
+      "is_merge": false
+    },
+    {
       "sha": "c412a34296c344eaeee7620ae1161492f96d8ee1",
       "author": "JaredHatfield",
       "message": "Update semgrep.yml to use specific action versions",

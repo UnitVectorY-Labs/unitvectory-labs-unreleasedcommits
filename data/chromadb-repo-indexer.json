@@ -4,6 +4,15 @@
   "default_branch": "main",
   "latest_release_tag": "v1.0.0",
   "latest_release_time": "2026-07-31T01:17:02Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "a8151c8f7f4aff53b6a06eac9bab73d4361b557a",
+      "author": "JaredHatfield",
+      "message": "Add ChromaDB indexing workflow",
+      "timestamp": "2026-08-01T02:42:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/a8151c8f7f4aff53b6a06eac9bab73d4361b557a",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer"
 }
