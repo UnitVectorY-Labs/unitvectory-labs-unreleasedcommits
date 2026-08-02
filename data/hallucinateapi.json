@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-28T15:16:00Z",
   "unreleased_commits": [
     {
+      "sha": "35d7b7877d7e0217260cf10d8eda8f3461b10db8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #90 from UnitVectorY-Labs/update-chromadb-repo-indexer-v1.1.0\n\nchore: update chromadb-repo-indexer to v1.1.0",
+      "timestamp": "2026-08-02T00:57:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/35d7b7877d7e0217260cf10d8eda8f3461b10db8",
+      "is_merge": true
+    },
+    {
+      "sha": "3cf6e2cf2e15721468fd4a5dc746a84a91a4c550",
+      "author": "JaredHatfield",
+      "message": "chore: update chromadb-repo-indexer to v1.1.0",
+      "timestamp": "2026-08-02T00:51:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/3cf6e2cf2e15721468fd4a5dc746a84a91a4c550",
+      "is_merge": false
+    },
+    {
+      "sha": "b630ed3789169c85e93860459f1883f8f3fe1b10",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #89 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.6.0\n\nbuild(deps): bump docker/login-action from 4.4.0 to 4.6.0",
+      "timestamp": "2026-08-01T23:36:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/b630ed3789169c85e93860459f1883f8f3fe1b10",
+      "is_merge": true
+    },
+    {
+      "sha": "f211718532b3eae4e1053fa26c063cb37f1d03ab",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump docker/login-action from 4.4.0 to 4.6.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.4.0 to 4.6.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/af1e73f918a031802d376d3c8bbc3fe56130a9b0...dbcb813823bdd20940b903addbd779551569679f)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.6.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-01T10:11:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/f211718532b3eae4e1053fa26c063cb37f1d03ab",
+      "is_merge": false
+    },
+    {
       "sha": "9689358b83ca4253f1cd98bf39321f03ad36a12c",
       "author": "JaredHatfield",
       "message": "Add GitHub Actions workflow for ChromaDB indexing",

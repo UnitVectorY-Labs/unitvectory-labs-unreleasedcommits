@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:13:38Z",
   "unreleased_commits": [
     {
+      "sha": "3eec81d7e6583763502bac530d00e416935a4b29",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #102 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-4.2.1\n\nchore(deps): bump actions/attest from 4.2.0 to 4.2.1",
+      "timestamp": "2026-08-01T23:35:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/3eec81d7e6583763502bac530d00e416935a4b29",
+      "is_merge": true
+    },
+    {
+      "sha": "e7ba6a3921f285258f3160c170b2ccdbf5462fd4",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/attest from 4.2.0 to 4.2.1\n\nBumps [actions/attest](https://github.com/actions/attest) from 4.2.0 to 4.2.1.\n- [Release notes](https://github.com/actions/attest/releases)\n- [Changelog](https://github.com/actions/attest/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest/compare/f7c74d28b9d84cb8768d0b8ca14a4bac6ef463e6...508db95dd578ae2727ebd6217d5ba78e4fbda05d)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest\n  dependency-version: 4.2.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-01T10:11:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/e7ba6a3921f285258f3160c170b2ccdbf5462fd4",
+      "is_merge": false
+    },
+    {
       "sha": "a0337e8d4c9ad095faa4bb23d4ea1b3904f6ab66",
       "author": "JaredHatfield",
       "message": "Merge pull request #100 from UnitVectorY-Labs/chore/codeql-4.37.3\n\nBump CodeQL version to 4.37.3",

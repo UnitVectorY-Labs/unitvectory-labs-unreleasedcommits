@@ -6,6 +6,38 @@
   "latest_release_time": "2026-07-14T00:19:37Z",
   "unreleased_commits": [
     {
+      "sha": "0b6ccabdad7533bf14088084ef4646a912353f04",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #95 from UnitVectorY-Labs/update-chromadb-repo-indexer-v1.1.0\n\nchore: update chromadb-repo-indexer to v1.1.0",
+      "timestamp": "2026-08-02T00:57:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/0b6ccabdad7533bf14088084ef4646a912353f04",
+      "is_merge": true
+    },
+    {
+      "sha": "ee0e081800fc35038a996d866aa7d2a4cf0130f6",
+      "author": "JaredHatfield",
+      "message": "chore: update chromadb-repo-indexer to v1.1.0",
+      "timestamp": "2026-08-02T00:51:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/ee0e081800fc35038a996d866aa7d2a4cf0130f6",
+      "is_merge": false
+    },
+    {
+      "sha": "b7991155c9da91799ea3826a6cdc5a08e63eac9e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #94 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-4.2.1\n\nchore(deps): bump actions/attest from 4.2.0 to 4.2.1",
+      "timestamp": "2026-08-01T23:35:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/b7991155c9da91799ea3826a6cdc5a08e63eac9e",
+      "is_merge": true
+    },
+    {
+      "sha": "261d6e5bafd68e6af5723dbb4c67f392aafde107",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/attest from 4.2.0 to 4.2.1\n\nBumps [actions/attest](https://github.com/actions/attest) from 4.2.0 to 4.2.1.\n- [Release notes](https://github.com/actions/attest/releases)\n- [Changelog](https://github.com/actions/attest/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest/compare/f7c74d28b9d84cb8768d0b8ca14a4bac6ef463e6...508db95dd578ae2727ebd6217d5ba78e4fbda05d)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest\n  dependency-version: 4.2.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-01T10:07:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/261d6e5bafd68e6af5723dbb4c67f392aafde107",
+      "is_merge": false
+    },
+    {
       "sha": "bb55840ce9ddb71b529021bc8aad6aaea9312157",
       "author": "JaredHatfield",
       "message": "Add GitHub Actions workflow for ChromaDB indexing",

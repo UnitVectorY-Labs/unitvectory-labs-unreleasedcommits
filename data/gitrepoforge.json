@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-17T11:03:43Z",
   "unreleased_commits": [
     {
+      "sha": "53fe3ba97b562de78994270e7d52d6c256c66243",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #67 from UnitVectorY-Labs/update-chromadb-repo-indexer-v1.1.0\n\nchore: update chromadb-repo-indexer to v1.1.0",
+      "timestamp": "2026-08-02T00:57:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/gitrepoforge/commit/53fe3ba97b562de78994270e7d52d6c256c66243",
+      "is_merge": true
+    },
+    {
+      "sha": "c9fdc93dbf7f6944ae85aec08da05359fe0a0eab",
+      "author": "JaredHatfield",
+      "message": "chore: update chromadb-repo-indexer to v1.1.0",
+      "timestamp": "2026-08-02T00:51:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/gitrepoforge/commit/c9fdc93dbf7f6944ae85aec08da05359fe0a0eab",
+      "is_merge": false
+    },
+    {
+      "sha": "0bf8661e7bfb7573712b2793c5c3aa2d7191e07a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #66 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-4.2.1\n\nbuild(deps): bump actions/attest from 4.2.0 to 4.2.1",
+      "timestamp": "2026-08-01T23:36:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/gitrepoforge/commit/0bf8661e7bfb7573712b2793c5c3aa2d7191e07a",
+      "is_merge": true
+    },
+    {
+      "sha": "e4ec795d95f9e2ec18d0355059a798d5c7c686d6",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/attest from 4.2.0 to 4.2.1\n\nBumps [actions/attest](https://github.com/actions/attest) from 4.2.0 to 4.2.1.\n- [Release notes](https://github.com/actions/attest/releases)\n- [Changelog](https://github.com/actions/attest/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest/compare/f7c74d28b9d84cb8768d0b8ca14a4bac6ef463e6...508db95dd578ae2727ebd6217d5ba78e4fbda05d)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest\n  dependency-version: 4.2.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-01T10:12:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/gitrepoforge/commit/e4ec795d95f9e2ec18d0355059a798d5c7c686d6",
+      "is_merge": false
+    },
+    {
       "sha": "16289e36b9090d1f5d21617e8d644c8b904e2d6c",
       "author": "JaredHatfield",
       "message": "Add ChromaDB indexing workflow",

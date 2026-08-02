@@ -6,6 +6,22 @@
   "latest_release_time": "2026-03-02T11:56:38Z",
   "unreleased_commits": [
     {
+      "sha": "22a5e7c926c7da3c0a8485c92567d472a74b8a06",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #91 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.6.0\n\nchore(deps): bump docker/login-action from 4.5.1 to 4.6.0",
+      "timestamp": "2026-08-01T23:35:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/22a5e7c926c7da3c0a8485c92567d472a74b8a06",
+      "is_merge": true
+    },
+    {
+      "sha": "3e662b6ff0e580d32d12c927336c3c63b9662cf4",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/login-action from 4.5.1 to 4.6.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.5.1 to 4.6.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/abd2ef45e78c5afb21d64d4ca52ee8550d9572c7...dbcb813823bdd20940b903addbd779551569679f)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.6.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-01T10:09:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/3e662b6ff0e580d32d12c927336c3c63b9662cf4",
+      "is_merge": false
+    },
+    {
       "sha": "9ef4a3c2efb5b249ec3b877a156767a471f79077",
       "author": "JaredHatfield",
       "message": "Merge pull request #90 from UnitVectorY-Labs/chore/codeql-4.37.3\n\nBump CodeQL version to 4.37.3",

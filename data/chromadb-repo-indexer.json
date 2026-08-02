@@ -2,15 +2,23 @@
   "owner": "UnitVectorY-Labs",
   "name": "chromadb-repo-indexer",
   "default_branch": "main",
-  "latest_release_tag": "v1.0.0",
-  "latest_release_time": "2026-07-31T01:17:02Z",
+  "latest_release_tag": "v1.1.0",
+  "latest_release_time": "2026-08-01T14:24:22Z",
   "unreleased_commits": [
     {
-      "sha": "a8151c8f7f4aff53b6a06eac9bab73d4361b557a",
+      "sha": "7c1fd77319cafe10d9d344658214207ad9712f00",
       "author": "JaredHatfield",
-      "message": "Add ChromaDB indexing workflow",
-      "timestamp": "2026-08-01T02:42:28Z",
-      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/a8151c8f7f4aff53b6a06eac9bab73d4361b557a",
+      "message": "Merge pull request #15 from UnitVectorY-Labs/update-chromadb-repo-indexer-v1.1.0\n\nchore: update chromadb-repo-indexer to v1.1.0",
+      "timestamp": "2026-08-02T00:58:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/7c1fd77319cafe10d9d344658214207ad9712f00",
+      "is_merge": true
+    },
+    {
+      "sha": "ab2eece672776dfb334b028cd42044bc53cfb728",
+      "author": "JaredHatfield",
+      "message": "chore: update chromadb-repo-indexer to v1.1.0",
+      "timestamp": "2026-08-02T00:51:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/ab2eece672776dfb334b028cd42044bc53cfb728",
       "is_merge": false
     }
   ],

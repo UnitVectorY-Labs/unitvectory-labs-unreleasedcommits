@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:49:50Z",
   "unreleased_commits": [
     {
+      "sha": "d091a9de8feae659cec5b58b62758aa6e7a850b6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #141 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-4.2.1\n\nbuild(deps): bump actions/attest from 4.2.0 to 4.2.1",
+      "timestamp": "2026-08-01T23:34:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/d091a9de8feae659cec5b58b62758aa6e7a850b6",
+      "is_merge": true
+    },
+    {
+      "sha": "14d57f4316efd53715a4d18a6ecbeeba341b8aee",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/attest from 4.2.0 to 4.2.1\n\nBumps [actions/attest](https://github.com/actions/attest) from 4.2.0 to 4.2.1.\n- [Release notes](https://github.com/actions/attest/releases)\n- [Changelog](https://github.com/actions/attest/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest/compare/f7c74d28b9d84cb8768d0b8ca14a4bac6ef463e6...508db95dd578ae2727ebd6217d5ba78e4fbda05d)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest\n  dependency-version: 4.2.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-01T10:07:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/14d57f4316efd53715a4d18a6ecbeeba341b8aee",
+      "is_merge": false
+    },
+    {
       "sha": "f86ddb0bbd9e4efc0fab212cd7f7355cb7f8638b",
       "author": "JaredHatfield",
       "message": "Merge pull request #140 from UnitVectorY-Labs/chore/codeql-4.37.3\n\nBump CodeQL version to 4.37.3",

@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-03T10:38:18Z",
   "unreleased_commits": [
     {
+      "sha": "467677fc7b888aa5f594d53f984ce8e9e7f39596",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #52 from UnitVectorY-Labs/update-chromadb-repo-indexer-v1.1.0\n\nchore: update chromadb-repo-indexer to v1.1.0",
+      "timestamp": "2026-08-02T00:58:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/467677fc7b888aa5f594d53f984ce8e9e7f39596",
+      "is_merge": true
+    },
+    {
+      "sha": "e4eccbeafac162847f521ad2e4b3b9c53953276d",
+      "author": "JaredHatfield",
+      "message": "chore: update chromadb-repo-indexer to v1.1.0",
+      "timestamp": "2026-08-02T00:51:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/e4eccbeafac162847f521ad2e4b3b9c53953276d",
+      "is_merge": false
+    },
+    {
+      "sha": "7b51609a78aa9909c7b035f86e91d935e94eb22a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #51 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-4.2.1\n\nBump actions/attest from 4.2.0 to 4.2.1",
+      "timestamp": "2026-08-01T23:36:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/7b51609a78aa9909c7b035f86e91d935e94eb22a",
+      "is_merge": true
+    },
+    {
+      "sha": "cc9b25dd3e465173da42aea325fb6c7f89c04aeb",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/attest from 4.2.0 to 4.2.1\n\nBumps [actions/attest](https://github.com/actions/attest) from 4.2.0 to 4.2.1.\n- [Release notes](https://github.com/actions/attest/releases)\n- [Changelog](https://github.com/actions/attest/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest/compare/f7c74d28b9d84cb8768d0b8ca14a4bac6ef463e6...508db95dd578ae2727ebd6217d5ba78e4fbda05d)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest\n  dependency-version: 4.2.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-01T10:16:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/cc9b25dd3e465173da42aea325fb6c7f89c04aeb",
+      "is_merge": false
+    },
+    {
       "sha": "99e2faf3c8423cb9a47c7d8572dcda44d1ce73b9",
       "author": "JaredHatfield",
       "message": "Add GitHub Actions workflow for ChromaDB indexing",

@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:28:39Z",
   "unreleased_commits": [
     {
+      "sha": "fcaf455389ca8192aa3e04cdc1df671724ea6323",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #221 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.6.0\n\nchore(deps): bump docker/login-action from 4.4.0 to 4.6.0",
+      "timestamp": "2026-08-01T23:33:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/fcaf455389ca8192aa3e04cdc1df671724ea6323",
+      "is_merge": true
+    },
+    {
+      "sha": "c4fcda3da98d0bebd06bf510fd2a2a0e167d66b0",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/login-action from 4.4.0 to 4.6.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.4.0 to 4.6.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/af1e73f918a031802d376d3c8bbc3fe56130a9b0...dbcb813823bdd20940b903addbd779551569679f)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.6.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-01T10:04:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/c4fcda3da98d0bebd06bf510fd2a2a0e167d66b0",
+      "is_merge": false
+    },
+    {
       "sha": "f1fbbd906d1f29e98491dda5f0dca79dd4e3779f",
       "author": "JaredHatfield",
       "message": "Merge pull request #212 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.289.0\n\nchore(deps): bump google.golang.org/api from 0.288.0 to 0.289.0",

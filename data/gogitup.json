@@ -6,6 +6,30 @@
   "latest_release_time": "2026-06-10T07:40:04Z",
   "unreleased_commits": [
     {
+      "sha": "dfa92a5703750be3c1bb2877e167d120e4d7da72",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #62 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-4.2.1\n\nbuild(deps): bump actions/attest from 4.2.0 to 4.2.1",
+      "timestamp": "2026-08-01T23:36:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/dfa92a5703750be3c1bb2877e167d120e4d7da72",
+      "is_merge": true
+    },
+    {
+      "sha": "28dc3a9d3ec99cceccebb81b1e4faaa4d1e5d70e",
+      "author": "JaredHatfield",
+      "message": "Update chromadb-repo-indexer action to v1.1.0",
+      "timestamp": "2026-08-01T14:27:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/28dc3a9d3ec99cceccebb81b1e4faaa4d1e5d70e",
+      "is_merge": false
+    },
+    {
+      "sha": "84e4e2004b1820a230dab3e97aa5414acf357ec3",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/attest from 4.2.0 to 4.2.1\n\nBumps [actions/attest](https://github.com/actions/attest) from 4.2.0 to 4.2.1.\n- [Release notes](https://github.com/actions/attest/releases)\n- [Changelog](https://github.com/actions/attest/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest/compare/f7c74d28b9d84cb8768d0b8ca14a4bac6ef463e6...508db95dd578ae2727ebd6217d5ba78e4fbda05d)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest\n  dependency-version: 4.2.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-01T10:10:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/84e4e2004b1820a230dab3e97aa5414acf357ec3",
+      "is_merge": false
+    },
+    {
       "sha": "cbe2c01e91999f2f7ffdc8193e2935e48cf76a75",
       "author": "JaredHatfield",
       "message": "Add ChromaDB indexing workflow",
