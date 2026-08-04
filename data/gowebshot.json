@@ -6,6 +6,22 @@
   "latest_release_time": "2026-05-23T23:28:42Z",
   "unreleased_commits": [
     {
+      "sha": "89dd4a4755633e8be28006c56a4f076c6e6e2a56",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #55 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-04T00:43:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/89dd4a4755633e8be28006c56a4f076c6e6e2a56",
+      "is_merge": true
+    },
+    {
+      "sha": "1ed74a6726c7881bcf4486c4a3d949326280f6af",
+      "author": "JaredHatfield",
+      "message": "fix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T22:28:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/1ed74a6726c7881bcf4486c4a3d949326280f6af",
+      "is_merge": false
+    },
+    {
       "sha": "2b23abdd48d33eb2d83e9a2a9e8d0361521f485c",
       "author": "JaredHatfield",
       "message": "Add workflow for indexing repository in ChromaDB",

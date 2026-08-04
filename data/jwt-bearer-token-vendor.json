@@ -6,6 +6,38 @@
   "latest_release_time": "2025-12-06T18:46:02Z",
   "unreleased_commits": [
     {
+      "sha": "0e6eaeb0fb03b68e399083b265ff5faab05a2ac0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #65 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T23:20:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/jwt-bearer-token-vendor/commit/0e6eaeb0fb03b68e399083b265ff5faab05a2ac0",
+      "is_merge": true
+    },
+    {
+      "sha": "f564f024c1812780fd6c3390f50cc4625ff4084b",
+      "author": "JaredHatfield",
+      "message": "fix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T22:36:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/jwt-bearer-token-vendor/commit/f564f024c1812780fd6c3390f50cc4625ff4084b",
+      "is_merge": false
+    },
+    {
+      "sha": "26fbb72d8af8cacf5b13746011f7a6b3756f1cef",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #64 from UnitVectorY-Labs/add-chromadb-repo-indexer\n\nAdd ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T09:56:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/jwt-bearer-token-vendor/commit/26fbb72d8af8cacf5b13746011f7a6b3756f1cef",
+      "is_merge": true
+    },
+    {
+      "sha": "4e9d9360c5999c36ea0ec193c172dfa95c7149ef",
+      "author": "JaredHatfield",
+      "message": "Add ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T03:03:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/jwt-bearer-token-vendor/commit/4e9d9360c5999c36ea0ec193c172dfa95c7149ef",
+      "is_merge": false
+    },
+    {
       "sha": "a07733c02125d4ad7ca22a5232120f2da16d1698",
       "author": "JaredHatfield",
       "message": "Merge pull request #63 from UnitVectorY-Labs/chore/codeql-4.37.3\n\nBump CodeQL version to 4.37.3",

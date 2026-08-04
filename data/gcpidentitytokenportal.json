@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-22T22:30:53Z",
   "unreleased_commits": [
     {
+      "sha": "865dda3c13b52feb376f46be181cd791af4a9788",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #221 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T23:37:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/865dda3c13b52feb376f46be181cd791af4a9788",
+      "is_merge": true
+    },
+    {
+      "sha": "44d9be9b1f753e3f530d74d57235a715f1e3c5be",
+      "author": "JaredHatfield",
+      "message": "fix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T22:24:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/44d9be9b1f753e3f530d74d57235a715f1e3c5be",
+      "is_merge": false
+    },
+    {
+      "sha": "52c872408c2c6c10e219aef2445981f7594d2afa",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #220 from UnitVectorY-Labs/add-chromadb-repo-indexer\n\nAdd ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T10:28:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/52c872408c2c6c10e219aef2445981f7594d2afa",
+      "is_merge": true
+    },
+    {
+      "sha": "430373e2d4629282253703d9e59448532f1b4f60",
+      "author": "JaredHatfield",
+      "message": "Add ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T03:01:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/430373e2d4629282253703d9e59448532f1b4f60",
+      "is_merge": false
+    },
+    {
       "sha": "4df6ffd7c1b714b7ca60ba74c493580081ca4a83",
       "author": "JaredHatfield",
       "message": "Merge pull request #219 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.6.0\n\nchore(deps): bump docker/login-action from 4.5.1 to 4.6.0",

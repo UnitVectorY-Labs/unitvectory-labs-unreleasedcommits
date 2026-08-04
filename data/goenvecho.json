@@ -6,6 +6,38 @@
   "latest_release_time": "2026-05-22T00:44:26Z",
   "unreleased_commits": [
     {
+      "sha": "15150d6b94aef82dbf30318a3684adb91f35cf0e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #111 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T23:36:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/15150d6b94aef82dbf30318a3684adb91f35cf0e",
+      "is_merge": true
+    },
+    {
+      "sha": "f096db38efa356541cf1c246151397ace46b7e8a",
+      "author": "JaredHatfield",
+      "message": "fix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T22:27:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/f096db38efa356541cf1c246151397ace46b7e8a",
+      "is_merge": false
+    },
+    {
+      "sha": "4a854c9c705daace1cd53b0429bac188c6340089",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #110 from UnitVectorY-Labs/add-chromadb-repo-indexer\n\nAdd ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T10:26:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/4a854c9c705daace1cd53b0429bac188c6340089",
+      "is_merge": true
+    },
+    {
+      "sha": "1a4479c45c6599b84e6c51aa290e82bdb4a7f776",
+      "author": "JaredHatfield",
+      "message": "Add ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T03:02:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/1a4479c45c6599b84e6c51aa290e82bdb4a7f776",
+      "is_merge": false
+    },
+    {
       "sha": "7058ed92fc5e8cb9d108c717433218efc767f5a5",
       "author": "JaredHatfield",
       "message": "Merge pull request #109 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.6.0\n\nchore(deps): bump docker/login-action from 4.4.0 to 4.6.0",

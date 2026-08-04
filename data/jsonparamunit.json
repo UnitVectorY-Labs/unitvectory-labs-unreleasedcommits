@@ -6,6 +6,38 @@
   "latest_release_time": "2025-12-06T19:45:33Z",
   "unreleased_commits": [
     {
+      "sha": "e0eb9fc475bed2d046bd1aabdeb6553c676b0188",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #198 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T22:57:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/e0eb9fc475bed2d046bd1aabdeb6553c676b0188",
+      "is_merge": true
+    },
+    {
+      "sha": "a8af1ad1988c834d7bdc168f701d08cf4d1fa713",
+      "author": "JaredHatfield",
+      "message": "fix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T22:35:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/a8af1ad1988c834d7bdc168f701d08cf4d1fa713",
+      "is_merge": false
+    },
+    {
+      "sha": "5631c80347b627a81f0dad30a5a3b370f7de7a69",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #197 from UnitVectorY-Labs/add-chromadb-repo-indexer\n\nAdd ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T09:14:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/5631c80347b627a81f0dad30a5a3b370f7de7a69",
+      "is_merge": true
+    },
+    {
+      "sha": "5703d0d14a4631b8bd9a75d65987cb6b8bb9f297",
+      "author": "JaredHatfield",
+      "message": "Add ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T03:02:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/5703d0d14a4631b8bd9a75d65987cb6b8bb9f297",
+      "is_merge": false
+    },
+    {
       "sha": "2546596fd68be270c5017c14392d279e74b54a6a",
       "author": "JaredHatfield",
       "message": "Merge pull request #196 from UnitVectorY-Labs/chore/codeql-4.37.3\n\nBump CodeQL version to 4.37.3",

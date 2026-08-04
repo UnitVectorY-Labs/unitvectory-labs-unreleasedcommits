@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-10T07:40:04Z",
   "unreleased_commits": [
     {
+      "sha": "09a280bb19dd9c8b50b48196915a161f00fa998d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #63 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-04T00:36:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/09a280bb19dd9c8b50b48196915a161f00fa998d",
+      "is_merge": true
+    },
+    {
+      "sha": "316fa2edb9fad0fd8ce147189be6f50ba341dd70",
+      "author": "JaredHatfield",
+      "message": "fix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T22:28:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/316fa2edb9fad0fd8ce147189be6f50ba341dd70",
+      "is_merge": false
+    },
+    {
       "sha": "dfa92a5703750be3c1bb2877e167d120e4d7da72",
       "author": "JaredHatfield",
       "message": "Merge pull request #62 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-4.2.1\n\nbuild(deps): bump actions/attest from 4.2.0 to 4.2.1",

@@ -6,6 +6,38 @@
   "latest_release_time": "2026-05-23T23:32:07Z",
   "unreleased_commits": [
     {
+      "sha": "6ef9eee551fcba0809a487ecec7a3282f8d9509f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #74 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-04T00:24:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/6ef9eee551fcba0809a487ecec7a3282f8d9509f",
+      "is_merge": true
+    },
+    {
+      "sha": "db640d61b22895f95e971b58cfaa1b17e48f351a",
+      "author": "JaredHatfield",
+      "message": "fix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T22:10:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/db640d61b22895f95e971b58cfaa1b17e48f351a",
+      "is_merge": false
+    },
+    {
+      "sha": "ebe865759f33302705537d11f2f6d7e9ab2ef479",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #73 from UnitVectorY-Labs/add-chromadb-repo-indexer\n\nAdd ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T11:17:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/ebe865759f33302705537d11f2f6d7e9ab2ef479",
+      "is_merge": true
+    },
+    {
+      "sha": "7ac1f3479fe96ed43249f48ca63b9be7783ef059",
+      "author": "JaredHatfield",
+      "message": "Add ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T03:00:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/7ac1f3479fe96ed43249f48ca63b9be7783ef059",
+      "is_merge": false
+    },
+    {
       "sha": "980ec4c7061000c12cb0becd28aaacc5772fc9a4",
       "author": "JaredHatfield",
       "message": "Merge pull request #72 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-4.2.1\n\nbuild(deps): bump actions/attest from 4.2.0 to 4.2.1",

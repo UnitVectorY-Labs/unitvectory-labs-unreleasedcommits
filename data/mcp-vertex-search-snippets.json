@@ -4,6 +4,39 @@
   "default_branch": "main",
   "latest_release_tag": "v0.3.0",
   "latest_release_time": "2026-08-02T02:55:31Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "f40291d9ea8a6ec3e3527079903878058c87086c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #118 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-04T00:11:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/f40291d9ea8a6ec3e3527079903878058c87086c",
+      "is_merge": true
+    },
+    {
+      "sha": "a852530438ae5eaf176cbad17fe78f34b296b956",
+      "author": "JaredHatfield",
+      "message": "fix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T22:36:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/a852530438ae5eaf176cbad17fe78f34b296b956",
+      "is_merge": false
+    },
+    {
+      "sha": "f0107ff2a0390204f203195de1d7cbb490f1546d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #117 from UnitVectorY-Labs/add-chromadb-repo-indexer\n\nAdd ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T11:05:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/f0107ff2a0390204f203195de1d7cbb490f1546d",
+      "is_merge": true
+    },
+    {
+      "sha": "5f3ea11be17eeed689a3144647e30db88b5f9ef9",
+      "author": "JaredHatfield",
+      "message": "Add ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T03:03:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/5f3ea11be17eeed689a3144647e30db88b5f9ef9",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets"
 }

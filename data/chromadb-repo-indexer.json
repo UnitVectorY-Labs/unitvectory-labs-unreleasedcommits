@@ -6,6 +6,22 @@
   "latest_release_time": "2026-08-01T14:24:22Z",
   "unreleased_commits": [
     {
+      "sha": "ee0b5c108827cc0a242b17b6eb8707dcd4cecc7e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #16 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-04T00:58:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/ee0b5c108827cc0a242b17b6eb8707dcd4cecc7e",
+      "is_merge": true
+    },
+    {
+      "sha": "c37bbb53feb8e22ba19d7e20f5d57b832a499e47",
+      "author": "JaredHatfield",
+      "message": "fix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T22:10:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/c37bbb53feb8e22ba19d7e20f5d57b832a499e47",
+      "is_merge": false
+    },
+    {
       "sha": "7c1fd77319cafe10d9d344658214207ad9712f00",
       "author": "JaredHatfield",
       "message": "Merge pull request #15 from UnitVectorY-Labs/update-chromadb-repo-indexer-v1.1.0\n\nchore: update chromadb-repo-indexer to v1.1.0",

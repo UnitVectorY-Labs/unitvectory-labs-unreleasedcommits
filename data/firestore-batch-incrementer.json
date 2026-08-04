@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-22T22:14:27Z",
   "unreleased_commits": [
     {
+      "sha": "001fdba882cd074dd287a960e9eefa5732082ccb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #195 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T23:59:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/001fdba882cd074dd287a960e9eefa5732082ccb",
+      "is_merge": true
+    },
+    {
+      "sha": "70c2b8d58cd6694e1d755d0c57d9826641972d56",
+      "author": "JaredHatfield",
+      "message": "fix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T22:16:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/70c2b8d58cd6694e1d755d0c57d9826641972d56",
+      "is_merge": false
+    },
+    {
+      "sha": "d2c58e5910dff6f5d0d7f1b0ef084b41b117c0e8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #194 from UnitVectorY-Labs/add-chromadb-repo-indexer\n\nAdd ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T10:54:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/d2c58e5910dff6f5d0d7f1b0ef084b41b117c0e8",
+      "is_merge": true
+    },
+    {
+      "sha": "b9052882691d17f0c8e631341c5e1ba65e2bc93b",
+      "author": "JaredHatfield",
+      "message": "Add ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T03:01:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/b9052882691d17f0c8e631341c5e1ba65e2bc93b",
+      "is_merge": false
+    },
+    {
       "sha": "3766a84c18d6baef59d4e3df22edfe2c11bb32be",
       "author": "JaredHatfield",
       "message": "Merge pull request #193 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.291.0\n\nchore(deps): bump google.golang.org/api from 0.289.0 to 0.291.0",

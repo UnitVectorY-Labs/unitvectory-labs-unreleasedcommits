@@ -6,6 +6,38 @@
   "latest_release_time": "2025-10-25T13:36:20Z",
   "unreleased_commits": [
     {
+      "sha": "0d8a59fcbeb65ce17fbd2b56f5e5e2fc7af04216",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #115 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T23:58:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/0d8a59fcbeb65ce17fbd2b56f5e5e2fc7af04216",
+      "is_merge": true
+    },
+    {
+      "sha": "c4a7703b712c0f79bd1eaa4f2ed12379c42017df",
+      "author": "JaredHatfield",
+      "message": "fix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T22:05:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/c4a7703b712c0f79bd1eaa4f2ed12379c42017df",
+      "is_merge": false
+    },
+    {
+      "sha": "ff49d771df3b240b998a70ce5368c2fca1632904",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #114 from UnitVectorY-Labs/add-chromadb-repo-indexer\n\nAdd ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T10:53:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/ff49d771df3b240b998a70ce5368c2fca1632904",
+      "is_merge": true
+    },
+    {
+      "sha": "15e426239c049e4ca7640268a7dcd3ce67e37c33",
+      "author": "JaredHatfield",
+      "message": "Add ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T02:59:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/15e426239c049e4ca7640268a7dcd3ce67e37c33",
+      "is_merge": false
+    },
+    {
       "sha": "a0686fd47c94cfd2943cbec9b281de480aa88577",
       "author": "JaredHatfield",
       "message": "Merge pull request #113 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.6.0\n\nBump docker/login-action from 4.5.1 to 4.6.0",

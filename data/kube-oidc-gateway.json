@@ -6,6 +6,38 @@
   "latest_release_time": "2026-03-02T11:56:38Z",
   "unreleased_commits": [
     {
+      "sha": "bac75940abcd0fc8ef3d27d64af8b54a026ea244",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #93 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-04T00:23:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/bac75940abcd0fc8ef3d27d64af8b54a026ea244",
+      "is_merge": true
+    },
+    {
+      "sha": "b559497c6a7b2058d6337251a7209efd7df7363a",
+      "author": "JaredHatfield",
+      "message": "fix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T22:36:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/b559497c6a7b2058d6337251a7209efd7df7363a",
+      "is_merge": false
+    },
+    {
+      "sha": "66811a9380dcc1994007871a4572f61124faeb79",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #92 from UnitVectorY-Labs/add-chromadb-repo-indexer\n\nAdd ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T11:16:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/66811a9380dcc1994007871a4572f61124faeb79",
+      "is_merge": true
+    },
+    {
+      "sha": "7af7244f14e6516a1470e279de2f17100bd3119e",
+      "author": "JaredHatfield",
+      "message": "Add ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T03:03:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/7af7244f14e6516a1470e279de2f17100bd3119e",
+      "is_merge": false
+    },
+    {
       "sha": "22a5e7c926c7da3c0a8485c92567d472a74b8a06",
       "author": "JaredHatfield",
       "message": "Merge pull request #91 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.6.0\n\nchore(deps): bump docker/login-action from 4.5.1 to 4.6.0",

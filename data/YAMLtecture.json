@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-22T22:49:50Z",
   "unreleased_commits": [
     {
+      "sha": "04ff2c9f91faa86712d9148ad2902e305018cb5f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #143 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T23:47:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/04ff2c9f91faa86712d9148ad2902e305018cb5f",
+      "is_merge": true
+    },
+    {
+      "sha": "8c85c50696fa776aad94097b99bce9bb444f980d",
+      "author": "JaredHatfield",
+      "message": "fix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T22:38:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/8c85c50696fa776aad94097b99bce9bb444f980d",
+      "is_merge": false
+    },
+    {
+      "sha": "6a68b6753910af398b63d0c43da25ba74c3223e9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #142 from UnitVectorY-Labs/add-chromadb-repo-indexer\n\nAdd ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T10:42:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/6a68b6753910af398b63d0c43da25ba74c3223e9",
+      "is_merge": true
+    },
+    {
+      "sha": "9e6aa7902cfe4f2f8d4a619ced0e23f1672e942e",
+      "author": "JaredHatfield",
+      "message": "Add ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T03:05:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/9e6aa7902cfe4f2f8d4a619ced0e23f1672e942e",
+      "is_merge": false
+    },
+    {
       "sha": "d091a9de8feae659cec5b58b62758aa6e7a850b6",
       "author": "JaredHatfield",
       "message": "Merge pull request #141 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-4.2.1\n\nbuild(deps): bump actions/attest from 4.2.0 to 4.2.1",

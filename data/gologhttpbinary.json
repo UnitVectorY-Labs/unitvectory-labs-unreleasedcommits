@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-22T22:47:31Z",
   "unreleased_commits": [
     {
+      "sha": "e91791a968a8f3eca3a44ed7446abaacc71fca84",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #118 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T23:41:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpbinary/commit/e91791a968a8f3eca3a44ed7446abaacc71fca84",
+      "is_merge": true
+    },
+    {
+      "sha": "7458664cb145ff870d9b07d516325adf0c3686e2",
+      "author": "JaredHatfield",
+      "message": "fix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T22:28:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpbinary/commit/7458664cb145ff870d9b07d516325adf0c3686e2",
+      "is_merge": false
+    },
+    {
+      "sha": "01c6e606b6a25940658e73f1efe421bcb117b7c9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #117 from UnitVectorY-Labs/add-chromadb-repo-indexer\n\nAdd ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T10:36:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpbinary/commit/01c6e606b6a25940658e73f1efe421bcb117b7c9",
+      "is_merge": true
+    },
+    {
+      "sha": "0ab4d3348008b703d74b8c79d97e213c6ee2538d",
+      "author": "JaredHatfield",
+      "message": "Add ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T03:02:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpbinary/commit/0ab4d3348008b703d74b8c79d97e213c6ee2538d",
+      "is_merge": false
+    },
+    {
       "sha": "65314e8db281350916acccbc88de25341dca8de2",
       "author": "JaredHatfield",
       "message": "Merge pull request #116 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.6.0\n\nchore(deps): bump docker/login-action from 4.4.0 to 4.6.0",

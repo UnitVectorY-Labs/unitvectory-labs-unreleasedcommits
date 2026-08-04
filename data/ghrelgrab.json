@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-22T22:13:38Z",
   "unreleased_commits": [
     {
+      "sha": "b5f7d967aef5654dd454d004682215ec8088af7d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #104 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-04T00:10:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/b5f7d967aef5654dd454d004682215ec8088af7d",
+      "is_merge": true
+    },
+    {
+      "sha": "9be65a6e5c007125f2191dfea0f84ff761e184e0",
+      "author": "JaredHatfield",
+      "message": "fix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T22:26:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/9be65a6e5c007125f2191dfea0f84ff761e184e0",
+      "is_merge": false
+    },
+    {
+      "sha": "4dc0e3050264094279ec54b0163ed9277d59c9c0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #103 from UnitVectorY-Labs/add-chromadb-repo-indexer\n\nAdd ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T11:04:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/4dc0e3050264094279ec54b0163ed9277d59c9c0",
+      "is_merge": true
+    },
+    {
+      "sha": "c5904755d65625a498c06b5a05ae533251688920",
+      "author": "JaredHatfield",
+      "message": "Add ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T03:01:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/c5904755d65625a498c06b5a05ae533251688920",
+      "is_merge": false
+    },
+    {
       "sha": "3eec81d7e6583763502bac530d00e416935a4b29",
       "author": "JaredHatfield",
       "message": "Merge pull request #102 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-4.2.1\n\nchore(deps): bump actions/attest from 4.2.0 to 4.2.1",

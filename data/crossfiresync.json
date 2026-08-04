@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-22T22:18:06Z",
   "unreleased_commits": [
     {
+      "sha": "17797941105c80c99f946f68bf2342fe770205c2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #233 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T23:01:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/17797941105c80c99f946f68bf2342fe770205c2",
+      "is_merge": true
+    },
+    {
+      "sha": "082c104d8ad6bdfc9e04ea22b4e99853993c24d7",
+      "author": "JaredHatfield",
+      "message": "fix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T22:13:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/082c104d8ad6bdfc9e04ea22b4e99853993c24d7",
+      "is_merge": false
+    },
+    {
+      "sha": "475411b4c8c1c1e561b39891e388d72ff09a80e5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #232 from UnitVectorY-Labs/add-chromadb-repo-indexer\n\nAdd ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T09:20:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/475411b4c8c1c1e561b39891e388d72ff09a80e5",
+      "is_merge": true
+    },
+    {
+      "sha": "10233cc2f01dfe721bcb163d99455adef87e3e9d",
+      "author": "JaredHatfield",
+      "message": "Add ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T03:00:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/10233cc2f01dfe721bcb163d99455adef87e3e9d",
+      "is_merge": false
+    },
+    {
       "sha": "e4392d9a32557d293ef5b1eda84a96767904093b",
       "author": "JaredHatfield",
       "message": "Merge pull request #225 from UnitVectorY-Labs/dependabot/maven/com.google.cloud.functions-functions-framework-api-2.0.2\n\nBump com.google.cloud.functions:functions-framework-api from 2.0.1 to 2.0.2",

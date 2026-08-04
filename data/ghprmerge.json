@@ -2,199 +2,23 @@
   "owner": "UnitVectorY-Labs",
   "name": "ghprmerge",
   "default_branch": "main",
-  "latest_release_tag": "v0.5.0",
-  "latest_release_time": "2026-07-14T00:19:37Z",
+  "latest_release_tag": "v0.6.0",
+  "latest_release_time": "2026-08-03T08:58:42Z",
   "unreleased_commits": [
     {
-      "sha": "0b6ccabdad7533bf14088084ef4646a912353f04",
+      "sha": "aa980284eabbfe181c18b5f87166a69c68a6f494",
       "author": "JaredHatfield",
-      "message": "Merge pull request #95 from UnitVectorY-Labs/update-chromadb-repo-indexer-v1.1.0\n\nchore: update chromadb-repo-indexer to v1.1.0",
-      "timestamp": "2026-08-02T00:57:48Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/0b6ccabdad7533bf14088084ef4646a912353f04",
+      "message": "Merge pull request #97 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-04T00:25:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/aa980284eabbfe181c18b5f87166a69c68a6f494",
       "is_merge": true
     },
     {
-      "sha": "ee0e081800fc35038a996d866aa7d2a4cf0130f6",
+      "sha": "44e8adcdce8fc966890b0e797818a183805ea9f1",
       "author": "JaredHatfield",
-      "message": "chore: update chromadb-repo-indexer to v1.1.0",
-      "timestamp": "2026-08-02T00:51:27Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/ee0e081800fc35038a996d866aa7d2a4cf0130f6",
-      "is_merge": false
-    },
-    {
-      "sha": "b7991155c9da91799ea3826a6cdc5a08e63eac9e",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #94 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-4.2.1\n\nchore(deps): bump actions/attest from 4.2.0 to 4.2.1",
-      "timestamp": "2026-08-01T23:35:37Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/b7991155c9da91799ea3826a6cdc5a08e63eac9e",
-      "is_merge": true
-    },
-    {
-      "sha": "261d6e5bafd68e6af5723dbb4c67f392aafde107",
-      "author": "dependabot[bot]",
-      "message": "chore(deps): bump actions/attest from 4.2.0 to 4.2.1\n\nBumps [actions/attest](https://github.com/actions/attest) from 4.2.0 to 4.2.1.\n- [Release notes](https://github.com/actions/attest/releases)\n- [Changelog](https://github.com/actions/attest/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest/compare/f7c74d28b9d84cb8768d0b8ca14a4bac6ef463e6...508db95dd578ae2727ebd6217d5ba78e4fbda05d)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest\n  dependency-version: 4.2.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
-      "timestamp": "2026-08-01T10:07:45Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/261d6e5bafd68e6af5723dbb4c67f392aafde107",
-      "is_merge": false
-    },
-    {
-      "sha": "bb55840ce9ddb71b529021bc8aad6aaea9312157",
-      "author": "JaredHatfield",
-      "message": "Add GitHub Actions workflow for ChromaDB indexing",
-      "timestamp": "2026-08-01T02:52:39Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/bb55840ce9ddb71b529021bc8aad6aaea9312157",
-      "is_merge": false
-    },
-    {
-      "sha": "e64d5deec7448a6e0144c0159a47c0978d8db325",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #93 from UnitVectorY-Labs/chore/codeql-4.37.3\n\nBump CodeQL version to 4.37.3",
-      "timestamp": "2026-07-25T16:27:11Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/e64d5deec7448a6e0144c0159a47c0978d8db325",
-      "is_merge": true
-    },
-    {
-      "sha": "47b8ffd43a614d2d6a6eaee292eccce5efb92fdf",
-      "author": "JaredHatfield",
-      "message": "Bump CodeQL version to 4.37.3",
-      "timestamp": "2026-07-25T14:54:21Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/47b8ffd43a614d2d6a6eaee292eccce5efb92fdf",
-      "is_merge": false
-    },
-    {
-      "sha": "69571886d7346b6ea279fd72e05ef812535ccdad",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #87 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-9.0.0\n\nchore(deps): bump astral-sh/setup-uv from 8.3.2 to 9.0.0",
-      "timestamp": "2026-07-25T13:28:09Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/69571886d7346b6ea279fd72e05ef812535ccdad",
-      "is_merge": true
-    },
-    {
-      "sha": "85825a46a8642ce8a308642f1209aeb8009858ef",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #89 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7.0.1\n\nchore(deps): bump actions/checkout from 7.0.0 to 7.0.1",
-      "timestamp": "2026-07-25T13:27:46Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/85825a46a8642ce8a308642f1209aeb8009858ef",
-      "is_merge": true
-    },
-    {
-      "sha": "9371273c6a2de00285b6868491f2c35f40d2a3e7",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #90 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-4.2.0\n\nchore(deps): bump actions/attest from 4.1.1 to 4.2.0",
-      "timestamp": "2026-07-25T13:23:36Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/9371273c6a2de00285b6868491f2c35f40d2a3e7",
-      "is_merge": true
-    },
-    {
-      "sha": "2af715cf347d4c29ca72b0fbf1a21dfc2db79c5c",
-      "author": "dependabot[bot]",
-      "message": "chore(deps): bump actions/attest from 4.1.1 to 4.2.0\n\nBumps [actions/attest](https://github.com/actions/attest) from 4.1.1 to 4.2.0.\n- [Release notes](https://github.com/actions/attest/releases)\n- [Changelog](https://github.com/actions/attest/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest/compare/a1948c3f048ba23858d222213b7c278aabede763...f7c74d28b9d84cb8768d0b8ca14a4bac6ef463e6)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest\n  dependency-version: 4.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
-      "timestamp": "2026-07-25T10:06:34Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/2af715cf347d4c29ca72b0fbf1a21dfc2db79c5c",
-      "is_merge": false
-    },
-    {
-      "sha": "cf3d8c033e42508ce629fcb227696161329ad746",
-      "author": "dependabot[bot]",
-      "message": "chore(deps): bump actions/checkout from 7.0.0 to 7.0.1\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 7.0.0 to 7.0.1.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0...3d3c42e5aac5ba805825da76410c181273ba90b1)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: 7.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
-      "timestamp": "2026-07-25T10:06:26Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/cf3d8c033e42508ce629fcb227696161329ad746",
-      "is_merge": false
-    },
-    {
-      "sha": "06dc9a3471909ee4e9f0624f3d78110c5b8a5a87",
-      "author": "dependabot[bot]",
-      "message": "chore(deps): bump astral-sh/setup-uv from 8.3.2 to 9.0.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.3.2 to 9.0.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/11f9893b081a58869d3b5fccaea48c9e9e46f990...c771a70e6277c0a99b617c7a806ffedaca235ff9)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 9.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
-      "timestamp": "2026-07-25T10:05:06Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/06dc9a3471909ee4e9f0624f3d78110c5b8a5a87",
-      "is_merge": false
-    },
-    {
-      "sha": "cd67f28a5cdb86fc4e4586aac216327d0a52e58a",
-      "author": "JaredHatfield",
-      "message": "Create context7.json",
-      "timestamp": "2026-07-20T11:00:51Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/cd67f28a5cdb86fc4e4586aac216327d0a52e58a",
-      "is_merge": false
-    },
-    {
-      "sha": "0bab3225ae19c883bdb1988bb29caa8440554372",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #86 from UnitVectorY-Labs/chore/codeql-4.37.1\n\nBump CodeQL version to 4.37.1",
-      "timestamp": "2026-07-18T14:53:34Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/0bab3225ae19c883bdb1988bb29caa8440554372",
-      "is_merge": true
-    },
-    {
-      "sha": "40baf86be2c5f1b256b5e908162f82b150e93964",
-      "author": "JaredHatfield",
-      "message": "Bump CodeQL version to 4.37.1",
-      "timestamp": "2026-07-18T14:30:37Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/40baf86be2c5f1b256b5e908162f82b150e93964",
-      "is_merge": false
-    },
-    {
-      "sha": "1e576fa1410a2433ee03550da575e8602f4f14e8",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #85 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/term-0.45.0\n\nchore(deps): bump golang.org/x/term from 0.44.0 to 0.45.0",
-      "timestamp": "2026-07-18T14:02:34Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/1e576fa1410a2433ee03550da575e8602f4f14e8",
-      "is_merge": true
-    },
-    {
-      "sha": "b0a4a5558bd0460830458be547e361d4004fd686",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #84 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.0.0\n\nchore(deps): bump actions/setup-go from 6.5.0 to 7.0.0",
-      "timestamp": "2026-07-18T13:54:38Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/b0a4a5558bd0460830458be547e361d4004fd686",
-      "is_merge": true
-    },
-    {
-      "sha": "ca7130f5232776a14df6866c04e9150c6f3f2b02",
-      "author": "dependabot[bot]",
-      "message": "chore(deps): bump golang.org/x/term from 0.44.0 to 0.45.0\n\nBumps [golang.org/x/term](https://github.com/golang/term) from 0.44.0 to 0.45.0.\n- [Commits](https://github.com/golang/term/compare/v0.44.0...v0.45.0)\n\n---\nupdated-dependencies:\n- dependency-name: golang.org/x/term\n  dependency-version: 0.45.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
-      "timestamp": "2026-07-18T10:08:24Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/ca7130f5232776a14df6866c04e9150c6f3f2b02",
-      "is_merge": false
-    },
-    {
-      "sha": "a2c9d15b308d2e83797c9a1a7cdc45f717cd3434",
-      "author": "dependabot[bot]",
-      "message": "chore(deps): bump actions/setup-go from 6.5.0 to 7.0.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 6.5.0 to 7.0.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/924ae3a1cded613372ab5595356fb5720e22ba16...b7ad1dad31e06c5925ef5d2fc7ad053ef454303e)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
-      "timestamp": "2026-07-18T10:08:15Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/a2c9d15b308d2e83797c9a1a7cdc45f717cd3434",
-      "is_merge": false
-    },
-    {
-      "sha": "1b3b3025a27c2516d23995d243cc738a11fbe4e1",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #83 from UnitVectorY-Labs/gitrepoforge/ghprmerge\n\ngitrepoforge: apply desired state for ghprmerge",
-      "timestamp": "2026-07-15T01:40:32Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/1b3b3025a27c2516d23995d243cc738a11fbe4e1",
-      "is_merge": true
-    },
-    {
-      "sha": "a89c8df88ad642eb80d67aab5d7c9dcc60af2aa4",
-      "author": "JaredHatfield",
-      "message": "gitrepoforge: apply desired state for ghprmerge",
-      "timestamp": "2026-07-15T00:48:58Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/a89c8df88ad642eb80d67aab5d7c9dcc60af2aa4",
-      "is_merge": false
-    },
-    {
-      "sha": "06c70e92f2f28dfd17ec949f2fda301499d1653b",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #82 from UnitVectorY-Labs/fix/author-flag-dependabot-login\n\nfix: correct --author flag example to use dependabot[bot] login",
-      "timestamp": "2026-07-14T22:49:50Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/06c70e92f2f28dfd17ec949f2fda301499d1653b",
-      "is_merge": true
-    },
-    {
-      "sha": "66fe8c8ffa9cc8697ea709aa54af14ad8633dcbb",
-      "author": "JaredHatfield",
-      "message": "fix: correct --author flag example to use dependabot[bot] login\n\nThe --author flag uses exact string matching against the GitHub API\nuser.login field. For Dependabot PRs, the API returns dependabot[bot],\nnot app/dependabot. The previous documentation and flag help incorrectly\nused app/dependabot, causing --author app/dependabot to match zero PRs.\n\nUpdated flag help text and all documentation to use the correct\ndependabot[bot] login.",
-      "timestamp": "2026-07-14T22:47:49Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/66fe8c8ffa9cc8697ea709aa54af14ad8633dcbb",
+      "message": "fix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T22:26:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/44e8adcdce8fc966890b0e797818a183805ea9f1",
       "is_merge": false
     }
   ],

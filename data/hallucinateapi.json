@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-28T15:16:00Z",
   "unreleased_commits": [
     {
+      "sha": "c9b170ee27489458b3079efa54083af1a91d77d1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #91 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-04T00:41:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/c9b170ee27489458b3079efa54083af1a91d77d1",
+      "is_merge": true
+    },
+    {
+      "sha": "6c518cb788339e44f203b8513fb5cf9007bbb79a",
+      "author": "JaredHatfield",
+      "message": "fix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T22:28:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/6c518cb788339e44f203b8513fb5cf9007bbb79a",
+      "is_merge": false
+    },
+    {
       "sha": "35d7b7877d7e0217260cf10d8eda8f3461b10db8",
       "author": "JaredHatfield",
       "message": "Merge pull request #90 from UnitVectorY-Labs/update-chromadb-repo-indexer-v1.1.0\n\nchore: update chromadb-repo-indexer to v1.1.0",

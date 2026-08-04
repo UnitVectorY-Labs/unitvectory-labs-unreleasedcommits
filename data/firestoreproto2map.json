@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-22T22:22:29Z",
   "unreleased_commits": [
     {
+      "sha": "5785f01dfe28b88244d82800ba448a15e29a74ab",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #236 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T23:02:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/5785f01dfe28b88244d82800ba448a15e29a74ab",
+      "is_merge": true
+    },
+    {
+      "sha": "30a835da44baccefc2b7ec1a836732bc8b9cebcb",
+      "author": "JaredHatfield",
+      "message": "fix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T22:23:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/30a835da44baccefc2b7ec1a836732bc8b9cebcb",
+      "is_merge": false
+    },
+    {
+      "sha": "c04bc6d4c794b9ebd87023aa441b0fd8ad63d3d1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #235 from UnitVectorY-Labs/add-chromadb-repo-indexer\n\nAdd ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T09:22:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/c04bc6d4c794b9ebd87023aa441b0fd8ad63d3d1",
+      "is_merge": true
+    },
+    {
+      "sha": "957257cbc8b273e00dd7061b92d926ea22f19785",
+      "author": "JaredHatfield",
+      "message": "Add ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T03:01:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/957257cbc8b273e00dd7061b92d926ea22f19785",
+      "is_merge": false
+    },
+    {
       "sha": "d123c89cd5481d6423c4d6dcc37a8eca576b0fd7",
       "author": "JaredHatfield",
       "message": "Merge pull request #234 from UnitVectorY-Labs/chore/codeql-4.37.3\n\nBump CodeQL version to 4.37.3",

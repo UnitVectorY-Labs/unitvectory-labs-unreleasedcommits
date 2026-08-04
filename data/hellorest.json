@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-22T22:42:42Z",
   "unreleased_commits": [
     {
+      "sha": "75247d99e989a5fa5a5387049d52662dabaa6020",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #132 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T23:25:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/75247d99e989a5fa5a5387049d52662dabaa6020",
+      "is_merge": true
+    },
+    {
+      "sha": "1d3919c9e9cbabe8416f3b4c9458a766ec2c03b9",
+      "author": "JaredHatfield",
+      "message": "fix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T22:28:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/1d3919c9e9cbabe8416f3b4c9458a766ec2c03b9",
+      "is_merge": false
+    },
+    {
+      "sha": "c60fb04e1c6b6fae7dd1297bbc80b778aa3a0cca",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #131 from UnitVectorY-Labs/add-chromadb-repo-indexer\n\nAdd ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T10:04:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/c60fb04e1c6b6fae7dd1297bbc80b778aa3a0cca",
+      "is_merge": true
+    },
+    {
+      "sha": "2e7ac309e2329cc6f2ff6850e7383510f64ff2e4",
+      "author": "JaredHatfield",
+      "message": "Add ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T03:02:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/2e7ac309e2329cc6f2ff6850e7383510f64ff2e4",
+      "is_merge": false
+    },
+    {
       "sha": "704c4f22f4efc9643ffe35f53857b3828d6f258b",
       "author": "JaredHatfield",
       "message": "Merge pull request #130 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.6.0\n\nbuild(deps): bump docker/login-action from 4.4.0 to 4.6.0",

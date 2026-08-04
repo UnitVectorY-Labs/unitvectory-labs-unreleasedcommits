@@ -6,6 +6,38 @@
   "latest_release_time": "2025-11-12T01:30:20Z",
   "unreleased_commits": [
     {
+      "sha": "5e28c45d3fee49bf854226da4e482d28e736cb30",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #129 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T23:40:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/5e28c45d3fee49bf854226da4e482d28e736cb30",
+      "is_merge": true
+    },
+    {
+      "sha": "8d6800aabb4c7e327297d230733d24c4b6598045",
+      "author": "JaredHatfield",
+      "message": "fix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T22:36:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/8d6800aabb4c7e327297d230733d24c4b6598045",
+      "is_merge": false
+    },
+    {
+      "sha": "a6ade177215ed055a750954fcffb205d4b509a6b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #128 from UnitVectorY-Labs/add-chromadb-repo-indexer\n\nAdd ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T10:35:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/a6ade177215ed055a750954fcffb205d4b509a6b",
+      "is_merge": true
+    },
+    {
+      "sha": "acf8d70512b9b6d32ff6ceb193dcb6719841604e",
+      "author": "JaredHatfield",
+      "message": "Add ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T03:03:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/acf8d70512b9b6d32ff6ceb193dcb6719841604e",
+      "is_merge": false
+    },
+    {
       "sha": "478e67027c665138cb59ab3b7ee7ce2b27a72c92",
       "author": "JaredHatfield",
       "message": "Merge pull request #127 from UnitVectorY-Labs/chore/codeql-4.37.3\n\nBump CodeQL version to 4.37.3",

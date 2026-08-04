@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-22T22:37:07Z",
   "unreleased_commits": [
     {
+      "sha": "cad594df446aec1c46e8737b9458a30e9ef00614",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #61 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-04T00:42:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/cad594df446aec1c46e8737b9458a30e9ef00614",
+      "is_merge": true
+    },
+    {
+      "sha": "8f831660dd6e013d0095f2f8eb43bdf02395589c",
+      "author": "JaredHatfield",
+      "message": "fix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T22:35:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/8f831660dd6e013d0095f2f8eb43bdf02395589c",
+      "is_merge": false
+    },
+    {
+      "sha": "d7e9212b87bd24a88a481a69943e6c132ff7adab",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #60 from UnitVectorY-Labs/add-chromadb-repo-indexer\n\nAdd ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T11:28:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/d7e9212b87bd24a88a481a69943e6c132ff7adab",
+      "is_merge": true
+    },
+    {
+      "sha": "e510385eee20b45ca6020024cc4e6ea39d2cf20f",
+      "author": "JaredHatfield",
+      "message": "Add ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T03:02:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/e510385eee20b45ca6020024cc4e6ea39d2cf20f",
+      "is_merge": false
+    },
+    {
       "sha": "3af9299f00d40b0f40d65594a0ea8d351b487923",
       "author": "JaredHatfield",
       "message": "Merge pull request #59 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-4.2.1\n\nbuild(deps): bump actions/attest from 4.2.0 to 4.2.1",

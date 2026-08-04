@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-23T10:57:11Z",
   "unreleased_commits": [
     {
+      "sha": "a18cc89fa1caaace1774632345becf535ea82898",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #141 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T23:09:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/a18cc89fa1caaace1774632345becf535ea82898",
+      "is_merge": true
+    },
+    {
+      "sha": "ee4c87b4005f5679f2dd1cd4c96ccdcebe7486bf",
+      "author": "JaredHatfield",
+      "message": "fix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T22:35:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/ee4c87b4005f5679f2dd1cd4c96ccdcebe7486bf",
+      "is_merge": false
+    },
+    {
+      "sha": "458825d9e7fdf2577755353069009e533795ec7b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #140 from UnitVectorY-Labs/add-chromadb-repo-indexer\n\nAdd ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T09:34:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/458825d9e7fdf2577755353069009e533795ec7b",
+      "is_merge": true
+    },
+    {
+      "sha": "08faa503b7a45181c17507e72002d98ad486d6c8",
+      "author": "JaredHatfield",
+      "message": "Add ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T03:02:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/08faa503b7a45181c17507e72002d98ad486d6c8",
+      "is_merge": false
+    },
+    {
       "sha": "8471e4a43728cb91f587f8c9e7f4bc35294bca3e",
       "author": "JaredHatfield",
       "message": "Merge pull request #133 from UnitVectorY-Labs/dependabot/maven/org.json-json-20260719\n\nBump org.json:json from 20260522 to 20260719",

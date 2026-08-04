@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-22T22:43:20Z",
   "unreleased_commits": [
     {
+      "sha": "28d0a673aa157868706358b55784bc6d42038251",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #163 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T23:24:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/28d0a673aa157868706358b55784bc6d42038251",
+      "is_merge": true
+    },
+    {
+      "sha": "f25893e8918712d76446ca845cdf924e0d96d783",
+      "author": "JaredHatfield",
+      "message": "fix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T22:07:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/f25893e8918712d76446ca845cdf924e0d96d783",
+      "is_merge": false
+    },
+    {
+      "sha": "f687bcc534ae4b813863edcf4b586c23446191bf",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #162 from UnitVectorY-Labs/add-chromadb-repo-indexer\n\nAdd ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T10:02:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/f687bcc534ae4b813863edcf4b586c23446191bf",
+      "is_merge": true
+    },
+    {
+      "sha": "ff3386716c507e6b4a0e4249a8faf09cd04b3d9a",
+      "author": "JaredHatfield",
+      "message": "Add ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T02:59:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/ff3386716c507e6b4a0e4249a8faf09cd04b3d9a",
+      "is_merge": false
+    },
+    {
       "sha": "73db1df5e2b8436f196959715dd501ff2da6162b",
       "author": "JaredHatfield",
       "message": "Merge pull request #161 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.6.0\n\nchore(deps): bump docker/login-action from 4.5.1 to 4.6.0",

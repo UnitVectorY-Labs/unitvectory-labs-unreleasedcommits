@@ -6,6 +6,38 @@
   "latest_release_time": "2026-05-24T00:42:30Z",
   "unreleased_commits": [
     {
+      "sha": "279d6c5ddd296de7509c9461eaddbea2d4fa9c21",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #90 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-04T00:02:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/279d6c5ddd296de7509c9461eaddbea2d4fa9c21",
+      "is_merge": true
+    },
+    {
+      "sha": "56e87558d1b291f8eee769dd97f4421dc6d7dc4f",
+      "author": "JaredHatfield",
+      "message": "fix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T22:38:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/56e87558d1b291f8eee769dd97f4421dc6d7dc4f",
+      "is_merge": false
+    },
+    {
+      "sha": "1069b1adf7ad8a97546e86985d4b96e1d3019b73",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #89 from UnitVectorY-Labs/add-chromadb-repo-indexer\n\nAdd ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T10:57:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/1069b1adf7ad8a97546e86985d4b96e1d3019b73",
+      "is_merge": true
+    },
+    {
+      "sha": "0fa936b67e2e3cd71ee5a8d45fe666cd0a6e0774",
+      "author": "JaredHatfield",
+      "message": "Add ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T03:05:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/0fa936b67e2e3cd71ee5a8d45fe666cd0a6e0774",
+      "is_merge": false
+    },
+    {
       "sha": "06e16bb70ee14681132e682f83b18fd2821014ce",
       "author": "JaredHatfield",
       "message": "Merge pull request #88 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-4.2.1\n\nbuild(deps): bump actions/attest from 4.2.0 to 4.2.1",
