@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:26:01Z",
   "unreleased_commits": [
     {
+      "sha": "2781d91cd31b7aa2e21c71e4cbca4cdeedf2c0db",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #217 from UnitVectorY-Labs/dependabot/maven/com.networknt-json-schema-validator-3.0.6\n\nBump com.networknt:json-schema-validator from 3.0.0 to 3.0.6",
+      "timestamp": "2026-08-05T02:05:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/2781d91cd31b7aa2e21c71e4cbca4cdeedf2c0db",
+      "is_merge": true
+    },
+    {
+      "sha": "42aeb868160ad236e6e7d3ded5aa8bb9b432d699",
+      "author": "dependabot[bot]",
+      "message": "Bump com.networknt:json-schema-validator from 3.0.0 to 3.0.6\n\nBumps [com.networknt:json-schema-validator](https://github.com/networknt/json-schema-validator) from 3.0.0 to 3.0.6.\n- [Release notes](https://github.com/networknt/json-schema-validator/releases)\n- [Changelog](https://github.com/networknt/json-schema-validator/blob/master/CHANGELOG.md)\n- [Commits](https://github.com/networknt/json-schema-validator/compare/3.0.0...3.0.6)\n\n---\nupdated-dependencies:\n- dependency-name: com.networknt:json-schema-validator\n  dependency-version: 3.0.6\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-05T02:03:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/42aeb868160ad236e6e7d3ded5aa8bb9b432d699",
+      "is_merge": false
+    },
+    {
       "sha": "87832742ebf474d53cc0f3625a531f7a4dd451db",
       "author": "JaredHatfield",
       "message": "Merge pull request #226 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",

@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:43:53Z",
   "unreleased_commits": [
     {
+      "sha": "bfdd933ab960e87e4dc9d8219c0792aeaa74a200",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #158 from UnitVectorY-Labs/remove-goreportcard-badge\n\nRemove retired goreportcard badge",
+      "timestamp": "2026-08-05T01:22:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/bfdd933ab960e87e4dc9d8219c0792aeaa74a200",
+      "is_merge": true
+    },
+    {
+      "sha": "7fecd877e7df5ab61a21a5995a93af34afad51fb",
+      "author": "JaredHatfield",
+      "message": "remove retired goreportcard badge",
+      "timestamp": "2026-08-05T01:19:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/7fecd877e7df5ab61a21a5995a93af34afad51fb",
+      "is_merge": false
+    },
+    {
       "sha": "83148134d2a7b0f83ca4af9d707e6a97677cadce",
       "author": "JaredHatfield",
       "message": "Merge pull request #157 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",

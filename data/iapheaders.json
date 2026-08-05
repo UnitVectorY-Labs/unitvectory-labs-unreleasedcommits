@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:51:23Z",
   "unreleased_commits": [
     {
+      "sha": "16061dbd56f7d6b0cd6d4722c4b636e3c4d0292f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #136 from UnitVectorY-Labs/remove-goreportcard-badge\n\nRemove retired goreportcard badge",
+      "timestamp": "2026-08-05T01:22:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/16061dbd56f7d6b0cd6d4722c4b636e3c4d0292f",
+      "is_merge": true
+    },
+    {
+      "sha": "f8bb33bbebd26fccf94ecff322cfdbd40c55f40e",
+      "author": "JaredHatfield",
+      "message": "remove retired goreportcard badge",
+      "timestamp": "2026-08-05T01:16:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/f8bb33bbebd26fccf94ecff322cfdbd40c55f40e",
+      "is_merge": false
+    },
+    {
       "sha": "f2c6cd133fabd6a16eee206c0a08e9af2195e767",
       "author": "JaredHatfield",
       "message": "Merge pull request #135 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
