@@ -6,6 +6,14 @@
   "latest_release_time": "2026-06-22T22:30:53Z",
   "unreleased_commits": [
     {
+      "sha": "b7fb45048128d7ada3e81bfafb2a40bda6145635",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #218 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.291.0\n\nchore(deps): bump google.golang.org/api from 0.290.0 to 0.291.0",
+      "timestamp": "2026-08-06T11:02:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/b7fb45048128d7ada3e81bfafb2a40bda6145635",
+      "is_merge": true
+    },
+    {
       "sha": "02da9b7cb1075002858da8b4b01a997b2f706fb1",
       "author": "JaredHatfield",
       "message": "Merge pull request #222 from UnitVectorY-Labs/remove-goreportcard-badge\n\nRemove retired goreportcard badge",
@@ -67,6 +75,14 @@
       "message": "chore(deps): bump docker/login-action from 4.5.1 to 4.6.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.5.1 to 4.6.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/abd2ef45e78c5afb21d64d4ca52ee8550d9572c7...dbcb813823bdd20940b903addbd779551569679f)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.6.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-08-01T10:05:20Z",
       "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/214f3066665cfefe9c6167cf0462931117b09d28",
+      "is_merge": false
+    },
+    {
+      "sha": "2eaa36ee8034a429985aa1725256cde806b3b7d9",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/api from 0.290.0 to 0.291.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.290.0 to 0.291.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.290.0...v0.291.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.291.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-01T10:04:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/2eaa36ee8034a429985aa1725256cde806b3b7d9",
       "is_merge": false
     },
     {

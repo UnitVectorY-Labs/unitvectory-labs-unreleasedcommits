@@ -6,6 +6,14 @@
   "latest_release_time": "2026-06-22T22:14:27Z",
   "unreleased_commits": [
     {
+      "sha": "3dc2252fe84872fcaaf3fc628d3286e394aab0e8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #192 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.6.0\n\nchore(deps): bump docker/login-action from 4.4.0 to 4.6.0",
+      "timestamp": "2026-08-06T11:01:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/3dc2252fe84872fcaaf3fc628d3286e394aab0e8",
+      "is_merge": true
+    },
+    {
       "sha": "001fdba882cd074dd287a960e9eefa5732082ccb",
       "author": "JaredHatfield",
       "message": "Merge pull request #195 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
@@ -51,6 +59,14 @@
       "message": "chore(deps): bump google.golang.org/api from 0.289.0 to 0.291.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.289.0 to 0.291.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.289.0...v0.291.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.291.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-08-01T10:12:14Z",
       "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/c2726f9eef78f485dd21083f8d59ed2dad9363cf",
+      "is_merge": false
+    },
+    {
+      "sha": "f01a1e20c3ded9467ba1886ab56ed4e63d0f7b73",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/login-action from 4.4.0 to 4.6.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.4.0 to 4.6.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/af1e73f918a031802d376d3c8bbc3fe56130a9b0...dbcb813823bdd20940b903addbd779551569679f)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.6.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-01T10:11:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/f01a1e20c3ded9467ba1886ab56ed4e63d0f7b73",
       "is_merge": false
     },
     {

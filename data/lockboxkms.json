@@ -6,6 +6,14 @@
   "latest_release_time": "2026-06-22T22:28:39Z",
   "unreleased_commits": [
     {
+      "sha": "314d0a21dd8d0bdf8067293301449d6f3e7067f4",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #220 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.291.0\n\nchore(deps): bump google.golang.org/api from 0.289.0 to 0.291.0",
+      "timestamp": "2026-08-06T11:02:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/314d0a21dd8d0bdf8067293301449d6f3e7067f4",
+      "is_merge": true
+    },
+    {
       "sha": "7e3d55aaad57992f22426d433ac7a7eb512a5572",
       "author": "JaredHatfield",
       "message": "Merge pull request #223 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
@@ -51,6 +59,14 @@
       "message": "chore(deps): bump docker/login-action from 4.4.0 to 4.6.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.4.0 to 4.6.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/af1e73f918a031802d376d3c8bbc3fe56130a9b0...dbcb813823bdd20940b903addbd779551569679f)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.6.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-08-01T10:04:52Z",
       "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/c4fcda3da98d0bebd06bf510fd2a2a0e167d66b0",
+      "is_merge": false
+    },
+    {
+      "sha": "98c883f8c183eafd19b07f8563746bd1fa1b6175",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/api from 0.289.0 to 0.291.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.289.0 to 0.291.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.289.0...v0.291.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.291.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-01T10:03:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/98c883f8c183eafd19b07f8563746bd1fa1b6175",
       "is_merge": false
     },
     {
