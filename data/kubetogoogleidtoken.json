@@ -6,6 +6,70 @@
   "latest_release_time": "2025-11-12T01:30:20Z",
   "unreleased_commits": [
     {
+      "sha": "5e295ae15362774ddf04851f58e991204797ade8",
+      "author": "JaredHatfield",
+      "message": "fix: correct semgrep GitHub action workflow (#137)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-08T19:22:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/5e295ae15362774ddf04851f58e991204797ade8",
+      "is_merge": false
+    },
+    {
+      "sha": "db075e88990e120fd4d07c8a6d1fffc91cc2abd5",
+      "author": "JaredHatfield",
+      "message": "chore: add semgrep GitHub action (#136)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-08T18:07:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/db075e88990e120fd4d07c8a6d1fffc91cc2abd5",
+      "is_merge": false
+    },
+    {
+      "sha": "a45ae54aa1b8a6b4177c413049585f9b0ed1b3f6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #135 from UnitVectorY-Labs/chore/codeql-4.37.6\n\nBump CodeQL version to 4.37.6",
+      "timestamp": "2026-08-08T13:53:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/a45ae54aa1b8a6b4177c413049585f9b0ed1b3f6",
+      "is_merge": true
+    },
+    {
+      "sha": "b21380d859d3f0631a400d3382515ca905a6a7f2",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.37.6",
+      "timestamp": "2026-08-08T12:01:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/b21380d859d3f0631a400d3382515ca905a6a7f2",
+      "is_merge": false
+    },
+    {
+      "sha": "fcae2d5ff2f6072056ca0c96b74a6fe60ac40c4b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #134 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-5.7.0\n\nBump actions/setup-java from 5.6.0 to 5.7.0",
+      "timestamp": "2026-08-08T11:09:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/fcae2d5ff2f6072056ca0c96b74a6fe60ac40c4b",
+      "is_merge": true
+    },
+    {
+      "sha": "8ea86842e0c3e9a03fe532cc2178176dbbfbf435",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #133 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.6\n\nBump github/codeql-action/upload-sarif from 4.37.3 to 4.37.6",
+      "timestamp": "2026-08-08T11:09:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/8ea86842e0c3e9a03fe532cc2178176dbbfbf435",
+      "is_merge": true
+    },
+    {
+      "sha": "dc978a146892ada92137d942d6a24c00b8c4ea8d",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/setup-java from 5.6.0 to 5.7.0\n\nBumps [actions/setup-java](https://github.com/actions/setup-java) from 5.6.0 to 5.7.0.\n- [Release notes](https://github.com/actions/setup-java/releases)\n- [Commits](https://github.com/actions/setup-java/compare/03ad4de0992f5dab5e18fcb136590ce7c4a0ac95...b6effb05e454b25005698d916606bdc6ffcbf961)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-java\n  dependency-version: 5.7.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-08T10:09:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/dc978a146892ada92137d942d6a24c00b8c4ea8d",
+      "is_merge": false
+    },
+    {
+      "sha": "d965f1142aa900d15eddff75d0c9dfce890e5dc2",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action/upload-sarif from 4.37.3 to 4.37.6\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.3 to 4.37.6.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/e4fba868fa4b1b91e1fdab776edc8cfbe6e9fb81...5595ccaf912efad79be6eef63a5619ff05969be3)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.6\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-08T10:09:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/d965f1142aa900d15eddff75d0c9dfce890e5dc2",
+      "is_merge": false
+    },
+    {
       "sha": "5e28c45d3fee49bf854226da4e482d28e736cb30",
       "author": "JaredHatfield",
       "message": "Merge pull request #129 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",

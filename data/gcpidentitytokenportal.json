@@ -6,6 +6,70 @@
   "latest_release_time": "2026-06-22T22:30:53Z",
   "unreleased_commits": [
     {
+      "sha": "7e653f2080b680df6ebd8d2b999c6d7194afc3c6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #223 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.292.0\n\nchore(deps): bump google.golang.org/api from 0.291.0 to 0.292.0",
+      "timestamp": "2026-08-09T00:28:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/7e653f2080b680df6ebd8d2b999c6d7194afc3c6",
+      "is_merge": true
+    },
+    {
+      "sha": "8def0cdbb08985e013340a5de9a8f5c733091464",
+      "author": "JaredHatfield",
+      "message": "fix: correct semgrep GitHub action workflow (#229)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-08T19:20:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/8def0cdbb08985e013340a5de9a8f5c733091464",
+      "is_merge": false
+    },
+    {
+      "sha": "f0cd0dab354ddb7f8a2d310d628e4f49d4f87206",
+      "author": "JaredHatfield",
+      "message": "chore: add semgrep GitHub action (#228)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-08T18:01:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/f0cd0dab354ddb7f8a2d310d628e4f49d4f87206",
+      "is_merge": false
+    },
+    {
+      "sha": "c5cac3a3d10a08a167f3ff9ade8deb107d5af4ba",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #227 from UnitVectorY-Labs/chore/codeql-4.37.6\n\nBump CodeQL version to 4.37.6",
+      "timestamp": "2026-08-08T13:52:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/c5cac3a3d10a08a167f3ff9ade8deb107d5af4ba",
+      "is_merge": true
+    },
+    {
+      "sha": "57021f9f0802b7da0a8d2c2f911642e81fa5a09b",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.37.6",
+      "timestamp": "2026-08-08T11:59:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/57021f9f0802b7da0a8d2c2f911642e81fa5a09b",
+      "is_merge": false
+    },
+    {
+      "sha": "48f78c4566111abd063349d4e96b0e4b33b00985",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #225 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.6\n\nchore(deps): bump github/codeql-action/upload-sarif from 4.37.3 to 4.37.6",
+      "timestamp": "2026-08-08T11:09:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/48f78c4566111abd063349d4e96b0e4b33b00985",
+      "is_merge": true
+    },
+    {
+      "sha": "f1599e7a776e69ea13c47c3c358e1212925d1d64",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.3 to 4.37.6.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/e4fba868fa4b1b91e1fdab776edc8cfbe6e9fb81...5595ccaf912efad79be6eef63a5619ff05969be3)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.6\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-08T10:11:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/f1599e7a776e69ea13c47c3c358e1212925d1d64",
+      "is_merge": false
+    },
+    {
+      "sha": "a8adafcb3300807b1e98edf296a608ef58125b82",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/api from 0.291.0 to 0.292.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.291.0 to 0.292.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.291.0...v0.292.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.292.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-08T10:05:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/a8adafcb3300807b1e98edf296a608ef58125b82",
+      "is_merge": false
+    },
+    {
       "sha": "b7fb45048128d7ada3e81bfafb2a40bda6145635",
       "author": "JaredHatfield",
       "message": "Merge pull request #218 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.291.0\n\nchore(deps): bump google.golang.org/api from 0.290.0 to 0.291.0",

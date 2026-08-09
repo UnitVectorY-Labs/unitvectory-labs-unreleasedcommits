@@ -2,41 +2,8 @@
   "owner": "UnitVectorY-Labs",
   "name": "mcp-tf-provider-docs",
   "default_branch": "main",
-  "latest_release_tag": "v0.4.0",
-  "latest_release_time": "2026-08-02T02:54:36Z",
-  "unreleased_commits": [
-    {
-      "sha": "098d14b7dfd65a7d9a4ab37f9913c923667de034",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #120 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
-      "timestamp": "2026-08-04T00:04:35Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/098d14b7dfd65a7d9a4ab37f9913c923667de034",
-      "is_merge": true
-    },
-    {
-      "sha": "2ec7a2f8d0a1ac5bdfadb157ee0e63d8db151c53",
-      "author": "JaredHatfield",
-      "message": "fix: set persist-credentials: false in checkout step",
-      "timestamp": "2026-08-03T22:36:55Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/2ec7a2f8d0a1ac5bdfadb157ee0e63d8db151c53",
-      "is_merge": false
-    },
-    {
-      "sha": "96158663907161cfafbc6da95a69eb79746bf497",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #119 from UnitVectorY-Labs/add-chromadb-repo-indexer\n\nAdd ChromaDB repo indexer GitHub Action",
-      "timestamp": "2026-08-03T10:59:16Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/96158663907161cfafbc6da95a69eb79746bf497",
-      "is_merge": true
-    },
-    {
-      "sha": "0713e548643474d346d7a3cad5b17da4d157973a",
-      "author": "JaredHatfield",
-      "message": "Add ChromaDB repo indexer GitHub Action",
-      "timestamp": "2026-08-03T03:03:54Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/0713e548643474d346d7a3cad5b17da4d157973a",
-      "is_merge": false
-    }
-  ],
+  "latest_release_tag": "v0.4.1",
+  "latest_release_time": "2026-08-08T23:59:01Z",
+  "unreleased_commits": null,
   "repository_url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs"
 }

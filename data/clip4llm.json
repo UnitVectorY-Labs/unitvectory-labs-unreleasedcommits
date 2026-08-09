@@ -6,6 +6,70 @@
   "latest_release_time": "2026-05-23T23:31:43Z",
   "unreleased_commits": [
     {
+      "sha": "38a95c9603deed165a7e652499974fdb1e75e173",
+      "author": "JaredHatfield",
+      "message": "fix: correct semgrep GitHub action workflow (#115)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-08T19:18:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/38a95c9603deed165a7e652499974fdb1e75e173",
+      "is_merge": false
+    },
+    {
+      "sha": "16d48b0c1d748a5afb0400ce5b5e9fbeeea9d42b",
+      "author": "JaredHatfield",
+      "message": "chore: add semgrep GitHub action (#114)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-08T17:59:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/16d48b0c1d748a5afb0400ce5b5e9fbeeea9d42b",
+      "is_merge": false
+    },
+    {
+      "sha": "5ed459b82d6d04b9f89e3ae8975fc42cd9138ad0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #113 from UnitVectorY-Labs/chore/codeql-4.37.6\n\nBump CodeQL version to 4.37.6",
+      "timestamp": "2026-08-08T13:52:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/5ed459b82d6d04b9f89e3ae8975fc42cd9138ad0",
+      "is_merge": true
+    },
+    {
+      "sha": "6d9ed553619204f7a9ce4079e76506d3f4089cc7",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.37.6",
+      "timestamp": "2026-08-08T11:58:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/6d9ed553619204f7a9ce4079e76506d3f4089cc7",
+      "is_merge": false
+    },
+    {
+      "sha": "8175c7756ce637b4548c3f12c7b6e822983c1d2e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #109 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.6\n\nbuild(deps): bump github/codeql-action/upload-sarif from 4.37.3 to 4.37.6",
+      "timestamp": "2026-08-08T11:08:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/8175c7756ce637b4548c3f12c7b6e822983c1d2e",
+      "is_merge": true
+    },
+    {
+      "sha": "7465f3e32a8e38574ed6cecc6163daa23678ddb5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #111 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-4.2.2\n\nbuild(deps): bump actions/attest from 4.2.1 to 4.2.2",
+      "timestamp": "2026-08-08T11:07:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/7465f3e32a8e38574ed6cecc6163daa23678ddb5",
+      "is_merge": true
+    },
+    {
+      "sha": "67beb5ff2c279920c2b984ddb825f237a0bf7274",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/attest from 4.2.1 to 4.2.2\n\nBumps [actions/attest](https://github.com/actions/attest) from 4.2.1 to 4.2.2.\n- [Release notes](https://github.com/actions/attest/releases)\n- [Changelog](https://github.com/actions/attest/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest/compare/508db95dd578ae2727ebd6217d5ba78e4fbda05d...1e69f48acb82d1966a394da916b4c1698aa569d6)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest\n  dependency-version: 4.2.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-08T10:04:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/67beb5ff2c279920c2b984ddb825f237a0bf7274",
+      "is_merge": false
+    },
+    {
+      "sha": "18fbfe145060b09a9dcd41dfeb428721f0c954ca",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.3 to 4.37.6.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/e4fba868fa4b1b91e1fdab776edc8cfbe6e9fb81...5595ccaf912efad79be6eef63a5619ff05969be3)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.6\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-08T10:03:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/18fbfe145060b09a9dcd41dfeb428721f0c954ca",
+      "is_merge": false
+    },
+    {
       "sha": "f16aefc0c1fbed187faebe97fb91001a18971b96",
       "author": "JaredHatfield",
       "message": "Merge pull request #108 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",

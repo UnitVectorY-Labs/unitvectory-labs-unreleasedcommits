@@ -6,6 +6,86 @@
   "latest_release_time": "2026-06-22T22:22:29Z",
   "unreleased_commits": [
     {
+      "sha": "eb2f482c6269a46fcfc018e0d10840c5e1df05d3",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #237 from UnitVectorY-Labs/dependabot/maven/com.google.cloud-google-cloud-firestore-3.45.0\n\nBump com.google.cloud:google-cloud-firestore from 3.44.0 to 3.45.0",
+      "timestamp": "2026-08-09T00:33:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/eb2f482c6269a46fcfc018e0d10840c5e1df05d3",
+      "is_merge": true
+    },
+    {
+      "sha": "aabf22272b1fea936e85e5c9717466819d8f3b7a",
+      "author": "JaredHatfield",
+      "message": "fix: correct semgrep GitHub action workflow (#245)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-08T19:19:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/aabf22272b1fea936e85e5c9717466819d8f3b7a",
+      "is_merge": false
+    },
+    {
+      "sha": "1ba64a237b23f5d827e17dffb31b82e215831140",
+      "author": "JaredHatfield",
+      "message": "chore: add semgrep GitHub action (#244)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-08T18:00:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/1ba64a237b23f5d827e17dffb31b82e215831140",
+      "is_merge": false
+    },
+    {
+      "sha": "9f692aa9f498330da483470c482431f1266999e6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #243 from UnitVectorY-Labs/chore/codeql-4.37.6\n\nBump CodeQL version to 4.37.6",
+      "timestamp": "2026-08-08T13:52:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/9f692aa9f498330da483470c482431f1266999e6",
+      "is_merge": true
+    },
+    {
+      "sha": "11795ba576e3f928d731cd7a0984f5474176c2ba",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.37.6",
+      "timestamp": "2026-08-08T11:59:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/11795ba576e3f928d731cd7a0984f5474176c2ba",
+      "is_merge": false
+    },
+    {
+      "sha": "72fffd23c2c1e1f995b06ef9722eb1c090ea8f8d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #242 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-5.7.0\n\nBump actions/setup-java from 5.6.0 to 5.7.0",
+      "timestamp": "2026-08-08T11:08:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/72fffd23c2c1e1f995b06ef9722eb1c090ea8f8d",
+      "is_merge": true
+    },
+    {
+      "sha": "26290b5e63f0b7bc0c6a3cc0905a04829371c0fa",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #239 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.6\n\nBump github/codeql-action/upload-sarif from 4.37.3 to 4.37.6",
+      "timestamp": "2026-08-08T11:07:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/26290b5e63f0b7bc0c6a3cc0905a04829371c0fa",
+      "is_merge": true
+    },
+    {
+      "sha": "0514dc5334f131560248872d3cf77a4ac8e1b3b6",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/setup-java from 5.6.0 to 5.7.0\n\nBumps [actions/setup-java](https://github.com/actions/setup-java) from 5.6.0 to 5.7.0.\n- [Release notes](https://github.com/actions/setup-java/releases)\n- [Commits](https://github.com/actions/setup-java/compare/03ad4de0992f5dab5e18fcb136590ce7c4a0ac95...b6effb05e454b25005698d916606bdc6ffcbf961)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-java\n  dependency-version: 5.7.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-08T10:07:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/0514dc5334f131560248872d3cf77a4ac8e1b3b6",
+      "is_merge": false
+    },
+    {
+      "sha": "d1201ca5976b449da7fe9cd3105c051fce7198e9",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action/upload-sarif from 4.37.3 to 4.37.6\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.3 to 4.37.6.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/e4fba868fa4b1b91e1fdab776edc8cfbe6e9fb81...5595ccaf912efad79be6eef63a5619ff05969be3)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.6\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-08T10:04:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/d1201ca5976b449da7fe9cd3105c051fce7198e9",
+      "is_merge": false
+    },
+    {
+      "sha": "112e857520f7d7d330bf184151fefabf729cb907",
+      "author": "dependabot[bot]",
+      "message": "Bump com.google.cloud:google-cloud-firestore from 3.44.0 to 3.45.0\n\nBumps [com.google.cloud:google-cloud-firestore](https://github.com/googleapis/google-cloud-java) from 3.44.0 to 3.45.0.\n- [Release notes](https://github.com/googleapis/google-cloud-java/releases)\n- [Changelog](https://github.com/googleapis/google-cloud-java/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/googleapis/google-cloud-java/commits)\n\n---\nupdated-dependencies:\n- dependency-name: com.google.cloud:google-cloud-firestore\n  dependency-version: 3.45.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-08T10:02:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/112e857520f7d7d330bf184151fefabf729cb907",
+      "is_merge": false
+    },
+    {
       "sha": "5785f01dfe28b88244d82800ba448a15e29a74ab",
       "author": "JaredHatfield",
       "message": "Merge pull request #236 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",

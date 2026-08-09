@@ -6,6 +6,70 @@
   "latest_release_time": "2026-06-22T22:14:27Z",
   "unreleased_commits": [
     {
+      "sha": "cb4d1aa432ea3e6a1e5f52d8c12236e48198cd9a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #196 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.292.0\n\nchore(deps): bump google.golang.org/api from 0.291.0 to 0.292.0",
+      "timestamp": "2026-08-09T00:29:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/cb4d1aa432ea3e6a1e5f52d8c12236e48198cd9a",
+      "is_merge": true
+    },
+    {
+      "sha": "8422e55fbf400a33e8eb59eaaeb07965e5b85783",
+      "author": "JaredHatfield",
+      "message": "fix: correct semgrep GitHub action workflow (#203)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-08T19:19:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/8422e55fbf400a33e8eb59eaaeb07965e5b85783",
+      "is_merge": false
+    },
+    {
+      "sha": "ac7266cb8467090fac7061c4652596a9dfe240a8",
+      "author": "JaredHatfield",
+      "message": "chore: add semgrep GitHub action (#202)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-08T18:00:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/ac7266cb8467090fac7061c4652596a9dfe240a8",
+      "is_merge": false
+    },
+    {
+      "sha": "d9887df80141d07945b83ca0a50b36e21c108e0a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #201 from UnitVectorY-Labs/chore/codeql-4.37.6\n\nBump CodeQL version to 4.37.6",
+      "timestamp": "2026-08-08T13:53:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/d9887df80141d07945b83ca0a50b36e21c108e0a",
+      "is_merge": true
+    },
+    {
+      "sha": "6a5266819b2f67f44778c8fdae9d1069858e6a6b",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.37.6",
+      "timestamp": "2026-08-08T11:58:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/6a5266819b2f67f44778c8fdae9d1069858e6a6b",
+      "is_merge": false
+    },
+    {
+      "sha": "ef26ddefd2eef77497eadc008e0ff2ff9cf27270",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #200 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.6\n\nchore(deps): bump github/codeql-action/upload-sarif from 4.37.3 to 4.37.6",
+      "timestamp": "2026-08-08T11:10:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/ef26ddefd2eef77497eadc008e0ff2ff9cf27270",
+      "is_merge": true
+    },
+    {
+      "sha": "fe13d65f1b70ca3c4e37167c65dcbc7f79b2cad7",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.3 to 4.37.6.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/e4fba868fa4b1b91e1fdab776edc8cfbe6e9fb81...5595ccaf912efad79be6eef63a5619ff05969be3)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.6\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-08T10:16:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/fe13d65f1b70ca3c4e37167c65dcbc7f79b2cad7",
+      "is_merge": false
+    },
+    {
+      "sha": "d88e5cfcd8a28a17ada715164765de3ec6c00ae7",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/api from 0.291.0 to 0.292.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.291.0 to 0.292.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.291.0...v0.292.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.292.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-08T10:05:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/d88e5cfcd8a28a17ada715164765de3ec6c00ae7",
+      "is_merge": false
+    },
+    {
       "sha": "3dc2252fe84872fcaaf3fc628d3286e394aab0e8",
       "author": "JaredHatfield",
       "message": "Merge pull request #192 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.6.0\n\nchore(deps): bump docker/login-action from 4.4.0 to 4.6.0",

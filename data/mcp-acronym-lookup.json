@@ -2,8 +2,8 @@
   "owner": "UnitVectorY-Labs",
   "name": "mcp-acronym-lookup",
   "default_branch": "main",
-  "latest_release_tag": "v0.4.1",
-  "latest_release_time": "2026-08-05T01:28:40Z",
+  "latest_release_tag": "v0.4.2",
+  "latest_release_time": "2026-08-08T23:57:49Z",
   "unreleased_commits": null,
   "repository_url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup"
 }

@@ -2,41 +2,8 @@
   "owner": "UnitVectorY-Labs",
   "name": "mcp-graphql-forge",
   "default_branch": "main",
-  "latest_release_tag": "v0.11.0",
-  "latest_release_time": "2026-08-02T02:55:00Z",
-  "unreleased_commits": [
-    {
-      "sha": "86a0aabe7146631633db8154dea9a410246873e1",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #140 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
-      "timestamp": "2026-08-04T00:00:35Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/86a0aabe7146631633db8154dea9a410246873e1",
-      "is_merge": true
-    },
-    {
-      "sha": "f10d5d6dacd1e89c344e168726e1447f17d3492f",
-      "author": "JaredHatfield",
-      "message": "fix: set persist-credentials: false in checkout step",
-      "timestamp": "2026-08-03T22:36:43Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/f10d5d6dacd1e89c344e168726e1447f17d3492f",
-      "is_merge": false
-    },
-    {
-      "sha": "7a15fa2a8e854265347d27619945708773c64728",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #139 from UnitVectorY-Labs/add-chromadb-repo-indexer\n\nAdd ChromaDB repo indexer GitHub Action",
-      "timestamp": "2026-08-03T10:55:16Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/7a15fa2a8e854265347d27619945708773c64728",
-      "is_merge": true
-    },
-    {
-      "sha": "b625dc76d2d50c16d10612f3f3eb0a12e65b7ef0",
-      "author": "JaredHatfield",
-      "message": "Add ChromaDB repo indexer GitHub Action",
-      "timestamp": "2026-08-03T03:03:42Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/b625dc76d2d50c16d10612f3f3eb0a12e65b7ef0",
-      "is_merge": false
-    }
-  ],
+  "latest_release_tag": "v0.11.1",
+  "latest_release_time": "2026-08-08T23:58:33Z",
+  "unreleased_commits": null,
   "repository_url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge"
 }

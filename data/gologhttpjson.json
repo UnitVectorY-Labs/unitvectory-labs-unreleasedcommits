@@ -6,6 +6,54 @@
   "latest_release_time": "2026-05-22T00:31:14Z",
   "unreleased_commits": [
     {
+      "sha": "3d53f6cd2904848317829f49a47a96aa216f3845",
+      "author": "JaredHatfield",
+      "message": "fix: correct semgrep GitHub action workflow (#103)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-08T19:20:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/3d53f6cd2904848317829f49a47a96aa216f3845",
+      "is_merge": false
+    },
+    {
+      "sha": "0ceb353201d6ae24ed816a8e1e23a0097a119c34",
+      "author": "JaredHatfield",
+      "message": "chore: add semgrep GitHub action (#102)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-08T18:01:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/0ceb353201d6ae24ed816a8e1e23a0097a119c34",
+      "is_merge": false
+    },
+    {
+      "sha": "e4c74713f71632dea8e87ccf3c2c69d2e94b784f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #101 from UnitVectorY-Labs/chore/codeql-4.37.6\n\nBump CodeQL version to 4.37.6",
+      "timestamp": "2026-08-08T13:54:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/e4c74713f71632dea8e87ccf3c2c69d2e94b784f",
+      "is_merge": true
+    },
+    {
+      "sha": "417daeb3f6f64d9d9e8b8c7528501debf2461495",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.37.6",
+      "timestamp": "2026-08-08T12:00:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/417daeb3f6f64d9d9e8b8c7528501debf2461495",
+      "is_merge": false
+    },
+    {
+      "sha": "999e7e951cac9c0675ea9e489c75de3e6463f48b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #99 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.6\n\nchore(deps): bump github/codeql-action/upload-sarif from 4.37.3 to 4.37.6",
+      "timestamp": "2026-08-08T11:11:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/999e7e951cac9c0675ea9e489c75de3e6463f48b",
+      "is_merge": true
+    },
+    {
+      "sha": "1217d00c4bdefc18c46051a7c21a5763f284ff3b",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.3 to 4.37.6.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/e4fba868fa4b1b91e1fdab776edc8cfbe6e9fb81...5595ccaf912efad79be6eef63a5619ff05969be3)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.6\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-08T10:09:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/1217d00c4bdefc18c46051a7c21a5763f284ff3b",
+      "is_merge": false
+    },
+    {
       "sha": "2c0e017602e4702a3eafc01570733c2130521aae",
       "author": "JaredHatfield",
       "message": "Merge pull request #97 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",

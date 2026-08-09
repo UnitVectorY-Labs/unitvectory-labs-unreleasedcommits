@@ -6,6 +6,38 @@
   "latest_release_time": "2025-10-25T13:36:20Z",
   "unreleased_commits": [
     {
+      "sha": "956628270fc41d4d9b1802af005a8c5414921966",
+      "author": "JaredHatfield",
+      "message": "fix: correct semgrep GitHub action workflow (#119)",
+      "timestamp": "2026-08-08T19:18:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/956628270fc41d4d9b1802af005a8c5414921966",
+      "is_merge": false
+    },
+    {
+      "sha": "d956ca9dbbf922f427782c6a6b487a98c2f0ac25",
+      "author": "JaredHatfield",
+      "message": "chore: add semgrep GitHub action (#118)",
+      "timestamp": "2026-08-08T17:59:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/d956ca9dbbf922f427782c6a6b487a98c2f0ac25",
+      "is_merge": false
+    },
+    {
+      "sha": "6f1f9672a92e865f3ef4231109fb23563f50e395",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #117 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.6\n\nbuild(deps): bump github/codeql-action/upload-sarif from 4.37.3 to 4.37.6",
+      "timestamp": "2026-08-08T11:10:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/6f1f9672a92e865f3ef4231109fb23563f50e395",
+      "is_merge": true
+    },
+    {
+      "sha": "7d87a195153bbf12015e1b0bb876931da3ea2c85",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.3 to 4.37.6.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/e4fba868fa4b1b91e1fdab776edc8cfbe6e9fb81...5595ccaf912efad79be6eef63a5619ff05969be3)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.6\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-08T10:09:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/7d87a195153bbf12015e1b0bb876931da3ea2c85",
+      "is_merge": false
+    },
+    {
       "sha": "0d8a59fcbeb65ce17fbd2b56f5e5e2fc7af04216",
       "author": "JaredHatfield",
       "message": "Merge pull request #115 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",

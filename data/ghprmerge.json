@@ -2,25 +2,8 @@
   "owner": "UnitVectorY-Labs",
   "name": "ghprmerge",
   "default_branch": "main",
-  "latest_release_tag": "v0.6.0",
-  "latest_release_time": "2026-08-03T08:58:42Z",
-  "unreleased_commits": [
-    {
-      "sha": "aa980284eabbfe181c18b5f87166a69c68a6f494",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #97 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
-      "timestamp": "2026-08-04T00:25:35Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/aa980284eabbfe181c18b5f87166a69c68a6f494",
-      "is_merge": true
-    },
-    {
-      "sha": "44e8adcdce8fc966890b0e797818a183805ea9f1",
-      "author": "JaredHatfield",
-      "message": "fix: set persist-credentials: false in checkout step",
-      "timestamp": "2026-08-03T22:26:26Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/44e8adcdce8fc966890b0e797818a183805ea9f1",
-      "is_merge": false
-    }
-  ],
+  "latest_release_tag": "v0.7.0",
+  "latest_release_time": "2026-08-08T14:59:45Z",
+  "unreleased_commits": null,
   "repository_url": "https://github.com/UnitVectorY-Labs/ghprmerge"
 }

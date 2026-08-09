@@ -6,6 +6,70 @@
   "latest_release_time": "2026-06-22T22:26:01Z",
   "unreleased_commits": [
     {
+      "sha": "559a9fc501ca00681cd278ab3d0e2d8b3849edf5",
+      "author": "JaredHatfield",
+      "message": "fix: correct semgrep GitHub action workflow (#234)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-08T19:22:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/559a9fc501ca00681cd278ab3d0e2d8b3849edf5",
+      "is_merge": false
+    },
+    {
+      "sha": "c97e1e7e858244a6f4f13442ff29a4b81cd4f1bb",
+      "author": "JaredHatfield",
+      "message": "chore: add semgrep GitHub action (#233)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-08T18:06:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/c97e1e7e858244a6f4f13442ff29a4b81cd4f1bb",
+      "is_merge": false
+    },
+    {
+      "sha": "e89ceedfd3d9740e0164cc3178fc3a159b97a249",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #232 from UnitVectorY-Labs/chore/codeql-4.37.6\n\nBump CodeQL version to 4.37.6",
+      "timestamp": "2026-08-08T13:51:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/e89ceedfd3d9740e0164cc3178fc3a159b97a249",
+      "is_merge": true
+    },
+    {
+      "sha": "71397e8a310264c598591e163fa2be5eb7ca35a6",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.37.6",
+      "timestamp": "2026-08-08T11:59:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/71397e8a310264c598591e163fa2be5eb7ca35a6",
+      "is_merge": false
+    },
+    {
+      "sha": "7af9add40489a8243b04cced42eadda17e117e97",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #229 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-5.7.0\n\nBump actions/setup-java from 5.6.0 to 5.7.0",
+      "timestamp": "2026-08-08T11:08:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/7af9add40489a8243b04cced42eadda17e117e97",
+      "is_merge": true
+    },
+    {
+      "sha": "f367cf16283b1a9ce86a61863a4a1f4e53ccf47b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #227 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.6\n\nBump github/codeql-action/upload-sarif from 4.37.3 to 4.37.6",
+      "timestamp": "2026-08-08T11:07:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/f367cf16283b1a9ce86a61863a4a1f4e53ccf47b",
+      "is_merge": true
+    },
+    {
+      "sha": "103adea6d2ddb22dee5c20361624c127ee1fa70f",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/setup-java from 5.6.0 to 5.7.0\n\nBumps [actions/setup-java](https://github.com/actions/setup-java) from 5.6.0 to 5.7.0.\n- [Release notes](https://github.com/actions/setup-java/releases)\n- [Commits](https://github.com/actions/setup-java/compare/03ad4de0992f5dab5e18fcb136590ce7c4a0ac95...b6effb05e454b25005698d916606bdc6ffcbf961)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-java\n  dependency-version: 5.7.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-08T10:04:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/103adea6d2ddb22dee5c20361624c127ee1fa70f",
+      "is_merge": false
+    },
+    {
+      "sha": "b2717dbd1b256f1940eff0cc30f3ca364420a578",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action/upload-sarif from 4.37.3 to 4.37.6\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.3 to 4.37.6.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/e4fba868fa4b1b91e1fdab776edc8cfbe6e9fb81...5595ccaf912efad79be6eef63a5619ff05969be3)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.6\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-08T10:03:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/b2717dbd1b256f1940eff0cc30f3ca364420a578",
+      "is_merge": false
+    },
+    {
       "sha": "2781d91cd31b7aa2e21c71e4cbca4cdeedf2c0db",
       "author": "JaredHatfield",
       "message": "Merge pull request #217 from UnitVectorY-Labs/dependabot/maven/com.networknt-json-schema-validator-3.0.6\n\nBump com.networknt:json-schema-validator from 3.0.0 to 3.0.6",

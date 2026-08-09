@@ -2,41 +2,8 @@
   "owner": "UnitVectorY-Labs",
   "name": "mcp-rest-forge",
   "default_branch": "main",
-  "latest_release_tag": "v0.2.0",
-  "latest_release_time": "2026-08-02T02:55:49Z",
-  "unreleased_commits": [
-    {
-      "sha": "1d664af6385c696cca584940607debd58390e68b",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #77 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
-      "timestamp": "2026-08-04T00:37:35Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/1d664af6385c696cca584940607debd58390e68b",
-      "is_merge": true
-    },
-    {
-      "sha": "05edf99f85847752ce9b5f896ab3638aab09e4de",
-      "author": "JaredHatfield",
-      "message": "fix: set persist-credentials: false in checkout step",
-      "timestamp": "2026-08-03T22:36:49Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/05edf99f85847752ce9b5f896ab3638aab09e4de",
-      "is_merge": false
-    },
-    {
-      "sha": "f1e201c99a65ccd57b37ac146ffd2728e4b7dc8e",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #76 from UnitVectorY-Labs/add-chromadb-repo-indexer\n\nAdd ChromaDB repo indexer GitHub Action",
-      "timestamp": "2026-08-03T11:25:16Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/f1e201c99a65ccd57b37ac146ffd2728e4b7dc8e",
-      "is_merge": true
-    },
-    {
-      "sha": "05ce1df7b62b6897645bbb3ba9e1554edea82fe8",
-      "author": "JaredHatfield",
-      "message": "Add ChromaDB repo indexer GitHub Action",
-      "timestamp": "2026-08-03T03:03:48Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/05ce1df7b62b6897645bbb3ba9e1554edea82fe8",
-      "is_merge": false
-    }
-  ],
+  "latest_release_tag": "v0.2.1",
+  "latest_release_time": "2026-08-08T23:58:47Z",
+  "unreleased_commits": null,
   "repository_url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge"
 }

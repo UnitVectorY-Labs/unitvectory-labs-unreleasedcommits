@@ -2,41 +2,8 @@
   "owner": "UnitVectorY-Labs",
   "name": "mcp-chromadb-repo-search",
   "default_branch": "main",
-  "latest_release_tag": "v1.1.0",
-  "latest_release_time": "2026-08-01T14:22:29Z",
-  "unreleased_commits": [
-    {
-      "sha": "755eaa93511b4badf6c5b3ddf00c30f74ce17fc3",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #11 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
-      "timestamp": "2026-08-04T00:59:36Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-chromadb-repo-search/commit/755eaa93511b4badf6c5b3ddf00c30f74ce17fc3",
-      "is_merge": true
-    },
-    {
-      "sha": "a20fae692bfbcde2e2b39cf814af10c177120f70",
-      "author": "JaredHatfield",
-      "message": "fix: set persist-credentials: false in checkout step",
-      "timestamp": "2026-08-03T22:36:36Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-chromadb-repo-search/commit/a20fae692bfbcde2e2b39cf814af10c177120f70",
-      "is_merge": false
-    },
-    {
-      "sha": "3294a1517277913eb4bea3531d91fb30ffa63780",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #9 from UnitVectorY-Labs/update-chromadb-repo-indexer-v1.1.0\n\nchore: update chromadb-repo-indexer to v1.1.0",
-      "timestamp": "2026-08-02T00:58:13Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-chromadb-repo-search/commit/3294a1517277913eb4bea3531d91fb30ffa63780",
-      "is_merge": true
-    },
-    {
-      "sha": "3063814210be51575c2c5786bbf040e109c24e8a",
-      "author": "JaredHatfield",
-      "message": "chore: update chromadb-repo-indexer to v1.1.0",
-      "timestamp": "2026-08-02T00:51:24Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-chromadb-repo-search/commit/3063814210be51575c2c5786bbf040e109c24e8a",
-      "is_merge": false
-    }
-  ],
+  "latest_release_tag": "v1.1.1",
+  "latest_release_time": "2026-08-08T23:59:23Z",
+  "unreleased_commits": null,
   "repository_url": "https://github.com/UnitVectorY-Labs/mcp-chromadb-repo-search"
 }

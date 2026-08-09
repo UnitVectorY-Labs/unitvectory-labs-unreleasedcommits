@@ -2,41 +2,8 @@
   "owner": "UnitVectorY-Labs",
   "name": "mcp-filter-proxy",
   "default_branch": "main",
-  "latest_release_tag": "v0.2.0",
-  "latest_release_time": "2026-08-02T02:55:14Z",
-  "unreleased_commits": [
-    {
-      "sha": "e66596f9ae387191fcf610a3a42080b28be39c39",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #18 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
-      "timestamp": "2026-08-04T00:56:36Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-filter-proxy/commit/e66596f9ae387191fcf610a3a42080b28be39c39",
-      "is_merge": true
-    },
-    {
-      "sha": "3c314e76db030a6bfb9540b9b2253aedc2672a8a",
-      "author": "JaredHatfield",
-      "message": "fix: set persist-credentials: false in checkout step",
-      "timestamp": "2026-08-03T22:36:39Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-filter-proxy/commit/3c314e76db030a6bfb9540b9b2253aedc2672a8a",
-      "is_merge": false
-    },
-    {
-      "sha": "1fcd50d5397611cf2205c7c7b5398fe958a14af5",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #17 from UnitVectorY-Labs/add-chromadb-repo-indexer\n\nAdd ChromaDB repo indexer GitHub Action",
-      "timestamp": "2026-08-03T11:39:16Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-filter-proxy/commit/1fcd50d5397611cf2205c7c7b5398fe958a14af5",
-      "is_merge": true
-    },
-    {
-      "sha": "2082831c5a42c7ea22b01742210900e5b5253090",
-      "author": "JaredHatfield",
-      "message": "Add ChromaDB repo indexer GitHub Action",
-      "timestamp": "2026-08-03T03:03:38Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-filter-proxy/commit/2082831c5a42c7ea22b01742210900e5b5253090",
-      "is_merge": false
-    }
-  ],
+  "latest_release_tag": "v0.2.1",
+  "latest_release_time": "2026-08-08T23:58:06Z",
+  "unreleased_commits": null,
   "repository_url": "https://github.com/UnitVectorY-Labs/mcp-filter-proxy"
 }

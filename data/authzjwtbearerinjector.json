@@ -6,6 +6,70 @@
   "latest_release_time": "2026-06-22T22:43:20Z",
   "unreleased_commits": [
     {
+      "sha": "b9812e17ba39880db708ecbc92ec9eab6adb1b72",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #165 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/grpc-1.83.0\n\nchore(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.0",
+      "timestamp": "2026-08-09T00:29:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/b9812e17ba39880db708ecbc92ec9eab6adb1b72",
+      "is_merge": true
+    },
+    {
+      "sha": "414b0e25c61092a0f8361bdbb9134d47f32fab08",
+      "author": "JaredHatfield",
+      "message": "fix: correct semgrep GitHub action workflow (#171)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-08T19:18:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/414b0e25c61092a0f8361bdbb9134d47f32fab08",
+      "is_merge": false
+    },
+    {
+      "sha": "21982b83633a32bc580b992a104a1f5f893e516f",
+      "author": "JaredHatfield",
+      "message": "chore: add semgrep GitHub action (#170)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-08T17:59:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/21982b83633a32bc580b992a104a1f5f893e516f",
+      "is_merge": false
+    },
+    {
+      "sha": "190f2b67b0b2514cb9d85d76230f8082ee661a35",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #169 from UnitVectorY-Labs/chore/codeql-4.37.6\n\nBump CodeQL version to 4.37.6",
+      "timestamp": "2026-08-08T13:52:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/190f2b67b0b2514cb9d85d76230f8082ee661a35",
+      "is_merge": true
+    },
+    {
+      "sha": "c77d412900fd94c8035b7461351b03c6c01be054",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.37.6",
+      "timestamp": "2026-08-08T11:57:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/c77d412900fd94c8035b7461351b03c6c01be054",
+      "is_merge": false
+    },
+    {
+      "sha": "6c7c1daa8cfb22f34399165ab25f0a56e9a5b648",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #168 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.6\n\nchore(deps): bump github/codeql-action/upload-sarif from 4.37.3 to 4.37.6",
+      "timestamp": "2026-08-08T11:08:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/6c7c1daa8cfb22f34399165ab25f0a56e9a5b648",
+      "is_merge": true
+    },
+    {
+      "sha": "ea32260b2fac7293e5c81cb618912022f68c0bcc",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.3 to 4.37.6.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/e4fba868fa4b1b91e1fdab776edc8cfbe6e9fb81...5595ccaf912efad79be6eef63a5619ff05969be3)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.6\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-08T10:06:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/ea32260b2fac7293e5c81cb618912022f68c0bcc",
+      "is_merge": false
+    },
+    {
+      "sha": "9366048953eebf5a4f904a9b102bb7822ae965f7",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.0\n\nBumps [google.golang.org/grpc](https://github.com/grpc/grpc-go) from 1.82.1 to 1.83.0.\n- [Release notes](https://github.com/grpc/grpc-go/releases)\n- [Commits](https://github.com/grpc/grpc-go/compare/v1.82.1...v1.83.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/grpc\n  dependency-version: 1.83.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-08T10:02:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/9366048953eebf5a4f904a9b102bb7822ae965f7",
+      "is_merge": false
+    },
+    {
       "sha": "f887392bda27e11e22595be98553c09843db953a",
       "author": "JaredHatfield",
       "message": "Merge pull request #164 from UnitVectorY-Labs/remove-goreportcard-badge\n\nRemove retired goreportcard badge",

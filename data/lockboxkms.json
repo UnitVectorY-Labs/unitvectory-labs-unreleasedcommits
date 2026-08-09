@@ -6,6 +6,86 @@
   "latest_release_time": "2026-06-22T22:28:39Z",
   "unreleased_commits": [
     {
+      "sha": "5bba17f1aed3a9b3df290fd0001b7cb23c99cf8a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #219 from UnitVectorY-Labs/dependabot/go_modules/cloud.google.com/go/kms-1.33.0\n\nchore(deps): bump cloud.google.com/go/kms from 1.32.0 to 1.33.0",
+      "timestamp": "2026-08-09T00:32:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/5bba17f1aed3a9b3df290fd0001b7cb23c99cf8a",
+      "is_merge": true
+    },
+    {
+      "sha": "38a7f123b29cab56456cf95f94a5b293939604ab",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump cloud.google.com/go/kms from 1.32.0 to 1.33.0\n\nBumps [cloud.google.com/go/kms](https://github.com/googleapis/google-cloud-go) from 1.32.0 to 1.33.0.\n- [Release notes](https://github.com/googleapis/google-cloud-go/releases)\n- [Changelog](https://github.com/googleapis/google-cloud-go/blob/main/documentai/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-cloud-go/compare/kms/v1.32.0...kms/v1.33.0)\n\n---\nupdated-dependencies:\n- dependency-name: cloud.google.com/go/kms\n  dependency-version: 1.33.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-09T00:31:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/38a7f123b29cab56456cf95f94a5b293939604ab",
+      "is_merge": false
+    },
+    {
+      "sha": "904af022d10ec4807d380a7eb377361a2f53b8e0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #224 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.292.0\n\nchore(deps): bump google.golang.org/api from 0.291.0 to 0.292.0",
+      "timestamp": "2026-08-09T00:28:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/904af022d10ec4807d380a7eb377361a2f53b8e0",
+      "is_merge": true
+    },
+    {
+      "sha": "cadab79940e58fa05b806696a2f5ef197dc56eea",
+      "author": "JaredHatfield",
+      "message": "fix: correct semgrep GitHub action workflow (#230)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-08T19:22:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/cadab79940e58fa05b806696a2f5ef197dc56eea",
+      "is_merge": false
+    },
+    {
+      "sha": "136cbc35aa27806b486705488246939ef1b36387",
+      "author": "JaredHatfield",
+      "message": "chore: add semgrep GitHub action (#229)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-08T18:07:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/136cbc35aa27806b486705488246939ef1b36387",
+      "is_merge": false
+    },
+    {
+      "sha": "dfb1de98465db2b249913f99b88ad0b5ac9a0dc4",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #228 from UnitVectorY-Labs/chore/codeql-4.37.6\n\nBump CodeQL version to 4.37.6",
+      "timestamp": "2026-08-08T13:52:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/dfb1de98465db2b249913f99b88ad0b5ac9a0dc4",
+      "is_merge": true
+    },
+    {
+      "sha": "0fc1d8f2fda6f2e10d6f60dad80bd130045825dc",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.37.6",
+      "timestamp": "2026-08-08T12:02:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/0fc1d8f2fda6f2e10d6f60dad80bd130045825dc",
+      "is_merge": false
+    },
+    {
+      "sha": "3779412beda27b60a0e9ca5cb00bb45dc8ce750e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #227 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.6\n\nchore(deps): bump github/codeql-action/upload-sarif from 4.37.3 to 4.37.6",
+      "timestamp": "2026-08-08T11:08:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/3779412beda27b60a0e9ca5cb00bb45dc8ce750e",
+      "is_merge": true
+    },
+    {
+      "sha": "ef0f0d296ba836ef000b8b9a25b260248ae63ef3",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.3 to 4.37.6.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/e4fba868fa4b1b91e1fdab776edc8cfbe6e9fb81...5595ccaf912efad79be6eef63a5619ff05969be3)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.6\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-08T10:08:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/ef0f0d296ba836ef000b8b9a25b260248ae63ef3",
+      "is_merge": false
+    },
+    {
+      "sha": "9cb7d944d1633b9257ef8e491fd7821436340f5b",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/api from 0.291.0 to 0.292.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.291.0 to 0.292.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.291.0...v0.292.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.292.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-08T10:04:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/9cb7d944d1633b9257ef8e491fd7821436340f5b",
+      "is_merge": false
+    },
+    {
       "sha": "314d0a21dd8d0bdf8067293301449d6f3e7067f4",
       "author": "JaredHatfield",
       "message": "Merge pull request #220 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.291.0\n\nchore(deps): bump google.golang.org/api from 0.289.0 to 0.291.0",
