@@ -6,6 +6,30 @@
   "latest_release_time": "2026-06-22T22:37:07Z",
   "unreleased_commits": [
     {
+      "sha": "4959c737e2e2cc4b4d603964fe302fe2f468a903",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #71 from UnitVectorY-Labs/gitrepoforge/update\n\ngitrepoforge: apply desired state for jsonschemaprofiles",
+      "timestamp": "2026-08-09T18:49:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/4959c737e2e2cc4b4d603964fe302fe2f468a903",
+      "is_merge": true
+    },
+    {
+      "sha": "6a50f5f9fdaf2393cf9cb1ba5d3a6e803f280af1",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for jsonschemaprofiles",
+      "timestamp": "2026-08-09T18:45:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/6a50f5f9fdaf2393cf9cb1ba5d3a6e803f280af1",
+      "is_merge": false
+    },
+    {
+      "sha": "36684a14e39fc447d2088c09f0ff505943826f5e",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for jsonschemaprofiles (#70)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-09T15:09:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/36684a14e39fc447d2088c09f0ff505943826f5e",
+      "is_merge": false
+    },
+    {
       "sha": "696023167ac7e0beab119a0bcae89d2c9a786bf5",
       "author": "JaredHatfield",
       "message": "fix: correct semgrep GitHub action workflow (#69)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",

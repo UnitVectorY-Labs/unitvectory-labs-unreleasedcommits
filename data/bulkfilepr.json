@@ -6,6 +6,30 @@
   "latest_release_time": "2026-05-23T23:32:07Z",
   "unreleased_commits": [
     {
+      "sha": "d51ea7adca3f60617175b5264fce140d42556de1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #83 from UnitVectorY-Labs/gitrepoforge/update\n\ngitrepoforge: apply desired state for bulkfilepr",
+      "timestamp": "2026-08-09T18:49:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/d51ea7adca3f60617175b5264fce140d42556de1",
+      "is_merge": true
+    },
+    {
+      "sha": "fd36213472da40912a50417ed3ca6f562a8c36df",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for bulkfilepr",
+      "timestamp": "2026-08-09T18:44:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/fd36213472da40912a50417ed3ca6f562a8c36df",
+      "is_merge": false
+    },
+    {
+      "sha": "f51f624add2c4bf0f33ff0813220f42ad17bc8e9",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for bulkfilepr (#82)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-09T15:11:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/f51f624add2c4bf0f33ff0813220f42ad17bc8e9",
+      "is_merge": false
+    },
+    {
       "sha": "1e871eac53a242794d358492551e6929eaedaa49",
       "author": "JaredHatfield",
       "message": "fix: correct semgrep GitHub action workflow (#81)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",

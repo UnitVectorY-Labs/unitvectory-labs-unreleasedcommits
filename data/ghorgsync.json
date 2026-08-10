@@ -6,6 +6,30 @@
   "latest_release_time": "2026-08-08T08:16:18Z",
   "unreleased_commits": [
     {
+      "sha": "bb220bdb9573da95409c39ad6db2bbd2cf9a8de8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #85 from UnitVectorY-Labs/gitrepoforge/update\n\ngitrepoforge: apply desired state for ghorgsync",
+      "timestamp": "2026-08-09T18:49:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/bb220bdb9573da95409c39ad6db2bbd2cf9a8de8",
+      "is_merge": true
+    },
+    {
+      "sha": "af1823901db533e1b1079bcc9c1a28bf84edeac5",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for ghorgsync",
+      "timestamp": "2026-08-09T18:44:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/af1823901db533e1b1079bcc9c1a28bf84edeac5",
+      "is_merge": false
+    },
+    {
+      "sha": "9025de8f2d8840912b692eef102f43d46ea1054d",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for ghorgsync (#84)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-09T16:03:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/9025de8f2d8840912b692eef102f43d46ea1054d",
+      "is_merge": false
+    },
+    {
       "sha": "8dd54ae47352d215457b6bfa6b5b0cffe7c6b19d",
       "author": "JaredHatfield",
       "message": "fix: correct semgrep GitHub action workflow (#83)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",

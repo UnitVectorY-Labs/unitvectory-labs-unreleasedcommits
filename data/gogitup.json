@@ -6,6 +6,30 @@
   "latest_release_time": "2026-08-06T00:23:15Z",
   "unreleased_commits": [
     {
+      "sha": "83dd8f251ffb95340ed334b67c9e3b8133148e60",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #73 from UnitVectorY-Labs/gitrepoforge/update\n\ngitrepoforge: apply desired state for gogitup",
+      "timestamp": "2026-08-09T18:49:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/83dd8f251ffb95340ed334b67c9e3b8133148e60",
+      "is_merge": true
+    },
+    {
+      "sha": "c476e6111b9064eb784fdc2d8ea5d3ad623361c8",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for gogitup",
+      "timestamp": "2026-08-09T18:44:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/c476e6111b9064eb784fdc2d8ea5d3ad623361c8",
+      "is_merge": false
+    },
+    {
+      "sha": "61ed4284b742cab21cd665600631b508e802c277",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for gogitup (#72)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-09T15:09:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/61ed4284b742cab21cd665600631b508e802c277",
+      "is_merge": false
+    },
+    {
       "sha": "c33d63c542494d6265d8e2cc65c65063ee2fd785",
       "author": "JaredHatfield",
       "message": "fix: correct semgrep GitHub action workflow (#71)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",

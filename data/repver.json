@@ -6,6 +6,30 @@
   "latest_release_time": "2026-05-23T23:29:22Z",
   "unreleased_commits": [
     {
+      "sha": "791367779ce7732c600727eaa0717dd484fe20a4",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #106 from UnitVectorY-Labs/gitrepoforge/update\n\ngitrepoforge: apply desired state for repver",
+      "timestamp": "2026-08-09T18:49:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/791367779ce7732c600727eaa0717dd484fe20a4",
+      "is_merge": true
+    },
+    {
+      "sha": "39b142fc523d6eb10f0526098e693d6f971ebfb3",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for repver",
+      "timestamp": "2026-08-09T18:45:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/39b142fc523d6eb10f0526098e693d6f971ebfb3",
+      "is_merge": false
+    },
+    {
+      "sha": "2f5b48b43d7b044ed5dfe1c3b8dabbde42fec4ff",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for repver (#105)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-09T15:09:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/2f5b48b43d7b044ed5dfe1c3b8dabbde42fec4ff",
+      "is_merge": false
+    },
+    {
       "sha": "cb1b6f05855e9551651086032070697d1f823605",
       "author": "JaredHatfield",
       "message": "fix: correct semgrep GitHub action workflow (#104)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",

@@ -6,6 +6,14 @@
   "latest_release_time": "2026-06-22T22:28:39Z",
   "unreleased_commits": [
     {
+      "sha": "3b2d3e3f7bc25f97b48a44279cf7d37de637a0b2",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for lockboxkms (#231)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-09T15:09:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/3b2d3e3f7bc25f97b48a44279cf7d37de637a0b2",
+      "is_merge": false
+    },
+    {
       "sha": "5bba17f1aed3a9b3df290fd0001b7cb23c99cf8a",
       "author": "JaredHatfield",
       "message": "Merge pull request #219 from UnitVectorY-Labs/dependabot/go_modules/cloud.google.com/go/kms-1.33.0\n\nchore(deps): bump cloud.google.com/go/kms from 1.32.0 to 1.33.0",

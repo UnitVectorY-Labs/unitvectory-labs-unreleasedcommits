@@ -4,6 +4,31 @@
   "default_branch": "main",
   "latest_release_tag": "v0.7.0",
   "latest_release_time": "2026-08-08T14:59:45Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "a528fcb9a3e10c78d325212ae4b198f6be9c5d38",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #106 from UnitVectorY-Labs/gitrepoforge/update\n\ngitrepoforge: apply desired state for ghprmerge",
+      "timestamp": "2026-08-09T18:49:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/a528fcb9a3e10c78d325212ae4b198f6be9c5d38",
+      "is_merge": true
+    },
+    {
+      "sha": "afd4a2341b90f33b3598a261285c92984a50c67e",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for ghprmerge",
+      "timestamp": "2026-08-09T18:44:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/afd4a2341b90f33b3598a261285c92984a50c67e",
+      "is_merge": false
+    },
+    {
+      "sha": "5234aca0000de73c7e419f9ef36a491950aaa834",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for ghprmerge (#105)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-09T15:11:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/5234aca0000de73c7e419f9ef36a491950aaa834",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/ghprmerge"
 }

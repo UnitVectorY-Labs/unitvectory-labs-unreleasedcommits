@@ -4,6 +4,15 @@
   "default_branch": "main",
   "latest_release_tag": "v0.2.1",
   "latest_release_time": "2026-08-08T23:58:47Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "043bafb19c7053241f4cdc47a8eedd2c89c1bbeb",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for mcp-rest-forge (#87)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-09T15:11:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/043bafb19c7053241f4cdc47a8eedd2c89c1bbeb",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge"
 }

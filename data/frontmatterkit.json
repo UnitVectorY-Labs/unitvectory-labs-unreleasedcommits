@@ -6,6 +6,30 @@
   "latest_release_time": "2026-06-03T10:38:18Z",
   "unreleased_commits": [
     {
+      "sha": "92710139dce03eb4571ce84b696a801e049e685d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #63 from UnitVectorY-Labs/gitrepoforge/update\n\ngitrepoforge: apply desired state for frontmatterkit",
+      "timestamp": "2026-08-09T18:50:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/92710139dce03eb4571ce84b696a801e049e685d",
+      "is_merge": true
+    },
+    {
+      "sha": "6cd4e0875d9a6b899e916238f376c350089251fd",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for frontmatterkit",
+      "timestamp": "2026-08-09T18:44:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/6cd4e0875d9a6b899e916238f376c350089251fd",
+      "is_merge": false
+    },
+    {
+      "sha": "b9687be59fd4996a2019e68c4102d6656efa13dc",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for frontmatterkit (#62)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-09T15:09:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/b9687be59fd4996a2019e68c4102d6656efa13dc",
+      "is_merge": false
+    },
+    {
       "sha": "d2374d3e9c095746d5645d7995d9a29bb7de1039",
       "author": "JaredHatfield",
       "message": "fix: correct semgrep GitHub action workflow (#61)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",

@@ -6,6 +6,30 @@
   "latest_release_time": "2026-05-23T23:28:42Z",
   "unreleased_commits": [
     {
+      "sha": "bc2cdc76b895012418bcb0f84a14ef6e6fc7797e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #64 from UnitVectorY-Labs/gitrepoforge/update\n\ngitrepoforge: apply desired state for gowebshot",
+      "timestamp": "2026-08-09T18:49:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/bc2cdc76b895012418bcb0f84a14ef6e6fc7797e",
+      "is_merge": true
+    },
+    {
+      "sha": "f13584f21f959bc70e0251ca9adff4a5f5b0edc3",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for gowebshot",
+      "timestamp": "2026-08-09T18:45:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/f13584f21f959bc70e0251ca9adff4a5f5b0edc3",
+      "is_merge": false
+    },
+    {
+      "sha": "d128750b47f4b3a9cfb48b379faf9a1506b99f24",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for gowebshot (#63)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-09T15:09:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/d128750b47f4b3a9cfb48b379faf9a1506b99f24",
+      "is_merge": false
+    },
+    {
       "sha": "846e8d504e4c5b3e4e94711c54e2682c3147b794",
       "author": "JaredHatfield",
       "message": "fix: correct semgrep GitHub action workflow (#62)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",

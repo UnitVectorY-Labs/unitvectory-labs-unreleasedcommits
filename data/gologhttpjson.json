@@ -6,6 +6,14 @@
   "latest_release_time": "2026-05-22T00:31:14Z",
   "unreleased_commits": [
     {
+      "sha": "a11f5b9c19642fd9a8bc8d8f0439eab02e17a562",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for gologhttpjson (#104)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-09T15:09:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/a11f5b9c19642fd9a8bc8d8f0439eab02e17a562",
+      "is_merge": false
+    },
+    {
       "sha": "3d53f6cd2904848317829f49a47a96aa216f3845",
       "author": "JaredHatfield",
       "message": "fix: correct semgrep GitHub action workflow (#103)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",

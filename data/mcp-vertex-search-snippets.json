@@ -4,6 +4,15 @@
   "default_branch": "main",
   "latest_release_tag": "v0.3.1",
   "latest_release_time": "2026-08-08T23:58:19Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "103b6f04d7b70b4a6e98724d0cc490f744943ccb",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for mcp-vertex-search-snippets (#128)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-09T15:11:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/103b6f04d7b70b4a6e98724d0cc490f744943ccb",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets"
 }

@@ -6,6 +6,14 @@
   "latest_release_time": "2026-05-22T00:44:26Z",
   "unreleased_commits": [
     {
+      "sha": "169751d0a95e428e70293da34aae9291ea8342ff",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for goenvecho (#118)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-09T15:11:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/169751d0a95e428e70293da34aae9291ea8342ff",
+      "is_merge": false
+    },
+    {
       "sha": "8aa872c91381eb43453768f140a02c1fdd9f3571",
       "author": "JaredHatfield",
       "message": "fix: correct semgrep GitHub action workflow (#117)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",

@@ -6,6 +6,30 @@
   "latest_release_time": "2026-06-22T22:49:50Z",
   "unreleased_commits": [
     {
+      "sha": "f3a8772a3bf33689dfa7b989b2e003d93b1d5a48",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #152 from UnitVectorY-Labs/gitrepoforge/update\n\ngitrepoforge: apply desired state for YAMLtecture",
+      "timestamp": "2026-08-09T18:49:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/f3a8772a3bf33689dfa7b989b2e003d93b1d5a48",
+      "is_merge": true
+    },
+    {
+      "sha": "b84943f3c69d49cde5a3bd0451879f8e2234c1d4",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for YAMLtecture",
+      "timestamp": "2026-08-09T18:44:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/b84943f3c69d49cde5a3bd0451879f8e2234c1d4",
+      "is_merge": false
+    },
+    {
+      "sha": "0d965f738a86826c809955f4f9ba520e1d12fe17",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for YAMLtecture (#151)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-09T15:10:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/0d965f738a86826c809955f4f9ba520e1d12fe17",
+      "is_merge": false
+    },
+    {
       "sha": "3d58dffc99e869b9fcbf2d8480946a0fe4fc53a6",
       "author": "JaredHatfield",
       "message": "fix: correct semgrep GitHub action workflow (#150)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",

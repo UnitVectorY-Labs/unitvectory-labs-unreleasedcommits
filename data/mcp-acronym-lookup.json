@@ -4,6 +4,15 @@
   "default_branch": "main",
   "latest_release_tag": "v0.4.2",
   "latest_release_time": "2026-08-08T23:57:49Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "78a20fb10fb5a12512adc956f997cbfb3b61f8ca",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for mcp-acronym-lookup (#140)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-09T15:11:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/78a20fb10fb5a12512adc956f997cbfb3b61f8ca",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup"
 }

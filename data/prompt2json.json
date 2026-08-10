@@ -6,6 +6,30 @@
   "latest_release_time": "2026-05-23T23:28:58Z",
   "unreleased_commits": [
     {
+      "sha": "6b0884bbf35fb5c0523c15587f091dec90c02e9d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #98 from UnitVectorY-Labs/gitrepoforge/update\n\ngitrepoforge: apply desired state for prompt2json",
+      "timestamp": "2026-08-09T18:49:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/6b0884bbf35fb5c0523c15587f091dec90c02e9d",
+      "is_merge": true
+    },
+    {
+      "sha": "ddebea85069b08f3d7f13fea5881507aaa07eb38",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for prompt2json",
+      "timestamp": "2026-08-09T18:45:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/ddebea85069b08f3d7f13fea5881507aaa07eb38",
+      "is_merge": false
+    },
+    {
+      "sha": "f13466fede8d44a5f3cfe666290fe2d9a42bcca1",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for prompt2json (#97)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-09T15:11:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/f13466fede8d44a5f3cfe666290fe2d9a42bcca1",
+      "is_merge": false
+    },
+    {
       "sha": "cd247b6ac993f6316f2baab7e56507276a853006",
       "author": "JaredHatfield",
       "message": "fix: correct semgrep GitHub action workflow (#96)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",

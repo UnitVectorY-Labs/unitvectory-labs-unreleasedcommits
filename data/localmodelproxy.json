@@ -6,6 +6,30 @@
   "latest_release_time": "2026-07-27T11:00:47Z",
   "unreleased_commits": [
     {
+      "sha": "cd36311644c5bd5afae042a3fd80e8c5a5620fe4",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #56 from UnitVectorY-Labs/gitrepoforge/update\n\ngitrepoforge: apply desired state for localmodelproxy",
+      "timestamp": "2026-08-09T18:50:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/cd36311644c5bd5afae042a3fd80e8c5a5620fe4",
+      "is_merge": true
+    },
+    {
+      "sha": "df7180837a79e0e37dad941008202b182593ee40",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for localmodelproxy",
+      "timestamp": "2026-08-09T18:45:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/df7180837a79e0e37dad941008202b182593ee40",
+      "is_merge": false
+    },
+    {
+      "sha": "88e6ae195a2a76050cc689c301419b31bb1c9932",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for localmodelproxy (#55)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-09T15:09:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/88e6ae195a2a76050cc689c301419b31bb1c9932",
+      "is_merge": false
+    },
+    {
       "sha": "1072d9b355d473c37a9e372abcca2e767f47922c",
       "author": "JaredHatfield",
       "message": "Merge pull request #54 from UnitVectorY-Labs/chore/fix-semgrep-workflow\n\nfix: address zizmor security findings in semgrep workflow",

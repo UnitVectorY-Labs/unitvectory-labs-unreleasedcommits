@@ -6,6 +6,14 @@
   "latest_release_time": "2026-02-28T22:33:35Z",
   "unreleased_commits": [
     {
+      "sha": "9c5412629da5b62fbcf5789f16764b7f32cb9e8d",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for isplaintextfile (#84)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-09T15:11:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/9c5412629da5b62fbcf5789f16764b7f32cb9e8d",
+      "is_merge": false
+    },
+    {
       "sha": "1b0f4f5ebdd46451ba898c991a2f34f287f2a155",
       "author": "JaredHatfield",
       "message": "fix: correct semgrep GitHub action workflow (#83)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",

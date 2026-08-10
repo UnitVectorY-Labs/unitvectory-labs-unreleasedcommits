@@ -6,6 +6,30 @@
   "latest_release_time": "2026-06-27T09:55:34Z",
   "unreleased_commits": [
     {
+      "sha": "e9ceb45e79adafd20868839fb611c5d41eebc6df",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #47 from UnitVectorY-Labs/gitrepoforge/update\n\ngitrepoforge: apply desired state for cfgraft",
+      "timestamp": "2026-08-09T18:50:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/e9ceb45e79adafd20868839fb611c5d41eebc6df",
+      "is_merge": true
+    },
+    {
+      "sha": "41c4f2957aa1f14835bb7f001639becb4e680539",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for cfgraft",
+      "timestamp": "2026-08-09T18:44:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/41c4f2957aa1f14835bb7f001639becb4e680539",
+      "is_merge": false
+    },
+    {
+      "sha": "58c97f51e03a9c704afab09205ef8de4dc0a297d",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for cfgraft (#46)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-09T15:11:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/58c97f51e03a9c704afab09205ef8de4dc0a297d",
+      "is_merge": false
+    },
+    {
       "sha": "56c868e575ac6610d324ad454e99af44adc0d4bc",
       "author": "JaredHatfield",
       "message": "fix: correct semgrep GitHub action workflow (#45)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",

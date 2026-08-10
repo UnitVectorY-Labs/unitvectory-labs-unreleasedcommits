@@ -6,6 +6,30 @@
   "latest_release_time": "2026-06-22T22:25:21Z",
   "unreleased_commits": [
     {
+      "sha": "af5f1dfb1530314d54c0023b257a38cea481b36e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #73 from UnitVectorY-Labs/gitrepoforge/update\n\ngitrepoforge: apply desired state for gcpvalidate",
+      "timestamp": "2026-08-09T18:49:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpvalidate/commit/af5f1dfb1530314d54c0023b257a38cea481b36e",
+      "is_merge": true
+    },
+    {
+      "sha": "e587a232e42b13056a0f5cf898eef3a2fcd26e4a",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for gcpvalidate",
+      "timestamp": "2026-08-09T18:44:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpvalidate/commit/e587a232e42b13056a0f5cf898eef3a2fcd26e4a",
+      "is_merge": false
+    },
+    {
+      "sha": "dd9c523c323a2dddc5428dbfa4312c1a650c3cc9",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for gcpvalidate (#72)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-09T15:11:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpvalidate/commit/dd9c523c323a2dddc5428dbfa4312c1a650c3cc9",
+      "is_merge": false
+    },
+    {
       "sha": "d903f94c891ea8e3524282daecf9f33044f86f5c",
       "author": "JaredHatfield",
       "message": "fix: correct semgrep GitHub action workflow (#71)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",

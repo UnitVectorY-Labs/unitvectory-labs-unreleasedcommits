@@ -4,6 +4,15 @@
   "default_branch": "main",
   "latest_release_tag": "v0.4.1",
   "latest_release_time": "2026-08-08T23:59:01Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "6e8756bfe041df9ca12cbce2177d76e9e4d4acb1",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for mcp-tf-provider-docs (#130)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
+      "timestamp": "2026-08-09T15:11:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/6e8756bfe041df9ca12cbce2177d76e9e4d4acb1",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs"
 }
