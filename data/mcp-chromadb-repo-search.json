@@ -2,57 +2,8 @@
   "owner": "UnitVectorY-Labs",
   "name": "mcp-chromadb-repo-search",
   "default_branch": "main",
-  "latest_release_tag": "v1.1.1",
-  "latest_release_time": "2026-08-08T23:59:23Z",
-  "unreleased_commits": [
-    {
-      "sha": "b7d7e64526010db174c1e2f41e45aae1de2b1c9d",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #22 from UnitVectorY-Labs/gitrepoforge/update\n\ngitrepoforge: apply desired state for mcp-chromadb-repo-search",
-      "timestamp": "2026-08-09T18:50:30Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-chromadb-repo-search/commit/b7d7e64526010db174c1e2f41e45aae1de2b1c9d",
-      "is_merge": true
-    },
-    {
-      "sha": "c6548df96bb8ec159422f132c37dfce2b21f875b",
-      "author": "JaredHatfield",
-      "message": "gitrepoforge: apply desired state for mcp-chromadb-repo-search",
-      "timestamp": "2026-08-09T18:45:20Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-chromadb-repo-search/commit/c6548df96bb8ec159422f132c37dfce2b21f875b",
-      "is_merge": false
-    },
-    {
-      "sha": "02ba677f43fbffd6163717304da77973bbe29748",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #21 from UnitVectorY-Labs/feat/docs-site\n\nfeat: add just-the-docs documentation site",
-      "timestamp": "2026-08-09T18:37:01Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-chromadb-repo-search/commit/02ba677f43fbffd6163717304da77973bbe29748",
-      "is_merge": true
-    },
-    {
-      "sha": "cd0e95a11356c9fa0efdbb4032b37eb4b7caf45e",
-      "author": "JaredHatfield",
-      "message": "feat: add just-the-docs documentation site\n\n- Create docs/ directory with just-the-docs Jekyll theme\n- Split README into focused docs: Overview, Installation, Usage, Tools, Examples\n- Update README.md with concise summary and links to documentation\n- Enable docs in .gitrepoforge with custom domain\n- Add docs files to .managedfiles tracking\n- Add repver commands for just-the-docs and mermaid version updates\n- Add docs-serve justfile recipe for local development",
-      "timestamp": "2026-08-09T18:35:22Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-chromadb-repo-search/commit/cd0e95a11356c9fa0efdbb4032b37eb4b7caf45e",
-      "is_merge": false
-    },
-    {
-      "sha": "5b50689f582d8b509f0fee21d26b1d19e27f403c",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #20 from UnitVectorY-Labs/feat/structured-request-logging\n\nfeat: add structured JSON request logging for MCP HTTP server",
-      "timestamp": "2026-08-09T17:24:45Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-chromadb-repo-search/commit/5b50689f582d8b509f0fee21d26b1d19e27f403c",
-      "is_merge": true
-    },
-    {
-      "sha": "1c7717fa1e5db3f827e4a746ba412809596c62d2",
-      "author": "JaredHatfield",
-      "message": "feat: add structured JSON request logging for MCP HTTP server\n\nAdd a request logging middleware that captures tool name, parameters, outcome,\nerror details, and response metrics as newline-delimited JSON on stdout.\nIncludes logging response writer wrapper, context-based field propagation from\nMCP handlers, and comprehensive test coverage.",
-      "timestamp": "2026-08-09T17:02:31Z",
-      "url": "https://github.com/UnitVectorY-Labs/mcp-chromadb-repo-search/commit/1c7717fa1e5db3f827e4a746ba412809596c62d2",
-      "is_merge": false
-    }
-  ],
+  "latest_release_tag": "v1.2.0",
+  "latest_release_time": "2026-08-11T22:54:24Z",
+  "unreleased_commits": null,
   "repository_url": "https://github.com/UnitVectorY-Labs/mcp-chromadb-repo-search"
 }

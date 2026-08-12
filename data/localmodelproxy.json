@@ -6,6 +6,14 @@
   "latest_release_time": "2026-07-27T11:00:47Z",
   "unreleased_commits": [
     {
+      "sha": "2feeb8700fdbcb7d838d5db3ddfd9f73f239fc9f",
+      "author": "JaredHatfield",
+      "message": "docs: add overview and quick start to README, update Gemini model examples to 3.6-flash",
+      "timestamp": "2026-08-11T22:37:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/2feeb8700fdbcb7d838d5db3ddfd9f73f239fc9f",
+      "is_merge": false
+    },
+    {
       "sha": "cd36311644c5bd5afae042a3fd80e8c5a5620fe4",
       "author": "JaredHatfield",
       "message": "Merge pull request #56 from UnitVectorY-Labs/gitrepoforge/update\n\ngitrepoforge: apply desired state for localmodelproxy",
