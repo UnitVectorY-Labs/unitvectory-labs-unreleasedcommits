@@ -6,6 +6,70 @@
   "latest_release_time": "2026-08-08T15:22:20Z",
   "unreleased_commits": [
     {
+      "sha": "668a9041ee2aa75b9b8efbf0227a218e3b4f6589",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #22 from UnitVectorY-Labs/dependabot/pip/hatchling-1.32.0\n\nbuild(deps-dev): bump hatchling from 1.31.0 to 1.32.0",
+      "timestamp": "2026-08-15T22:47:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/668a9041ee2aa75b9b8efbf0227a218e3b4f6589",
+      "is_merge": true
+    },
+    {
+      "sha": "eb50aba168d208de9d4ed6c6898807b4e190a88a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #23 from UnitVectorY-Labs/dependabot/pip/tree-sitter-language-pack-1.14.3\n\nbuild(deps): bump tree-sitter-language-pack from 1.14.1 to 1.14.3",
+      "timestamp": "2026-08-15T22:47:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/eb50aba168d208de9d4ed6c6898807b4e190a88a",
+      "is_merge": true
+    },
+    {
+      "sha": "a5c34ed8513fb1df9f47efcf6fa94dc725de462d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #24 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.0.0\n\nbuild(deps): bump astral-sh/setup-uv from 9.0.0 to 10.0.0",
+      "timestamp": "2026-08-15T14:54:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/a5c34ed8513fb1df9f47efcf6fa94dc725de462d",
+      "is_merge": true
+    },
+    {
+      "sha": "42bc200a1e568cf8e302b7aafc34c7a890c3ed33",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #25 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.1.1\n\nbuild(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.1.0 to 1.1.1",
+      "timestamp": "2026-08-15T14:37:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/42bc200a1e568cf8e302b7aafc34c7a890c3ed33",
+      "is_merge": true
+    },
+    {
+      "sha": "f0dd1d00e84f8bcaa38d2bfb3ecc0c1eb88800e2",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.1.0 to 1.1.1.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/bbdf18095437282e7a3000e89ffa1a85583b7e7f...5aa0f8e1c3995f45c693cfca7641edc7e289efd8)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-15T10:16:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/f0dd1d00e84f8bcaa38d2bfb3ecc0c1eb88800e2",
+      "is_merge": false
+    },
+    {
+      "sha": "f36b0edd40b1f3d4f8978456bf756a77149e0bf7",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 9.0.0 to 10.0.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 9.0.0 to 10.0.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/c771a70e6277c0a99b617c7a806ffedaca235ff9...ae62891fec2bb8e7d6c99fc78c9fec3a63790f8d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-15T10:16:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/f36b0edd40b1f3d4f8978456bf756a77149e0bf7",
+      "is_merge": false
+    },
+    {
+      "sha": "6d930803dda6b00ae4010ee0b2ae29b0a55eb798",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump tree-sitter-language-pack from 1.14.1 to 1.14.3\n\nBumps [tree-sitter-language-pack](https://github.com/xberg-io/tree-sitter-language-pack) from 1.14.1 to 1.14.3.\n- [Release notes](https://github.com/xberg-io/tree-sitter-language-pack/releases)\n- [Changelog](https://github.com/xberg-io/tree-sitter-language-pack/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/xberg-io/tree-sitter-language-pack/compare/v1.14.1...v1.14.3)\n\n---\nupdated-dependencies:\n- dependency-name: tree-sitter-language-pack\n  dependency-version: 1.14.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-15T10:15:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/6d930803dda6b00ae4010ee0b2ae29b0a55eb798",
+      "is_merge": false
+    },
+    {
+      "sha": "35616ec34074c1502b625b129c54f03710d2cc70",
+      "author": "dependabot[bot]",
+      "message": "build(deps-dev): bump hatchling from 1.31.0 to 1.32.0\n\nBumps [hatchling](https://github.com/pypa/hatch) from 1.31.0 to 1.32.0.\n- [Release notes](https://github.com/pypa/hatch/releases)\n- [Commits](https://github.com/pypa/hatch/compare/hatchling-v1.31.0...hatchling-v1.32.0)\n\n---\nupdated-dependencies:\n- dependency-name: hatchling\n  dependency-version: 1.32.0\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-15T10:14:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/35616ec34074c1502b625b129c54f03710d2cc70",
+      "is_merge": false
+    },
+    {
       "sha": "3b78d3ae5efe2c1c4cb61b212e8f39383b3f8563",
       "author": "JaredHatfield",
       "message": "fix: correct semgrep GitHub action workflow (#20)",

@@ -6,6 +6,54 @@
   "latest_release_time": "2026-05-22T00:44:26Z",
   "unreleased_commits": [
     {
+      "sha": "9d6a136b4ef6af7e19351b37c9c5857ab4995a4a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #120 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.0.0\n\nchore(deps): bump astral-sh/setup-uv from 9.0.0 to 10.0.0",
+      "timestamp": "2026-08-15T16:43:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/9d6a136b4ef6af7e19351b37c9c5857ab4995a4a",
+      "is_merge": true
+    },
+    {
+      "sha": "84aacea8967a9369d6aa59e6d6d096c1a71e3c65",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 9.0.0 to 10.0.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 9.0.0 to 10.0.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/c771a70e6277c0a99b617c7a806ffedaca235ff9...ae62891fec2bb8e7d6c99fc78c9fec3a63790f8d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-15T15:06:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/84aacea8967a9369d6aa59e6d6d096c1a71e3c65",
+      "is_merge": false
+    },
+    {
+      "sha": "5247fbef768e3f4a7b0850cdc2ecf2376eb20320",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #119 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-4.2.2\n\nchore(deps): bump actions/attest-build-provenance from 4.1.1 to 4.2.2",
+      "timestamp": "2026-08-15T15:04:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/5247fbef768e3f4a7b0850cdc2ecf2376eb20320",
+      "is_merge": true
+    },
+    {
+      "sha": "f4acbfb93cdcc7f6bb83241d26f5bfcb71d59bc2",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/attest-build-provenance from 4.1.1 to 4.2.2\n\nBumps [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) from 4.1.1 to 4.2.2.\n- [Release notes](https://github.com/actions/attest-build-provenance/releases)\n- [Changelog](https://github.com/actions/attest-build-provenance/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest-build-provenance/compare/0f67c3f4856b2e3261c31976d6725780e5e4c373...4d101475d8b20a2381f78447822ac1eab6504dd8)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest-build-provenance\n  dependency-version: 4.2.2\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-15T14:34:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/f4acbfb93cdcc7f6bb83241d26f5bfcb71d59bc2",
+      "is_merge": false
+    },
+    {
+      "sha": "1f77cb66859e8eb572aaf3696185d3b560e37e60",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #122 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.1.1\n\nchore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.1.0 to 1.1.1",
+      "timestamp": "2026-08-15T14:31:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/1f77cb66859e8eb572aaf3696185d3b560e37e60",
+      "is_merge": true
+    },
+    {
+      "sha": "6e3cb7f198c3077cad1ae12a0763dec1f8861b4a",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.1.0 to 1.1.1.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/bbdf18095437282e7a3000e89ffa1a85583b7e7f...5aa0f8e1c3995f45c693cfca7641edc7e289efd8)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-15T10:06:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/6e3cb7f198c3077cad1ae12a0763dec1f8861b4a",
+      "is_merge": false
+    },
+    {
       "sha": "169751d0a95e428e70293da34aae9291ea8342ff",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for goenvecho (#118)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",

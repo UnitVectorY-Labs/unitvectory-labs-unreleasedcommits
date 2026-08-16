@@ -6,6 +6,54 @@
   "latest_release_time": "2026-06-28T15:16:00Z",
   "unreleased_commits": [
     {
+      "sha": "2a688239fb97552d11403a2f7743a92c5b5f4361",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #103 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-4.2.2\n\nbuild(deps): bump actions/attest-build-provenance from 4.1.1 to 4.2.2",
+      "timestamp": "2026-08-15T15:03:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/2a688239fb97552d11403a2f7743a92c5b5f4361",
+      "is_merge": true
+    },
+    {
+      "sha": "5f4bd1d294c36f2a68fd7ac233d8d4676a6f14a1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #101 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.0.0\n\nbuild(deps): bump astral-sh/setup-uv from 9.0.0 to 10.0.0",
+      "timestamp": "2026-08-15T14:52:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/5f4bd1d294c36f2a68fd7ac233d8d4676a6f14a1",
+      "is_merge": true
+    },
+    {
+      "sha": "69dd7d69dfed534db7ae26fa62486c997cd2eb4e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #102 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.1.1\n\nbuild(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.1.0 to 1.1.1",
+      "timestamp": "2026-08-15T14:35:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/69dd7d69dfed534db7ae26fa62486c997cd2eb4e",
+      "is_merge": true
+    },
+    {
+      "sha": "61b95f013631025407f27be55d8fee9af089f6b4",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/attest-build-provenance from 4.1.1 to 4.2.2\n\nBumps [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) from 4.1.1 to 4.2.2.\n- [Release notes](https://github.com/actions/attest-build-provenance/releases)\n- [Changelog](https://github.com/actions/attest-build-provenance/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest-build-provenance/compare/0f67c3f4856b2e3261c31976d6725780e5e4c373...4d101475d8b20a2381f78447822ac1eab6504dd8)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest-build-provenance\n  dependency-version: 4.2.2\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-15T10:13:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/61b95f013631025407f27be55d8fee9af089f6b4",
+      "is_merge": false
+    },
+    {
+      "sha": "b33532627c6637a49209a4a915e87a9b964e5438",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.1.0 to 1.1.1.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/bbdf18095437282e7a3000e89ffa1a85583b7e7f...5aa0f8e1c3995f45c693cfca7641edc7e289efd8)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-15T10:12:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/b33532627c6637a49209a4a915e87a9b964e5438",
+      "is_merge": false
+    },
+    {
+      "sha": "1f660dc2005bb23af8f343be92ea96763e1db350",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 9.0.0 to 10.0.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 9.0.0 to 10.0.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/c771a70e6277c0a99b617c7a806ffedaca235ff9...ae62891fec2bb8e7d6c99fc78c9fec3a63790f8d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-15T10:11:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/1f660dc2005bb23af8f343be92ea96763e1db350",
+      "is_merge": false
+    },
+    {
       "sha": "fc891d06338694b00d83c093d7b33fdb5f17b2ea",
       "author": "JaredHatfield",
       "message": "Merge pull request #99 from UnitVectorY-Labs/gitrepoforge/update\n\ngitrepoforge: apply desired state for hallucinateapi",

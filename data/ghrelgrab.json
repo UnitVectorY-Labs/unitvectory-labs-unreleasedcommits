@@ -6,6 +6,54 @@
   "latest_release_time": "2026-06-22T22:13:38Z",
   "unreleased_commits": [
     {
+      "sha": "b2cc22caaa01bf10244c4eca0604cc7243fb3ce6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #113 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-4.2.2\n\nchore(deps): bump actions/attest-build-provenance from 4.1.1 to 4.2.2",
+      "timestamp": "2026-08-15T15:03:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/b2cc22caaa01bf10244c4eca0604cc7243fb3ce6",
+      "is_merge": true
+    },
+    {
+      "sha": "1eb412d2880fe2304197de5fbe939c8fe7dc0efb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #114 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.0.0\n\nchore(deps): bump astral-sh/setup-uv from 9.0.0 to 10.0.0",
+      "timestamp": "2026-08-15T14:50:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/1eb412d2880fe2304197de5fbe939c8fe7dc0efb",
+      "is_merge": true
+    },
+    {
+      "sha": "eada5987f189a712759c24636af8345c05cf5f33",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #115 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.1.1\n\nchore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.1.0 to 1.1.1",
+      "timestamp": "2026-08-15T14:33:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/eada5987f189a712759c24636af8345c05cf5f33",
+      "is_merge": true
+    },
+    {
+      "sha": "fb788de616f26424a9e336968090addf1a8399d7",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.1.0 to 1.1.1.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/bbdf18095437282e7a3000e89ffa1a85583b7e7f...5aa0f8e1c3995f45c693cfca7641edc7e289efd8)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-15T10:10:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/fb788de616f26424a9e336968090addf1a8399d7",
+      "is_merge": false
+    },
+    {
+      "sha": "7414161246ecdda4585e5ade386aabae6aed2d75",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 9.0.0 to 10.0.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 9.0.0 to 10.0.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/c771a70e6277c0a99b617c7a806ffedaca235ff9...ae62891fec2bb8e7d6c99fc78c9fec3a63790f8d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-15T10:07:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/7414161246ecdda4585e5ade386aabae6aed2d75",
+      "is_merge": false
+    },
+    {
+      "sha": "5d442d4719d9a8f6ab684f6b601c43744e5e0065",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/attest-build-provenance from 4.1.1 to 4.2.2\n\nBumps [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) from 4.1.1 to 4.2.2.\n- [Release notes](https://github.com/actions/attest-build-provenance/releases)\n- [Changelog](https://github.com/actions/attest-build-provenance/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest-build-provenance/compare/0f67c3f4856b2e3261c31976d6725780e5e4c373...4d101475d8b20a2381f78447822ac1eab6504dd8)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest-build-provenance\n  dependency-version: 4.2.2\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-15T10:07:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/5d442d4719d9a8f6ab684f6b601c43744e5e0065",
+      "is_merge": false
+    },
+    {
       "sha": "e810a7805448ce7e1ab820527378289d7754faab",
       "author": "JaredHatfield",
       "message": "fix: correct semgrep GitHub action workflow (#112)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",

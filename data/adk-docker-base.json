@@ -6,6 +6,54 @@
   "latest_release_time": "2025-10-25T13:36:20Z",
   "unreleased_commits": [
     {
+      "sha": "ff6adaf55a0f663f3cb94dfd7ab657bfebc07397",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #121 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-4.2.2\n\nbuild(deps): bump actions/attest-build-provenance from 4.1.1 to 4.2.2",
+      "timestamp": "2026-08-15T15:03:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/ff6adaf55a0f663f3cb94dfd7ab657bfebc07397",
+      "is_merge": true
+    },
+    {
+      "sha": "2508d305a797e1ab761f43aef089ebeac24103d2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #122 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.0.0\n\nbuild(deps): bump astral-sh/setup-uv from 9.0.0 to 10.0.0",
+      "timestamp": "2026-08-15T14:50:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/2508d305a797e1ab761f43aef089ebeac24103d2",
+      "is_merge": true
+    },
+    {
+      "sha": "6d2b4866ee00df9bfbb4addb03d12bb3f1d47914",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #123 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.1.1\n\nbuild(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.1.0 to 1.1.1",
+      "timestamp": "2026-08-15T14:33:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/6d2b4866ee00df9bfbb4addb03d12bb3f1d47914",
+      "is_merge": true
+    },
+    {
+      "sha": "f0b2655e5fbc415727c18d4aeb850e1912ea8378",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.1.0 to 1.1.1.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/bbdf18095437282e7a3000e89ffa1a85583b7e7f...5aa0f8e1c3995f45c693cfca7641edc7e289efd8)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-15T10:10:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/f0b2655e5fbc415727c18d4aeb850e1912ea8378",
+      "is_merge": false
+    },
+    {
+      "sha": "7f13bbaf820978a402caa55d5e9fa1135de69981",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 9.0.0 to 10.0.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 9.0.0 to 10.0.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/c771a70e6277c0a99b617c7a806ffedaca235ff9...ae62891fec2bb8e7d6c99fc78c9fec3a63790f8d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-15T10:10:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/7f13bbaf820978a402caa55d5e9fa1135de69981",
+      "is_merge": false
+    },
+    {
+      "sha": "c7eb757b56de86533a8a40b97bacdeb6aa39f7dd",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/attest-build-provenance from 4.1.1 to 4.2.2\n\nBumps [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) from 4.1.1 to 4.2.2.\n- [Release notes](https://github.com/actions/attest-build-provenance/releases)\n- [Changelog](https://github.com/actions/attest-build-provenance/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest-build-provenance/compare/0f67c3f4856b2e3261c31976d6725780e5e4c373...4d101475d8b20a2381f78447822ac1eab6504dd8)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest-build-provenance\n  dependency-version: 4.2.2\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-15T10:09:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/c7eb757b56de86533a8a40b97bacdeb6aa39f7dd",
+      "is_merge": false
+    },
+    {
       "sha": "956628270fc41d4d9b1802af005a8c5414921966",
       "author": "JaredHatfield",
       "message": "fix: correct semgrep GitHub action workflow (#119)",

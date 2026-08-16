@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-22T22:49:50Z",
   "unreleased_commits": [
     {
+      "sha": "e06956a0d88de56181a80df1790fe9e149bb0af2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #153 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.0.0\n\nbuild(deps): bump astral-sh/setup-uv from 9.0.0 to 10.0.0",
+      "timestamp": "2026-08-15T16:43:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/e06956a0d88de56181a80df1790fe9e149bb0af2",
+      "is_merge": true
+    },
+    {
+      "sha": "4ee662cb75464b131e31e258c1eae4dd53bdc49b",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 9.0.0 to 10.0.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 9.0.0 to 10.0.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/c771a70e6277c0a99b617c7a806ffedaca235ff9...ae62891fec2bb8e7d6c99fc78c9fec3a63790f8d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-15T14:35:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/4ee662cb75464b131e31e258c1eae4dd53bdc49b",
+      "is_merge": false
+    },
+    {
+      "sha": "51ec31ec9ed904ef55584126deda4172b8bc3f53",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #154 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.1.1\n\nbuild(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.1.0 to 1.1.1",
+      "timestamp": "2026-08-15T14:32:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/51ec31ec9ed904ef55584126deda4172b8bc3f53",
+      "is_merge": true
+    },
+    {
+      "sha": "5144be952c0b095a3ebb18294d5a88148461f19f",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.1.0 to 1.1.1.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/bbdf18095437282e7a3000e89ffa1a85583b7e7f...5aa0f8e1c3995f45c693cfca7641edc7e289efd8)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-15T10:06:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/5144be952c0b095a3ebb18294d5a88148461f19f",
+      "is_merge": false
+    },
+    {
       "sha": "f3a8772a3bf33689dfa7b989b2e003d93b1d5a48",
       "author": "JaredHatfield",
       "message": "Merge pull request #152 from UnitVectorY-Labs/gitrepoforge/update\n\ngitrepoforge: apply desired state for YAMLtecture",

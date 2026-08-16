@@ -6,6 +6,38 @@
   "latest_release_time": "2026-08-08T23:58:33Z",
   "unreleased_commits": [
     {
+      "sha": "7e3d3eace123adfcbe122eb7bcfb976ce7cf3b99",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #152 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.0.0\n\nchore(deps): bump astral-sh/setup-uv from 9.0.0 to 10.0.0",
+      "timestamp": "2026-08-15T16:44:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/7e3d3eace123adfcbe122eb7bcfb976ce7cf3b99",
+      "is_merge": true
+    },
+    {
+      "sha": "8a5a432242841e84a4c8fad51e6257f86013c23a",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 9.0.0 to 10.0.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 9.0.0 to 10.0.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/c771a70e6277c0a99b617c7a806ffedaca235ff9...ae62891fec2bb8e7d6c99fc78c9fec3a63790f8d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-15T14:37:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/8a5a432242841e84a4c8fad51e6257f86013c23a",
+      "is_merge": false
+    },
+    {
+      "sha": "b75882527b209c7b0a3c4f644556396782b653e9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #151 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.1.1\n\nchore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.1.0 to 1.1.1",
+      "timestamp": "2026-08-15T14:33:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/b75882527b209c7b0a3c4f644556396782b653e9",
+      "is_merge": true
+    },
+    {
+      "sha": "dbf3da4329f292e2c88045d28e5698a94e635de2",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.1.0 to 1.1.1.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/bbdf18095437282e7a3000e89ffa1a85583b7e7f...5aa0f8e1c3995f45c693cfca7641edc7e289efd8)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-15T10:05:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/dbf3da4329f292e2c88045d28e5698a94e635de2",
+      "is_merge": false
+    },
+    {
       "sha": "5ec34c330a6e9157b7e8e23c738e574665a0afae",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for mcp-graphql-forge (#150)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",

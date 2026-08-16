@@ -6,6 +6,38 @@
   "latest_release_time": "2026-08-08T08:16:18Z",
   "unreleased_commits": [
     {
+      "sha": "f7831328adab36adeca28e152507d430bad1d049",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #86 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.0.0\n\nbuild(deps): bump astral-sh/setup-uv from 9.0.0 to 10.0.0",
+      "timestamp": "2026-08-15T14:52:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/f7831328adab36adeca28e152507d430bad1d049",
+      "is_merge": true
+    },
+    {
+      "sha": "03c69aa39f3917ec068ef33b674505065086dcd2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #87 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.1.1\n\nbuild(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.1.0 to 1.1.1",
+      "timestamp": "2026-08-15T14:35:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/03c69aa39f3917ec068ef33b674505065086dcd2",
+      "is_merge": true
+    },
+    {
+      "sha": "8b539cecccb9812d6460a879ffbc67e7bfe2775d",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.1.0 to 1.1.1.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/bbdf18095437282e7a3000e89ffa1a85583b7e7f...5aa0f8e1c3995f45c693cfca7641edc7e289efd8)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-15T10:07:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/8b539cecccb9812d6460a879ffbc67e7bfe2775d",
+      "is_merge": false
+    },
+    {
+      "sha": "f475790142ed2358e914f4883f27d98af8872d7e",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 9.0.0 to 10.0.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 9.0.0 to 10.0.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/c771a70e6277c0a99b617c7a806ffedaca235ff9...ae62891fec2bb8e7d6c99fc78c9fec3a63790f8d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-15T10:07:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/f475790142ed2358e914f4883f27d98af8872d7e",
+      "is_merge": false
+    },
+    {
       "sha": "bb220bdb9573da95409c39ad6db2bbd2cf9a8de8",
       "author": "JaredHatfield",
       "message": "Merge pull request #85 from UnitVectorY-Labs/gitrepoforge/update\n\ngitrepoforge: apply desired state for ghorgsync",

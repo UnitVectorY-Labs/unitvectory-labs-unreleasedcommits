@@ -6,6 +6,38 @@
   "latest_release_time": "2026-08-08T23:58:47Z",
   "unreleased_commits": [
     {
+      "sha": "ffe51f090e9a82ad56d052eb63f2e6271d18837f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #88 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.0.0\n\nbuild(deps): bump astral-sh/setup-uv from 9.0.0 to 10.0.0",
+      "timestamp": "2026-08-15T14:52:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/ffe51f090e9a82ad56d052eb63f2e6271d18837f",
+      "is_merge": true
+    },
+    {
+      "sha": "ff7ded76e9d3190abd22b092f21bdb46c7be6b11",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #89 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.1.1\n\nbuild(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.1.0 to 1.1.1",
+      "timestamp": "2026-08-15T14:35:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/ff7ded76e9d3190abd22b092f21bdb46c7be6b11",
+      "is_merge": true
+    },
+    {
+      "sha": "79f0e5c275bab46834749428b44582713cf1962a",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.1.0 to 1.1.1.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/bbdf18095437282e7a3000e89ffa1a85583b7e7f...5aa0f8e1c3995f45c693cfca7641edc7e289efd8)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-15T10:12:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/79f0e5c275bab46834749428b44582713cf1962a",
+      "is_merge": false
+    },
+    {
+      "sha": "e35964e258e048c932fb0e2ed1b018f4e9c72b1b",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 9.0.0 to 10.0.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 9.0.0 to 10.0.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/c771a70e6277c0a99b617c7a806ffedaca235ff9...ae62891fec2bb8e7d6c99fc78c9fec3a63790f8d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-15T10:08:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/e35964e258e048c932fb0e2ed1b018f4e9c72b1b",
+      "is_merge": false
+    },
+    {
       "sha": "043bafb19c7053241f4cdc47a8eedd2c89c1bbeb",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for mcp-rest-forge (#87)\n\nCo-authored-by: Jared \u003cjared@unitvectory.com\u003e",
