@@ -6,6 +6,14 @@
   "latest_release_time": "2026-08-16T15:47:15Z",
   "unreleased_commits": [
     {
+      "sha": "5e63a17ba0b2ea5e82ad93476087f05c554ad3d5",
+      "author": "JaredHatfield",
+      "message": "build(deps): sync uv.lock with version 1.2.0",
+      "timestamp": "2026-08-19T23:18:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/5e63a17ba0b2ea5e82ad93476087f05c554ad3d5",
+      "is_merge": false
+    },
+    {
       "sha": "c7cadc5085236f29c816a3d51d6947d89aaa0fc0",
       "author": "JaredHatfield",
       "message": "build(deps): sync uv.lock with tree-sitter-language-pack 1.14.3",
