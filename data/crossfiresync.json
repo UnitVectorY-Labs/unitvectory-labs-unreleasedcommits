@@ -6,6 +6,102 @@
   "latest_release_time": "2026-06-22T22:18:06Z",
   "unreleased_commits": [
     {
+      "sha": "89d9f74e9dd5efd70360af544ec11a62e31d353a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #254 from UnitVectorY-Labs/chore/codeql-4.37.7\n\nBump CodeQL version to 4.37.7",
+      "timestamp": "2026-08-22T22:03:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/89d9f74e9dd5efd70360af544ec11a62e31d353a",
+      "is_merge": true
+    },
+    {
+      "sha": "ae038c7f9250d95b5675be8d994d9918d6040b74",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.37.7",
+      "timestamp": "2026-08-22T19:22:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/ae038c7f9250d95b5675be8d994d9918d6040b74",
+      "is_merge": false
+    },
+    {
+      "sha": "b3725416ed494384e8424bcdd5e11358416cf7a4",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #252 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.7\n\nBump github/codeql-action/upload-sarif from 4.37.6 to 4.37.7",
+      "timestamp": "2026-08-22T16:54:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/b3725416ed494384e8424bcdd5e11358416cf7a4",
+      "is_merge": true
+    },
+    {
+      "sha": "6f7c8098c6b839aaf9dc28bd4e3634ce944fb491",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #247 from UnitVectorY-Labs/dependabot/maven/com.unitvectory-jsonparamunit-0.0.9\n\nBump com.unitvectory:jsonparamunit from 0.0.8 to 0.0.9",
+      "timestamp": "2026-08-22T16:45:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/6f7c8098c6b839aaf9dc28bd4e3634ce944fb491",
+      "is_merge": true
+    },
+    {
+      "sha": "877ffff429d717cdad04dd09b1950f7b75490cca",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #246 from UnitVectorY-Labs/dependabot/maven/com.unitvectory-fileparamunit-0.1.3\n\nBump com.unitvectory:fileparamunit from 0.1.2 to 0.1.3",
+      "timestamp": "2026-08-22T16:45:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/877ffff429d717cdad04dd09b1950f7b75490cca",
+      "is_merge": true
+    },
+    {
+      "sha": "fc0ebdef5ddd54689982d6b03a25850459bcba63",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action/upload-sarif from 4.37.6 to 4.37.7\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.6 to 4.37.7.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/5595ccaf912efad79be6eef63a5619ff05969be3...ff2f1c621b7f889edc0d3c761ac2e6a3f8cdb0dd)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.7\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-22T15:46:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/fc0ebdef5ddd54689982d6b03a25850459bcba63",
+      "is_merge": false
+    },
+    {
+      "sha": "1dc514d9edcd5f7a9cd01916d22aa10cde1da4b9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #249 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.0.1\n\nBump astral-sh/setup-uv from 10.0.0 to 10.0.1",
+      "timestamp": "2026-08-22T15:43:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/1dc514d9edcd5f7a9cd01916d22aa10cde1da4b9",
+      "is_merge": true
+    },
+    {
+      "sha": "bbaa9adc4a99967acdc914cc14074062656372c6",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 10.0.0 to 10.0.1\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.0.0 to 10.0.1.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/ae62891fec2bb8e7d6c99fc78c9fec3a63790f8d...20cfd1bf945f4377ade1205e4dbc17946fc9a30d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-22T15:21:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/bbaa9adc4a99967acdc914cc14074062656372c6",
+      "is_merge": false
+    },
+    {
+      "sha": "822bcf3d14fc84408a6f34f92d0dee6bb6b24627",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #253 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.0\n\nBump UnitVectorY-Labs/chromadb-repo-indexer from 1.1.1 to 1.2.0",
+      "timestamp": "2026-08-22T15:18:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/822bcf3d14fc84408a6f34f92d0dee6bb6b24627",
+      "is_merge": true
+    },
+    {
+      "sha": "7157df74a31b13b9aede7cd52988bf92a92162f5",
+      "author": "dependabot[bot]",
+      "message": "Bump UnitVectorY-Labs/chromadb-repo-indexer from 1.1.1 to 1.2.0\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.1.1 to 1.2.0.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/5aa0f8e1c3995f45c693cfca7641edc7e289efd8...69bfd4086b9251106a5c8b036068e02f2d0731aa)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-22T10:07:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/7157df74a31b13b9aede7cd52988bf92a92162f5",
+      "is_merge": false
+    },
+    {
+      "sha": "d5cfbefce1367b0eb3144ca068941c1e6936b1ab",
+      "author": "dependabot[bot]",
+      "message": "Bump com.unitvectory:jsonparamunit from 0.0.8 to 0.0.9\n\nBumps [com.unitvectory:jsonparamunit](https://github.com/UnitVectorY-Labs/jsonparamunit) from 0.0.8 to 0.0.9.\n- [Release notes](https://github.com/UnitVectorY-Labs/jsonparamunit/releases)\n- [Commits](https://github.com/UnitVectorY-Labs/jsonparamunit/compare/v0.0.8...v0.0.9)\n\n---\nupdated-dependencies:\n- dependency-name: com.unitvectory:jsonparamunit\n  dependency-version: 0.0.9\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-22T10:02:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/d5cfbefce1367b0eb3144ca068941c1e6936b1ab",
+      "is_merge": false
+    },
+    {
+      "sha": "f59b8068643c535fd3a39f930fe14721dcc610f5",
+      "author": "dependabot[bot]",
+      "message": "Bump com.unitvectory:fileparamunit from 0.1.2 to 0.1.3\n\nBumps [com.unitvectory:fileparamunit](https://github.com/UnitVectorY-Labs/fileparamunit) from 0.1.2 to 0.1.3.\n- [Release notes](https://github.com/UnitVectorY-Labs/fileparamunit/releases)\n- [Commits](https://github.com/UnitVectorY-Labs/fileparamunit/compare/v0.1.2...v0.1.3)\n\n---\nupdated-dependencies:\n- dependency-name: com.unitvectory:fileparamunit\n  dependency-version: 0.1.3\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-22T10:02:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/f59b8068643c535fd3a39f930fe14721dcc610f5",
+      "is_merge": false
+    },
+    {
       "sha": "3d434e19de7213496fdc56b74f5d9b3ec7d04afa",
       "author": "JaredHatfield",
       "message": "Merge pull request #245 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-4.2.2\n\nBump actions/attest-build-provenance from 4.1.1 to 4.2.2",

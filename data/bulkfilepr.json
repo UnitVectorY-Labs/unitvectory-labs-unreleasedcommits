@@ -6,6 +6,70 @@
   "latest_release_time": "2026-05-23T23:32:07Z",
   "unreleased_commits": [
     {
+      "sha": "747c4aa526b26d0f6b935f4dbe14320a98841f5d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #91 from UnitVectorY-Labs/chore/codeql-4.37.7\n\nBump CodeQL version to 4.37.7",
+      "timestamp": "2026-08-22T22:06:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/747c4aa526b26d0f6b935f4dbe14320a98841f5d",
+      "is_merge": true
+    },
+    {
+      "sha": "2ee9f02d2cd088c4467738ba704048a3da35813d",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.37.7",
+      "timestamp": "2026-08-22T19:15:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/2ee9f02d2cd088c4467738ba704048a3da35813d",
+      "is_merge": false
+    },
+    {
+      "sha": "f787773546cbc34bcbccf6d399077638ca88ba71",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #86 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.0.1\n\nbuild(deps): bump astral-sh/setup-uv from 10.0.0 to 10.0.1",
+      "timestamp": "2026-08-22T15:48:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/f787773546cbc34bcbccf6d399077638ca88ba71",
+      "is_merge": true
+    },
+    {
+      "sha": "1f206c2661c9f692688adc59a3e03569f7885c36",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #89 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.7\n\nbuild(deps): bump github/codeql-action/upload-sarif from 4.37.6 to 4.37.7",
+      "timestamp": "2026-08-22T15:34:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/1f206c2661c9f692688adc59a3e03569f7885c36",
+      "is_merge": true
+    },
+    {
+      "sha": "fef799fdc94c63518172925c2cbc4a5d464db7de",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #87 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.0\n\nbuild(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.1.1 to 1.2.0",
+      "timestamp": "2026-08-22T15:25:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/fef799fdc94c63518172925c2cbc4a5d464db7de",
+      "is_merge": true
+    },
+    {
+      "sha": "ac52b3f283dd085195f0241d2222dbab5c4b1edb",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.6 to 4.37.7.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/5595ccaf912efad79be6eef63a5619ff05969be3...ff2f1c621b7f889edc0d3c761ac2e6a3f8cdb0dd)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.7\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-22T10:07:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/ac52b3f283dd085195f0241d2222dbab5c4b1edb",
+      "is_merge": false
+    },
+    {
+      "sha": "d4485ed2df263fcbbdf102928d510532c48ef9a0",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.1.1 to 1.2.0.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/5aa0f8e1c3995f45c693cfca7641edc7e289efd8...69bfd4086b9251106a5c8b036068e02f2d0731aa)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-22T10:05:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/d4485ed2df263fcbbdf102928d510532c48ef9a0",
+      "is_merge": false
+    },
+    {
+      "sha": "b5f75dfd96f77b3468d7c5ef3f98d9fdcb067d9c",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 10.0.0 to 10.0.1\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.0.0 to 10.0.1.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/ae62891fec2bb8e7d6c99fc78c9fec3a63790f8d...20cfd1bf945f4377ade1205e4dbc17946fc9a30d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-22T10:05:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/b5f75dfd96f77b3468d7c5ef3f98d9fdcb067d9c",
+      "is_merge": false
+    },
+    {
       "sha": "2be9f209f640698031f7250ab4b1b63933f84a03",
       "author": "JaredHatfield",
       "message": "Merge pull request #85 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.0.0\n\nbuild(deps): bump astral-sh/setup-uv from 9.0.0 to 10.0.0",

@@ -6,6 +6,102 @@
   "latest_release_time": "2026-06-22T22:38:58Z",
   "unreleased_commits": [
     {
+      "sha": "ff822b8655a748531c069f617c6f1cd605f5ceac",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #208 from UnitVectorY-Labs/chore/codeql-4.37.7\n\nBump CodeQL version to 4.37.7",
+      "timestamp": "2026-08-22T22:03:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/ff822b8655a748531c069f617c6f1cd605f5ceac",
+      "is_merge": true
+    },
+    {
+      "sha": "60c2541903c30282227fcca5ec8d16423a03e1e5",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.37.7",
+      "timestamp": "2026-08-22T19:20:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/60c2541903c30282227fcca5ec8d16423a03e1e5",
+      "is_merge": false
+    },
+    {
+      "sha": "745fa99f4bc95e70b166d69cbd42cd006b878c06",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #203 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.7\n\nchore(deps): bump github/codeql-action/upload-sarif from 4.37.6 to 4.37.7",
+      "timestamp": "2026-08-22T16:53:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/745fa99f4bc95e70b166d69cbd42cd006b878c06",
+      "is_merge": true
+    },
+    {
+      "sha": "2843390ea3739f7ae39d08b0a3a8ba3faa7ef175",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #200 from UnitVectorY-Labs/dependabot/maven/com.unitvectory-jsonparamunit-0.0.9\n\nchore(deps-dev): bump com.unitvectory:jsonparamunit from 0.0.8 to 0.0.9",
+      "timestamp": "2026-08-22T16:46:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/2843390ea3739f7ae39d08b0a3a8ba3faa7ef175",
+      "is_merge": true
+    },
+    {
+      "sha": "a4afad4f60b206e0ef051014738c8cb714868933",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #202 from UnitVectorY-Labs/dependabot/maven/com.unitvectory-fileparamunit-0.1.3\n\nchore(deps-dev): bump com.unitvectory:fileparamunit from 0.1.2 to 0.1.3",
+      "timestamp": "2026-08-22T16:46:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/a4afad4f60b206e0ef051014738c8cb714868933",
+      "is_merge": true
+    },
+    {
+      "sha": "2e290ab5c27386c07bc6b9af082c656f027962b9",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.6 to 4.37.7.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/5595ccaf912efad79be6eef63a5619ff05969be3...ff2f1c621b7f889edc0d3c761ac2e6a3f8cdb0dd)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.7\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-22T15:46:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/2e290ab5c27386c07bc6b9af082c656f027962b9",
+      "is_merge": false
+    },
+    {
+      "sha": "85030f68e995d180d2d11e858ca059e08a6c8f55",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #206 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.0.1\n\nchore(deps): bump astral-sh/setup-uv from 10.0.0 to 10.0.1",
+      "timestamp": "2026-08-22T15:43:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/85030f68e995d180d2d11e858ca059e08a6c8f55",
+      "is_merge": true
+    },
+    {
+      "sha": "5733b3c5ae4dc96415dd761c11deed29d73fdbc6",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.0.0 to 10.0.1\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.0.0 to 10.0.1.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/ae62891fec2bb8e7d6c99fc78c9fec3a63790f8d...20cfd1bf945f4377ade1205e4dbc17946fc9a30d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-22T15:20:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/5733b3c5ae4dc96415dd761c11deed29d73fdbc6",
+      "is_merge": false
+    },
+    {
+      "sha": "80f4c8d14fe8acb351fb8cc4a079e67d3702c124",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #201 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.0\n\nchore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.1.1 to 1.2.0",
+      "timestamp": "2026-08-22T15:18:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/80f4c8d14fe8acb351fb8cc4a079e67d3702c124",
+      "is_merge": true
+    },
+    {
+      "sha": "90b47e5d8be2c4198b9509f6e3d56ee3718889f1",
+      "author": "dependabot[bot]",
+      "message": "chore(deps-dev): bump com.unitvectory:fileparamunit from 0.1.2 to 0.1.3\n\nBumps [com.unitvectory:fileparamunit](https://github.com/UnitVectorY-Labs/fileparamunit) from 0.1.2 to 0.1.3.\n- [Release notes](https://github.com/UnitVectorY-Labs/fileparamunit/releases)\n- [Commits](https://github.com/UnitVectorY-Labs/fileparamunit/compare/v0.1.2...v0.1.3)\n\n---\nupdated-dependencies:\n- dependency-name: com.unitvectory:fileparamunit\n  dependency-version: 0.1.3\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-22T10:02:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/90b47e5d8be2c4198b9509f6e3d56ee3718889f1",
+      "is_merge": false
+    },
+    {
+      "sha": "ae4d53288be926acbb9be41852c512c773b4a7f9",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.1.1 to 1.2.0.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/5aa0f8e1c3995f45c693cfca7641edc7e289efd8...69bfd4086b9251106a5c8b036068e02f2d0731aa)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-22T10:02:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/ae4d53288be926acbb9be41852c512c773b4a7f9",
+      "is_merge": false
+    },
+    {
+      "sha": "546e6df875d65aad6ce4dc6f3149b7b79f9a771b",
+      "author": "dependabot[bot]",
+      "message": "chore(deps-dev): bump com.unitvectory:jsonparamunit from 0.0.8 to 0.0.9\n\nBumps [com.unitvectory:jsonparamunit](https://github.com/UnitVectorY-Labs/jsonparamunit) from 0.0.8 to 0.0.9.\n- [Release notes](https://github.com/UnitVectorY-Labs/jsonparamunit/releases)\n- [Commits](https://github.com/UnitVectorY-Labs/jsonparamunit/compare/v0.0.8...v0.0.9)\n\n---\nupdated-dependencies:\n- dependency-name: com.unitvectory:jsonparamunit\n  dependency-version: 0.0.9\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-22T10:02:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/546e6df875d65aad6ce4dc6f3149b7b79f9a771b",
+      "is_merge": false
+    },
+    {
       "sha": "9eb0b3deea529c0750c6a9649b737464b7069920",
       "author": "JaredHatfield",
       "message": "Merge pull request #198 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-4.2.2\n\nchore(deps): bump actions/attest-build-provenance from 4.1.1 to 4.2.2",

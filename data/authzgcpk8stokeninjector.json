@@ -6,6 +6,134 @@
   "latest_release_time": "2026-06-22T22:43:53Z",
   "unreleased_commits": [
     {
+      "sha": "b764a520752121da0055517198e51c696d8fd4e9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #179 from UnitVectorY-Labs/chore/codeql-4.37.7\n\nBump CodeQL version to 4.37.7",
+      "timestamp": "2026-08-22T22:04:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/b764a520752121da0055517198e51c696d8fd4e9",
+      "is_merge": true
+    },
+    {
+      "sha": "957ba5a5f1565c2e1e0771568e4df42640b6861b",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.37.7",
+      "timestamp": "2026-08-22T19:11:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/957ba5a5f1565c2e1e0771568e4df42640b6861b",
+      "is_merge": false
+    },
+    {
+      "sha": "4daee8a4e2d56738614920cb1cd88918118acfc9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #171 from UnitVectorY-Labs/dependabot/github_actions/docker/setup-buildx-action-4.3.0\n\nchore(deps): bump docker/setup-buildx-action from 4.2.0 to 4.3.0",
+      "timestamp": "2026-08-22T17:38:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/4daee8a4e2d56738614920cb1cd88918118acfc9",
+      "is_merge": true
+    },
+    {
+      "sha": "3cf7742df5051ae6a8311808826818dbcef5ad18",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/setup-buildx-action from 4.2.0 to 4.3.0\n\nBumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 4.2.0 to 4.3.0.\n- [Release notes](https://github.com/docker/setup-buildx-action/releases)\n- [Commits](https://github.com/docker/setup-buildx-action/compare/bb05f3f5519dd87d3ba754cc423b652a5edd6d2c...37fe631027851001ddb9b187196cc803df7f5f0e)\n\n---\nupdated-dependencies:\n- dependency-name: docker/setup-buildx-action\n  dependency-version: 4.3.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-22T17:16:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/3cf7742df5051ae6a8311808826818dbcef5ad18",
+      "is_merge": false
+    },
+    {
+      "sha": "12499b128105f8b08a77ac8cd573349dfd069c8d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #174 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.7\n\nchore(deps): bump github/codeql-action/upload-sarif from 4.37.6 to 4.37.7",
+      "timestamp": "2026-08-22T17:14:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/12499b128105f8b08a77ac8cd573349dfd069c8d",
+      "is_merge": true
+    },
+    {
+      "sha": "35dfa893eb1c6d34ef8bac1aeb6130aa68350e16",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.6 to 4.37.7.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/5595ccaf912efad79be6eef63a5619ff05969be3...ff2f1c621b7f889edc0d3c761ac2e6a3f8cdb0dd)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.7\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-22T17:00:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/35dfa893eb1c6d34ef8bac1aeb6130aa68350e16",
+      "is_merge": false
+    },
+    {
+      "sha": "4b0cbaa43ec1057f5fe33470aab1aab50dc751a7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #177 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.0.1\n\nchore(deps): bump astral-sh/setup-uv from 10.0.0 to 10.0.1",
+      "timestamp": "2026-08-22T16:55:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/4b0cbaa43ec1057f5fe33470aab1aab50dc751a7",
+      "is_merge": true
+    },
+    {
+      "sha": "b00d4b3da288c17522468b75402a5f65b91aca24",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #173 from UnitVectorY-Labs/dependabot/go_modules/github.com/envoyproxy/go-control-plane/envoy-1.39.0\n\nchore(deps): bump github.com/envoyproxy/go-control-plane/envoy from 1.37.0 to 1.39.0",
+      "timestamp": "2026-08-22T16:23:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/b00d4b3da288c17522468b75402a5f65b91aca24",
+      "is_merge": true
+    },
+    {
+      "sha": "985245ecf0966d41711985226de610bf9616f35a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #170 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/grpc-1.83.1\n\nchore(deps): bump google.golang.org/grpc from 1.83.0 to 1.83.1",
+      "timestamp": "2026-08-22T16:22:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/985245ecf0966d41711985226de610bf9616f35a",
+      "is_merge": true
+    },
+    {
+      "sha": "4c9a605c7904d7d17ba526998ba0b2639536867c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #172 from UnitVectorY-Labs/dependabot/docker/golang-1.26.6\n\nchore(deps): bump golang from 1.26.5 to 1.26.6",
+      "timestamp": "2026-08-22T15:58:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/4c9a605c7904d7d17ba526998ba0b2639536867c",
+      "is_merge": true
+    },
+    {
+      "sha": "6105426bd5271b3b400449578b2136dd98b64541",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.0.0 to 10.0.1\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.0.0 to 10.0.1.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/ae62891fec2bb8e7d6c99fc78c9fec3a63790f8d...20cfd1bf945f4377ade1205e4dbc17946fc9a30d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-22T15:27:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/6105426bd5271b3b400449578b2136dd98b64541",
+      "is_merge": false
+    },
+    {
+      "sha": "e77e155a2b2acffbd776768774ed487bffb59181",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #175 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.0\n\nchore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.1.1 to 1.2.0",
+      "timestamp": "2026-08-22T15:21:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/e77e155a2b2acffbd776768774ed487bffb59181",
+      "is_merge": true
+    },
+    {
+      "sha": "7f308778d5e8ed8c6e0b08a358009534c244fdc5",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.1.1 to 1.2.0.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/5aa0f8e1c3995f45c693cfca7641edc7e289efd8...69bfd4086b9251106a5c8b036068e02f2d0731aa)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-22T10:15:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/7f308778d5e8ed8c6e0b08a358009534c244fdc5",
+      "is_merge": false
+    },
+    {
+      "sha": "a58aa481548dec710f7bb8c608322d23faaf8f73",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github.com/envoyproxy/go-control-plane/envoy\n\nBumps [github.com/envoyproxy/go-control-plane/envoy](https://github.com/envoyproxy/go-control-plane) from 1.37.0 to 1.39.0.\n- [Release notes](https://github.com/envoyproxy/go-control-plane/releases)\n- [Changelog](https://github.com/envoyproxy/go-control-plane/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/envoyproxy/go-control-plane/compare/envoy/v1.37.0...envoy/v1.39.0)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/envoyproxy/go-control-plane/envoy\n  dependency-version: 1.39.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-22T10:14:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/a58aa481548dec710f7bb8c608322d23faaf8f73",
+      "is_merge": false
+    },
+    {
+      "sha": "84e5b431f1d71bb92937bb71ac3984d20f37b486",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump golang from 1.26.5 to 1.26.6\n\nBumps golang from 1.26.5 to 1.26.6.\n\n---\nupdated-dependencies:\n- dependency-name: golang\n  dependency-version: 1.26.6\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-22T10:14:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/84e5b431f1d71bb92937bb71ac3984d20f37b486",
+      "is_merge": false
+    },
+    {
+      "sha": "9be8fa55304b94161cd175e7a410520d342e6b70",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/grpc from 1.83.0 to 1.83.1\n\nBumps [google.golang.org/grpc](https://github.com/grpc/grpc-go) from 1.83.0 to 1.83.1.\n- [Release notes](https://github.com/grpc/grpc-go/releases)\n- [Commits](https://github.com/grpc/grpc-go/compare/v1.83.0...v1.83.1)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/grpc\n  dependency-version: 1.83.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-22T10:14:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/9be8fa55304b94161cd175e7a410520d342e6b70",
+      "is_merge": false
+    },
+    {
       "sha": "3ac45f2b58dc9b17a83eadb36436d9e82eafa9ac",
       "author": "JaredHatfield",
       "message": "Merge pull request #168 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.0.0\n\nchore(deps): bump astral-sh/setup-uv from 9.0.0 to 10.0.0",

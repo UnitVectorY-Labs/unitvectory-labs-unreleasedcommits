@@ -6,6 +6,54 @@
   "latest_release_time": "2026-08-16T15:47:15Z",
   "unreleased_commits": [
     {
+      "sha": "addb205a35d18d7a1a231ca5cfe9d623778ca67e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #29 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.0.1\n\nbuild(deps): bump astral-sh/setup-uv from 10.0.0 to 10.0.1",
+      "timestamp": "2026-08-22T15:50:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/addb205a35d18d7a1a231ca5cfe9d623778ca67e",
+      "is_merge": true
+    },
+    {
+      "sha": "f304db523aee7b2058bd158a5bab201ba9bd11cc",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #28 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.7\n\nbuild(deps): bump github/codeql-action/upload-sarif from 4.37.6 to 4.37.7",
+      "timestamp": "2026-08-22T15:37:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/f304db523aee7b2058bd158a5bab201ba9bd11cc",
+      "is_merge": true
+    },
+    {
+      "sha": "f750228e0d5d79cc5e755fa458b9850f74504892",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #26 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.0\n\nbuild(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.1.1 to 1.2.0",
+      "timestamp": "2026-08-22T15:28:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/f750228e0d5d79cc5e755fa458b9850f74504892",
+      "is_merge": true
+    },
+    {
+      "sha": "16f1c88c910ac66bf69a70ee90f945308925117d",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 10.0.0 to 10.0.1\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.0.0 to 10.0.1.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/ae62891fec2bb8e7d6c99fc78c9fec3a63790f8d...20cfd1bf945f4377ade1205e4dbc17946fc9a30d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-22T10:11:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/16f1c88c910ac66bf69a70ee90f945308925117d",
+      "is_merge": false
+    },
+    {
+      "sha": "7233b180684fc6d57a46baf48f583b54664acb59",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.6 to 4.37.7.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/5595ccaf912efad79be6eef63a5619ff05969be3...ff2f1c621b7f889edc0d3c761ac2e6a3f8cdb0dd)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.7\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-22T10:10:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/7233b180684fc6d57a46baf48f583b54664acb59",
+      "is_merge": false
+    },
+    {
+      "sha": "3b302c4f1e3593b0c4254265eacce171e280c616",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.1.1 to 1.2.0.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/5aa0f8e1c3995f45c693cfca7641edc7e289efd8...69bfd4086b9251106a5c8b036068e02f2d0731aa)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-22T10:09:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/3b302c4f1e3593b0c4254265eacce171e280c616",
+      "is_merge": false
+    },
+    {
       "sha": "5e63a17ba0b2ea5e82ad93476087f05c554ad3d5",
       "author": "JaredHatfield",
       "message": "build(deps): sync uv.lock with version 1.2.0",

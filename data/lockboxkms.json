@@ -6,6 +6,102 @@
   "latest_release_time": "2026-06-22T22:28:39Z",
   "unreleased_commits": [
     {
+      "sha": "593b6519259d1a748e41e6112f2aaa99b2a4a09e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #244 from UnitVectorY-Labs/chore/codeql-4.37.7\n\nBump CodeQL version to 4.37.7",
+      "timestamp": "2026-08-22T22:04:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/593b6519259d1a748e41e6112f2aaa99b2a4a09e",
+      "is_merge": true
+    },
+    {
+      "sha": "27ea03128ef1b239d1d4f097750d8a710a7fc6db",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.37.7",
+      "timestamp": "2026-08-22T20:55:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/27ea03128ef1b239d1d4f097750d8a710a7fc6db",
+      "is_merge": false
+    },
+    {
+      "sha": "486ac1f85f0d88d4a25385a1c69ad89df5f51b2a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #242 from UnitVectorY-Labs/dependabot/github_actions/docker/setup-buildx-action-4.3.0\n\nchore(deps): bump docker/setup-buildx-action from 4.2.0 to 4.3.0",
+      "timestamp": "2026-08-22T17:14:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/486ac1f85f0d88d4a25385a1c69ad89df5f51b2a",
+      "is_merge": true
+    },
+    {
+      "sha": "4723d1641799a7a6a32cde2f12dbe2eab8cdfae5",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/setup-buildx-action from 4.2.0 to 4.3.0\n\nBumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 4.2.0 to 4.3.0.\n- [Release notes](https://github.com/docker/setup-buildx-action/releases)\n- [Commits](https://github.com/docker/setup-buildx-action/compare/bb05f3f5519dd87d3ba754cc423b652a5edd6d2c...37fe631027851001ddb9b187196cc803df7f5f0e)\n\n---\nupdated-dependencies:\n- dependency-name: docker/setup-buildx-action\n  dependency-version: 4.3.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-22T16:58:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/4723d1641799a7a6a32cde2f12dbe2eab8cdfae5",
+      "is_merge": false
+    },
+    {
+      "sha": "101cda594fa93f10228fb2fbcc5461ff4bfd6f61",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #243 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.7\n\nchore(deps): bump github/codeql-action/upload-sarif from 4.37.6 to 4.37.7",
+      "timestamp": "2026-08-22T16:54:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/101cda594fa93f10228fb2fbcc5461ff4bfd6f61",
+      "is_merge": true
+    },
+    {
+      "sha": "f263cdc15e69f9cfb6b20541a6a61660a862040a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #239 from UnitVectorY-Labs/dependabot/docker/golang-1.26.6\n\nchore(deps): bump golang from 1.26.5 to 1.26.6",
+      "timestamp": "2026-08-22T15:58:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/f263cdc15e69f9cfb6b20541a6a61660a862040a",
+      "is_merge": true
+    },
+    {
+      "sha": "093def9aaef9c3f5f8dc74652fc7584a0792d048",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.6 to 4.37.7.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/5595ccaf912efad79be6eef63a5619ff05969be3...ff2f1c621b7f889edc0d3c761ac2e6a3f8cdb0dd)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.7\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-22T15:50:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/093def9aaef9c3f5f8dc74652fc7584a0792d048",
+      "is_merge": false
+    },
+    {
+      "sha": "367256ef536d6001bb4cf0547462d7858240a74e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #238 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.0.1\n\nchore(deps): bump astral-sh/setup-uv from 10.0.0 to 10.0.1",
+      "timestamp": "2026-08-22T15:45:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/367256ef536d6001bb4cf0547462d7858240a74e",
+      "is_merge": true
+    },
+    {
+      "sha": "125ccda2295fa488e0dc6717b18ac0a193b838aa",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.0.0 to 10.0.1\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.0.0 to 10.0.1.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/ae62891fec2bb8e7d6c99fc78c9fec3a63790f8d...20cfd1bf945f4377ade1205e4dbc17946fc9a30d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-22T15:26:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/125ccda2295fa488e0dc6717b18ac0a193b838aa",
+      "is_merge": false
+    },
+    {
+      "sha": "370b9f5dff943d40dcc224138e433e9e1b2440dd",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #237 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.0\n\nchore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.1.1 to 1.2.0",
+      "timestamp": "2026-08-22T15:20:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/370b9f5dff943d40dcc224138e433e9e1b2440dd",
+      "is_merge": true
+    },
+    {
+      "sha": "101b12e9c27932bc84c79c7e9ee2cd6637086a8e",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump golang from 1.26.5 to 1.26.6\n\nBumps golang from 1.26.5 to 1.26.6.\n\n---\nupdated-dependencies:\n- dependency-name: golang\n  dependency-version: 1.26.6\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-22T10:03:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/101b12e9c27932bc84c79c7e9ee2cd6637086a8e",
+      "is_merge": false
+    },
+    {
+      "sha": "8dc903651ed7476fc84dc61b65b6f88719b8a076",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.1.1 to 1.2.0.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/5aa0f8e1c3995f45c693cfca7641edc7e289efd8...69bfd4086b9251106a5c8b036068e02f2d0731aa)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-22T10:02:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/8dc903651ed7476fc84dc61b65b6f88719b8a076",
+      "is_merge": false
+    },
+    {
       "sha": "acb7efb169158311728abd8aa4021f03dbef13e4",
       "author": "JaredHatfield",
       "message": "Merge pull request #232 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.293.0\n\nchore(deps): bump google.golang.org/api from 0.292.0 to 0.293.0",
