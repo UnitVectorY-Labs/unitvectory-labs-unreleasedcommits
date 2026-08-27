@@ -6,6 +6,22 @@
   "latest_release_time": "2026-08-16T15:47:15Z",
   "unreleased_commits": [
     {
+      "sha": "8076def248ae2be6430072305fc9e4b10d882c4e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #27 from UnitVectorY-Labs/dependabot/pip/charset-normalizer-3.5.1\n\nbuild(deps): bump charset-normalizer from 3.4.9 to 3.5.1",
+      "timestamp": "2026-08-26T23:30:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/8076def248ae2be6430072305fc9e4b10d882c4e",
+      "is_merge": true
+    },
+    {
+      "sha": "8a432f643e2f4b862c88415a2db43c3ca8c23029",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump charset-normalizer from 3.4.9 to 3.5.1\n\nBumps [charset-normalizer](https://github.com/jawah/charset_normalizer) from 3.4.9 to 3.5.1.\n- [Release notes](https://github.com/jawah/charset_normalizer/releases)\n- [Changelog](https://github.com/jawah/charset_normalizer/blob/master/CHANGELOG.md)\n- [Commits](https://github.com/jawah/charset_normalizer/compare/3.4.9...3.5.1)\n\n---\nupdated-dependencies:\n- dependency-name: charset-normalizer\n  dependency-version: 3.5.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-25T22:30:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/8a432f643e2f4b862c88415a2db43c3ca8c23029",
+      "is_merge": false
+    },
+    {
       "sha": "addb205a35d18d7a1a231ca5cfe9d623778ca67e",
       "author": "JaredHatfield",
       "message": "Merge pull request #29 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.0.1\n\nbuild(deps): bump astral-sh/setup-uv from 10.0.0 to 10.0.1",

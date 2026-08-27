@@ -2,8 +2,8 @@
   "owner": "UnitVectorY-Labs",
   "name": "ghorgsync",
   "default_branch": "main",
-  "latest_release_tag": "v0.4.1",
-  "latest_release_time": "2026-08-24T22:06:19Z",
+  "latest_release_tag": "v0.4.2",
+  "latest_release_time": "2026-08-26T22:08:48Z",
   "unreleased_commits": null,
   "repository_url": "https://github.com/UnitVectorY-Labs/ghorgsync"
 }

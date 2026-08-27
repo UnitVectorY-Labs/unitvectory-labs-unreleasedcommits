@@ -1,0 +1,26 @@
+{
+  "owner": "UnitVectorY-Labs",
+  "name": "ghrepocfg",
+  "default_branch": "main",
+  "latest_release_tag": "v0.1.0",
+  "latest_release_time": "2026-08-26T11:01:22Z",
+  "unreleased_commits": [
+    {
+      "sha": "5b65d91b048f53405f6ae9367f59afa39594f56f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #5 from UnitVectorY-Labs/fix/ruleset-omitted-default-parameters\n\nAccept ruleset rules with GitHub-omitted default parameters",
+      "timestamp": "2026-08-27T00:20:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/5b65d91b048f53405f6ae9367f59afa39594f56f",
+      "is_merge": true
+    },
+    {
+      "sha": "2a483caf03bbdf758d8cc41ea683036baaa153ad",
+      "author": "JaredHatfield",
+      "message": "Accept ruleset rules with GitHub-omitted default parameters\n\nGitHub may omit a ruleset rule's parameters when every parameter uses its default, so exported YAML with a bare rule (e.g. '- type: update') was rejected by validation. Allow rules with no parameters, add regression tests for parse and full export round-trip, and document the behavior.",
+      "timestamp": "2026-08-27T00:07:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/2a483caf03bbdf758d8cc41ea683036baaa153ad",
+      "is_merge": false
+    }
+  ],
+  "repository_url": "https://github.com/UnitVectorY-Labs/ghrepocfg"
+}
