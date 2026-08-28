@@ -6,6 +6,22 @@
   "latest_release_time": "2026-08-26T11:01:22Z",
   "unreleased_commits": [
     {
+      "sha": "dc5a278c058511b0b2e0af0cbdf1188048d766a8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #6 from UnitVectorY-Labs/chore/codeql-4.37.8\n\nBump CodeQL version to 4.37.8",
+      "timestamp": "2026-08-28T09:44:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/dc5a278c058511b0b2e0af0cbdf1188048d766a8",
+      "is_merge": true
+    },
+    {
+      "sha": "8f8292348f6f79e63c525183397888f2bf193f39",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.8",
+      "timestamp": "2026-08-28T02:01:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/8f8292348f6f79e63c525183397888f2bf193f39",
+      "is_merge": false
+    },
+    {
       "sha": "5b65d91b048f53405f6ae9367f59afa39594f56f",
       "author": "JaredHatfield",
       "message": "Merge pull request #5 from UnitVectorY-Labs/fix/ruleset-omitted-default-parameters\n\nAccept ruleset rules with GitHub-omitted default parameters",

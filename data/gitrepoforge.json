@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-17T11:03:43Z",
   "unreleased_commits": [
     {
+      "sha": "5437826d4095d2a18df39407a00c25722ba823a0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #85 from UnitVectorY-Labs/chore/codeql-4.37.8\n\nBump CodeQL version to 4.37.8",
+      "timestamp": "2026-08-28T09:44:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/gitrepoforge/commit/5437826d4095d2a18df39407a00c25722ba823a0",
+      "is_merge": true
+    },
+    {
+      "sha": "fcde74afca7263de52b63781c32779dd2d95e140",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.37.8",
+      "timestamp": "2026-08-28T02:09:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/gitrepoforge/commit/fcde74afca7263de52b63781c32779dd2d95e140",
+      "is_merge": false
+    },
+    {
       "sha": "3699e86f31206dac8c1cc67d360e5213cc473f4f",
       "author": "JaredHatfield",
       "message": "Merge pull request #84 from UnitVectorY-Labs/chore/codeql-4.37.7\n\nBump CodeQL version to 4.37.7",

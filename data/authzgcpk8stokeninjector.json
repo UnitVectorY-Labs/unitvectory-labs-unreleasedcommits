@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:43:53Z",
   "unreleased_commits": [
     {
+      "sha": "227a7f0fa51964b8e62b9336650fafbaf20c3179",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #180 from UnitVectorY-Labs/chore/codeql-4.37.8\n\nBump CodeQL version to 4.37.8",
+      "timestamp": "2026-08-28T09:43:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/227a7f0fa51964b8e62b9336650fafbaf20c3179",
+      "is_merge": true
+    },
+    {
+      "sha": "3c7c45420f721bb800b2ae1d158cea54a71f10e0",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.37.8",
+      "timestamp": "2026-08-28T02:05:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/3c7c45420f721bb800b2ae1d158cea54a71f10e0",
+      "is_merge": false
+    },
+    {
       "sha": "b764a520752121da0055517198e51c696d8fd4e9",
       "author": "JaredHatfield",
       "message": "Merge pull request #179 from UnitVectorY-Labs/chore/codeql-4.37.7\n\nBump CodeQL version to 4.37.7",

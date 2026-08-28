@@ -4,6 +4,23 @@
   "default_branch": "main",
   "latest_release_tag": "v0.4.2",
   "latest_release_time": "2026-08-26T22:08:48Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "c367bcf37ec9598c4abd5abeaf57a2e7978b50da",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #97 from UnitVectorY-Labs/chore/codeql-4.37.8\n\nBump CodeQL version to 4.37.8",
+      "timestamp": "2026-08-28T09:44:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/c367bcf37ec9598c4abd5abeaf57a2e7978b50da",
+      "is_merge": true
+    },
+    {
+      "sha": "3dd4abc94ec9fcb8eb8eebe48062d973dfe0a0ea",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.37.8",
+      "timestamp": "2026-08-28T02:02:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/3dd4abc94ec9fcb8eb8eebe48062d973dfe0a0ea",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/ghorgsync"
 }
