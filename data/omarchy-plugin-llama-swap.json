@@ -2,8 +2,17 @@
   "owner": "UnitVectorY-Labs",
   "name": "omarchy-plugin-llama-swap",
   "default_branch": "main",
-  "latest_release_tag": "v0.1.1",
-  "latest_release_time": "2026-08-27T08:40:42Z",
-  "unreleased_commits": null,
+  "latest_release_tag": "v0.1.2",
+  "latest_release_time": "2026-08-28T23:22:57Z",
+  "unreleased_commits": [
+    {
+      "sha": "41c0a4338987a9a9baf16320925b2d7fb5989a63",
+      "author": "JaredHatfield",
+      "message": "Add GitHub Actions workflow for ChromaDB indexing",
+      "timestamp": "2026-08-29T00:01:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/omarchy-plugin-llama-swap/commit/41c0a4338987a9a9baf16320925b2d7fb5989a63",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/omarchy-plugin-llama-swap"
 }
