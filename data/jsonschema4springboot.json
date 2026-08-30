@@ -6,6 +6,62 @@
   "latest_release_time": "2026-06-22T22:26:01Z",
   "unreleased_commits": [
     {
+      "sha": "fe0f9edebc2b57315a00fae217a76d4054fd35b8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #247 from UnitVectorY-Labs/dependabot/maven/com.networknt-json-schema-validator-3.0.7\n\nBump com.networknt:json-schema-validator from 3.0.6 to 3.0.7",
+      "timestamp": "2026-08-29T16:56:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/fe0f9edebc2b57315a00fae217a76d4054fd35b8",
+      "is_merge": true
+    },
+    {
+      "sha": "1666a0e2674133d4ef1f847d7bca71f45a71c1aa",
+      "author": "JaredHatfield",
+      "message": "Merge branch 'main' into dependabot/maven/com.networknt-json-schema-validator-3.0.7",
+      "timestamp": "2026-08-29T16:54:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/1666a0e2674133d4ef1f847d7bca71f45a71c1aa",
+      "is_merge": true
+    },
+    {
+      "sha": "baeb678e503a91d88813bccd8e125e94fe54a7df",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #252 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-6.0.0\n\nBump actions/setup-java from 5.7.0 to 6.0.0",
+      "timestamp": "2026-08-29T16:49:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/baeb678e503a91d88813bccd8e125e94fe54a7df",
+      "is_merge": true
+    },
+    {
+      "sha": "cd36a76653482280cff931ffafb364fa08dbbc2a",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/setup-java from 5.7.0 to 6.0.0\n\nBumps [actions/setup-java](https://github.com/actions/setup-java) from 5.7.0 to 6.0.0.\n- [Release notes](https://github.com/actions/setup-java/releases)\n- [Commits](https://github.com/actions/setup-java/compare/b6effb05e454b25005698d916606bdc6ffcbf961...dd06d9cba3e5552c54d9f8ea23572deb30010f7c)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-java\n  dependency-version: 6.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-29T15:19:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/cd36a76653482280cff931ffafb364fa08dbbc2a",
+      "is_merge": false
+    },
+    {
+      "sha": "7e22f5bb7de9eef4a26770b464e9cc0a7cf51584",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #251 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.9\n\nBump github/codeql-action/upload-sarif from 4.37.7 to 4.37.9",
+      "timestamp": "2026-08-29T15:18:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/7e22f5bb7de9eef4a26770b464e9cc0a7cf51584",
+      "is_merge": true
+    },
+    {
+      "sha": "a180a17f9c484aee81118018f555763b2987b492",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action/upload-sarif from 4.37.7 to 4.37.9\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.7 to 4.37.9.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/ff2f1c621b7f889edc0d3c761ac2e6a3f8cdb0dd...cdf488f595d80d6e07e03d4674febd5ab45fa938)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.9\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-29T10:06:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/a180a17f9c484aee81118018f555763b2987b492",
+      "is_merge": false
+    },
+    {
+      "sha": "f6683f2f9636f1aba3d845a3fbc3d66115cd1261",
+      "author": "dependabot[bot]",
+      "message": "Bump com.networknt:json-schema-validator from 3.0.6 to 3.0.7\n\nBumps [com.networknt:json-schema-validator](https://github.com/networknt/json-schema-validator) from 3.0.6 to 3.0.7.\n- [Release notes](https://github.com/networknt/json-schema-validator/releases)\n- [Changelog](https://github.com/networknt/json-schema-validator/blob/master/CHANGELOG.md)\n- [Commits](https://github.com/networknt/json-schema-validator/compare/3.0.6...3.0.7)\n\n---\nupdated-dependencies:\n- dependency-name: com.networknt:json-schema-validator\n  dependency-version: 3.0.7\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-29T10:02:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/f6683f2f9636f1aba3d845a3fbc3d66115cd1261",
+      "is_merge": false
+    },
+    {
       "sha": "f6dfaa3e5bb880da30a2d1a8f136d28f0aa0c3be",
       "author": "JaredHatfield",
       "message": "Merge pull request #246 from UnitVectorY-Labs/chore/codeql-4.37.7\n\nBump CodeQL version to 4.37.7",

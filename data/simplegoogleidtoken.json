@@ -6,6 +6,62 @@
   "latest_release_time": "2026-06-22T22:44:58Z",
   "unreleased_commits": [
     {
+      "sha": "2bdebf27a922c695cd2df30c4b63cdd041852d68",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #188 from UnitVectorY-Labs/dependabot/maven/com.google.auth-google-auth-library-oauth2-http-1.51.0\n\nBump com.google.auth:google-auth-library-oauth2-http from 1.50.0 to 1.51.0",
+      "timestamp": "2026-08-29T16:55:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/2bdebf27a922c695cd2df30c4b63cdd041852d68",
+      "is_merge": true
+    },
+    {
+      "sha": "ef9a4e8812b268fb3590f61b1b45148182800132",
+      "author": "JaredHatfield",
+      "message": "Merge branch 'main' into dependabot/maven/com.google.auth-google-auth-library-oauth2-http-1.51.0",
+      "timestamp": "2026-08-29T16:54:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/ef9a4e8812b268fb3590f61b1b45148182800132",
+      "is_merge": true
+    },
+    {
+      "sha": "67a4d87f849d87ed4dd03a7999265d5daa8c9363",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #191 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-6.0.0\n\nBump actions/setup-java from 5.7.0 to 6.0.0",
+      "timestamp": "2026-08-29T16:49:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/67a4d87f849d87ed4dd03a7999265d5daa8c9363",
+      "is_merge": true
+    },
+    {
+      "sha": "535e316a1100cf1a189e6025e7dbc102fea3a25f",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/setup-java from 5.7.0 to 6.0.0\n\nBumps [actions/setup-java](https://github.com/actions/setup-java) from 5.7.0 to 6.0.0.\n- [Release notes](https://github.com/actions/setup-java/releases)\n- [Commits](https://github.com/actions/setup-java/compare/b6effb05e454b25005698d916606bdc6ffcbf961...dd06d9cba3e5552c54d9f8ea23572deb30010f7c)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-java\n  dependency-version: 6.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-29T15:21:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/535e316a1100cf1a189e6025e7dbc102fea3a25f",
+      "is_merge": false
+    },
+    {
+      "sha": "2235b6e1afaeb26590a1ac8d24e70671e1fac8ec",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #190 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.9\n\nBump github/codeql-action/upload-sarif from 4.37.7 to 4.37.9",
+      "timestamp": "2026-08-29T15:18:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/2235b6e1afaeb26590a1ac8d24e70671e1fac8ec",
+      "is_merge": true
+    },
+    {
+      "sha": "93436aa2f07444d37ea2e40fdee417c6c5b60656",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action/upload-sarif from 4.37.7 to 4.37.9\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.7 to 4.37.9.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/ff2f1c621b7f889edc0d3c761ac2e6a3f8cdb0dd...cdf488f595d80d6e07e03d4674febd5ab45fa938)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.9\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-29T10:04:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/93436aa2f07444d37ea2e40fdee417c6c5b60656",
+      "is_merge": false
+    },
+    {
+      "sha": "fd174cd109f73a0eca78509b72b4f8a9c8d8d713",
+      "author": "dependabot[bot]",
+      "message": "Bump com.google.auth:google-auth-library-oauth2-http\n\nBumps com.google.auth:google-auth-library-oauth2-http from 1.50.0 to 1.51.0.\n\n---\nupdated-dependencies:\n- dependency-name: com.google.auth:google-auth-library-oauth2-http\n  dependency-version: 1.51.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-29T10:02:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/fd174cd109f73a0eca78509b72b4f8a9c8d8d713",
+      "is_merge": false
+    },
+    {
       "sha": "0a379bbed8158b4148ab212c3490b3253220bd8b",
       "author": "JaredHatfield",
       "message": "Merge pull request #187 from UnitVectorY-Labs/chore/codeql-4.37.7\n\nBump CodeQL version to 4.37.7",

@@ -6,6 +6,46 @@
   "latest_release_time": "2026-06-22T22:14:27Z",
   "unreleased_commits": [
     {
+      "sha": "4cf2e1ccd1ca3b673d5235d7ea84bf3ba617ec6f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #222 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/grpc-1.83.2\n\nchore(deps): bump google.golang.org/grpc from 1.83.1 to 1.83.2",
+      "timestamp": "2026-08-29T16:55:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/4cf2e1ccd1ca3b673d5235d7ea84bf3ba617ec6f",
+      "is_merge": true
+    },
+    {
+      "sha": "8c5b78a889e156a070499ac7a509ad5e02bb9d18",
+      "author": "JaredHatfield",
+      "message": "Merge branch 'main' into dependabot/go_modules/google.golang.org/grpc-1.83.2",
+      "timestamp": "2026-08-29T16:53:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/8c5b78a889e156a070499ac7a509ad5e02bb9d18",
+      "is_merge": true
+    },
+    {
+      "sha": "f4ff903fd5b5fec19b5746f7aab9032e9f50f920",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #219 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.9\n\nchore(deps): bump github/codeql-action/upload-sarif from 4.37.7 to 4.37.9",
+      "timestamp": "2026-08-29T15:21:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/f4ff903fd5b5fec19b5746f7aab9032e9f50f920",
+      "is_merge": true
+    },
+    {
+      "sha": "801515e323a17111ce7a85da7f16a89dc9f8ed0f",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/grpc from 1.83.1 to 1.83.2\n\nBumps [google.golang.org/grpc](https://github.com/grpc/grpc-go) from 1.83.1 to 1.83.2.\n- [Release notes](https://github.com/grpc/grpc-go/releases)\n- [Commits](https://github.com/grpc/grpc-go/compare/v1.83.1...v1.83.2)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/grpc\n  dependency-version: 1.83.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-29T10:08:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/801515e323a17111ce7a85da7f16a89dc9f8ed0f",
+      "is_merge": false
+    },
+    {
+      "sha": "d44fef8f5ba62584717461f0b429e4c3032f4349",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.7 to 4.37.9.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/ff2f1c621b7f889edc0d3c761ac2e6a3f8cdb0dd...cdf488f595d80d6e07e03d4674febd5ab45fa938)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.9\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-29T10:05:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/d44fef8f5ba62584717461f0b429e4c3032f4349",
+      "is_merge": false
+    },
+    {
       "sha": "804cce5e041286f6c9cd6fbc783e2dc05a5aa01b",
       "author": "JaredHatfield",
       "message": "Merge pull request #218 from UnitVectorY-Labs/chore/codeql-4.37.7\n\nBump CodeQL version to 4.37.7",

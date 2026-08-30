@@ -6,6 +6,22 @@
   "latest_release_time": "2026-05-23T23:28:42Z",
   "unreleased_commits": [
     {
+      "sha": "f9cb6bf9bb69777176dc5127f61e76c6c400e45b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #74 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.9\n\nbuild(deps): bump github/codeql-action/upload-sarif from 4.37.7 to 4.37.9",
+      "timestamp": "2026-08-29T15:23:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/f9cb6bf9bb69777176dc5127f61e76c6c400e45b",
+      "is_merge": true
+    },
+    {
+      "sha": "9c1e1767acb5b9dd51882da25c2c1f33ef6ef0c2",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.7 to 4.37.9.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/ff2f1c621b7f889edc0d3c761ac2e6a3f8cdb0dd...cdf488f595d80d6e07e03d4674febd5ab45fa938)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.9\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-29T10:07:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/9c1e1767acb5b9dd51882da25c2c1f33ef6ef0c2",
+      "is_merge": false
+    },
+    {
       "sha": "eed02400f8571a70733992a6d70ddd39e93b2f6f",
       "author": "JaredHatfield",
       "message": "Merge pull request #72 from UnitVectorY-Labs/chore/codeql-4.37.7\n\nBump CodeQL version to 4.37.7",

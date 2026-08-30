@@ -4,6 +4,55 @@
   "default_branch": "main",
   "latest_release_tag": "v0.3.4",
   "latest_release_time": "2026-08-28T01:17:16Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "f023c258307fb5d8c7e13301b292a8334539712a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #60 from UnitVectorY-Labs/dependabot/go_modules/charm.land/bubbletea/v2-2.0.9\n\nbuild(deps): bump charm.land/bubbletea/v2 from 2.0.8 to 2.0.9",
+      "timestamp": "2026-08-29T16:23:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/f023c258307fb5d8c7e13301b292a8334539712a",
+      "is_merge": true
+    },
+    {
+      "sha": "53025c5f7ee0f308a8a30870e91dfb61a4a1f4a7",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump charm.land/bubbletea/v2 from 2.0.8 to 2.0.9\n\nBumps [charm.land/bubbletea/v2](https://github.com/charmbracelet/bubbletea) from 2.0.8 to 2.0.9.\n- [Release notes](https://github.com/charmbracelet/bubbletea/releases)\n- [Commits](https://github.com/charmbracelet/bubbletea/compare/v2.0.8...v2.0.9)\n\n---\nupdated-dependencies:\n- dependency-name: charm.land/bubbletea/v2\n  dependency-version: 2.0.9\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-29T16:22:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/53025c5f7ee0f308a8a30870e91dfb61a4a1f4a7",
+      "is_merge": false
+    },
+    {
+      "sha": "c4e1802db35a4723d1bccf6199d8d42040c0d694",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #59 from UnitVectorY-Labs/dependabot/go_modules/charm.land/bubbles/v2-2.2.1\n\nbuild(deps): bump charm.land/bubbles/v2 from 2.1.1 to 2.2.1",
+      "timestamp": "2026-08-29T16:20:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/c4e1802db35a4723d1bccf6199d8d42040c0d694",
+      "is_merge": true
+    },
+    {
+      "sha": "5e98863eb6f2920618339bc2cea2acea94ef927e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #58 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.9\n\nbuild(deps): bump github/codeql-action/upload-sarif from 4.37.7 to 4.37.9",
+      "timestamp": "2026-08-29T15:24:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/5e98863eb6f2920618339bc2cea2acea94ef927e",
+      "is_merge": true
+    },
+    {
+      "sha": "aa8209ead516ed8a0e7e24e2783bba09a9750675",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump charm.land/bubbles/v2 from 2.1.1 to 2.2.1\n\nBumps [charm.land/bubbles/v2](https://github.com/charmbracelet/bubbles) from 2.1.1 to 2.2.1.\n- [Release notes](https://github.com/charmbracelet/bubbles/releases)\n- [Commits](https://github.com/charmbracelet/bubbles/compare/v2.1.1...v2.2.1)\n\n---\nupdated-dependencies:\n- dependency-name: charm.land/bubbles/v2\n  dependency-version: 2.2.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-29T10:10:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/aa8209ead516ed8a0e7e24e2783bba09a9750675",
+      "is_merge": false
+    },
+    {
+      "sha": "7fae7d7f2caf6c707955fee1cc4de8d44ab584b1",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.7 to 4.37.9.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/ff2f1c621b7f889edc0d3c761ac2e6a3f8cdb0dd...cdf488f595d80d6e07e03d4674febd5ab45fa938)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.9\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-29T10:10:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/7fae7d7f2caf6c707955fee1cc4de8d44ab584b1",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/cfgraft"
 }

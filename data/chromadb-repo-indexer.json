@@ -6,6 +6,54 @@
   "latest_release_time": "2026-08-16T15:47:15Z",
   "unreleased_commits": [
     {
+      "sha": "b6c4c52e99cae474da9c224bcbb0e6b666137ca2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #32 from UnitVectorY-Labs/dependabot/pip/llama-index-core-0.14.24\n\nbuild(deps): bump llama-index-core from 0.14.23 to 0.14.24",
+      "timestamp": "2026-08-29T16:34:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/b6c4c52e99cae474da9c224bcbb0e6b666137ca2",
+      "is_merge": true
+    },
+    {
+      "sha": "08914a1742e03766b3f19e9310ed59220f25bee0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #31 from UnitVectorY-Labs/dependabot/pip/tree-sitter-language-pack-1.15.8\n\nbuild(deps): bump tree-sitter-language-pack from 1.14.3 to 1.15.8",
+      "timestamp": "2026-08-29T16:33:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/08914a1742e03766b3f19e9310ed59220f25bee0",
+      "is_merge": true
+    },
+    {
+      "sha": "275d02622763c34c979dd29693e5c284ff7e2efb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #30 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.9\n\nbuild(deps): bump github/codeql-action/upload-sarif from 4.37.7 to 4.37.9",
+      "timestamp": "2026-08-29T15:24:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/275d02622763c34c979dd29693e5c284ff7e2efb",
+      "is_merge": true
+    },
+    {
+      "sha": "d3931318e3467db60bec39ad1e0cc65310fe31c4",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump llama-index-core from 0.14.23 to 0.14.24\n\nBumps [llama-index-core](https://github.com/run-llama/llama_index) from 0.14.23 to 0.14.24.\n- [Release notes](https://github.com/run-llama/llama_index/releases)\n- [Changelog](https://github.com/run-llama/llama_index/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/run-llama/llama_index/compare/v0.14.23...v0.14.24)\n\n---\nupdated-dependencies:\n- dependency-name: llama-index-core\n  dependency-version: 0.14.24\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-29T10:14:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/d3931318e3467db60bec39ad1e0cc65310fe31c4",
+      "is_merge": false
+    },
+    {
+      "sha": "b4b85310098a14419f262734649fb025eb7b1ca3",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump tree-sitter-language-pack from 1.14.3 to 1.15.8\n\nBumps [tree-sitter-language-pack](https://github.com/xberg-io/tree-sitter-language-pack) from 1.14.3 to 1.15.8.\n- [Release notes](https://github.com/xberg-io/tree-sitter-language-pack/releases)\n- [Changelog](https://github.com/xberg-io/tree-sitter-language-pack/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/xberg-io/tree-sitter-language-pack/compare/v1.14.3...v1.15.8)\n\n---\nupdated-dependencies:\n- dependency-name: tree-sitter-language-pack\n  dependency-version: 1.15.8\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-29T10:14:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/b4b85310098a14419f262734649fb025eb7b1ca3",
+      "is_merge": false
+    },
+    {
+      "sha": "fa2ce7aef9ae1f598808acfd38c137c076cbfa3f",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.7 to 4.37.9.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/ff2f1c621b7f889edc0d3c761ac2e6a3f8cdb0dd...cdf488f595d80d6e07e03d4674febd5ab45fa938)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.9\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-29T10:12:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/fa2ce7aef9ae1f598808acfd38c137c076cbfa3f",
+      "is_merge": false
+    },
+    {
       "sha": "8076def248ae2be6430072305fc9e4b10d882c4e",
       "author": "JaredHatfield",
       "message": "Merge pull request #27 from UnitVectorY-Labs/dependabot/pip/charset-normalizer-3.5.1\n\nbuild(deps): bump charset-normalizer from 3.4.9 to 3.5.1",

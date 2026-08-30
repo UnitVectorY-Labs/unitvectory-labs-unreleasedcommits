@@ -6,6 +6,46 @@
   "latest_release_time": "2026-06-22T22:43:20Z",
   "unreleased_commits": [
     {
+      "sha": "eede29a272a0cb792042813b263d1904ced5d913",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #186 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/grpc-1.83.2\n\nchore(deps): bump google.golang.org/grpc from 1.83.1 to 1.83.2",
+      "timestamp": "2026-08-29T16:54:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/eede29a272a0cb792042813b263d1904ced5d913",
+      "is_merge": true
+    },
+    {
+      "sha": "c2158da4b522fc286bc4dc89c878639d2668e1f6",
+      "author": "JaredHatfield",
+      "message": "Merge branch 'main' into dependabot/go_modules/google.golang.org/grpc-1.83.2",
+      "timestamp": "2026-08-29T16:53:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/c2158da4b522fc286bc4dc89c878639d2668e1f6",
+      "is_merge": true
+    },
+    {
+      "sha": "f3687ad687ec4c4c44e8f75b0acb6615b170eb36",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #190 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.9\n\nchore(deps): bump github/codeql-action/upload-sarif from 4.37.7 to 4.37.9",
+      "timestamp": "2026-08-29T15:19:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/f3687ad687ec4c4c44e8f75b0acb6615b170eb36",
+      "is_merge": true
+    },
+    {
+      "sha": "a359076cee8860e3b4fec60751c2838b31e97930",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.7 to 4.37.9.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/ff2f1c621b7f889edc0d3c761ac2e6a3f8cdb0dd...cdf488f595d80d6e07e03d4674febd5ab45fa938)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.9\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-29T10:05:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/a359076cee8860e3b4fec60751c2838b31e97930",
+      "is_merge": false
+    },
+    {
+      "sha": "25e379b2143206305343acf9e5e288051e9f9db4",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/grpc from 1.83.1 to 1.83.2\n\nBumps [google.golang.org/grpc](https://github.com/grpc/grpc-go) from 1.83.1 to 1.83.2.\n- [Release notes](https://github.com/grpc/grpc-go/releases)\n- [Commits](https://github.com/grpc/grpc-go/compare/v1.83.1...v1.83.2)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/grpc\n  dependency-version: 1.83.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-29T10:02:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/25e379b2143206305343acf9e5e288051e9f9db4",
+      "is_merge": false
+    },
+    {
       "sha": "b884d0b420537d7897e327f42d2e6b58b73e8fa4",
       "author": "JaredHatfield",
       "message": "Merge pull request #185 from UnitVectorY-Labs/chore/codeql-4.37.7\n\nBump CodeQL version to 4.37.7",
