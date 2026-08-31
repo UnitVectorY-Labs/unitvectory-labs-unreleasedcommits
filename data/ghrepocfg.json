@@ -6,6 +6,38 @@
   "latest_release_time": "2026-08-28T21:19:51Z",
   "unreleased_commits": [
     {
+      "sha": "9f7b97a31cb9dce673dd5444712e5dfb1dfaf330",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #13 from UnitVectorY-Labs/add-semgrep-workflow\n\nAdd Semgrep workflow",
+      "timestamp": "2026-08-31T01:26:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/9f7b97a31cb9dce673dd5444712e5dfb1dfaf330",
+      "is_merge": true
+    },
+    {
+      "sha": "52cef5111540ec9a97f27ada038db09047b7f8bc",
+      "author": "JaredHatfield",
+      "message": "Add Semgrep workflow",
+      "timestamp": "2026-08-31T01:23:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/52cef5111540ec9a97f27ada038db09047b7f8bc",
+      "is_merge": false
+    },
+    {
+      "sha": "a2a19efa2087ae21e662d57c0650536820ea49fd",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #12 from UnitVectorY-Labs/chore/codeql-4.37.9\n\nBump CodeQL version to 4.37.9",
+      "timestamp": "2026-08-30T14:15:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/a2a19efa2087ae21e662d57c0650536820ea49fd",
+      "is_merge": true
+    },
+    {
+      "sha": "803e741134935d720f0cef4b3c25271079a626d7",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.9",
+      "timestamp": "2026-08-30T12:40:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/803e741134935d720f0cef4b3c25271079a626d7",
+      "is_merge": false
+    },
+    {
       "sha": "582fd7f0d0b32058af8bda65d327bb85b209a6c3",
       "author": "JaredHatfield",
       "message": "Merge pull request #9 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.9\n\nBump github/codeql-action/upload-sarif from 4.37.8 to 4.37.9",

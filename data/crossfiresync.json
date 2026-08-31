@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:18:06Z",
   "unreleased_commits": [
     {
+      "sha": "cccd4bb46612d061ab57924b273b4fa7ac79e446",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #261 from UnitVectorY-Labs/chore/codeql-4.37.9\n\nBump CodeQL version to 4.37.9",
+      "timestamp": "2026-08-30T14:10:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/cccd4bb46612d061ab57924b273b4fa7ac79e446",
+      "is_merge": true
+    },
+    {
+      "sha": "3226fe81e28b4428ea986d67ce39515b9712381f",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.37.9",
+      "timestamp": "2026-08-30T12:42:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/3226fe81e28b4428ea986d67ce39515b9712381f",
+      "is_merge": false
+    },
+    {
       "sha": "1b0a5a68fde5b339b9183684f8b6e624b813c831",
       "author": "JaredHatfield",
       "message": "Merge pull request #255 from UnitVectorY-Labs/dependabot/maven/com.google.cloud-libraries-bom-26.87.0\n\nBump com.google.cloud:libraries-bom from 26.86.0 to 26.87.0",

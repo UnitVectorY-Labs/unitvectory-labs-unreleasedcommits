@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:26:01Z",
   "unreleased_commits": [
     {
+      "sha": "c8ddf41b7233a33b8a9cb51933d5a7e9b4da0aca",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #253 from UnitVectorY-Labs/chore/codeql-4.37.9\n\nBump CodeQL version to 4.37.9",
+      "timestamp": "2026-08-30T14:10:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/c8ddf41b7233a33b8a9cb51933d5a7e9b4da0aca",
+      "is_merge": true
+    },
+    {
+      "sha": "7e6148566b3a9c1aa192b3bedf36b8f006186094",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.37.9",
+      "timestamp": "2026-08-30T12:49:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/7e6148566b3a9c1aa192b3bedf36b8f006186094",
+      "is_merge": false
+    },
+    {
       "sha": "fe0f9edebc2b57315a00fae217a76d4054fd35b8",
       "author": "JaredHatfield",
       "message": "Merge pull request #247 from UnitVectorY-Labs/dependabot/maven/com.networknt-json-schema-validator-3.0.7\n\nBump com.networknt:json-schema-validator from 3.0.6 to 3.0.7",

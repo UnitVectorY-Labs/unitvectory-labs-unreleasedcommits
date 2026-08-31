@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:22:29Z",
   "unreleased_commits": [
     {
+      "sha": "406d6a090000da99e3499bc906ea9a5a6101cf16",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #264 from UnitVectorY-Labs/chore/codeql-4.37.9\n\nBump CodeQL version to 4.37.9",
+      "timestamp": "2026-08-30T14:10:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/406d6a090000da99e3499bc906ea9a5a6101cf16",
+      "is_merge": true
+    },
+    {
+      "sha": "bf65554a35c836286b2286e18c2c6d582cc0c76e",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.37.9",
+      "timestamp": "2026-08-30T12:38:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/bf65554a35c836286b2286e18c2c6d582cc0c76e",
+      "is_merge": false
+    },
+    {
       "sha": "6777d8d9aaa505b2aa724506990f2e7aadd43103",
       "author": "JaredHatfield",
       "message": "Merge pull request #258 from UnitVectorY-Labs/dependabot/maven/com.google.cloud-google-cloud-firestore-3.46.0\n\nBump com.google.cloud:google-cloud-firestore from 3.45.0 to 3.46.0",

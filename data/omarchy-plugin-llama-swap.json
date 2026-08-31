@@ -6,6 +6,22 @@
   "latest_release_time": "2026-08-28T23:22:57Z",
   "unreleased_commits": [
     {
+      "sha": "b94d8abb508a66fc7d2d2f9be6293e6431eb14a5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #3 from UnitVectorY-Labs/add-semgrep-workflow\n\nAdd Semgrep workflow",
+      "timestamp": "2026-08-31T01:26:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/omarchy-plugin-llama-swap/commit/b94d8abb508a66fc7d2d2f9be6293e6431eb14a5",
+      "is_merge": true
+    },
+    {
+      "sha": "1faaa9ed3520a1b928eea8a2417556a8a101e4a4",
+      "author": "JaredHatfield",
+      "message": "Add Semgrep workflow",
+      "timestamp": "2026-08-31T01:23:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/omarchy-plugin-llama-swap/commit/1faaa9ed3520a1b928eea8a2417556a8a101e4a4",
+      "is_merge": false
+    },
+    {
       "sha": "41c0a4338987a9a9baf16320925b2d7fb5989a63",
       "author": "JaredHatfield",
       "message": "Add GitHub Actions workflow for ChromaDB indexing",

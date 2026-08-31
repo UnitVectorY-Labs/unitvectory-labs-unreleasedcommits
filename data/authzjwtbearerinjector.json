@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:43:20Z",
   "unreleased_commits": [
     {
+      "sha": "38d6230850f908f02096b46a6ac0bd4b780301c3",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #191 from UnitVectorY-Labs/chore/codeql-4.37.9\n\nBump CodeQL version to 4.37.9",
+      "timestamp": "2026-08-30T14:11:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/38d6230850f908f02096b46a6ac0bd4b780301c3",
+      "is_merge": true
+    },
+    {
+      "sha": "56ba77b865c4ea09c55610026d660c2a7aa8ef87",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.37.9",
+      "timestamp": "2026-08-30T12:38:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/56ba77b865c4ea09c55610026d660c2a7aa8ef87",
+      "is_merge": false
+    },
+    {
       "sha": "eede29a272a0cb792042813b263d1904ced5d913",
       "author": "JaredHatfield",
       "message": "Merge pull request #186 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/grpc-1.83.2\n\nchore(deps): bump google.golang.org/grpc from 1.83.1 to 1.83.2",

@@ -6,6 +6,22 @@
   "latest_release_time": "2026-08-28T01:17:16Z",
   "unreleased_commits": [
     {
+      "sha": "6e07f642e53c67d227d4d817de5819a1b52a0ae5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #63 from UnitVectorY-Labs/chore/codeql-4.37.9\n\nBump CodeQL version to 4.37.9",
+      "timestamp": "2026-08-30T14:15:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/6e07f642e53c67d227d4d817de5819a1b52a0ae5",
+      "is_merge": true
+    },
+    {
+      "sha": "75d7d8f841c7e85da4a0ade6bd71954fb5d61b98",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.37.9",
+      "timestamp": "2026-08-30T12:41:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/75d7d8f841c7e85da4a0ade6bd71954fb5d61b98",
+      "is_merge": false
+    },
+    {
       "sha": "f023c258307fb5d8c7e13301b292a8334539712a",
       "author": "JaredHatfield",
       "message": "Merge pull request #60 from UnitVectorY-Labs/dependabot/go_modules/charm.land/bubbletea/v2-2.0.9\n\nbuild(deps): bump charm.land/bubbletea/v2 from 2.0.8 to 2.0.9",

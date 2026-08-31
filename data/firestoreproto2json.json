@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:38:58Z",
   "unreleased_commits": [
     {
+      "sha": "b6852f92acf65de881e0808392ea5194b5f35297",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #214 from UnitVectorY-Labs/chore/codeql-4.37.9\n\nBump CodeQL version to 4.37.9",
+      "timestamp": "2026-08-30T14:10:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/b6852f92acf65de881e0808392ea5194b5f35297",
+      "is_merge": true
+    },
+    {
+      "sha": "5a2a0bfa1c2df33cd0a0fdb41dc6b331e32c02b6",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.37.9",
+      "timestamp": "2026-08-30T12:38:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/5a2a0bfa1c2df33cd0a0fdb41dc6b331e32c02b6",
+      "is_merge": false
+    },
+    {
       "sha": "4007fd498b5428eb81d81c73bc518c2a5a5cd737",
       "author": "JaredHatfield",
       "message": "Merge pull request #209 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-6.0.0\n\nchore(deps): bump actions/setup-java from 5.7.0 to 6.0.0",
