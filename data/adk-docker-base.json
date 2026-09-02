@@ -1,0 +1,1186 @@
+{
+  "owner": "UnitVectorY-Labs",
+  "name": "adk-docker-base",
+  "default_branch": "main",
+  "latest_release_tag": "1.17.0",
+  "latest_release_time": "2025-10-25T13:36:20Z",
+  "unreleased_commits": [
+    {
+      "sha": "368a395f9108542c9043bfe11c4497915ce7e962",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #129 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.9\n\nbuild(deps): bump github/codeql-action/upload-sarif from 4.37.7 to 4.37.9",
+      "timestamp": "2026-08-29T15:21:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/368a395f9108542c9043bfe11c4497915ce7e962",
+      "is_merge": true
+    },
+    {
+      "sha": "8f3e19cf8bab70609695bef7c0be9703232dca4b",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.7 to 4.37.9.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/ff2f1c621b7f889edc0d3c761ac2e6a3f8cdb0dd...cdf488f595d80d6e07e03d4674febd5ab45fa938)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.9\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-29T10:05:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/8f3e19cf8bab70609695bef7c0be9703232dca4b",
+      "is_merge": false
+    },
+    {
+      "sha": "d26fd619235d28ead965adf3aa0476fd06ff3746",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #126 from UnitVectorY-Labs/dependabot/github_actions/docker/setup-buildx-action-4.3.0\n\nbuild(deps): bump docker/setup-buildx-action from 4.2.0 to 4.3.0",
+      "timestamp": "2026-08-22T15:53:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/d26fd619235d28ead965adf3aa0476fd06ff3746",
+      "is_merge": true
+    },
+    {
+      "sha": "d980c9d394fb2e827c99f9d63b6d27bc579c9d8c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #125 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.0.1\n\nbuild(deps): bump astral-sh/setup-uv from 10.0.0 to 10.0.1",
+      "timestamp": "2026-08-22T15:46:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/d980c9d394fb2e827c99f9d63b6d27bc579c9d8c",
+      "is_merge": true
+    },
+    {
+      "sha": "f628ba9cdca1aba74c943c93bc2b2ddb5df6b819",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #127 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.7\n\nbuild(deps): bump github/codeql-action/upload-sarif from 4.37.6 to 4.37.7",
+      "timestamp": "2026-08-22T15:33:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/f628ba9cdca1aba74c943c93bc2b2ddb5df6b819",
+      "is_merge": true
+    },
+    {
+      "sha": "da33a409a71a0d36ff7028e31a0b26d69b2194d4",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #128 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.0\n\nbuild(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.1.1 to 1.2.0",
+      "timestamp": "2026-08-22T15:23:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/da33a409a71a0d36ff7028e31a0b26d69b2194d4",
+      "is_merge": true
+    },
+    {
+      "sha": "d595322754541f4c590b55e8695013e9f6bc7c70",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.1.1 to 1.2.0.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/5aa0f8e1c3995f45c693cfca7641edc7e289efd8...69bfd4086b9251106a5c8b036068e02f2d0731aa)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-22T10:10:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/d595322754541f4c590b55e8695013e9f6bc7c70",
+      "is_merge": false
+    },
+    {
+      "sha": "342c2938c01dfd9202e4522714e81280d9df65ae",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.6 to 4.37.7.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/5595ccaf912efad79be6eef63a5619ff05969be3...ff2f1c621b7f889edc0d3c761ac2e6a3f8cdb0dd)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.7\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-22T10:09:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/342c2938c01dfd9202e4522714e81280d9df65ae",
+      "is_merge": false
+    },
+    {
+      "sha": "61cfcb915a38de2815c93a99b8c9447aa1e87362",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump docker/setup-buildx-action from 4.2.0 to 4.3.0\n\nBumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 4.2.0 to 4.3.0.\n- [Release notes](https://github.com/docker/setup-buildx-action/releases)\n- [Commits](https://github.com/docker/setup-buildx-action/compare/bb05f3f5519dd87d3ba754cc423b652a5edd6d2c...37fe631027851001ddb9b187196cc803df7f5f0e)\n\n---\nupdated-dependencies:\n- dependency-name: docker/setup-buildx-action\n  dependency-version: 4.3.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-22T10:08:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/61cfcb915a38de2815c93a99b8c9447aa1e87362",
+      "is_merge": false
+    },
+    {
+      "sha": "bb7683fe36e6db5b33676d767599356db95688f3",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 10.0.0 to 10.0.1\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.0.0 to 10.0.1.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/ae62891fec2bb8e7d6c99fc78c9fec3a63790f8d...20cfd1bf945f4377ade1205e4dbc17946fc9a30d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-22T10:08:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/bb7683fe36e6db5b33676d767599356db95688f3",
+      "is_merge": false
+    },
+    {
+      "sha": "ff6adaf55a0f663f3cb94dfd7ab657bfebc07397",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #121 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-4.2.2\n\nbuild(deps): bump actions/attest-build-provenance from 4.1.1 to 4.2.2",
+      "timestamp": "2026-08-15T15:03:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/ff6adaf55a0f663f3cb94dfd7ab657bfebc07397",
+      "is_merge": true
+    },
+    {
+      "sha": "2508d305a797e1ab761f43aef089ebeac24103d2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #122 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.0.0\n\nbuild(deps): bump astral-sh/setup-uv from 9.0.0 to 10.0.0",
+      "timestamp": "2026-08-15T14:50:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/2508d305a797e1ab761f43aef089ebeac24103d2",
+      "is_merge": true
+    },
+    {
+      "sha": "6d2b4866ee00df9bfbb4addb03d12bb3f1d47914",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #123 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.1.1\n\nbuild(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.1.0 to 1.1.1",
+      "timestamp": "2026-08-15T14:33:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/6d2b4866ee00df9bfbb4addb03d12bb3f1d47914",
+      "is_merge": true
+    },
+    {
+      "sha": "f0b2655e5fbc415727c18d4aeb850e1912ea8378",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.1.0 to 1.1.1.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/bbdf18095437282e7a3000e89ffa1a85583b7e7f...5aa0f8e1c3995f45c693cfca7641edc7e289efd8)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-15T10:10:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/f0b2655e5fbc415727c18d4aeb850e1912ea8378",
+      "is_merge": false
+    },
+    {
+      "sha": "7f13bbaf820978a402caa55d5e9fa1135de69981",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 9.0.0 to 10.0.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 9.0.0 to 10.0.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/c771a70e6277c0a99b617c7a806ffedaca235ff9...ae62891fec2bb8e7d6c99fc78c9fec3a63790f8d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-15T10:10:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/7f13bbaf820978a402caa55d5e9fa1135de69981",
+      "is_merge": false
+    },
+    {
+      "sha": "c7eb757b56de86533a8a40b97bacdeb6aa39f7dd",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/attest-build-provenance from 4.1.1 to 4.2.2\n\nBumps [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) from 4.1.1 to 4.2.2.\n- [Release notes](https://github.com/actions/attest-build-provenance/releases)\n- [Changelog](https://github.com/actions/attest-build-provenance/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest-build-provenance/compare/0f67c3f4856b2e3261c31976d6725780e5e4c373...4d101475d8b20a2381f78447822ac1eab6504dd8)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest-build-provenance\n  dependency-version: 4.2.2\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-15T10:09:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/c7eb757b56de86533a8a40b97bacdeb6aa39f7dd",
+      "is_merge": false
+    },
+    {
+      "sha": "956628270fc41d4d9b1802af005a8c5414921966",
+      "author": "JaredHatfield",
+      "message": "fix: correct semgrep GitHub action workflow (#119)",
+      "timestamp": "2026-08-08T19:18:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/956628270fc41d4d9b1802af005a8c5414921966",
+      "is_merge": false
+    },
+    {
+      "sha": "d956ca9dbbf922f427782c6a6b487a98c2f0ac25",
+      "author": "JaredHatfield",
+      "message": "chore: add semgrep GitHub action (#118)",
+      "timestamp": "2026-08-08T17:59:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/d956ca9dbbf922f427782c6a6b487a98c2f0ac25",
+      "is_merge": false
+    },
+    {
+      "sha": "6f1f9672a92e865f3ef4231109fb23563f50e395",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #117 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.6\n\nbuild(deps): bump github/codeql-action/upload-sarif from 4.37.3 to 4.37.6",
+      "timestamp": "2026-08-08T11:10:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/6f1f9672a92e865f3ef4231109fb23563f50e395",
+      "is_merge": true
+    },
+    {
+      "sha": "7d87a195153bbf12015e1b0bb876931da3ea2c85",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.3 to 4.37.6.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/e4fba868fa4b1b91e1fdab776edc8cfbe6e9fb81...5595ccaf912efad79be6eef63a5619ff05969be3)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.6\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-08T10:09:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/7d87a195153bbf12015e1b0bb876931da3ea2c85",
+      "is_merge": false
+    },
+    {
+      "sha": "0d8a59fcbeb65ce17fbd2b56f5e5e2fc7af04216",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #115 from UnitVectorY-Labs/fix/persist-credentials-false\n\nfix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T23:58:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/0d8a59fcbeb65ce17fbd2b56f5e5e2fc7af04216",
+      "is_merge": true
+    },
+    {
+      "sha": "c4a7703b712c0f79bd1eaa4f2ed12379c42017df",
+      "author": "JaredHatfield",
+      "message": "fix: set persist-credentials: false in checkout step",
+      "timestamp": "2026-08-03T22:05:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/c4a7703b712c0f79bd1eaa4f2ed12379c42017df",
+      "is_merge": false
+    },
+    {
+      "sha": "ff49d771df3b240b998a70ce5368c2fca1632904",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #114 from UnitVectorY-Labs/add-chromadb-repo-indexer\n\nAdd ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T10:53:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/ff49d771df3b240b998a70ce5368c2fca1632904",
+      "is_merge": true
+    },
+    {
+      "sha": "15e426239c049e4ca7640268a7dcd3ce67e37c33",
+      "author": "JaredHatfield",
+      "message": "Add ChromaDB repo indexer GitHub Action",
+      "timestamp": "2026-08-03T02:59:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/15e426239c049e4ca7640268a7dcd3ce67e37c33",
+      "is_merge": false
+    },
+    {
+      "sha": "a0686fd47c94cfd2943cbec9b281de480aa88577",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #113 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.6.0\n\nBump docker/login-action from 4.5.1 to 4.6.0",
+      "timestamp": "2026-08-01T23:34:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/a0686fd47c94cfd2943cbec9b281de480aa88577",
+      "is_merge": true
+    },
+    {
+      "sha": "9b0910d3268e41b179a5b3778658558a03d2016a",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/login-action from 4.5.1 to 4.6.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.5.1 to 4.6.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/abd2ef45e78c5afb21d64d4ca52ee8550d9572c7...dbcb813823bdd20940b903addbd779551569679f)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.6.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-08-01T10:07:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/9b0910d3268e41b179a5b3778658558a03d2016a",
+      "is_merge": false
+    },
+    {
+      "sha": "ad1678e6deaf957a3f7836b5e4603e8925729801",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #112 from UnitVectorY-Labs/chore/codeql-4.37.3\n\nBump CodeQL version to 4.37.3",
+      "timestamp": "2026-07-25T15:33:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/ad1678e6deaf957a3f7836b5e4603e8925729801",
+      "is_merge": true
+    },
+    {
+      "sha": "71a29ac6151046cdea6911e8b3dde4c290b5ea78",
+      "author": "JaredHatfield",
+      "message": "Bump CodeQL version to 4.37.3",
+      "timestamp": "2026-07-25T14:47:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/71a29ac6151046cdea6911e8b3dde4c290b5ea78",
+      "is_merge": false
+    },
+    {
+      "sha": "96802233f0495c8c0eb1bc3d40cdaeda0a979280",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #110 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-9.0.0\n\nBump astral-sh/setup-uv from 8.3.2 to 9.0.0",
+      "timestamp": "2026-07-25T13:26:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/96802233f0495c8c0eb1bc3d40cdaeda0a979280",
+      "is_merge": true
+    },
+    {
+      "sha": "eac46c36c908fede6e13a98b7f9572039dd0cbd1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #108 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7.0.1\n\nBump actions/checkout from 7.0.0 to 7.0.1",
+      "timestamp": "2026-07-25T13:25:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/eac46c36c908fede6e13a98b7f9572039dd0cbd1",
+      "is_merge": true
+    },
+    {
+      "sha": "1ec6bf9470becaadb8cfd9fb1d08a52fcd6e8aec",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #111 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.5.1\n\nBump docker/login-action from 4.4.0 to 4.5.1",
+      "timestamp": "2026-07-25T13:23:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/1ec6bf9470becaadb8cfd9fb1d08a52fcd6e8aec",
+      "is_merge": true
+    },
+    {
+      "sha": "fe43cfe407742f430a71cac46479090d5c2d2bb2",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/login-action from 4.4.0 to 4.5.1\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.4.0 to 4.5.1.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/af1e73f918a031802d376d3c8bbc3fe56130a9b0...abd2ef45e78c5afb21d64d4ca52ee8550d9572c7)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.5.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:15:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/fe43cfe407742f430a71cac46479090d5c2d2bb2",
+      "is_merge": false
+    },
+    {
+      "sha": "621e39b6e6153c975461a7a63322231ec8ec367c",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 8.3.2 to 9.0.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.3.2 to 9.0.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/11f9893b081a58869d3b5fccaea48c9e9e46f990...c771a70e6277c0a99b617c7a806ffedaca235ff9)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 9.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:12:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/621e39b6e6153c975461a7a63322231ec8ec367c",
+      "is_merge": false
+    },
+    {
+      "sha": "09c42622521c2a38bc41feb272c2ed010be21ec9",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/checkout from 7.0.0 to 7.0.1\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 7.0.0 to 7.0.1.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0...3d3c42e5aac5ba805825da76410c181273ba90b1)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: 7.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-25T10:03:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/09c42622521c2a38bc41feb272c2ed010be21ec9",
+      "is_merge": false
+    },
+    {
+      "sha": "59081667938df9de22b18fe40d8e323de64737ad",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #107 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.1\n\nBump github/codeql-action/upload-sarif from 4.37.0 to 4.37.1",
+      "timestamp": "2026-07-18T14:01:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/59081667938df9de22b18fe40d8e323de64737ad",
+      "is_merge": true
+    },
+    {
+      "sha": "f1216a6b4b8573228b5f7e072b2c2f32ffbcf333",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action/upload-sarif from 4.37.0 to 4.37.1\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.0 to 4.37.1.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/99df26d4f13ea111d4ec1a7dddef6063f76b97e9...7188fc363630916deb702c7fdcf4e481b751f97a)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-18T10:06:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/f1216a6b4b8573228b5f7e072b2c2f32ffbcf333",
+      "is_merge": false
+    },
+    {
+      "sha": "cfcba69c2592b0d3b32822b1d2bf2ebebaac2091",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #103 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.0\n\nBump github/codeql-action/upload-sarif from 4.36.3 to 4.37.0",
+      "timestamp": "2026-07-11T12:08:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/cfcba69c2592b0d3b32822b1d2bf2ebebaac2091",
+      "is_merge": true
+    },
+    {
+      "sha": "efae47a4c6a544eb433dcb53b4ee81d87c841efc",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #105 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.3.2\n\nBump astral-sh/setup-uv from 8.2.0 to 8.3.2",
+      "timestamp": "2026-07-11T12:02:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/efae47a4c6a544eb433dcb53b4ee81d87c841efc",
+      "is_merge": true
+    },
+    {
+      "sha": "d1263c3bda26d9d2f4606076cba681393db1f33c",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 8.2.0 to 8.3.2\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.2.0 to 8.3.2.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/fac544c07dec837d0ccb6301d7b5580bf5edae39...11f9893b081a58869d3b5fccaea48c9e9e46f990)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.3.2\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-11T10:03:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/d1263c3bda26d9d2f4606076cba681393db1f33c",
+      "is_merge": false
+    },
+    {
+      "sha": "717de5be056685ef066d7abde6ec9cbd1eaa358b",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action/upload-sarif from 4.36.3 to 4.37.0\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.36.3 to 4.37.0.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/54f647b7e1bb85c95cddabcd46b0c578ec92bc1a...99df26d4f13ea111d4ec1a7dddef6063f76b97e9)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-11T10:03:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/717de5be056685ef066d7abde6ec9cbd1eaa358b",
+      "is_merge": false
+    },
+    {
+      "sha": "6de8061c7ac3be114ab28b95b9d3da338237758a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #98 from UnitVectorY-Labs/dependabot/github_actions/docker/metadata-action-6.2.0\n\nBump docker/metadata-action from 6.1.0 to 6.2.0",
+      "timestamp": "2026-07-05T14:44:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/6de8061c7ac3be114ab28b95b9d3da338237758a",
+      "is_merge": true
+    },
+    {
+      "sha": "bc7375387afaa3ef067599669a8427d14337c074",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/metadata-action from 6.1.0 to 6.2.0\n\nBumps [docker/metadata-action](https://github.com/docker/metadata-action) from 6.1.0 to 6.2.0.\n- [Release notes](https://github.com/docker/metadata-action/releases)\n- [Commits](https://github.com/docker/metadata-action/compare/80c7e94dd9b9319bd5eb7a0e0fe9291e23a2a2e9...dc802804100637a589fabce1cb79ff13a1411302)\n\n---\nupdated-dependencies:\n- dependency-name: docker/metadata-action\n  dependency-version: 6.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-05T14:41:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/bc7375387afaa3ef067599669a8427d14337c074",
+      "is_merge": false
+    },
+    {
+      "sha": "c6c9e121f32aca245b059e681f7f93059aa579d2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #101 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.4.0\n\nBump docker/login-action from 4.2.0 to 4.4.0",
+      "timestamp": "2026-07-04T22:05:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/c6c9e121f32aca245b059e681f7f93059aa579d2",
+      "is_merge": true
+    },
+    {
+      "sha": "f77bffa9e5fabfacde15d5624f4a3d4276de57aa",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #99 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-7.3.0\n\nBump docker/build-push-action from 7.2.0 to 7.3.0",
+      "timestamp": "2026-07-04T15:59:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/f77bffa9e5fabfacde15d5624f4a3d4276de57aa",
+      "is_merge": true
+    },
+    {
+      "sha": "7a165260ad7a425a9f02e97eca8609db2337e6de",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/login-action from 4.2.0 to 4.4.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.2.0 to 4.4.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/650006c6eb7dba73a995cc03b0b2d7f5ca915bee...af1e73f918a031802d376d3c8bbc3fe56130a9b0)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T15:20:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/7a165260ad7a425a9f02e97eca8609db2337e6de",
+      "is_merge": false
+    },
+    {
+      "sha": "c1ae86d19c19467574495f6dc4a931f5f8a5b3c7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #102 from UnitVectorY-Labs/dependabot/github_actions/docker/setup-buildx-action-4.2.0\n\nBump docker/setup-buildx-action from 4.1.0 to 4.2.0",
+      "timestamp": "2026-07-04T15:18:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/c1ae86d19c19467574495f6dc4a931f5f8a5b3c7",
+      "is_merge": true
+    },
+    {
+      "sha": "8efb96ed61eb99b982dfa84091e4f0385d545f02",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #100 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.36.3\n\nBump github/codeql-action/upload-sarif from 4.36.2 to 4.36.3",
+      "timestamp": "2026-07-04T15:10:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/8efb96ed61eb99b982dfa84091e4f0385d545f02",
+      "is_merge": true
+    },
+    {
+      "sha": "3bd4264ba901698fb363cc4c812730fde3cbf8b2",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/setup-buildx-action from 4.1.0 to 4.2.0\n\nBumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 4.1.0 to 4.2.0.\n- [Release notes](https://github.com/docker/setup-buildx-action/releases)\n- [Commits](https://github.com/docker/setup-buildx-action/compare/d7f5e7f509e45cec5c76c4d5afdd7de93d0b3df5...bb05f3f5519dd87d3ba754cc423b652a5edd6d2c)\n\n---\nupdated-dependencies:\n- dependency-name: docker/setup-buildx-action\n  dependency-version: 4.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:12:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/3bd4264ba901698fb363cc4c812730fde3cbf8b2",
+      "is_merge": false
+    },
+    {
+      "sha": "d27685a265b12dd14e3fc67250e7f2a1c43b07ff",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action/upload-sarif from 4.36.2 to 4.36.3\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.36.2 to 4.36.3.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/8aad20d150bbac5944a9f9d289da16a4b0d87c1e...54f647b7e1bb85c95cddabcd46b0c578ec92bc1a)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.36.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:05:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/d27685a265b12dd14e3fc67250e7f2a1c43b07ff",
+      "is_merge": false
+    },
+    {
+      "sha": "31d6d7f6512d9eb591a1e1f7c0a37a397934919c",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/build-push-action from 7.2.0 to 7.3.0\n\nBumps [docker/build-push-action](https://github.com/docker/build-push-action) from 7.2.0 to 7.3.0.\n- [Release notes](https://github.com/docker/build-push-action/releases)\n- [Commits](https://github.com/docker/build-push-action/compare/f9f3042f7e2789586610d6e8b85c8f03e5195baf...53b7df96c91f9c12dcc8a07bcb9ccacbed38856a)\n\n---\nupdated-dependencies:\n- dependency-name: docker/build-push-action\n  dependency-version: 7.3.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-07-04T10:04:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/31d6d7f6512d9eb591a1e1f7c0a37a397934919c",
+      "is_merge": false
+    },
+    {
+      "sha": "4018875109c49837a702b68a280ec9c37cefc826",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #97 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-4.1.1\n\nBump actions/attest-build-provenance from 4.1.0 to 4.1.1",
+      "timestamp": "2026-06-27T11:09:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/4018875109c49837a702b68a280ec9c37cefc826",
+      "is_merge": true
+    },
+    {
+      "sha": "bf6a9a5fe6fa3f2d373ac23e195e499f7c8022ee",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/attest-build-provenance from 4.1.0 to 4.1.1\n\nBumps [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) from 4.1.0 to 4.1.1.\n- [Release notes](https://github.com/actions/attest-build-provenance/releases)\n- [Changelog](https://github.com/actions/attest-build-provenance/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest-build-provenance/compare/a2bbfa25375fe432b6a289bc6b6cd05ecd0c4c32...0f67c3f4856b2e3261c31976d6725780e5e4c373)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest-build-provenance\n  dependency-version: 4.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-27T10:04:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/bf6a9a5fe6fa3f2d373ac23e195e499f7c8022ee",
+      "is_merge": false
+    },
+    {
+      "sha": "2df60a3c6c80b38f6ad2da28461abd74b69729d0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #95 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-7.0.0\n\nBump actions/checkout from 6.0.3 to 7.0.0",
+      "timestamp": "2026-06-20T11:07:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/2df60a3c6c80b38f6ad2da28461abd74b69729d0",
+      "is_merge": true
+    },
+    {
+      "sha": "0498fcd4056bc5e81a3edb823fccb1282de2f58d",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/checkout from 6.0.3 to 7.0.0\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 6.0.3 to 7.0.0.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/df4cb1c069e1874edd31b4311f1884172cec0e10...9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-20T10:02:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/0498fcd4056bc5e81a3edb823fccb1282de2f58d",
+      "is_merge": false
+    },
+    {
+      "sha": "4e1187b395d1f4c2e3ff5e266f9159c0d3d59cb3",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #94 from UnitVectorY-Labs/dependabot/github_actions/unitvectory-labs/kuberollouttrigger-action-0.3.0\n\nBump unitvectory-labs/kuberollouttrigger-action from 0.2.0 to 0.3.0",
+      "timestamp": "2026-06-13T22:10:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/4e1187b395d1f4c2e3ff5e266f9159c0d3d59cb3",
+      "is_merge": true
+    },
+    {
+      "sha": "75bacd7315dfe64e393892dfa2a6fe5124f63883",
+      "author": "dependabot[bot]",
+      "message": "Bump unitvectory-labs/kuberollouttrigger-action from 0.2.0 to 0.3.0\n\nBumps [unitvectory-labs/kuberollouttrigger-action](https://github.com/unitvectory-labs/kuberollouttrigger-action) from 0.2.0 to 0.3.0.\n- [Release notes](https://github.com/unitvectory-labs/kuberollouttrigger-action/releases)\n- [Commits](https://github.com/unitvectory-labs/kuberollouttrigger-action/compare/e95cb8eb9a669a16363c13734a3663a7bcca54f2...a22de2a2ec7e9bef05f8cd2d6c72fceeb61fa88c)\n\n---\nupdated-dependencies:\n- dependency-name: unitvectory-labs/kuberollouttrigger-action\n  dependency-version: 0.3.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-13T10:03:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/75bacd7315dfe64e393892dfa2a6fe5124f63883",
+      "is_merge": false
+    },
+    {
+      "sha": "5715baecfae43f5c05ed848cf5b85b8e91799438",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #92 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.36.2\n\nBump github/codeql-action from 4.36.0 to 4.36.2",
+      "timestamp": "2026-06-07T11:07:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/5715baecfae43f5c05ed848cf5b85b8e91799438",
+      "is_merge": true
+    },
+    {
+      "sha": "36c8e121e67060908493b641cd010ff8daf1fa4c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #90 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-6.0.3\n\nBump actions/checkout from 6.0.2 to 6.0.3",
+      "timestamp": "2026-06-06T17:16:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/36c8e121e67060908493b641cd010ff8daf1fa4c",
+      "is_merge": true
+    },
+    {
+      "sha": "72accf5ed8a02bb96d560601898656daf9069e69",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #93 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.2.0\n\nBump astral-sh/setup-uv from 8.1.0 to 8.2.0",
+      "timestamp": "2026-06-06T15:16:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/72accf5ed8a02bb96d560601898656daf9069e69",
+      "is_merge": true
+    },
+    {
+      "sha": "c5e8fd40ddf05fddbbf44a9eeedb4c141642c70f",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 8.1.0 to 8.2.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.1.0 to 8.2.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/08807647e7069bb48b6ef5acd8ec9567f424441b...fac544c07dec837d0ccb6301d7b5580bf5edae39)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-06T10:08:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/c5e8fd40ddf05fddbbf44a9eeedb4c141642c70f",
+      "is_merge": false
+    },
+    {
+      "sha": "303b27148ad10df70bbfb231c4d606252b052f8a",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action from 4.36.0 to 4.36.2\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.36.0 to 4.36.2.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/7211b7c8077ea37d8641b6271f6a365a22a5fbfa...8aad20d150bbac5944a9f9d289da16a4b0d87c1e)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.36.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-06T10:04:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/303b27148ad10df70bbfb231c4d606252b052f8a",
+      "is_merge": false
+    },
+    {
+      "sha": "912db7da3f170bf505395d21f8aeeabe58cdab4e",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/checkout from 6.0.2 to 6.0.3\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 6.0.2 to 6.0.3.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/de0fac2e4500dabe0009e67214ff5f5447ce83dd...df4cb1c069e1874edd31b4311f1884172cec0e10)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: 6.0.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-06-06T10:04:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/912db7da3f170bf505395d21f8aeeabe58cdab4e",
+      "is_merge": false
+    },
+    {
+      "sha": "47377c09684c63809219a88c250205ff08bf7c23",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #88 from UnitVectorY-Labs/dependabot/github_actions/docker/setup-buildx-action-4.1.0\n\nBump docker/setup-buildx-action from 4.0.0 to 4.1.0",
+      "timestamp": "2026-05-23T14:09:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/47377c09684c63809219a88c250205ff08bf7c23",
+      "is_merge": true
+    },
+    {
+      "sha": "e13e613568bc09a066d77d211a44c3a21542ac4b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #85 from UnitVectorY-Labs/dependabot/github_actions/docker/metadata-action-6.1.0\n\nBump docker/metadata-action from 6.0.0 to 6.1.0",
+      "timestamp": "2026-05-23T12:56:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/e13e613568bc09a066d77d211a44c3a21542ac4b",
+      "is_merge": true
+    },
+    {
+      "sha": "e695ae4170eb2db56672372563a2ee458c04080f",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/setup-buildx-action from 4.0.0 to 4.1.0\n\nBumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 4.0.0 to 4.1.0.\n- [Release notes](https://github.com/docker/setup-buildx-action/releases)\n- [Commits](https://github.com/docker/setup-buildx-action/compare/4d04d5d9486b7bd6fa91e7baf45bbb4f8b9deedd...d7f5e7f509e45cec5c76c4d5afdd7de93d0b3df5)\n\n---\nupdated-dependencies:\n- dependency-name: docker/setup-buildx-action\n  dependency-version: 4.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-23T12:51:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/e695ae4170eb2db56672372563a2ee458c04080f",
+      "is_merge": false
+    },
+    {
+      "sha": "548a2a68126d276234a630df2aeb601da638736c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #87 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.2.0\n\nBump docker/login-action from 4.1.0 to 4.2.0",
+      "timestamp": "2026-05-23T12:49:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/548a2a68126d276234a630df2aeb601da638736c",
+      "is_merge": true
+    },
+    {
+      "sha": "d8e4e583fc47c000d3806e91820798d22bf931c8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #84 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-7.2.0\n\nBump docker/build-push-action from 7.1.0 to 7.2.0",
+      "timestamp": "2026-05-23T12:45:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/d8e4e583fc47c000d3806e91820798d22bf931c8",
+      "is_merge": true
+    },
+    {
+      "sha": "c98fc64002edc8172b75712227d1c31e8673bc3c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #86 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.36.0\n\nBump github/codeql-action from 4.35.5 to 4.36.0",
+      "timestamp": "2026-05-23T12:41:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/c98fc64002edc8172b75712227d1c31e8673bc3c",
+      "is_merge": true
+    },
+    {
+      "sha": "56123ceb1dab9da74c1a54bd31c5900bc75c1ff8",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/login-action from 4.1.0 to 4.2.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.1.0 to 4.2.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/4907a6ddec9925e35a0a9e82d7399ccc52663121...650006c6eb7dba73a995cc03b0b2d7f5ca915bee)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-23T10:06:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/56123ceb1dab9da74c1a54bd31c5900bc75c1ff8",
+      "is_merge": false
+    },
+    {
+      "sha": "bb947c8b89c88e0cc7ff0cf1309fccbb763229f5",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action from 4.35.5 to 4.36.0\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.35.5 to 4.36.0.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/9e0d7b8d25671d64c341c19c0152d693099fb5ba...7211b7c8077ea37d8641b6271f6a365a22a5fbfa)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.36.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-23T10:06:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/bb947c8b89c88e0cc7ff0cf1309fccbb763229f5",
+      "is_merge": false
+    },
+    {
+      "sha": "b1c6d03e0729719a2593463a2eb27fb93ff52544",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/metadata-action from 6.0.0 to 6.1.0\n\nBumps [docker/metadata-action](https://github.com/docker/metadata-action) from 6.0.0 to 6.1.0.\n- [Release notes](https://github.com/docker/metadata-action/releases)\n- [Commits](https://github.com/docker/metadata-action/compare/030e881283bb7a6894de51c315a6bfe6a94e05cf...80c7e94dd9b9319bd5eb7a0e0fe9291e23a2a2e9)\n\n---\nupdated-dependencies:\n- dependency-name: docker/metadata-action\n  dependency-version: 6.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-23T10:06:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/b1c6d03e0729719a2593463a2eb27fb93ff52544",
+      "is_merge": false
+    },
+    {
+      "sha": "94f626d242fc88f12a9afdc45f180970d05a1b08",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/build-push-action from 7.1.0 to 7.2.0\n\nBumps [docker/build-push-action](https://github.com/docker/build-push-action) from 7.1.0 to 7.2.0.\n- [Release notes](https://github.com/docker/build-push-action/releases)\n- [Commits](https://github.com/docker/build-push-action/compare/bcafcacb16a39f128d818304e6c9c0c18556b85f...f9f3042f7e2789586610d6e8b85c8f03e5195baf)\n\n---\nupdated-dependencies:\n- dependency-name: docker/build-push-action\n  dependency-version: 7.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-23T10:06:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/94f626d242fc88f12a9afdc45f180970d05a1b08",
+      "is_merge": false
+    },
+    {
+      "sha": "085b2e913974720dc8419d427e2cd38ec434c926",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #83 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.35.5\n\nBump github/codeql-action from 4.35.4 to 4.35.5",
+      "timestamp": "2026-05-17T12:48:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/085b2e913974720dc8419d427e2cd38ec434c926",
+      "is_merge": true
+    },
+    {
+      "sha": "c6a548f0ea08198c709bf16a49040bee7c72ce4f",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action from 4.35.4 to 4.35.5\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.35.4 to 4.35.5.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/68bde559dea0fdcac2102bfdf6230c5f70eb485e...9e0d7b8d25671d64c341c19c0152d693099fb5ba)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.35.5\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-16T10:06:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/c6a548f0ea08198c709bf16a49040bee7c72ce4f",
+      "is_merge": false
+    },
+    {
+      "sha": "4da234a829caaebe132dbc6c439db070283407dd",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #80 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.35.4\n\nBump github/codeql-action from 4.35.3 to 4.35.4",
+      "timestamp": "2026-05-09T14:53:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/4da234a829caaebe132dbc6c439db070283407dd",
+      "is_merge": true
+    },
+    {
+      "sha": "7a5be1f59487720b702c014853fc45aa6da5d70b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #81 from UnitVectorY-Labs/dependabot/github_actions/actions/add-to-project-2.0.0\n\nBump actions/add-to-project from 1.0.2 to 2.0.0",
+      "timestamp": "2026-05-09T14:45:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/7a5be1f59487720b702c014853fc45aa6da5d70b",
+      "is_merge": true
+    },
+    {
+      "sha": "4aef50bd2830fc7f084996bcfadbc15ce1a70659",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/add-to-project from 1.0.2 to 2.0.0\n\nBumps [actions/add-to-project](https://github.com/actions/add-to-project) from 1.0.2 to 2.0.0.\n- [Release notes](https://github.com/actions/add-to-project/releases)\n- [Commits](https://github.com/actions/add-to-project/compare/244f685bbc3b7adfa8466e08b698b5577571133e...5afcf98fcd03f1c2f92c3c83f58ae24323cc57fd)\n\n---\nupdated-dependencies:\n- dependency-name: actions/add-to-project\n  dependency-version: 2.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-09T10:03:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/4aef50bd2830fc7f084996bcfadbc15ce1a70659",
+      "is_merge": false
+    },
+    {
+      "sha": "a1c2a2c8f7eff68defdf1e83835fbe7f45d121ba",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action from 4.35.3 to 4.35.4\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.35.3 to 4.35.4.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/e46ed2cbd01164d986452f91f178727624ae40d7...68bde559dea0fdcac2102bfdf6230c5f70eb485e)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.35.4\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-09T10:03:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/a1c2a2c8f7eff68defdf1e83835fbe7f45d121ba",
+      "is_merge": false
+    },
+    {
+      "sha": "ddab62cec8ba4f0f484536fe791205cd4af04936",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #78 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.35.3\n\nBump github/codeql-action from 4.35.2 to 4.35.3",
+      "timestamp": "2026-05-02T10:29:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/ddab62cec8ba4f0f484536fe791205cd4af04936",
+      "is_merge": true
+    },
+    {
+      "sha": "6b00e00c2e9ef4e9a9003095b4ac6c5e4b8d8b21",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action from 4.35.2 to 4.35.3\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.35.2 to 4.35.3.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/95e58e9a2cdfd71adc6e0353d5c52f41a045d225...e46ed2cbd01164d986452f91f178727624ae40d7)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.35.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-05-02T10:03:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/6b00e00c2e9ef4e9a9003095b4ac6c5e4b8d8b21",
+      "is_merge": false
+    },
+    {
+      "sha": "7ba88cc3c56c941f6a7025af62b5fe9f86aab57c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #74 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.35.2\n\nBump github/codeql-action from 4.35.1 to 4.35.2",
+      "timestamp": "2026-04-18T13:54:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/7ba88cc3c56c941f6a7025af62b5fe9f86aab57c",
+      "is_merge": true
+    },
+    {
+      "sha": "d48e040e17751681654276c9587fbb691e05ae1a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #76 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.1.0\n\nBump astral-sh/setup-uv from 8.0.0 to 8.1.0",
+      "timestamp": "2026-04-18T13:44:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/d48e040e17751681654276c9587fbb691e05ae1a",
+      "is_merge": true
+    },
+    {
+      "sha": "e18a47eb8559e3f55963874fac10698dc6c10ee0",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 8.0.0 to 8.1.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 8.0.0 to 8.1.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/cec208311dfd045dd5311c1add060b2062131d57...08807647e7069bb48b6ef5acd8ec9567f424441b)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-18T10:08:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/e18a47eb8559e3f55963874fac10698dc6c10ee0",
+      "is_merge": false
+    },
+    {
+      "sha": "98f24038972603591d1485bbc563581a863e3cdf",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action from 4.35.1 to 4.35.2\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.35.1 to 4.35.2.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/c10b8064de6f491fea524254123dbe5e09572f13...95e58e9a2cdfd71adc6e0353d5c52f41a045d225)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.35.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-18T10:04:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/98f24038972603591d1485bbc563581a863e3cdf",
+      "is_merge": false
+    },
+    {
+      "sha": "ef76b1a2b123c3b51b42f26cc3043e931b4f84e3",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #72 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-7.1.0\n\nBump docker/build-push-action from 7.0.0 to 7.1.0",
+      "timestamp": "2026-04-11T10:47:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/ef76b1a2b123c3b51b42f26cc3043e931b4f84e3",
+      "is_merge": true
+    },
+    {
+      "sha": "c35b8bcbde7b93502d0e1345117c385ef2af547d",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/build-push-action from 7.0.0 to 7.1.0\n\nBumps [docker/build-push-action](https://github.com/docker/build-push-action) from 7.0.0 to 7.1.0.\n- [Release notes](https://github.com/docker/build-push-action/releases)\n- [Commits](https://github.com/docker/build-push-action/compare/d08e5c354a6adb9ed34480a06d141179aa583294...bcafcacb16a39f128d818304e6c9c0c18556b85f)\n\n---\nupdated-dependencies:\n- dependency-name: docker/build-push-action\n  dependency-version: 7.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-11T10:03:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/c35b8bcbde7b93502d0e1345117c385ef2af547d",
+      "is_merge": false
+    },
+    {
+      "sha": "c952f01dc037a80a4838d9e9821fe670457b9977",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #70 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.1.0\n\nBump docker/login-action from 4.0.0 to 4.1.0",
+      "timestamp": "2026-04-04T12:56:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/c952f01dc037a80a4838d9e9821fe670457b9977",
+      "is_merge": true
+    },
+    {
+      "sha": "2bf0e15f681187e2ee354992e5b1c129d2d82091",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #71 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-8.0.0\n\nBump astral-sh/setup-uv from 7.6.0 to 8.0.0",
+      "timestamp": "2026-04-04T12:43:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/2bf0e15f681187e2ee354992e5b1c129d2d82091",
+      "is_merge": true
+    },
+    {
+      "sha": "97a62ce92c04e2b06f2a43587b221e43b7e87fa9",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 7.6.0 to 8.0.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.6.0 to 8.0.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/37802adc94f370d6bfd71619e3f0bf239e1f3b78...cec208311dfd045dd5311c1add060b2062131d57)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 8.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-04T10:03:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/97a62ce92c04e2b06f2a43587b221e43b7e87fa9",
+      "is_merge": false
+    },
+    {
+      "sha": "daea5d9813cc479d18c578de2217a2dfcff2489b",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/login-action from 4.0.0 to 4.1.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.0.0 to 4.1.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/b45d80f862d83dbcd57f89517bcf500b2ab88fb2...4907a6ddec9925e35a0a9e82d7399ccc52663121)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-04-04T10:03:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/daea5d9813cc479d18c578de2217a2dfcff2489b",
+      "is_merge": false
+    },
+    {
+      "sha": "5c1d69da20bc1f777256fa1be128f928d8c51a18",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #67 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.35.1\n\nBump github/codeql-action from 4.34.1 to 4.35.1",
+      "timestamp": "2026-03-28T12:51:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/5c1d69da20bc1f777256fa1be128f928d8c51a18",
+      "is_merge": true
+    },
+    {
+      "sha": "cc96689597ea28f3c35c94f397dab30fea505115",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action from 4.34.1 to 4.35.1\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.34.1 to 4.35.1.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/38697555549f1db7851b81482ff19f1fa5c4fedc...c10b8064de6f491fea524254123dbe5e09572f13)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.35.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-28T10:03:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/cc96689597ea28f3c35c94f397dab30fea505115",
+      "is_merge": false
+    },
+    {
+      "sha": "46c6b75f63fa58b79d7dc9034ef2dc4f0f601717",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #66 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.34.1\n\nBump github/codeql-action from 4.32.6 to 4.34.1",
+      "timestamp": "2026-03-21T10:58:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/46c6b75f63fa58b79d7dc9034ef2dc4f0f601717",
+      "is_merge": true
+    },
+    {
+      "sha": "03e99190de2226168e17ab5325ec60f3e628e5ca",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #65 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.6.0\n\nBump astral-sh/setup-uv from 7.5.0 to 7.6.0",
+      "timestamp": "2026-03-21T10:54:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/03e99190de2226168e17ab5325ec60f3e628e5ca",
+      "is_merge": true
+    },
+    {
+      "sha": "e3534e6be49173217c8d252adc54ac6f9561061f",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action from 4.32.6 to 4.34.1\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.32.6 to 4.34.1.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/0d579ffd059c29b07949a3cce3983f0780820c98...38697555549f1db7851b81482ff19f1fa5c4fedc)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.34.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-21T10:04:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/e3534e6be49173217c8d252adc54ac6f9561061f",
+      "is_merge": false
+    },
+    {
+      "sha": "9a6d750ef8336e1e597c7d2dcb6b562b1c261fa7",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 7.5.0 to 7.6.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.5.0 to 7.6.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/e06108dd0aef18192324c70427afc47652e63a82...37802adc94f370d6bfd71619e3f0bf239e1f3b78)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.6.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-21T10:04:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/9a6d750ef8336e1e597c7d2dcb6b562b1c261fa7",
+      "is_merge": false
+    },
+    {
+      "sha": "79dc38f83a8d428f2c7989e5bb5f4769ca3d4476",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #55 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-4.1.0\n\nBump actions/attest-build-provenance from 3.2.0 to 4.1.0",
+      "timestamp": "2026-03-15T00:16:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/79dc38f83a8d428f2c7989e5bb5f4769ca3d4476",
+      "is_merge": true
+    },
+    {
+      "sha": "2d21476c431b01c7c8b577700a0f79dc783f429b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #62 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.5.0\n\nBump astral-sh/setup-uv from 7.3.1 to 7.5.0",
+      "timestamp": "2026-03-14T11:26:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/2d21476c431b01c7c8b577700a0f79dc783f429b",
+      "is_merge": true
+    },
+    {
+      "sha": "96fe1178a12187ac14fa71f522e5867e3ac9b38e",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 7.3.1 to 7.5.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.3.1 to 7.5.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/5a095e7a2014a4212f075830d4f7277575a9d098...e06108dd0aef18192324c70427afc47652e63a82)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.5.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-14T10:04:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/96fe1178a12187ac14fa71f522e5867e3ac9b38e",
+      "is_merge": false
+    },
+    {
+      "sha": "9df8f070a84e16d43adaa652f956b99ff635ad56",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #61 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-7.0.0\n\nBump docker/build-push-action from 6.19.2 to 7.0.0",
+      "timestamp": "2026-03-07T15:01:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/9df8f070a84e16d43adaa652f956b99ff635ad56",
+      "is_merge": true
+    },
+    {
+      "sha": "d9f6767f3e1c5a0583c0d0233951f55cf8f4fd28",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #60 from UnitVectorY-Labs/dependabot/github_actions/docker/metadata-action-6.0.0\n\nBump docker/metadata-action from 5.10.0 to 6.0.0",
+      "timestamp": "2026-03-07T14:54:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/d9f6767f3e1c5a0583c0d0233951f55cf8f4fd28",
+      "is_merge": true
+    },
+    {
+      "sha": "d91f0afa90a27e2d1a9555d9a70e181786f2b143",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #58 from UnitVectorY-Labs/dependabot/github_actions/docker/setup-buildx-action-4.0.0\n\nBump docker/setup-buildx-action from 3.12.0 to 4.0.0",
+      "timestamp": "2026-03-07T12:55:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/d91f0afa90a27e2d1a9555d9a70e181786f2b143",
+      "is_merge": true
+    },
+    {
+      "sha": "c675e161f33edf978aa8375216f8d0259737160e",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/setup-buildx-action from 3.12.0 to 4.0.0\n\nBumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 3.12.0 to 4.0.0.\n- [Release notes](https://github.com/docker/setup-buildx-action/releases)\n- [Commits](https://github.com/docker/setup-buildx-action/compare/8d2750c68a42422c14e847fe6c8ac0403b4cbd6f...4d04d5d9486b7bd6fa91e7baf45bbb4f8b9deedd)\n\n---\nupdated-dependencies:\n- dependency-name: docker/setup-buildx-action\n  dependency-version: 4.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-07T12:49:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/c675e161f33edf978aa8375216f8d0259737160e",
+      "is_merge": false
+    },
+    {
+      "sha": "1f79af5317683cc0f2cc0da4300746935319eef0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #57 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.0.0\n\nBump docker/login-action from 3.7.0 to 4.0.0",
+      "timestamp": "2026-03-07T12:47:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/1f79af5317683cc0f2cc0da4300746935319eef0",
+      "is_merge": true
+    },
+    {
+      "sha": "f2bf9d1baed1e24efd0f089e8ad382b3d216a6e2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #59 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.32.6\n\nBump github/codeql-action from 4.32.4 to 4.32.6",
+      "timestamp": "2026-03-07T12:43:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/f2bf9d1baed1e24efd0f089e8ad382b3d216a6e2",
+      "is_merge": true
+    },
+    {
+      "sha": "3dcd02852b1834e18197969f08ac782952b9af92",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/build-push-action from 6.19.2 to 7.0.0\n\nBumps [docker/build-push-action](https://github.com/docker/build-push-action) from 6.19.2 to 7.0.0.\n- [Release notes](https://github.com/docker/build-push-action/releases)\n- [Commits](https://github.com/docker/build-push-action/compare/10e90e3645eae34f1e60eeb005ba3a3d33f178e8...d08e5c354a6adb9ed34480a06d141179aa583294)\n\n---\nupdated-dependencies:\n- dependency-name: docker/build-push-action\n  dependency-version: 7.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-07T11:04:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/3dcd02852b1834e18197969f08ac782952b9af92",
+      "is_merge": false
+    },
+    {
+      "sha": "562bb0f5f2f7cdd5f2af15d949a225565d7fe736",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/metadata-action from 5.10.0 to 6.0.0\n\nBumps [docker/metadata-action](https://github.com/docker/metadata-action) from 5.10.0 to 6.0.0.\n- [Release notes](https://github.com/docker/metadata-action/releases)\n- [Commits](https://github.com/docker/metadata-action/compare/c299e40c65443455700f0fdfc63efafe5b349051...030e881283bb7a6894de51c315a6bfe6a94e05cf)\n\n---\nupdated-dependencies:\n- dependency-name: docker/metadata-action\n  dependency-version: 6.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-07T11:04:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/562bb0f5f2f7cdd5f2af15d949a225565d7fe736",
+      "is_merge": false
+    },
+    {
+      "sha": "a2ff9b1b9f3b65241cc41b9c6c7a9f729782458e",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action from 4.32.4 to 4.32.6\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.32.4 to 4.32.6.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/89a39a4e59826350b863aa6b6252a07ad50cf83e...0d579ffd059c29b07949a3cce3983f0780820c98)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.32.6\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-07T11:04:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/a2ff9b1b9f3b65241cc41b9c6c7a9f729782458e",
+      "is_merge": false
+    },
+    {
+      "sha": "7dbaf1a82fe146f4b2081d21b967cc93cf164a25",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/login-action from 3.7.0 to 4.0.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 3.7.0 to 4.0.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/c94ce9fb468520275223c153574b00df6fe4bcc9...b45d80f862d83dbcd57f89517bcf500b2ab88fb2)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.0.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-03-07T11:03:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/7dbaf1a82fe146f4b2081d21b967cc93cf164a25",
+      "is_merge": false
+    },
+    {
+      "sha": "f067fc7bf223a8420034d9e936ea18312fb40a1e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #54 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.3.1\n\nBump astral-sh/setup-uv from 7.3.0 to 7.3.1",
+      "timestamp": "2026-02-28T13:10:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/f067fc7bf223a8420034d9e936ea18312fb40a1e",
+      "is_merge": true
+    },
+    {
+      "sha": "9bd8bdad4ee72ad88586e6556320be6c669dc5b6",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/attest-build-provenance from 3.2.0 to 4.1.0\n\nBumps [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) from 3.2.0 to 4.1.0.\n- [Release notes](https://github.com/actions/attest-build-provenance/releases)\n- [Changelog](https://github.com/actions/attest-build-provenance/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest-build-provenance/compare/96278af6caaf10aea03fd8d33a09a777ca52d62f...a2bbfa25375fe432b6a289bc6b6cd05ecd0c4c32)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest-build-provenance\n  dependency-version: 4.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-28T11:04:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/9bd8bdad4ee72ad88586e6556320be6c669dc5b6",
+      "is_merge": false
+    },
+    {
+      "sha": "735366ca115a9a75ed8580f987ee476b2ec39df0",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 7.3.0 to 7.3.1\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.3.0 to 7.3.1.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/eac588ad8def6316056a12d4907a9d4d84ff7a3b...5a095e7a2014a4212f075830d4f7277575a9d098)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.3.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-28T11:04:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/735366ca115a9a75ed8580f987ee476b2ec39df0",
+      "is_merge": false
+    },
+    {
+      "sha": "e0313ac6d71d3c84a1c8c1e001f3ec7319b6bd38",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #52 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.32.4\n\nBump github/codeql-action from 4.32.3 to 4.32.4",
+      "timestamp": "2026-02-21T11:58:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/e0313ac6d71d3c84a1c8c1e001f3ec7319b6bd38",
+      "is_merge": true
+    },
+    {
+      "sha": "84613e1de85c877840a99088c0b6dbc19c747c78",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action from 4.32.3 to 4.32.4\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.32.3 to 4.32.4.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/9e907b5e64f6b83e7804b09294d44122997950d6...89a39a4e59826350b863aa6b6252a07ad50cf83e)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.32.4\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-21T11:03:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/84613e1de85c877840a99088c0b6dbc19c747c78",
+      "is_merge": false
+    },
+    {
+      "sha": "d5a137cdc12bac842a7a0b8fd7a5f6dc5d7a7cdb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #49 from UnitVectorY-Labs/dependabot/pip/google-adk-1.25.0\n\nBump google-adk from 1.17.0 to 1.25.0",
+      "timestamp": "2026-02-14T14:22:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/d5a137cdc12bac842a7a0b8fd7a5f6dc5d7a7cdb",
+      "is_merge": true
+    },
+    {
+      "sha": "adda9176ebbb0ee10e0d93a010cc3e39739c3ec5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #50 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.32.3\n\nBump github/codeql-action from 4.32.2 to 4.32.3",
+      "timestamp": "2026-02-14T14:16:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/adda9176ebbb0ee10e0d93a010cc3e39739c3ec5",
+      "is_merge": true
+    },
+    {
+      "sha": "32f1ce75a4608873a29b357221460e0d109e23cc",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #51 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-6.19.2\n\nBump docker/build-push-action from 6.18.0 to 6.19.2",
+      "timestamp": "2026-02-14T14:14:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/32f1ce75a4608873a29b357221460e0d109e23cc",
+      "is_merge": true
+    },
+    {
+      "sha": "83d640e80fc066aaf66dd888cc0fb9a920a56aa5",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/build-push-action from 6.18.0 to 6.19.2\n\nBumps [docker/build-push-action](https://github.com/docker/build-push-action) from 6.18.0 to 6.19.2.\n- [Release notes](https://github.com/docker/build-push-action/releases)\n- [Commits](https://github.com/docker/build-push-action/compare/263435318d21b8e681c14492fe198d362a7d2c83...10e90e3645eae34f1e60eeb005ba3a3d33f178e8)\n\n---\nupdated-dependencies:\n- dependency-name: docker/build-push-action\n  dependency-version: 6.19.2\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-14T11:03:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/83d640e80fc066aaf66dd888cc0fb9a920a56aa5",
+      "is_merge": false
+    },
+    {
+      "sha": "3db6f724ac20bac98c4e7a6f524dfa30ee4aa211",
+      "author": "dependabot[bot]",
+      "message": "Bump google-adk from 1.17.0 to 1.25.0\n\nBumps [google-adk](https://github.com/google/adk-python) from 1.17.0 to 1.25.0.\n- [Release notes](https://github.com/google/adk-python/releases)\n- [Changelog](https://github.com/google/adk-python/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/google/adk-python/compare/v1.17.0...v1.25.0)\n\n---\nupdated-dependencies:\n- dependency-name: google-adk\n  dependency-version: 1.25.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-14T11:02:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/3db6f724ac20bac98c4e7a6f524dfa30ee4aa211",
+      "is_merge": false
+    },
+    {
+      "sha": "1ddc87c679f81a5d2bedf9b617392a8a24e7fa59",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action from 4.32.2 to 4.32.3\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.32.2 to 4.32.3.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/45cbd0c69e560cd9e7cd7f8c32362050c9b7ded2...9e907b5e64f6b83e7804b09294d44122997950d6)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.32.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-14T11:02:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/1ddc87c679f81a5d2bedf9b617392a8a24e7fa59",
+      "is_merge": false
+    },
+    {
+      "sha": "5163609116193436ebf9327d81564ff542213586",
+      "author": "JaredHatfield",
+      "message": "Enhance Docker build workflow for multi-arch support\n\nRefactor Docker build workflow to support multi-architecture builds and improve concurrency management.",
+      "timestamp": "2026-02-11T01:37:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/5163609116193436ebf9327d81564ff542213586",
+      "is_merge": false
+    },
+    {
+      "sha": "39c92d438a9374d63481cb1468f895e0ab14572c",
+      "author": "JaredHatfield",
+      "message": "Add VERSION build argument to Dockerfile\n\nAdded a build argument for version injection.",
+      "timestamp": "2026-02-11T01:36:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/39c92d438a9374d63481cb1468f895e0ab14572c",
+      "is_merge": false
+    },
+    {
+      "sha": "ad695687da9804f2761f2caaaf6b2a6f316e026b",
+      "author": "JaredHatfield",
+      "message": "Update dependabot configuration for pip ecosystem",
+      "timestamp": "2026-02-08T20:25:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/ad695687da9804f2761f2caaaf6b2a6f316e026b",
+      "is_merge": false
+    },
+    {
+      "sha": "8175cdf5669799d159e38f1cf1fe7589a68a45a7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #48 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.32.2\n\nBump github/codeql-action from 4.32.0 to 4.32.2",
+      "timestamp": "2026-02-07T12:08:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/8175cdf5669799d159e38f1cf1fe7589a68a45a7",
+      "is_merge": true
+    },
+    {
+      "sha": "89cdb9bf11f3d2fbec5a5e51e46446f28e31d8b2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #47 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.3.0\n\nBump astral-sh/setup-uv from 7.2.1 to 7.3.0",
+      "timestamp": "2026-02-07T11:51:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/89cdb9bf11f3d2fbec5a5e51e46446f28e31d8b2",
+      "is_merge": true
+    },
+    {
+      "sha": "32039012ac3d1aa60294870f87c269027bb77dda",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action from 4.32.0 to 4.32.2\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.32.0 to 4.32.2.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/b20883b0cd1f46c72ae0ba6d1090936928f9fa30...45cbd0c69e560cd9e7cd7f8c32362050c9b7ded2)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.32.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-07T11:07:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/32039012ac3d1aa60294870f87c269027bb77dda",
+      "is_merge": false
+    },
+    {
+      "sha": "d0b62c1316cd4f90e99f6070ed3adf1abd20b2a5",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 7.2.1 to 7.3.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.2.1 to 7.3.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/803947b9bd8e9f986429fa0c5a41c367cd732b41...eac588ad8def6316056a12d4907a9d4d84ff7a3b)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.3.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-02-07T11:06:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/d0b62c1316cd4f90e99f6070ed3adf1abd20b2a5",
+      "is_merge": false
+    },
+    {
+      "sha": "49f6f769db045e89a6e8e234a80c99518e5bde65",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #44 from UnitVectorY-Labs/dependabot/github_actions/actions/attest-build-provenance-3.2.0\n\nBump actions/attest-build-provenance from 3.1.0 to 3.2.0",
+      "timestamp": "2026-01-31T12:59:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/49f6f769db045e89a6e8e234a80c99518e5bde65",
+      "is_merge": true
+    },
+    {
+      "sha": "f53a6f12447720a53822e7541371e835bef094e2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #43 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.32.0\n\nBump github/codeql-action from 4.31.11 to 4.32.0",
+      "timestamp": "2026-01-31T12:41:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/f53a6f12447720a53822e7541371e835bef094e2",
+      "is_merge": true
+    },
+    {
+      "sha": "6ad855a8deb4aa05e86080240ebd093ac425082a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #45 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-3.7.0\n\nBump docker/login-action from 3.6.0 to 3.7.0",
+      "timestamp": "2026-01-31T12:39:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/6ad855a8deb4aa05e86080240ebd093ac425082a",
+      "is_merge": true
+    },
+    {
+      "sha": "987ebd3ee28265ededf5129552b28a93e7ee9eac",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #42 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-7.2.1\n\nBump astral-sh/setup-uv from 7.2.0 to 7.2.1",
+      "timestamp": "2026-01-31T12:17:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/987ebd3ee28265ededf5129552b28a93e7ee9eac",
+      "is_merge": true
+    },
+    {
+      "sha": "8b3549d57d51f6baa6ba10d1acac919afc178341",
+      "author": "dependabot[bot]",
+      "message": "Bump docker/login-action from 3.6.0 to 3.7.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 3.6.0 to 3.7.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/5e57cd118135c172c3672efd75eb46360885c0ef...c94ce9fb468520275223c153574b00df6fe4bcc9)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 3.7.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-31T11:04:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/8b3549d57d51f6baa6ba10d1acac919afc178341",
+      "is_merge": false
+    },
+    {
+      "sha": "dfc233833ba37a85f9925337b2e17d007a7cdfa6",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/attest-build-provenance from 3.1.0 to 3.2.0\n\nBumps [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) from 3.1.0 to 3.2.0.\n- [Release notes](https://github.com/actions/attest-build-provenance/releases)\n- [Changelog](https://github.com/actions/attest-build-provenance/blob/main/RELEASE.md)\n- [Commits](https://github.com/actions/attest-build-provenance/compare/00014ed6ed5efc5b1ab7f7f34a39eb55d41aa4f8...96278af6caaf10aea03fd8d33a09a777ca52d62f)\n\n---\nupdated-dependencies:\n- dependency-name: actions/attest-build-provenance\n  dependency-version: 3.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-31T11:04:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/dfc233833ba37a85f9925337b2e17d007a7cdfa6",
+      "is_merge": false
+    },
+    {
+      "sha": "7836ddaa6dc6a4e1f4034983ba438f8173d6a4ed",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action from 4.31.11 to 4.32.0\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.31.11 to 4.32.0.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/19b2f06db2b6f5108140aeb04014ef02b648f789...b20883b0cd1f46c72ae0ba6d1090936928f9fa30)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.32.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-31T11:04:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/7836ddaa6dc6a4e1f4034983ba438f8173d6a4ed",
+      "is_merge": false
+    },
+    {
+      "sha": "71e90a4a381a8e4851ef46c04f3de2286fc93a39",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 7.2.0 to 7.2.1\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 7.2.0 to 7.2.1.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/61cb8a9741eeb8a550a1b8544337180c0fc8476b...803947b9bd8e9f986429fa0c5a41c367cd732b41)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 7.2.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-31T11:04:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/71e90a4a381a8e4851ef46c04f3de2286fc93a39",
+      "is_merge": false
+    },
+    {
+      "sha": "4c12f7757ebe6a997e95f628f569f13bc767f533",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #39 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-6.0.2\n\nBump actions/checkout from 6.0.1 to 6.0.2",
+      "timestamp": "2026-01-24T11:33:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/4c12f7757ebe6a997e95f628f569f13bc767f533",
+      "is_merge": true
+    },
+    {
+      "sha": "b37a579f21e15b9cc34b432bcc4640531d1d96ad",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/checkout from 6.0.1 to 6.0.2\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 6.0.1 to 6.0.2.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/8e8c483db84b4bee98b60c0593521ed34d9990e8...de0fac2e4500dabe0009e67214ff5f5447ce83dd)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: 6.0.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-24T11:31:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/b37a579f21e15b9cc34b432bcc4640531d1d96ad",
+      "is_merge": false
+    },
+    {
+      "sha": "d006fbfac3f40769b25792810937c44c5c0a8edb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #40 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action-4.31.11\n\nBump github/codeql-action from 4.31.10 to 4.31.11",
+      "timestamp": "2026-01-24T11:19:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/d006fbfac3f40769b25792810937c44c5c0a8edb",
+      "is_merge": true
+    },
+    {
+      "sha": "75eb0617fd7f41868b68cdf44fbe3c66938afd2a",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action from 4.31.10 to 4.31.11\n\nBumps [github/codeql-action](https://github.com/github/codeql-action) from 4.31.10 to 4.31.11.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/cdefb33c0f6224e58673d9004f47f7cb3e328b89...19b2f06db2b6f5108140aeb04014ef02b648f789)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action\n  dependency-version: 4.31.11\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-01-24T11:03:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/75eb0617fd7f41868b68cdf44fbe3c66938afd2a",
+      "is_merge": false
+    },
+    {
+      "sha": "6fa9e36c3294dda7276c32f569c7890572240715",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #38 from UnitVectorY-Labs/bulkfilepr/0db845d9db10\n\nUpdate .github/workflows/release-docker-ghcr.yml",
+      "timestamp": "2026-01-19T01:37:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/6fa9e36c3294dda7276c32f569c7890572240715",
+      "is_merge": true
+    },
+    {
+      "sha": "af5d3b654d3248b050bdf4daac4c7726b4cb65eb",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/release-docker-ghcr.yml",
+      "timestamp": "2026-01-19T01:22:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/af5d3b654d3248b050bdf4daac4c7726b4cb65eb",
+      "is_merge": false
+    },
+    {
+      "sha": "300abf9a92945d53273b71612ef8813957953abe",
+      "author": "JaredHatfield",
+      "message": "Update GitHub Actions to use specific versions",
+      "timestamp": "2026-01-16T01:34:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/300abf9a92945d53273b71612ef8813957953abe",
+      "is_merge": false
+    },
+    {
+      "sha": "b4f3acac39f490f633baf09050e941a600e0bd28",
+      "author": "JaredHatfield",
+      "message": "Update GitHub Actions workflow for zizmor",
+      "timestamp": "2026-01-15T00:17:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/b4f3acac39f490f633baf09050e941a600e0bd28",
+      "is_merge": false
+    },
+    {
+      "sha": "77aafd6f70b3141b97b9494aa259059d7617a1df",
+      "author": "JaredHatfield",
+      "message": "Change runner and action version in workflow",
+      "timestamp": "2026-01-14T23:56:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/77aafd6f70b3141b97b9494aa259059d7617a1df",
+      "is_merge": false
+    },
+    {
+      "sha": "1da862a5236bb302483646bb589f4aaf311aa2c7",
+      "author": "JaredHatfield",
+      "message": "Fix badge image URL for license badge in README",
+      "timestamp": "2025-11-30T23:53:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/1da862a5236bb302483646bb589f4aaf311aa2c7",
+      "is_merge": false
+    },
+    {
+      "sha": "828ff02b7d96a0806cd5e71a86173f1748e63cb4",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #32 from UnitVectorY-Labs/dependabot/github_actions/actions/checkout-6\n\nBump actions/checkout from 5 to 6",
+      "timestamp": "2025-11-22T15:35:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/828ff02b7d96a0806cd5e71a86173f1748e63cb4",
+      "is_merge": true
+    },
+    {
+      "sha": "88e5dfdfac27b538814816893925804d270fc93b",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/checkout from 5 to 6\n\nBumps [actions/checkout](https://github.com/actions/checkout) from 5 to 6.\n- [Release notes](https://github.com/actions/checkout/releases)\n- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/actions/checkout/compare/v5...v6)\n\n---\nupdated-dependencies:\n- dependency-name: actions/checkout\n  dependency-version: '6'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2025-11-22T11:06:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/88e5dfdfac27b538814816893925804d270fc93b",
+      "is_merge": false
+    }
+  ],
+  "repository_url": "https://github.com/UnitVectorY-Labs/adk-docker-base"
+}
