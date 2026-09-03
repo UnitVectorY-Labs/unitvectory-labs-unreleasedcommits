@@ -6,6 +6,22 @@
   "latest_release_time": "2026-08-28T21:19:51Z",
   "unreleased_commits": [
     {
+      "sha": "bfb8b1ca7f5093f0ae4a8f651102e68d7817c964",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #14 from UnitVectorY-Labs/repver/go-v1.27.1\n\nUpdate Go version to v1.27.1",
+      "timestamp": "2026-09-02T10:02:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/bfb8b1ca7f5093f0ae4a8f651102e68d7817c964",
+      "is_merge": true
+    },
+    {
+      "sha": "b56a4158937ef6fec3a91d7e9cc3a4fac84cd299",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.27.1",
+      "timestamp": "2026-09-02T09:49:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/b56a4158937ef6fec3a91d7e9cc3a4fac84cd299",
+      "is_merge": false
+    },
+    {
       "sha": "9f7b97a31cb9dce673dd5444712e5dfb1dfaf330",
       "author": "JaredHatfield",
       "message": "Merge pull request #13 from UnitVectorY-Labs/add-semgrep-workflow\n\nAdd Semgrep workflow",

@@ -6,6 +6,30 @@
   "latest_release_time": "2026-06-17T11:03:43Z",
   "unreleased_commits": [
     {
+      "sha": "df198c44413b3b9ba65788e5e23fc17854b44fe6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #90 from UnitVectorY-Labs/repver/go-v1.27.1\n\nrepver/go v1.27.1",
+      "timestamp": "2026-09-02T21:56:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/gitrepoforge/commit/df198c44413b3b9ba65788e5e23fc17854b44fe6",
+      "is_merge": true
+    },
+    {
+      "sha": "673dadbc0bfa677bb20d2da0bdd8df984b09420e",
+      "author": "Jared",
+      "message": "Update Go version to v1.27.1",
+      "timestamp": "2026-09-02T11:30:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/gitrepoforge/commit/673dadbc0bfa677bb20d2da0bdd8df984b09420e",
+      "is_merge": false
+    },
+    {
+      "sha": "c0057e9bc1c957eab7f71b420feb7dc04ec0c119",
+      "author": "Jared",
+      "message": "fix: correct .repver YAML indentation to match gitrepoforge template\n\nThe justthedocsversion and mermaidversion blocks were indented with 4\nspaces instead of 3, making the file invalid YAML so repver could not\nparse it or run its goversion command.",
+      "timestamp": "2026-09-02T11:26:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/gitrepoforge/commit/c0057e9bc1c957eab7f71b420feb7dc04ec0c119",
+      "is_merge": false
+    },
+    {
       "sha": "0438073c041dc82ed357ee278830bfb65541be4f",
       "author": "JaredHatfield",
       "message": "Merge pull request #89 from UnitVectorY-Labs/chore/codeql-4.37.9\n\nBump CodeQL version to 4.37.9",

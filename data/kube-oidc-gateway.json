@@ -6,6 +6,22 @@
   "latest_release_time": "2026-08-13T00:57:42Z",
   "unreleased_commits": [
     {
+      "sha": "752be88afad48bdf812bddcac7a36b4b48ea1e8d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #109 from UnitVectorY-Labs/repver/go-v1.27.1\n\nUpdate Go version to 1.27.1",
+      "timestamp": "2026-09-02T10:00:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/752be88afad48bdf812bddcac7a36b4b48ea1e8d",
+      "is_merge": true
+    },
+    {
+      "sha": "21c015c66fe33bcf01fa0ea7438b52288073277f",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.27.1",
+      "timestamp": "2026-09-02T09:50:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/21c015c66fe33bcf01fa0ea7438b52288073277f",
+      "is_merge": false
+    },
+    {
       "sha": "5279e3291145763ba72606969b5213d90d8b8b92",
       "author": "JaredHatfield",
       "message": "Merge pull request #108 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.9\n\nchore(deps): bump github/codeql-action/upload-sarif from 4.37.7 to 4.37.9",

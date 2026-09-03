@@ -6,6 +6,22 @@
   "latest_release_time": "2026-07-10T22:44:24Z",
   "unreleased_commits": [
     {
+      "sha": "e97a9bd7fc900c1899cd65776df92feff6cafc49",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #97 from UnitVectorY-Labs/repver/go-v1.27.1\n\nUpdate Go version to 1.27.1",
+      "timestamp": "2026-09-02T10:01:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/e97a9bd7fc900c1899cd65776df92feff6cafc49",
+      "is_merge": true
+    },
+    {
+      "sha": "805fc6111583e401ce1a38c7261dc47ff0f676d3",
+      "author": "JaredHatfield",
+      "message": "Update Go version to 1.27.1",
+      "timestamp": "2026-09-02T09:49:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/805fc6111583e401ce1a38c7261dc47ff0f676d3",
+      "is_merge": false
+    },
+    {
       "sha": "9bb560c09657dc752b175c26875d127832cd0474",
       "author": "JaredHatfield",
       "message": "Merge pull request #94 from UnitVectorY-Labs/dependabot/go_modules/cloud.google.com/go/pubsub-1.51.1\n\nchore(deps): bump cloud.google.com/go/pubsub from 1.51.0 to 1.51.1",

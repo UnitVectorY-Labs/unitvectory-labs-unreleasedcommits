@@ -6,6 +6,22 @@
   "latest_release_time": "2026-08-08T23:58:47Z",
   "unreleased_commits": [
     {
+      "sha": "1fd462ab727ad2619b2940d52d5e1aef2e24c114",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #100 from UnitVectorY-Labs/repver/go-v1.27.1\n\nUpdate Go version to v1.27.1",
+      "timestamp": "2026-09-02T10:01:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/1fd462ab727ad2619b2940d52d5e1aef2e24c114",
+      "is_merge": true
+    },
+    {
+      "sha": "093b1ac4b667e9a04d28b536241a11f5d9e22042",
+      "author": "Jared",
+      "message": "Update Go version to v1.27.1",
+      "timestamp": "2026-09-02T09:51:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/093b1ac4b667e9a04d28b536241a11f5d9e22042",
+      "is_merge": false
+    },
+    {
       "sha": "2e9ed499c106a945b2d15c702db1a0bef2aa2a7c",
       "author": "JaredHatfield",
       "message": "Merge pull request #99 from UnitVectorY-Labs/chore/codeql-4.37.9\n\nBump CodeQL version to 4.37.9",

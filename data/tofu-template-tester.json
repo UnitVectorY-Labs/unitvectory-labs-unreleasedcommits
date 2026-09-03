@@ -6,6 +6,22 @@
   "latest_release_time": "2026-05-24T00:42:30Z",
   "unreleased_commits": [
     {
+      "sha": "80f74fc8c9d381f23db8bf1a384794b77538a6ea",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #111 from UnitVectorY-Labs/repver/go-v1.27.1\n\nUpdate Go version to v1.27.1",
+      "timestamp": "2026-09-02T09:59:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/80f74fc8c9d381f23db8bf1a384794b77538a6ea",
+      "is_merge": true
+    },
+    {
+      "sha": "ec2ed45f2467bbe466264209ae7deb3981aaf380",
+      "author": "Jared",
+      "message": "Update Go version to v1.27.1",
+      "timestamp": "2026-09-02T09:51:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/ec2ed45f2467bbe466264209ae7deb3981aaf380",
+      "is_merge": false
+    },
+    {
       "sha": "e649c110220a5316ec5ef1b8607b65dfc92ba0e6",
       "author": "JaredHatfield",
       "message": "Merge pull request #110 from UnitVectorY-Labs/chore/codeql-4.37.9\n\nBump CodeQL version to 4.37.9",

@@ -6,6 +6,22 @@
   "latest_release_time": "2026-08-11T22:54:24Z",
   "unreleased_commits": [
     {
+      "sha": "3fc495ed368fade0a8d1b5138ef74f6dd9a51ac4",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #36 from UnitVectorY-Labs/repver/go-v1.27.1\n\nUpdate Go version to v1.27.1",
+      "timestamp": "2026-09-02T10:02:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-chromadb-repo-search/commit/3fc495ed368fade0a8d1b5138ef74f6dd9a51ac4",
+      "is_merge": true
+    },
+    {
+      "sha": "80653b52147f82a56f18eee5d9d852eeb0d3eae6",
+      "author": "Jared",
+      "message": "Update Go version to v1.27.1",
+      "timestamp": "2026-09-02T09:50:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-chromadb-repo-search/commit/80653b52147f82a56f18eee5d9d852eeb0d3eae6",
+      "is_merge": false
+    },
+    {
       "sha": "72a1bad618e5db458dadc8f0af378c0906bbebd6",
       "author": "JaredHatfield",
       "message": "Merge pull request #35 from UnitVectorY-Labs/chore/codeql-4.37.9\n\nBump CodeQL version to 4.37.9",

@@ -6,6 +6,38 @@
   "latest_release_time": "2026-08-08T14:59:45Z",
   "unreleased_commits": [
     {
+      "sha": "b03301fd1e98487c2f8e47615caf2269ebac322b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #120 from UnitVectorY-Labs/fix/author-header\n\nfix: show author filter in header line",
+      "timestamp": "2026-09-02T22:48:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/b03301fd1e98487c2f8e47615caf2269ebac322b",
+      "is_merge": true
+    },
+    {
+      "sha": "2f2dc8be833624a6a827c27601059786df47e0ba",
+      "author": "Jared",
+      "message": "fix: show author filter in header line\n\nThe run header only showed mode and source branch, omitting the\n--author filter. Include the author in the header line when set and\nadd it to JSON run metadata for consistency.",
+      "timestamp": "2026-09-02T10:30:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/2f2dc8be833624a6a827c27601059786df47e0ba",
+      "is_merge": false
+    },
+    {
+      "sha": "eae59c8baa78f31c7f2e7a45d210d29a5d0e5666",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #119 from UnitVectorY-Labs/repver/go-v1.27.1\n\nUpdate Go version to v1.27.1",
+      "timestamp": "2026-09-02T10:00:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/eae59c8baa78f31c7f2e7a45d210d29a5d0e5666",
+      "is_merge": true
+    },
+    {
+      "sha": "58b743634b33e3c4bfdf606b1e5b259cbe45af1b",
+      "author": "Jared",
+      "message": "Update Go version to v1.27.1",
+      "timestamp": "2026-09-02T09:49:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/58b743634b33e3c4bfdf606b1e5b259cbe45af1b",
+      "is_merge": false
+    },
+    {
       "sha": "ca299b20429c08cbfce8c06f81f912c31895bcd1",
       "author": "JaredHatfield",
       "message": "Merge pull request #118 from UnitVectorY-Labs/chore/codeql-4.37.9\n\nBump CodeQL version to 4.37.9",
