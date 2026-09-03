@@ -2,81 +2,8 @@
   "owner": "UnitVectorY-Labs",
   "name": "ghrepocfg",
   "default_branch": "main",
-  "latest_release_tag": "v0.1.1",
-  "latest_release_time": "2026-08-28T21:19:51Z",
-  "unreleased_commits": [
-    {
-      "sha": "bfb8b1ca7f5093f0ae4a8f651102e68d7817c964",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #14 from UnitVectorY-Labs/repver/go-v1.27.1\n\nUpdate Go version to v1.27.1",
-      "timestamp": "2026-09-02T10:02:40Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/bfb8b1ca7f5093f0ae4a8f651102e68d7817c964",
-      "is_merge": true
-    },
-    {
-      "sha": "b56a4158937ef6fec3a91d7e9cc3a4fac84cd299",
-      "author": "JaredHatfield",
-      "message": "Update Go version to v1.27.1",
-      "timestamp": "2026-09-02T09:49:20Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/b56a4158937ef6fec3a91d7e9cc3a4fac84cd299",
-      "is_merge": false
-    },
-    {
-      "sha": "9f7b97a31cb9dce673dd5444712e5dfb1dfaf330",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #13 from UnitVectorY-Labs/add-semgrep-workflow\n\nAdd Semgrep workflow",
-      "timestamp": "2026-08-31T01:26:53Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/9f7b97a31cb9dce673dd5444712e5dfb1dfaf330",
-      "is_merge": true
-    },
-    {
-      "sha": "52cef5111540ec9a97f27ada038db09047b7f8bc",
-      "author": "JaredHatfield",
-      "message": "Add Semgrep workflow",
-      "timestamp": "2026-08-31T01:23:23Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/52cef5111540ec9a97f27ada038db09047b7f8bc",
-      "is_merge": false
-    },
-    {
-      "sha": "a2a19efa2087ae21e662d57c0650536820ea49fd",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #12 from UnitVectorY-Labs/chore/codeql-4.37.9\n\nBump CodeQL version to 4.37.9",
-      "timestamp": "2026-08-30T14:15:34Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/a2a19efa2087ae21e662d57c0650536820ea49fd",
-      "is_merge": true
-    },
-    {
-      "sha": "803e741134935d720f0cef4b3c25271079a626d7",
-      "author": "JaredHatfield",
-      "message": "Bump CodeQL version to 4.37.9",
-      "timestamp": "2026-08-30T12:40:17Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/803e741134935d720f0cef4b3c25271079a626d7",
-      "is_merge": false
-    },
-    {
-      "sha": "582fd7f0d0b32058af8bda65d327bb85b209a6c3",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #9 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.9\n\nBump github/codeql-action/upload-sarif from 4.37.8 to 4.37.9",
-      "timestamp": "2026-08-29T15:25:04Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/582fd7f0d0b32058af8bda65d327bb85b209a6c3",
-      "is_merge": true
-    },
-    {
-      "sha": "ac2d3ba3106b5732cd0dda67b2e0f8b3b0f75a61",
-      "author": "dependabot[bot]",
-      "message": "Bump github/codeql-action/upload-sarif from 4.37.8 to 4.37.9\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.8 to 4.37.9.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/db488ddef3bf6cb639b32c2e9a7c0a7ea8271d28...cdf488f595d80d6e07e03d4674febd5ab45fa938)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.9\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
-      "timestamp": "2026-08-29T10:10:19Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/ac2d3ba3106b5732cd0dda67b2e0f8b3b0f75a61",
-      "is_merge": false
-    },
-    {
-      "sha": "becff3a39f1b48983d73ece2628938e00bd23b0a",
-      "author": "JaredHatfield",
-      "message": "Add GitHub Actions workflow for ChromaDB indexing",
-      "timestamp": "2026-08-29T00:01:48Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/becff3a39f1b48983d73ece2628938e00bd23b0a",
-      "is_merge": false
-    }
-  ],
+  "latest_release_tag": "v0.1.2",
+  "latest_release_time": "2026-09-03T09:52:14Z",
+  "unreleased_commits": null,
   "repository_url": "https://github.com/UnitVectorY-Labs/ghrepocfg"
 }

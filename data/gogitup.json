@@ -2,57 +2,8 @@
   "owner": "UnitVectorY-Labs",
   "name": "gogitup",
   "default_branch": "main",
-  "latest_release_tag": "v0.5.0",
-  "latest_release_time": "2026-08-24T23:15:36Z",
-  "unreleased_commits": [
-    {
-      "sha": "2040de0b260c51feb8bedc13ab21c430a6f22f8c",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #91 from UnitVectorY-Labs/repver/go-v1.27.1\n\nUpdate Go version to v1.27.1",
-      "timestamp": "2026-09-02T10:01:13Z",
-      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/2040de0b260c51feb8bedc13ab21c430a6f22f8c",
-      "is_merge": true
-    },
-    {
-      "sha": "fa50d2530988fb8b369c15328e054ee9a9378afa",
-      "author": "Jared",
-      "message": "Update Go version to v1.27.1",
-      "timestamp": "2026-09-02T09:49:36Z",
-      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/fa50d2530988fb8b369c15328e054ee9a9378afa",
-      "is_merge": false
-    },
-    {
-      "sha": "6ffe62f4a18efd18b6438c54db4bba05bebb9b44",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #90 from UnitVectorY-Labs/chore/codeql-4.37.9\n\nBump CodeQL version to 4.37.9",
-      "timestamp": "2026-08-30T14:14:24Z",
-      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/6ffe62f4a18efd18b6438c54db4bba05bebb9b44",
-      "is_merge": true
-    },
-    {
-      "sha": "bee76809e4adad3e3d70ba9e1b69905891f6d8c0",
-      "author": "Jared",
-      "message": "Bump CodeQL version to 4.37.9",
-      "timestamp": "2026-08-30T12:41:17Z",
-      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/bee76809e4adad3e3d70ba9e1b69905891f6d8c0",
-      "is_merge": false
-    },
-    {
-      "sha": "d069875cc8de8100856432770573c47d06833a94",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #88 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.37.9\n\nbuild(deps): bump github/codeql-action/upload-sarif from 4.37.7 to 4.37.9",
-      "timestamp": "2026-08-29T15:23:23Z",
-      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/d069875cc8de8100856432770573c47d06833a94",
-      "is_merge": true
-    },
-    {
-      "sha": "507d241273f6bb41c44896e6e4a7504b39622f9a",
-      "author": "dependabot[bot]",
-      "message": "build(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.7 to 4.37.9.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/ff2f1c621b7f889edc0d3c761ac2e6a3f8cdb0dd...cdf488f595d80d6e07e03d4674febd5ab45fa938)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.37.9\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
-      "timestamp": "2026-08-29T10:12:58Z",
-      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/507d241273f6bb41c44896e6e4a7504b39622f9a",
-      "is_merge": false
-    }
-  ],
+  "latest_release_tag": "v0.5.1",
+  "latest_release_time": "2026-09-03T09:52:19Z",
+  "unreleased_commits": null,
   "repository_url": "https://github.com/UnitVectorY-Labs/gogitup"
 }
