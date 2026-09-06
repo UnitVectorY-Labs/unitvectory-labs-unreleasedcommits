@@ -6,6 +6,38 @@
   "latest_release_time": "2026-08-13T00:50:01Z",
   "unreleased_commits": [
     {
+      "sha": "d72024bd1dec4ea8bfc4b599fe3bbab15ea605c4",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #185 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.6.0\n\nchore(deps-dev): bump org.apache.maven.plugins:maven-surefire-plugin from 3.5.6 to 3.6.0",
+      "timestamp": "2026-09-05T13:45:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/fileparamunit/commit/d72024bd1dec4ea8bfc4b599fe3bbab15ea605c4",
+      "is_merge": true
+    },
+    {
+      "sha": "60a02a745320289aa1a3bb590eb7473f9883ed36",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #186 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-compiler-plugin-3.16.0\n\nchore(deps-dev): bump org.apache.maven.plugins:maven-compiler-plugin from 3.15.0 to 3.16.0",
+      "timestamp": "2026-09-05T13:43:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/fileparamunit/commit/60a02a745320289aa1a3bb590eb7473f9883ed36",
+      "is_merge": true
+    },
+    {
+      "sha": "6fe54e4f44444cb7742a305a71a816305a943e15",
+      "author": "dependabot[bot]",
+      "message": "chore(deps-dev): bump org.apache.maven.plugins:maven-compiler-plugin\n\nBumps [org.apache.maven.plugins:maven-compiler-plugin](https://github.com/apache/maven-compiler-plugin) from 3.15.0 to 3.16.0.\n- [Release notes](https://github.com/apache/maven-compiler-plugin/releases)\n- [Commits](https://github.com/apache/maven-compiler-plugin/compare/maven-compiler-plugin-3.15.0...maven-compiler-plugin-3.16.0)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-compiler-plugin\n  dependency-version: 3.16.0\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-05T10:02:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/fileparamunit/commit/6fe54e4f44444cb7742a305a71a816305a943e15",
+      "is_merge": false
+    },
+    {
+      "sha": "fcdc2da5ccca8ebe80604b4502cf0ec964eec2ec",
+      "author": "dependabot[bot]",
+      "message": "chore(deps-dev): bump org.apache.maven.plugins:maven-surefire-plugin\n\nBumps [org.apache.maven.plugins:maven-surefire-plugin](https://github.com/apache/maven-surefire) from 3.5.6 to 3.6.0.\n- [Release notes](https://github.com/apache/maven-surefire/releases)\n- [Commits](https://github.com/apache/maven-surefire/compare/surefire-3.5.6...surefire-3.6.0)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-surefire-plugin\n  dependency-version: 3.6.0\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-05T10:02:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/fileparamunit/commit/fcdc2da5ccca8ebe80604b4502cf0ec964eec2ec",
+      "is_merge": false
+    },
+    {
       "sha": "8881dc09d96fbf20ae5b5aa116ff3d83598e713b",
       "author": "JaredHatfield",
       "message": "Merge pull request #184 from UnitVectorY-Labs/chore/codeql-4.37.9\n\nBump CodeQL version to 4.37.9",

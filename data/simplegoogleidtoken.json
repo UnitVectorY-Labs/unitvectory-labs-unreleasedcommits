@@ -6,6 +6,54 @@
   "latest_release_time": "2026-06-22T22:44:58Z",
   "unreleased_commits": [
     {
+      "sha": "90a92d30a1b1636b48a95d50d6f7608f13c55c21",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #197 from UnitVectorY-Labs/dependabot/maven/org.projectlombok-lombok-1.18.48\n\nBump org.projectlombok:lombok from 1.18.46 to 1.18.48",
+      "timestamp": "2026-09-05T14:20:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/90a92d30a1b1636b48a95d50d6f7608f13c55c21",
+      "is_merge": true
+    },
+    {
+      "sha": "d48e87838874594cfced03a13b53777d9b9e875d",
+      "author": "dependabot[bot]",
+      "message": "Bump org.projectlombok:lombok from 1.18.46 to 1.18.48\n\nBumps [org.projectlombok:lombok](https://github.com/projectlombok/lombok) from 1.18.46 to 1.18.48.\n- [Changelog](https://github.com/projectlombok/lombok/blob/master/doc/changelog.markdown)\n- [Commits](https://github.com/projectlombok/lombok/compare/v1.18.46...v1.18.48)\n\n---\nupdated-dependencies:\n- dependency-name: org.projectlombok:lombok\n  dependency-version: 1.18.48\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-05T13:47:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/d48e87838874594cfced03a13b53777d9b9e875d",
+      "is_merge": false
+    },
+    {
+      "sha": "45c93080a72181bd340b023b63c7b52b0280f80b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #196 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.6.0\n\nBump org.apache.maven.plugins:maven-surefire-plugin from 3.5.6 to 3.6.0",
+      "timestamp": "2026-09-05T13:45:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/45c93080a72181bd340b023b63c7b52b0280f80b",
+      "is_merge": true
+    },
+    {
+      "sha": "52cffe3f0c80504793de690cea605d36c690446f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #195 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-compiler-plugin-3.16.0\n\nBump org.apache.maven.plugins:maven-compiler-plugin from 3.15.0 to 3.16.0",
+      "timestamp": "2026-09-05T13:43:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/52cffe3f0c80504793de690cea605d36c690446f",
+      "is_merge": true
+    },
+    {
+      "sha": "58cd6265bb5ca8c512ffb3c61599e224ea0e28ea",
+      "author": "dependabot[bot]",
+      "message": "Bump org.apache.maven.plugins:maven-surefire-plugin from 3.5.6 to 3.6.0\n\nBumps [org.apache.maven.plugins:maven-surefire-plugin](https://github.com/apache/maven-surefire) from 3.5.6 to 3.6.0.\n- [Release notes](https://github.com/apache/maven-surefire/releases)\n- [Commits](https://github.com/apache/maven-surefire/compare/surefire-3.5.6...surefire-3.6.0)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-surefire-plugin\n  dependency-version: 3.6.0\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-05T10:02:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/58cd6265bb5ca8c512ffb3c61599e224ea0e28ea",
+      "is_merge": false
+    },
+    {
+      "sha": "ce4a2161e52c79fce1b7eb8c2f24f9d59b1f49a0",
+      "author": "dependabot[bot]",
+      "message": "Bump org.apache.maven.plugins:maven-compiler-plugin\n\nBumps [org.apache.maven.plugins:maven-compiler-plugin](https://github.com/apache/maven-compiler-plugin) from 3.15.0 to 3.16.0.\n- [Release notes](https://github.com/apache/maven-compiler-plugin/releases)\n- [Commits](https://github.com/apache/maven-compiler-plugin/compare/maven-compiler-plugin-3.15.0...maven-compiler-plugin-3.16.0)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-compiler-plugin\n  dependency-version: 3.16.0\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-05T10:02:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/ce4a2161e52c79fce1b7eb8c2f24f9d59b1f49a0",
+      "is_merge": false
+    },
+    {
       "sha": "12dc729325b8955535bebb02d74efbcba7843666",
       "author": "JaredHatfield",
       "message": "Merge pull request #194 from UnitVectorY-Labs/chore/codeql-4.37.9\n\nBump CodeQL version to 4.37.9",

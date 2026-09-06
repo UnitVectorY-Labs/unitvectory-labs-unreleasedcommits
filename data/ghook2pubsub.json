@@ -4,6 +4,23 @@
   "default_branch": "main",
   "latest_release_tag": "v0.2.4",
   "latest_release_time": "2026-09-03T09:52:07Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "f282ada0cae788e4b3a4601ad0f172c7867fb1b7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #96 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/grpc-1.83.1\n\nchore(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.1",
+      "timestamp": "2026-09-05T14:08:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/f282ada0cae788e4b3a4601ad0f172c7867fb1b7",
+      "is_merge": true
+    },
+    {
+      "sha": "26d8560e13624276ce5cea6beb76a6f0fa43a4b9",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.1\n\nBumps [google.golang.org/grpc](https://github.com/grpc/grpc-go) from 1.82.1 to 1.83.1.\n- [Release notes](https://github.com/grpc/grpc-go/releases)\n- [Commits](https://github.com/grpc/grpc-go/compare/v1.82.1...v1.83.1)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/grpc\n  dependency-version: 1.83.1\n  dependency-type: indirect\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-02T07:56:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/26d8560e13624276ce5cea6beb76a6f0fa43a4b9",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/ghook2pubsub"
 }

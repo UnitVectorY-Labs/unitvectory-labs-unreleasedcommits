@@ -6,6 +6,54 @@
   "latest_release_time": "2026-06-22T22:38:58Z",
   "unreleased_commits": [
     {
+      "sha": "599cfd8ca381eb74d1303cd5249ace9e3af4e483",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #215 from UnitVectorY-Labs/dependabot/maven/org.projectlombok-lombok-1.18.48\n\nchore(deps): bump org.projectlombok:lombok from 1.18.46 to 1.18.48",
+      "timestamp": "2026-09-05T14:20:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/599cfd8ca381eb74d1303cd5249ace9e3af4e483",
+      "is_merge": true
+    },
+    {
+      "sha": "a496d00c17045238c6cf027adeceffd4643c22dd",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump org.projectlombok:lombok from 1.18.46 to 1.18.48\n\nBumps [org.projectlombok:lombok](https://github.com/projectlombok/lombok) from 1.18.46 to 1.18.48.\n- [Changelog](https://github.com/projectlombok/lombok/blob/master/doc/changelog.markdown)\n- [Commits](https://github.com/projectlombok/lombok/compare/v1.18.46...v1.18.48)\n\n---\nupdated-dependencies:\n- dependency-name: org.projectlombok:lombok\n  dependency-version: 1.18.48\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-05T13:47:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/a496d00c17045238c6cf027adeceffd4643c22dd",
+      "is_merge": false
+    },
+    {
+      "sha": "81fea6e4688467d7de9974b39cfb8fcbcdd2e43d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #217 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.6.0\n\nchore(deps-dev): bump org.apache.maven.plugins:maven-surefire-plugin from 3.5.6 to 3.6.0",
+      "timestamp": "2026-09-05T13:45:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/81fea6e4688467d7de9974b39cfb8fcbcdd2e43d",
+      "is_merge": true
+    },
+    {
+      "sha": "ca3c2361590502a40b9cff224b862b5715785aa7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #216 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-compiler-plugin-3.16.0\n\nchore(deps-dev): bump org.apache.maven.plugins:maven-compiler-plugin from 3.15.0 to 3.16.0",
+      "timestamp": "2026-09-05T13:43:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/ca3c2361590502a40b9cff224b862b5715785aa7",
+      "is_merge": true
+    },
+    {
+      "sha": "69c7c4389b5ec76e8925d2c35ce9195291c4eb27",
+      "author": "dependabot[bot]",
+      "message": "chore(deps-dev): bump org.apache.maven.plugins:maven-surefire-plugin\n\nBumps [org.apache.maven.plugins:maven-surefire-plugin](https://github.com/apache/maven-surefire) from 3.5.6 to 3.6.0.\n- [Release notes](https://github.com/apache/maven-surefire/releases)\n- [Commits](https://github.com/apache/maven-surefire/compare/surefire-3.5.6...surefire-3.6.0)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-surefire-plugin\n  dependency-version: 3.6.0\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-05T10:02:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/69c7c4389b5ec76e8925d2c35ce9195291c4eb27",
+      "is_merge": false
+    },
+    {
+      "sha": "9d4407b381e0f1f9a8af1f5e59ee98d5a2c207cc",
+      "author": "dependabot[bot]",
+      "message": "chore(deps-dev): bump org.apache.maven.plugins:maven-compiler-plugin\n\nBumps [org.apache.maven.plugins:maven-compiler-plugin](https://github.com/apache/maven-compiler-plugin) from 3.15.0 to 3.16.0.\n- [Release notes](https://github.com/apache/maven-compiler-plugin/releases)\n- [Commits](https://github.com/apache/maven-compiler-plugin/compare/maven-compiler-plugin-3.15.0...maven-compiler-plugin-3.16.0)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-compiler-plugin\n  dependency-version: 3.16.0\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-05T10:02:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/9d4407b381e0f1f9a8af1f5e59ee98d5a2c207cc",
+      "is_merge": false
+    },
+    {
       "sha": "b6852f92acf65de881e0808392ea5194b5f35297",
       "author": "JaredHatfield",
       "message": "Merge pull request #214 from UnitVectorY-Labs/chore/codeql-4.37.9\n\nBump CodeQL version to 4.37.9",

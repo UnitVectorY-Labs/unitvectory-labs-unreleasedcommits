@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-23T10:57:11Z",
   "unreleased_commits": [
     {
+      "sha": "f6c75ad998ea420515f5794092ff8664bba7f6cf",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #168 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.6.0\n\nchore(deps-dev): bump org.apache.maven.plugins:maven-surefire-plugin from 3.5.6 to 3.6.0",
+      "timestamp": "2026-09-05T13:45:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/f6c75ad998ea420515f5794092ff8664bba7f6cf",
+      "is_merge": true
+    },
+    {
+      "sha": "7c645f78e35b151635f454d1bf2bcfef27d6d6ec",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #169 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-compiler-plugin-3.16.0\n\nchore(deps-dev): bump org.apache.maven.plugins:maven-compiler-plugin from 3.15.0 to 3.16.0",
+      "timestamp": "2026-09-05T13:44:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/7c645f78e35b151635f454d1bf2bcfef27d6d6ec",
+      "is_merge": true
+    },
+    {
+      "sha": "50645db9d691747970958667261c54039e9bb39c",
+      "author": "dependabot[bot]",
+      "message": "chore(deps-dev): bump org.apache.maven.plugins:maven-compiler-plugin\n\nBumps [org.apache.maven.plugins:maven-compiler-plugin](https://github.com/apache/maven-compiler-plugin) from 3.15.0 to 3.16.0.\n- [Release notes](https://github.com/apache/maven-compiler-plugin/releases)\n- [Commits](https://github.com/apache/maven-compiler-plugin/compare/maven-compiler-plugin-3.15.0...maven-compiler-plugin-3.16.0)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-compiler-plugin\n  dependency-version: 3.16.0\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-05T10:02:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/50645db9d691747970958667261c54039e9bb39c",
+      "is_merge": false
+    },
+    {
+      "sha": "fe15cc04a6aa5ff771295384e712534002e70b44",
+      "author": "dependabot[bot]",
+      "message": "chore(deps-dev): bump org.apache.maven.plugins:maven-surefire-plugin\n\nBumps [org.apache.maven.plugins:maven-surefire-plugin](https://github.com/apache/maven-surefire) from 3.5.6 to 3.6.0.\n- [Release notes](https://github.com/apache/maven-surefire/releases)\n- [Commits](https://github.com/apache/maven-surefire/compare/surefire-3.5.6...surefire-3.6.0)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-surefire-plugin\n  dependency-version: 3.6.0\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-05T10:02:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/fe15cc04a6aa5ff771295384e712534002e70b44",
+      "is_merge": false
+    },
+    {
       "sha": "9e4159f5162341225cebcc86a30ba2cf672d181f",
       "author": "JaredHatfield",
       "message": "Merge pull request #167 from UnitVectorY-Labs/chore/codeql-4.37.9\n\nBump CodeQL version to 4.37.9",
