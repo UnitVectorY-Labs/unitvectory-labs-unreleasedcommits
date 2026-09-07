@@ -6,6 +6,38 @@
   "latest_release_time": "2026-08-16T15:47:15Z",
   "unreleased_commits": [
     {
+      "sha": "581acbf780fcc0791fd9ea9b872528f5d6f5a8ed",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #33 from UnitVectorY-Labs/dependabot/uv/nltk-3.10.3\n\nbuild(deps): bump nltk from 3.10.0 to 3.10.3",
+      "timestamp": "2026-09-06T11:39:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/581acbf780fcc0791fd9ea9b872528f5d6f5a8ed",
+      "is_merge": true
+    },
+    {
+      "sha": "ce2d331dc9441da999627990712b8c9ee4bbd6e2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #34 from UnitVectorY-Labs/dependabot/pip/tree-sitter-language-pack-1.16.1\n\nbuild(deps): bump tree-sitter-language-pack from 1.15.8 to 1.16.1",
+      "timestamp": "2026-09-06T11:38:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/ce2d331dc9441da999627990712b8c9ee4bbd6e2",
+      "is_merge": true
+    },
+    {
+      "sha": "b7023fb6851373b121e283ed2e3198edb065ba22",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump tree-sitter-language-pack from 1.15.8 to 1.16.1\n\nBumps [tree-sitter-language-pack](https://github.com/xberg-io/tree-sitter-language-pack) from 1.15.8 to 1.16.1.\n- [Release notes](https://github.com/xberg-io/tree-sitter-language-pack/releases)\n- [Changelog](https://github.com/xberg-io/tree-sitter-language-pack/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/xberg-io/tree-sitter-language-pack/compare/v1.15.8...v1.16.1)\n\n---\nupdated-dependencies:\n- dependency-name: tree-sitter-language-pack\n  dependency-version: 1.16.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-05T10:07:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/b7023fb6851373b121e283ed2e3198edb065ba22",
+      "is_merge": false
+    },
+    {
+      "sha": "aad5ae8ede999daf996303be7aedd9f8ab8d7707",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump nltk from 3.10.0 to 3.10.3\n\nBumps [nltk](https://github.com/nltk/nltk) from 3.10.0 to 3.10.3.\n- [Release notes](https://github.com/nltk/nltk/releases)\n- [Changelog](https://github.com/nltk/nltk/blob/develop/ChangeLog)\n- [Commits](https://github.com/nltk/nltk/compare/v3.10.0...v3.10.3)\n\n---\nupdated-dependencies:\n- dependency-name: nltk\n  dependency-version: 3.10.3\n  dependency-type: indirect\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-01T20:52:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/aad5ae8ede999daf996303be7aedd9f8ab8d7707",
+      "is_merge": false
+    },
+    {
       "sha": "b6c4c52e99cae474da9c224bcbb0e6b666137ca2",
       "author": "JaredHatfield",
       "message": "Merge pull request #32 from UnitVectorY-Labs/dependabot/pip/llama-index-core-0.14.24\n\nbuild(deps): bump llama-index-core from 0.14.23 to 0.14.24",
