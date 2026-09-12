@@ -2,41 +2,8 @@
   "owner": "UnitVectorY-Labs",
   "name": "ghrepocfg",
   "default_branch": "main",
-  "latest_release_tag": "v0.1.2",
-  "latest_release_time": "2026-09-03T09:52:14Z",
-  "unreleased_commits": [
-    {
-      "sha": "f69c75669c87057dc3f0cff5d680edae6d896e99",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #15 from UnitVectorY-Labs/add-custom-properties\n\nAdd GitHub custom properties support",
-      "timestamp": "2026-09-05T08:32:20Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/f69c75669c87057dc3f0cff5d680edae6d896e99",
-      "is_merge": true
-    },
-    {
-      "sha": "9690ef33a7fa31833080133cffc58c39a45b8c42",
-      "author": "JaredHatfield",
-      "message": "Ignore unset custom properties during reconciliation",
-      "timestamp": "2026-09-05T08:28:44Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/9690ef33a7fa31833080133cffc58c39a45b8c42",
-      "is_merge": false
-    },
-    {
-      "sha": "c67c39cbb4de0e7434415b245ae1e35586eff776",
-      "author": "JaredHatfield",
-      "message": "Consolidate custom properties docs into configuration reference",
-      "timestamp": "2026-09-05T08:17:28Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/c67c39cbb4de0e7434415b245ae1e35586eff776",
-      "is_merge": false
-    },
-    {
-      "sha": "8d8224fa646f4c26421775026792b2262abae97f",
-      "author": "JaredHatfield",
-      "message": "Add GitHub custom properties support\n\nAdd a custom_properties configuration section that maps\norganization-defined property names to string, array-of-string, or\nnull values. The map is authoritative: properties omitted from a\npresent map are unset.\n\n- config: CustomPropertyValue type with YAML/JSON (un)marshaling that\n  accepts strings, string arrays, and null; rejects booleans and other\n  types; validates non-empty property names\n- github: read /properties/values into State and add\n  SetCustomProperty mutation via PATCH /properties/values\n- reconcile: plan add/remove/modify changes with order-insensitive\n  array comparison\n- export: include custom properties in full and scoped exports\n- docs: add docs/CUSTOM_PROPERTIES.md and update README,\n  CONFIGURATION, EXAMPLES, GITHUB_FEATURES, HOW_IT_WORKS, and\n  TROUBLESHOOTING\n- add .ghrepocfg.yaml managing this repository",
-      "timestamp": "2026-09-05T08:09:22Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/8d8224fa646f4c26421775026792b2262abae97f",
-      "is_merge": false
-    }
-  ],
+  "latest_release_tag": "v0.2.0",
+  "latest_release_time": "2026-09-12T00:11:42Z",
+  "unreleased_commits": null,
   "repository_url": "https://github.com/UnitVectorY-Labs/ghrepocfg"
 }
