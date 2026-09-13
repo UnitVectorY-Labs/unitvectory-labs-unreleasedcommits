@@ -4,6 +4,39 @@
   "default_branch": "main",
   "latest_release_tag": "v0.2.7",
   "latest_release_time": "2026-09-03T09:51:50Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "baab9decb5881b2a3940b931255f64e2472be4ff",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #191 from UnitVectorY-Labs/chore/codeql-4.38.0\n\nBump CodeQL version to 4.38.0",
+      "timestamp": "2026-09-12T14:45:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/baab9decb5881b2a3940b931255f64e2472be4ff",
+      "is_merge": true
+    },
+    {
+      "sha": "19e0ebce99f1f145e932c28a1bb7e3d8681ce788",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.38.0",
+      "timestamp": "2026-09-12T12:48:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/19e0ebce99f1f145e932c28a1bb7e3d8681ce788",
+      "is_merge": false
+    },
+    {
+      "sha": "9c68f83bed16468aade64ddd6bbbd181571c9c12",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #189 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.38.0\n\nchore(deps): bump github/codeql-action/upload-sarif from 4.37.9 to 4.38.0",
+      "timestamp": "2026-09-12T12:10:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/9c68f83bed16468aade64ddd6bbbd181571c9c12",
+      "is_merge": true
+    },
+    {
+      "sha": "5cb2fa48b5c77cda26e4285d91b7cf282d7a0859",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.9 to 4.38.0.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/cdf488f595d80d6e07e03d4674febd5ab45fa938...b96794f015dfd88f77b49b1c93e0fa7110f94c63)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.38.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-12T10:05:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/5cb2fa48b5c77cda26e4285d91b7cf282d7a0859",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector"
 }

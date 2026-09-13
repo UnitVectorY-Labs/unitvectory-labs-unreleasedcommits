@@ -4,6 +4,71 @@
   "default_branch": "main",
   "latest_release_tag": "v0.7.1",
   "latest_release_time": "2026-09-03T09:52:10Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "0c43e364b2993e8ca03d83bb52eecfa79ede8a60",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #122 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/term-0.46.0\n\nchore(deps): bump golang.org/x/term from 0.45.0 to 0.46.0",
+      "timestamp": "2026-09-12T15:46:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/0c43e364b2993e8ca03d83bb52eecfa79ede8a60",
+      "is_merge": true
+    },
+    {
+      "sha": "998af94b2d127afb16575285aa6737f119bf0d3b",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump golang.org/x/term from 0.45.0 to 0.46.0\n\nBumps [golang.org/x/term](https://github.com/golang/term) from 0.45.0 to 0.46.0.\n- [Commits](https://github.com/golang/term/compare/v0.45.0...v0.46.0)\n\n---\nupdated-dependencies:\n- dependency-name: golang.org/x/term\n  dependency-version: 0.46.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-12T15:44:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/998af94b2d127afb16575285aa6737f119bf0d3b",
+      "is_merge": false
+    },
+    {
+      "sha": "0cf5172ef8d0152fdec38809dee2da33d903658e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #121 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/oauth2-0.37.0\n\nchore(deps): bump golang.org/x/oauth2 from 0.36.0 to 0.37.0",
+      "timestamp": "2026-09-12T15:42:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/0cf5172ef8d0152fdec38809dee2da33d903658e",
+      "is_merge": true
+    },
+    {
+      "sha": "1571c8d627854ef4612426b0dcee2c07d11042b1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #126 from UnitVectorY-Labs/chore/codeql-4.38.0\n\nBump CodeQL version to 4.38.0",
+      "timestamp": "2026-09-12T14:47:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/1571c8d627854ef4612426b0dcee2c07d11042b1",
+      "is_merge": true
+    },
+    {
+      "sha": "ceea96e400e0a89ab5aff09371347091fe177d04",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.38.0",
+      "timestamp": "2026-09-12T13:17:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/ceea96e400e0a89ab5aff09371347091fe177d04",
+      "is_merge": false
+    },
+    {
+      "sha": "c8e2e06da4563df1243ef5cb06253176757a4ff9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #125 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.38.0\n\nchore(deps): bump github/codeql-action/upload-sarif from 4.37.9 to 4.38.0",
+      "timestamp": "2026-09-12T12:12:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/c8e2e06da4563df1243ef5cb06253176757a4ff9",
+      "is_merge": true
+    },
+    {
+      "sha": "aad85c0c261446205d593bd7c66c5708cb3896fd",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.9 to 4.38.0.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/cdf488f595d80d6e07e03d4674febd5ab45fa938...b96794f015dfd88f77b49b1c93e0fa7110f94c63)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.38.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-12T10:10:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/aad85c0c261446205d593bd7c66c5708cb3896fd",
+      "is_merge": false
+    },
+    {
+      "sha": "2aca37568fab2ccbb9aef2f1c2050e2c7b45d76a",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump golang.org/x/oauth2 from 0.36.0 to 0.37.0\n\nBumps [golang.org/x/oauth2](https://github.com/golang/oauth2) from 0.36.0 to 0.37.0.\n- [Commits](https://github.com/golang/oauth2/compare/v0.36.0...v0.37.0)\n\n---\nupdated-dependencies:\n- dependency-name: golang.org/x/oauth2\n  dependency-version: 0.37.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-12T10:04:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/2aca37568fab2ccbb9aef2f1c2050e2c7b45d76a",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/ghprmerge"
 }

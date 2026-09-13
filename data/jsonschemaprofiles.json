@@ -4,6 +4,55 @@
   "default_branch": "main",
   "latest_release_tag": "v0.1.2",
   "latest_release_time": "2026-09-03T09:52:33Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "210bc1c256f85504bdc0726ee4e0c05d7d027395",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #87 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/text-0.42.0\n\nbuild(deps): bump golang.org/x/text from 0.41.0 to 0.42.0",
+      "timestamp": "2026-09-12T15:47:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/210bc1c256f85504bdc0726ee4e0c05d7d027395",
+      "is_merge": true
+    },
+    {
+      "sha": "d145b57dcca45b9f1b9b0ff1eacb1128d4a9719a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #91 from UnitVectorY-Labs/chore/codeql-4.38.0\n\nBump CodeQL version to 4.38.0",
+      "timestamp": "2026-09-12T14:48:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/d145b57dcca45b9f1b9b0ff1eacb1128d4a9719a",
+      "is_merge": true
+    },
+    {
+      "sha": "65059642a550af9f27d0c8aaa331464f2bb1e7e1",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.38.0",
+      "timestamp": "2026-09-12T13:58:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/65059642a550af9f27d0c8aaa331464f2bb1e7e1",
+      "is_merge": false
+    },
+    {
+      "sha": "4b45f3c923e598db6a662ce68c010edfaf898c1f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #90 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.38.0\n\nbuild(deps): bump github/codeql-action/upload-sarif from 4.37.9 to 4.38.0",
+      "timestamp": "2026-09-12T12:13:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/4b45f3c923e598db6a662ce68c010edfaf898c1f",
+      "is_merge": true
+    },
+    {
+      "sha": "20527a2bba91d07f4e996272b266ed8982123c75",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.9 to 4.38.0.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/cdf488f595d80d6e07e03d4674febd5ab45fa938...b96794f015dfd88f77b49b1c93e0fa7110f94c63)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.38.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-12T10:10:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/20527a2bba91d07f4e996272b266ed8982123c75",
+      "is_merge": false
+    },
+    {
+      "sha": "4861c24f0ea6b99d8d2ac9f5d0ba3f0e5d5f5fca",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump golang.org/x/text from 0.41.0 to 0.42.0\n\nBumps [golang.org/x/text](https://github.com/golang/text) from 0.41.0 to 0.42.0.\n- [Release notes](https://github.com/golang/text/releases)\n- [Commits](https://github.com/golang/text/compare/v0.41.0...v0.42.0)\n\n---\nupdated-dependencies:\n- dependency-name: golang.org/x/text\n  dependency-version: 0.42.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-12T10:07:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/4861c24f0ea6b99d8d2ac9f5d0ba3f0e5d5f5fca",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles"
 }

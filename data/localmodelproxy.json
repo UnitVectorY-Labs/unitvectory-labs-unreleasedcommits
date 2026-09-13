@@ -4,6 +4,71 @@
   "default_branch": "main",
   "latest_release_tag": "v0.9.2",
   "latest_release_time": "2026-09-03T09:52:36Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "b7017e6c70fc94534ceeb843fc1518439f2edd81",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #71 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/term-0.46.0\n\nbuild(deps): bump golang.org/x/term from 0.45.0 to 0.46.0",
+      "timestamp": "2026-09-12T15:46:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/b7017e6c70fc94534ceeb843fc1518439f2edd81",
+      "is_merge": true
+    },
+    {
+      "sha": "313ee69da97f95ea65f81be1c894d1f23a2bf45b",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump golang.org/x/term from 0.45.0 to 0.46.0\n\nBumps [golang.org/x/term](https://github.com/golang/term) from 0.45.0 to 0.46.0.\n- [Commits](https://github.com/golang/term/compare/v0.45.0...v0.46.0)\n\n---\nupdated-dependencies:\n- dependency-name: golang.org/x/term\n  dependency-version: 0.46.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-12T15:45:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/313ee69da97f95ea65f81be1c894d1f23a2bf45b",
+      "is_merge": false
+    },
+    {
+      "sha": "d467c296e70c555e884a512f419b776e69439a86",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #72 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/oauth2-0.37.0\n\nbuild(deps): bump golang.org/x/oauth2 from 0.36.0 to 0.37.0",
+      "timestamp": "2026-09-12T15:42:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/d467c296e70c555e884a512f419b776e69439a86",
+      "is_merge": true
+    },
+    {
+      "sha": "b702553f5a4da96115a7896140fb6b88b2f6fe40",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #76 from UnitVectorY-Labs/chore/codeql-4.38.0\n\nBump CodeQL version to 4.38.0",
+      "timestamp": "2026-09-12T14:48:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/b702553f5a4da96115a7896140fb6b88b2f6fe40",
+      "is_merge": true
+    },
+    {
+      "sha": "ba5f229af9d1a9b1b0636bc9ecbff1849aa5009c",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.38.0",
+      "timestamp": "2026-09-12T13:50:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/ba5f229af9d1a9b1b0636bc9ecbff1849aa5009c",
+      "is_merge": false
+    },
+    {
+      "sha": "7e08ae10f45077dd9f6ce30c1fc49787d95d49b8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #75 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.38.0\n\nbuild(deps): bump github/codeql-action/upload-sarif from 4.37.9 to 4.38.0",
+      "timestamp": "2026-09-12T12:14:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/7e08ae10f45077dd9f6ce30c1fc49787d95d49b8",
+      "is_merge": true
+    },
+    {
+      "sha": "97ea2c1ca5d0d5afb5a84137c188bb191dc9b853",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.9 to 4.38.0.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/cdf488f595d80d6e07e03d4674febd5ab45fa938...b96794f015dfd88f77b49b1c93e0fa7110f94c63)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.38.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-12T10:14:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/97ea2c1ca5d0d5afb5a84137c188bb191dc9b853",
+      "is_merge": false
+    },
+    {
+      "sha": "55ccc0f8d9783fe8487ee3a9cdc901aa20197eaa",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump golang.org/x/oauth2 from 0.36.0 to 0.37.0\n\nBumps [golang.org/x/oauth2](https://github.com/golang/oauth2) from 0.36.0 to 0.37.0.\n- [Commits](https://github.com/golang/oauth2/compare/v0.36.0...v0.37.0)\n\n---\nupdated-dependencies:\n- dependency-name: golang.org/x/oauth2\n  dependency-version: 0.37.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-12T10:10:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/55ccc0f8d9783fe8487ee3a9cdc901aa20197eaa",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/localmodelproxy"
 }

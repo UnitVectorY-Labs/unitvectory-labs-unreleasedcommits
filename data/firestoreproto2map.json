@@ -6,6 +6,70 @@
   "latest_release_time": "2026-06-22T22:22:29Z",
   "unreleased_commits": [
     {
+      "sha": "dc638de84a85d69b5fc960f45ed1e620a15d5f64",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #273 from UnitVectorY-Labs/dependabot/github_actions/advanced-security/maven-dependency-submission-action-6.0.1\n\nBump advanced-security/maven-dependency-submission-action from 5.0.0 to 6.0.1",
+      "timestamp": "2026-09-12T15:56:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/dc638de84a85d69b5fc960f45ed1e620a15d5f64",
+      "is_merge": true
+    },
+    {
+      "sha": "2d34121d93cd7c0adbda378563c99c45de41a47e",
+      "author": "dependabot[bot]",
+      "message": "Bump advanced-security/maven-dependency-submission-action\n\nBumps [advanced-security/maven-dependency-submission-action](https://github.com/advanced-security/maven-dependency-submission-action) from 5.0.0 to 6.0.1.\n- [Release notes](https://github.com/advanced-security/maven-dependency-submission-action/releases)\n- [Commits](https://github.com/advanced-security/maven-dependency-submission-action/compare/b275d12641ac2d2108b2cbb7598b154ad2f2cee8...a64327a7329c9939cf675e458452febe1894a70c)\n\n---\nupdated-dependencies:\n- dependency-name: advanced-security/maven-dependency-submission-action\n  dependency-version: 6.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-12T15:43:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/2d34121d93cd7c0adbda378563c99c45de41a47e",
+      "is_merge": false
+    },
+    {
+      "sha": "2d131bf864c874236a0fb3834013d09a5a2b2489",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #272 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-6.0.1\n\nBump actions/setup-java from 6.0.0 to 6.0.1",
+      "timestamp": "2026-09-12T15:41:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/2d131bf864c874236a0fb3834013d09a5a2b2489",
+      "is_merge": true
+    },
+    {
+      "sha": "1073e8c4bb4aa3e4901458cba5d3244db407f0a0",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/setup-java from 6.0.0 to 6.0.1\n\nBumps [actions/setup-java](https://github.com/actions/setup-java) from 6.0.0 to 6.0.1.\n- [Release notes](https://github.com/actions/setup-java/releases)\n- [Commits](https://github.com/actions/setup-java/compare/dd06d9cba3e5552c54d9f8ea23572deb30010f7c...de7274f081f381c8f8158605e0321c36c376e2e6)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-java\n  dependency-version: 6.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-12T14:49:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/1073e8c4bb4aa3e4901458cba5d3244db407f0a0",
+      "is_merge": false
+    },
+    {
+      "sha": "41b8b1e09c0211eafb7017ba87229bb51ee16adc",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #274 from UnitVectorY-Labs/chore/codeql-4.38.0\n\nBump CodeQL version to 4.38.0",
+      "timestamp": "2026-09-12T14:44:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/41b8b1e09c0211eafb7017ba87229bb51ee16adc",
+      "is_merge": true
+    },
+    {
+      "sha": "8e7b6af3e013e6f14ce63d5e19deb5094aa9d28b",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.38.0",
+      "timestamp": "2026-09-12T13:19:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/8e7b6af3e013e6f14ce63d5e19deb5094aa9d28b",
+      "is_merge": false
+    },
+    {
+      "sha": "9d6ef9eec1dad45714364033f3bffb6eb7f133f8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #268 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.38.0\n\nBump github/codeql-action/upload-sarif from 4.37.9 to 4.38.0",
+      "timestamp": "2026-09-12T12:08:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/9d6ef9eec1dad45714364033f3bffb6eb7f133f8",
+      "is_merge": true
+    },
+    {
+      "sha": "364b7dc542205b838ab0820a91c198823cec1da8",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action/upload-sarif from 4.37.9 to 4.38.0\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.9 to 4.38.0.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/cdf488f595d80d6e07e03d4674febd5ab45fa938...b96794f015dfd88f77b49b1c93e0fa7110f94c63)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.38.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-12T10:03:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/364b7dc542205b838ab0820a91c198823cec1da8",
+      "is_merge": false
+    },
+    {
       "sha": "6aa0b31cdd9cd43baee483400c3e1efc7bd12a01",
       "author": "JaredHatfield",
       "message": "Merge pull request #265 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.6.0\n\nBump org.apache.maven.plugins:maven-surefire-plugin from 3.5.6 to 3.6.0",

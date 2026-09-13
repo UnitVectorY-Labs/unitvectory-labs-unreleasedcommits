@@ -6,6 +6,70 @@
   "latest_release_time": "2026-06-22T22:44:58Z",
   "unreleased_commits": [
     {
+      "sha": "48966f9b7d74c29022e2055b993bd53f67b2e69b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #201 from UnitVectorY-Labs/dependabot/github_actions/advanced-security/maven-dependency-submission-action-6.0.1\n\nBump advanced-security/maven-dependency-submission-action from 5.0.0 to 6.0.1",
+      "timestamp": "2026-09-12T15:57:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/48966f9b7d74c29022e2055b993bd53f67b2e69b",
+      "is_merge": true
+    },
+    {
+      "sha": "1d0e1921a93920a16034272a0b54269f2e76d3cd",
+      "author": "dependabot[bot]",
+      "message": "Bump advanced-security/maven-dependency-submission-action\n\nBumps [advanced-security/maven-dependency-submission-action](https://github.com/advanced-security/maven-dependency-submission-action) from 5.0.0 to 6.0.1.\n- [Release notes](https://github.com/advanced-security/maven-dependency-submission-action/releases)\n- [Commits](https://github.com/advanced-security/maven-dependency-submission-action/compare/b275d12641ac2d2108b2cbb7598b154ad2f2cee8...a64327a7329c9939cf675e458452febe1894a70c)\n\n---\nupdated-dependencies:\n- dependency-name: advanced-security/maven-dependency-submission-action\n  dependency-version: 6.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-12T15:45:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/1d0e1921a93920a16034272a0b54269f2e76d3cd",
+      "is_merge": false
+    },
+    {
+      "sha": "619ba61ad492e9b6eadc02055109964510c9090e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #203 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-6.0.1\n\nBump actions/setup-java from 6.0.0 to 6.0.1",
+      "timestamp": "2026-09-12T15:42:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/619ba61ad492e9b6eadc02055109964510c9090e",
+      "is_merge": true
+    },
+    {
+      "sha": "1e0f9f68c5f0f361ce40294fb8c503df9fc7b890",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/setup-java from 6.0.0 to 6.0.1\n\nBumps [actions/setup-java](https://github.com/actions/setup-java) from 6.0.0 to 6.0.1.\n- [Release notes](https://github.com/actions/setup-java/releases)\n- [Commits](https://github.com/actions/setup-java/compare/dd06d9cba3e5552c54d9f8ea23572deb30010f7c...de7274f081f381c8f8158605e0321c36c376e2e6)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-java\n  dependency-version: 6.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-12T14:48:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/1e0f9f68c5f0f361ce40294fb8c503df9fc7b890",
+      "is_merge": false
+    },
+    {
+      "sha": "59be72aef7506cd30039bb6cc0e858f5b62c6d32",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #205 from UnitVectorY-Labs/chore/codeql-4.38.0\n\nBump CodeQL version to 4.38.0",
+      "timestamp": "2026-09-12T14:45:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/59be72aef7506cd30039bb6cc0e858f5b62c6d32",
+      "is_merge": true
+    },
+    {
+      "sha": "d20890d4e596476476a93b3818c1f755cd47c6de",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.38.0",
+      "timestamp": "2026-09-12T14:11:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/d20890d4e596476476a93b3818c1f755cd47c6de",
+      "is_merge": false
+    },
+    {
+      "sha": "1cf19bb9de17e89bceeda45c26c770efd0c4439c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #204 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.38.0\n\nBump github/codeql-action/upload-sarif from 4.37.9 to 4.38.0",
+      "timestamp": "2026-09-12T12:08:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/1cf19bb9de17e89bceeda45c26c770efd0c4439c",
+      "is_merge": true
+    },
+    {
+      "sha": "14d0f2adf17973afa3533ca773e2249ddc0b08fd",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action/upload-sarif from 4.37.9 to 4.38.0\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.9 to 4.38.0.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/cdf488f595d80d6e07e03d4674febd5ab45fa938...b96794f015dfd88f77b49b1c93e0fa7110f94c63)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.38.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-12T10:06:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/14d0f2adf17973afa3533ca773e2249ddc0b08fd",
+      "is_merge": false
+    },
+    {
       "sha": "90a92d30a1b1636b48a95d50d6f7608f13c55c21",
       "author": "JaredHatfield",
       "message": "Merge pull request #197 from UnitVectorY-Labs/dependabot/maven/org.projectlombok-lombok-1.18.48\n\nBump org.projectlombok:lombok from 1.18.46 to 1.18.48",

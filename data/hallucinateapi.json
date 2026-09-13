@@ -6,6 +6,54 @@
   "latest_release_time": "2026-09-03T09:52:26Z",
   "unreleased_commits": [
     {
+      "sha": "fb13a3b0b424d36ddb557b8664c80ec891d9049f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #119 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/oauth2-0.37.0\n\nbuild(deps): bump golang.org/x/oauth2 from 0.36.0 to 0.37.0",
+      "timestamp": "2026-09-12T15:42:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/fb13a3b0b424d36ddb557b8664c80ec891d9049f",
+      "is_merge": true
+    },
+    {
+      "sha": "db45cde974d7095a0ba52be36a02780397da29ec",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #123 from UnitVectorY-Labs/chore/codeql-4.38.0\n\nBump CodeQL version to 4.38.0",
+      "timestamp": "2026-09-12T14:48:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/db45cde974d7095a0ba52be36a02780397da29ec",
+      "is_merge": true
+    },
+    {
+      "sha": "2cc704fe343fd8a034126d40436c5206c2b0fa5c",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.38.0",
+      "timestamp": "2026-09-12T13:40:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/2cc704fe343fd8a034126d40436c5206c2b0fa5c",
+      "is_merge": false
+    },
+    {
+      "sha": "5be483cb0bf7b5f3a9bf8c8002a5eb1b05f41122",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #122 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.38.0\n\nbuild(deps): bump github/codeql-action/upload-sarif from 4.37.9 to 4.38.0",
+      "timestamp": "2026-09-12T12:13:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/5be483cb0bf7b5f3a9bf8c8002a5eb1b05f41122",
+      "is_merge": true
+    },
+    {
+      "sha": "96973da4197aa0c4ba47771b29c7d94fae204e21",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.9 to 4.38.0.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/cdf488f595d80d6e07e03d4674febd5ab45fa938...b96794f015dfd88f77b49b1c93e0fa7110f94c63)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.38.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-12T10:12:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/96973da4197aa0c4ba47771b29c7d94fae204e21",
+      "is_merge": false
+    },
+    {
+      "sha": "30811798ba725207365a58c0f2784e47b8296d17",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump golang.org/x/oauth2 from 0.36.0 to 0.37.0\n\nBumps [golang.org/x/oauth2](https://github.com/golang/oauth2) from 0.36.0 to 0.37.0.\n- [Commits](https://github.com/golang/oauth2/compare/v0.36.0...v0.37.0)\n\n---\nupdated-dependencies:\n- dependency-name: golang.org/x/oauth2\n  dependency-version: 0.37.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-12T10:09:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/30811798ba725207365a58c0f2784e47b8296d17",
+      "is_merge": false
+    },
+    {
       "sha": "ca28476dbb0b25fa935cd755cd9cedbe4a8f2e74",
       "author": "JaredHatfield",
       "message": "Merge pull request #118 from UnitVectorY-Labs/dependabot/go_modules/github.com/UnitVectorY-Labs/jsonschemaprofiles-0.1.2\n\nbuild(deps): bump github.com/UnitVectorY-Labs/jsonschemaprofiles from 0.1.1 to 0.1.2",

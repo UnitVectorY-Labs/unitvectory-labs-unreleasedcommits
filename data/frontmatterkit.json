@@ -4,6 +4,39 @@
   "default_branch": "main",
   "latest_release_tag": "v0.2.1",
   "latest_release_time": "2026-09-03T09:52:00Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "e127ca2d24a6a34eeca4eb767648cadccf191e98",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #80 from UnitVectorY-Labs/chore/codeql-4.38.0\n\nBump CodeQL version to 4.38.0",
+      "timestamp": "2026-09-12T14:48:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/e127ca2d24a6a34eeca4eb767648cadccf191e98",
+      "is_merge": true
+    },
+    {
+      "sha": "1546292baaee28dd070109831080eb596d94c1d5",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.38.0",
+      "timestamp": "2026-09-12T13:21:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/1546292baaee28dd070109831080eb596d94c1d5",
+      "is_merge": false
+    },
+    {
+      "sha": "9b7148033360c7aaa243b60671c365d3a3c1ce2e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #77 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.38.0\n\nbuild(deps): bump github/codeql-action/upload-sarif from 4.37.9 to 4.38.0",
+      "timestamp": "2026-09-12T12:13:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/9b7148033360c7aaa243b60671c365d3a3c1ce2e",
+      "is_merge": true
+    },
+    {
+      "sha": "f0f152c18d13c612bb6b60fdb87ba00c980c8ef0",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.9 to 4.38.0.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/cdf488f595d80d6e07e03d4674febd5ab45fa938...b96794f015dfd88f77b49b1c93e0fa7110f94c63)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.38.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-12T10:13:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/f0f152c18d13c612bb6b60fdb87ba00c980c8ef0",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/frontmatterkit"
 }

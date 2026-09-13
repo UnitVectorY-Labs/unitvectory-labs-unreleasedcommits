@@ -4,6 +4,39 @@
   "default_branch": "main",
   "latest_release_tag": "v0.4.2",
   "latest_release_time": "2026-09-03T09:52:48Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "32462868a7484bc131ec4ffbc8a7a2e6867b05b7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #147 from UnitVectorY-Labs/chore/codeql-4.38.0\n\nBump CodeQL version to 4.38.0",
+      "timestamp": "2026-09-12T14:47:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/32462868a7484bc131ec4ffbc8a7a2e6867b05b7",
+      "is_merge": true
+    },
+    {
+      "sha": "5ddc48f18c3d63e245682847d543624bbc4c6742",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.38.0",
+      "timestamp": "2026-09-12T14:08:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/5ddc48f18c3d63e245682847d543624bbc4c6742",
+      "is_merge": false
+    },
+    {
+      "sha": "6539e38005b764659d0ddf3c11c253e37351b7c5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #145 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.38.0\n\nchore(deps): bump github/codeql-action/upload-sarif from 4.37.9 to 4.38.0",
+      "timestamp": "2026-09-12T12:11:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/6539e38005b764659d0ddf3c11c253e37351b7c5",
+      "is_merge": true
+    },
+    {
+      "sha": "9c1432a38e7b5fe02b04d70a4eeeba66ad1caa25",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.9 to 4.38.0.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/cdf488f595d80d6e07e03d4674febd5ab45fa938...b96794f015dfd88f77b49b1c93e0fa7110f94c63)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.38.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-12T10:08:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/9c1432a38e7b5fe02b04d70a4eeeba66ad1caa25",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs"
 }

@@ -4,6 +4,39 @@
   "default_branch": "main",
   "latest_release_tag": "v0.3.2",
   "latest_release_time": "2026-09-03T09:52:49Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "a93cdac41d6e94a38718f57777839ada5819f9e3",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #146 from UnitVectorY-Labs/chore/codeql-4.38.0\n\nBump CodeQL version to 4.38.0",
+      "timestamp": "2026-09-12T14:47:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/a93cdac41d6e94a38718f57777839ada5819f9e3",
+      "is_merge": true
+    },
+    {
+      "sha": "7767a212d605ccbc2dbcb14957af8869f95b9c7a",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.38.0",
+      "timestamp": "2026-09-12T14:08:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/7767a212d605ccbc2dbcb14957af8869f95b9c7a",
+      "is_merge": false
+    },
+    {
+      "sha": "9d28f3bcfec249eeb3178e5f94c491e019703d94",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #145 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.38.0\n\nchore(deps): bump github/codeql-action/upload-sarif from 4.37.9 to 4.38.0",
+      "timestamp": "2026-09-12T12:11:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/9d28f3bcfec249eeb3178e5f94c491e019703d94",
+      "is_merge": true
+    },
+    {
+      "sha": "5d932230c896af22cd1039d5cd29fb5d9e9760be",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.9 to 4.38.0.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/cdf488f595d80d6e07e03d4674febd5ab45fa938...b96794f015dfd88f77b49b1c93e0fa7110f94c63)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.38.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-12T10:08:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/5d932230c896af22cd1039d5cd29fb5d9e9760be",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets"
 }

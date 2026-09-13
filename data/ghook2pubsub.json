@@ -6,6 +6,54 @@
   "latest_release_time": "2026-09-03T09:52:07Z",
   "unreleased_commits": [
     {
+      "sha": "ee7f9f4a750e2aaca1f23990902762489ee2136f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #99 from UnitVectorY-Labs/dependabot/go_modules/github.com/klauspost/compress-1.20.0\n\nchore(deps): bump github.com/klauspost/compress from 1.19.2 to 1.20.0",
+      "timestamp": "2026-09-12T16:12:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/ee7f9f4a750e2aaca1f23990902762489ee2136f",
+      "is_merge": true
+    },
+    {
+      "sha": "5253d20d81261fec155fcec970218bae3de6c95f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #98 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/grpc-1.83.2\n\nchore(deps): bump google.golang.org/grpc from 1.83.1 to 1.83.2",
+      "timestamp": "2026-09-12T16:04:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/5253d20d81261fec155fcec970218bae3de6c95f",
+      "is_merge": true
+    },
+    {
+      "sha": "186326c12acd4248e088422c1cd345b1fb90bd72",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #100 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.38.0\n\nchore(deps): bump github/codeql-action/upload-sarif from 4.37.9 to 4.38.0",
+      "timestamp": "2026-09-12T12:13:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/186326c12acd4248e088422c1cd345b1fb90bd72",
+      "is_merge": true
+    },
+    {
+      "sha": "05495298cd56d423e65faf1a761233543ca6e130",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.9 to 4.38.0.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/cdf488f595d80d6e07e03d4674febd5ab45fa938...b96794f015dfd88f77b49b1c93e0fa7110f94c63)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.38.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-12T10:08:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/05495298cd56d423e65faf1a761233543ca6e130",
+      "is_merge": false
+    },
+    {
+      "sha": "47716b4b39198e5a8c4e215ff886d2379cf3c93a",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github.com/klauspost/compress from 1.19.2 to 1.20.0\n\nBumps [github.com/klauspost/compress](https://github.com/klauspost/compress) from 1.19.2 to 1.20.0.\n- [Release notes](https://github.com/klauspost/compress/releases)\n- [Commits](https://github.com/klauspost/compress/compare/v1.19.2...v1.20.0)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/klauspost/compress\n  dependency-version: 1.20.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-12T10:06:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/47716b4b39198e5a8c4e215ff886d2379cf3c93a",
+      "is_merge": false
+    },
+    {
+      "sha": "28548d7da4d1146d07d5972de2d71f9d9712b6c3",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/grpc from 1.83.1 to 1.83.2\n\nBumps [google.golang.org/grpc](https://github.com/grpc/grpc-go) from 1.83.1 to 1.83.2.\n- [Release notes](https://github.com/grpc/grpc-go/releases)\n- [Commits](https://github.com/grpc/grpc-go/compare/v1.83.1...v1.83.2)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/grpc\n  dependency-version: 1.83.2\n  dependency-type: indirect\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-09T01:30:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/28548d7da4d1146d07d5972de2d71f9d9712b6c3",
+      "is_merge": false
+    },
+    {
       "sha": "f282ada0cae788e4b3a4601ad0f172c7867fb1b7",
       "author": "JaredHatfield",
       "message": "Merge pull request #96 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/grpc-1.83.1\n\nchore(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.1",

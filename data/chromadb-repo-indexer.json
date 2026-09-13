@@ -6,6 +6,38 @@
   "latest_release_time": "2026-08-16T15:47:15Z",
   "unreleased_commits": [
     {
+      "sha": "5e09e8035399e50fdb3e00b7ca9c1b63a12efc6a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #35 from UnitVectorY-Labs/dependabot/pip/tree-sitter-language-pack-1.16.2\n\nbuild(deps): bump tree-sitter-language-pack from 1.16.1 to 1.16.2",
+      "timestamp": "2026-09-12T20:56:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/5e09e8035399e50fdb3e00b7ca9c1b63a12efc6a",
+      "is_merge": true
+    },
+    {
+      "sha": "8dc851a827571c4f60ecffeff2811fbdb3d76fac",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #36 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.38.0\n\nbuild(deps): bump github/codeql-action/upload-sarif from 4.37.9 to 4.38.0",
+      "timestamp": "2026-09-12T12:14:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/8dc851a827571c4f60ecffeff2811fbdb3d76fac",
+      "is_merge": true
+    },
+    {
+      "sha": "d980bb9f3a3f1b9e55a2e789fabc8d4200479dd0",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.9 to 4.38.0.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/cdf488f595d80d6e07e03d4674febd5ab45fa938...b96794f015dfd88f77b49b1c93e0fa7110f94c63)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.38.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-12T10:15:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/d980bb9f3a3f1b9e55a2e789fabc8d4200479dd0",
+      "is_merge": false
+    },
+    {
+      "sha": "e20786e3b1e1a7123a738326d0f0696177627ebd",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump tree-sitter-language-pack from 1.16.1 to 1.16.2\n\nBumps [tree-sitter-language-pack](https://github.com/xberg-io/tree-sitter-language-pack) from 1.16.1 to 1.16.2.\n- [Release notes](https://github.com/xberg-io/tree-sitter-language-pack/releases)\n- [Changelog](https://github.com/xberg-io/tree-sitter-language-pack/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/xberg-io/tree-sitter-language-pack/compare/v1.16.1...v1.16.2)\n\n---\nupdated-dependencies:\n- dependency-name: tree-sitter-language-pack\n  dependency-version: 1.16.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-12T10:14:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/e20786e3b1e1a7123a738326d0f0696177627ebd",
+      "is_merge": false
+    },
+    {
       "sha": "581acbf780fcc0791fd9ea9b872528f5d6f5a8ed",
       "author": "JaredHatfield",
       "message": "Merge pull request #33 from UnitVectorY-Labs/dependabot/uv/nltk-3.10.3\n\nbuild(deps): bump nltk from 3.10.0 to 3.10.3",

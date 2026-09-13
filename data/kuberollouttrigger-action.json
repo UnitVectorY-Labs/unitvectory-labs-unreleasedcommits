@@ -4,6 +4,39 @@
   "default_branch": "main",
   "latest_release_tag": "v0.4.0",
   "latest_release_time": "2026-09-10T23:33:10Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "b335072687463cffc2660b89cd774bef5cfdad59",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #68 from UnitVectorY-Labs/chore/codeql-4.38.0\n\nBump CodeQL version to 4.38.0",
+      "timestamp": "2026-09-12T14:48:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/b335072687463cffc2660b89cd774bef5cfdad59",
+      "is_merge": true
+    },
+    {
+      "sha": "f81cdaf0b8e6d0dd80a12820fdb80bc3dd9595bf",
+      "author": "Jared",
+      "message": "Bump CodeQL version to 4.38.0",
+      "timestamp": "2026-09-12T13:44:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/f81cdaf0b8e6d0dd80a12820fdb80bc3dd9595bf",
+      "is_merge": false
+    },
+    {
+      "sha": "6c9ef48f2da61ee5193575d4c9a0f5a841ff15b6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #65 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.38.0\n\nBump github/codeql-action/upload-sarif from 4.37.9 to 4.38.0",
+      "timestamp": "2026-09-12T12:12:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/6c9ef48f2da61ee5193575d4c9a0f5a841ff15b6",
+      "is_merge": true
+    },
+    {
+      "sha": "bfdb34bc8f95159f07ce438e71f33ea481083480",
+      "author": "dependabot[bot]",
+      "message": "Bump github/codeql-action/upload-sarif from 4.37.9 to 4.38.0\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.9 to 4.38.0.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/cdf488f595d80d6e07e03d4674febd5ab45fa938...b96794f015dfd88f77b49b1c93e0fa7110f94c63)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.38.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-12T10:06:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/bfdb34bc8f95159f07ce438e71f33ea481083480",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action"
 }
