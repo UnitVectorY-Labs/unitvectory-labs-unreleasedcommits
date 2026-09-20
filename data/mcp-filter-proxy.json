@@ -6,6 +6,38 @@
   "latest_release_time": "2026-09-03T09:52:42Z",
   "unreleased_commits": [
     {
+      "sha": "faa26b766b444adda1ae6ee7c14ed18ab0a4774a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #48 from UnitVectorY-Labs/dependabot/go_modules/github.com/modelcontextprotocol/go-sdk-1.8.0\n\nbuild(deps): bump github.com/modelcontextprotocol/go-sdk from 1.7.0 to 1.8.0",
+      "timestamp": "2026-09-19T20:50:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-filter-proxy/commit/faa26b766b444adda1ae6ee7c14ed18ab0a4774a",
+      "is_merge": true
+    },
+    {
+      "sha": "bfdf34a3960ee5c929c24eaca41997736f8f1bcb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #47 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.1.0\n\nbuild(deps): bump astral-sh/setup-uv from 10.0.1 to 10.1.0",
+      "timestamp": "2026-09-19T12:24:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-filter-proxy/commit/bfdf34a3960ee5c929c24eaca41997736f8f1bcb",
+      "is_merge": true
+    },
+    {
+      "sha": "5a022b908bf7d4037026617c6c05b11a2c6c46af",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github.com/modelcontextprotocol/go-sdk\n\nBumps [github.com/modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) from 1.7.0 to 1.8.0.\n- [Release notes](https://github.com/modelcontextprotocol/go-sdk/releases)\n- [Commits](https://github.com/modelcontextprotocol/go-sdk/compare/v1.7.0...v1.8.0)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/modelcontextprotocol/go-sdk\n  dependency-version: 1.8.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T10:16:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-filter-proxy/commit/5a022b908bf7d4037026617c6c05b11a2c6c46af",
+      "is_merge": false
+    },
+    {
+      "sha": "464febdc6846e618559c38ab952f96dabb27a39c",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 10.0.1 to 10.1.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.0.1 to 10.1.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/20cfd1bf945f4377ade1205e4dbc17946fc9a30d...bec219d24cd3e171d82865faccec33120bb574f4)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T10:12:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-filter-proxy/commit/464febdc6846e618559c38ab952f96dabb27a39c",
+      "is_merge": false
+    },
+    {
       "sha": "720e0b13b763d57eba0a00342a54c12d9c65dcf0",
       "author": "JaredHatfield",
       "message": "Merge pull request #46 from UnitVectorY-Labs/chore/codeql-4.38.0\n\nBump CodeQL version to 4.38.0",

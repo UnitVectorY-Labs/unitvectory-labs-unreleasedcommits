@@ -6,6 +6,110 @@
   "latest_release_time": "2026-09-03T09:52:38Z",
   "unreleased_commits": [
     {
+      "sha": "8e6601ffd2850c3d2801cb32ca0377da44e54b28",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #263 from UnitVectorY-Labs/dependabot/github_actions/docker/setup-buildx-action-4.4.1\n\nchore(deps): bump docker/setup-buildx-action from 4.3.0 to 4.4.1",
+      "timestamp": "2026-09-19T15:06:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/8e6601ffd2850c3d2801cb32ca0377da44e54b28",
+      "is_merge": true
+    },
+    {
+      "sha": "b80dc1306fc730b86adc743b8f3b9373ad0d4020",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #259 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.298.0\n\nchore(deps): bump google.golang.org/api from 0.297.0 to 0.298.0",
+      "timestamp": "2026-09-19T14:06:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/b80dc1306fc730b86adc743b8f3b9373ad0d4020",
+      "is_merge": true
+    },
+    {
+      "sha": "e9e910959a246e515a1e3714e89657c90a6e072d",
+      "author": "JaredHatfield",
+      "message": "Merge branch 'main' into dependabot/go_modules/google.golang.org/api-0.298.0",
+      "timestamp": "2026-09-19T14:05:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/e9e910959a246e515a1e3714e89657c90a6e072d",
+      "is_merge": true
+    },
+    {
+      "sha": "3efad07c9cd8829359e94cb33dbe655f4a4b32df",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/setup-buildx-action from 4.3.0 to 4.4.1\n\nBumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 4.3.0 to 4.4.1.\n- [Release notes](https://github.com/docker/setup-buildx-action/releases)\n- [Commits](https://github.com/docker/setup-buildx-action/compare/37fe631027851001ddb9b187196cc803df7f5f0e...f87e5991a6d7451dcb8d9637bfbc97413f497069)\n\n---\nupdated-dependencies:\n- dependency-name: docker/setup-buildx-action\n  dependency-version: 4.4.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T13:41:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/3efad07c9cd8829359e94cb33dbe655f4a4b32df",
+      "is_merge": false
+    },
+    {
+      "sha": "d9f28f1f90340eb9ef94e132686a4366aba484e9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #261 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-7.1.1\n\nchore(deps): bump codecov/codecov-action from 7.0.0 to 7.1.1",
+      "timestamp": "2026-09-19T13:39:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/d9f28f1f90340eb9ef94e132686a4366aba484e9",
+      "is_merge": true
+    },
+    {
+      "sha": "09d132f29a939c7eb84353e457d4a15d1b80021b",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump codecov/codecov-action from 7.0.0 to 7.1.1\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 7.0.0 to 7.1.1.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/fb8b3582c8e4def4969c97caa2f19720cb33a72f...303a32d7a59b442fa8d48b6a1cc6825c09c847a5)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 7.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T13:22:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/09d132f29a939c7eb84353e457d4a15d1b80021b",
+      "is_merge": false
+    },
+    {
+      "sha": "bb3061bef619aa75f1539d7eb109296d4f183e16",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #264 from UnitVectorY-Labs/dependabot/github_actions/unitvectory-labs/kuberollouttrigger-action-0.4.0\n\nchore(deps): bump unitvectory-labs/kuberollouttrigger-action from 0.3.0 to 0.4.0",
+      "timestamp": "2026-09-19T13:20:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/bb3061bef619aa75f1539d7eb109296d4f183e16",
+      "is_merge": true
+    },
+    {
+      "sha": "e2a4eca05c9165b52eb45e458360b27ed667a217",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump unitvectory-labs/kuberollouttrigger-action\n\nBumps [unitvectory-labs/kuberollouttrigger-action](https://github.com/unitvectory-labs/kuberollouttrigger-action) from 0.3.0 to 0.4.0.\n- [Release notes](https://github.com/unitvectory-labs/kuberollouttrigger-action/releases)\n- [Commits](https://github.com/unitvectory-labs/kuberollouttrigger-action/compare/a22de2a2ec7e9bef05f8cd2d6c72fceeb61fa88c...6314962103390064260592923858f28be95271a5)\n\n---\nupdated-dependencies:\n- dependency-name: unitvectory-labs/kuberollouttrigger-action\n  dependency-version: 0.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T12:57:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/e2a4eca05c9165b52eb45e458360b27ed667a217",
+      "is_merge": false
+    },
+    {
+      "sha": "74f4f9b180a6e060f781d81d72c3a5795c9c8857",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #260 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-7.4.0\n\nchore(deps): bump docker/build-push-action from 7.3.0 to 7.4.0",
+      "timestamp": "2026-09-19T12:55:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/74f4f9b180a6e060f781d81d72c3a5795c9c8857",
+      "is_merge": true
+    },
+    {
+      "sha": "c318862dd6a3b4b602ba9178115bde5e15e69c31",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/build-push-action from 7.3.0 to 7.4.0\n\nBumps [docker/build-push-action](https://github.com/docker/build-push-action) from 7.3.0 to 7.4.0.\n- [Release notes](https://github.com/docker/build-push-action/releases)\n- [Commits](https://github.com/docker/build-push-action/compare/53b7df96c91f9c12dcc8a07bcb9ccacbed38856a...c3c9e263c25d99ce0380d002d59b67737d91b0dc)\n\n---\nupdated-dependencies:\n- dependency-name: docker/build-push-action\n  dependency-version: 7.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T12:23:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/c318862dd6a3b4b602ba9178115bde5e15e69c31",
+      "is_merge": false
+    },
+    {
+      "sha": "3a9adf6f65444a2eec484b28300570d0a5ca8ed2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #262 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.1.0\n\nchore(deps): bump astral-sh/setup-uv from 10.0.1 to 10.1.0",
+      "timestamp": "2026-09-19T12:19:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/3a9adf6f65444a2eec484b28300570d0a5ca8ed2",
+      "is_merge": true
+    },
+    {
+      "sha": "c79f06771b9c7b156fe179443dd9888d4371140e",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.0.1 to 10.1.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.0.1 to 10.1.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/20cfd1bf945f4377ade1205e4dbc17946fc9a30d...bec219d24cd3e171d82865faccec33120bb574f4)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T10:03:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/c79f06771b9c7b156fe179443dd9888d4371140e",
+      "is_merge": false
+    },
+    {
+      "sha": "e6528631511985e19d7a852a0416c1fcd048c499",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/api from 0.297.0 to 0.298.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.297.0 to 0.298.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.297.0...v0.298.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.298.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T10:03:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/e6528631511985e19d7a852a0416c1fcd048c499",
+      "is_merge": false
+    },
+    {
       "sha": "019f13ff058947e631d7c8babea164fb9c730f07",
       "author": "JaredHatfield",
       "message": "Merge pull request #258 from UnitVectorY-Labs/chore/codeql-4.38.0\n\nBump CodeQL version to 4.38.0",

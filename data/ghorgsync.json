@@ -4,6 +4,23 @@
   "default_branch": "main",
   "latest_release_tag": "v0.6.1",
   "latest_release_time": "2026-09-17T23:53:25Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "5c30d2619e416e87639781f937d8db58a3c1ff06",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #113 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.1.0\n\nbuild(deps): bump astral-sh/setup-uv from 10.0.1 to 10.1.0",
+      "timestamp": "2026-09-19T12:23:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/5c30d2619e416e87639781f937d8db58a3c1ff06",
+      "is_merge": true
+    },
+    {
+      "sha": "aa0016199a44c8f3092f7a823b851134a19bd5fb",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 10.0.1 to 10.1.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.0.1 to 10.1.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/20cfd1bf945f4377ade1205e4dbc17946fc9a30d...bec219d24cd3e171d82865faccec33120bb574f4)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T10:14:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/aa0016199a44c8f3092f7a823b851134a19bd5fb",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/ghorgsync"
 }

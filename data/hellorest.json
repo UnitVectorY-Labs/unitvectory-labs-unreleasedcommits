@@ -6,6 +6,86 @@
   "latest_release_time": "2026-09-03T09:52:28Z",
   "unreleased_commits": [
     {
+      "sha": "1ed23bbcefdacaeb9feb09a0d1357ee499fecdef",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #166 from UnitVectorY-Labs/dependabot/github_actions/unitvectory-labs/kuberollouttrigger-action-0.4.0\n\nbuild(deps): bump unitvectory-labs/kuberollouttrigger-action from 0.3.0 to 0.4.0",
+      "timestamp": "2026-09-19T15:07:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/1ed23bbcefdacaeb9feb09a0d1357ee499fecdef",
+      "is_merge": true
+    },
+    {
+      "sha": "1fefe0dc668cf4a8a41085c28de31077479af528",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump unitvectory-labs/kuberollouttrigger-action\n\nBumps [unitvectory-labs/kuberollouttrigger-action](https://github.com/unitvectory-labs/kuberollouttrigger-action) from 0.3.0 to 0.4.0.\n- [Release notes](https://github.com/unitvectory-labs/kuberollouttrigger-action/releases)\n- [Commits](https://github.com/unitvectory-labs/kuberollouttrigger-action/compare/a22de2a2ec7e9bef05f8cd2d6c72fceeb61fa88c...6314962103390064260592923858f28be95271a5)\n\n---\nupdated-dependencies:\n- dependency-name: unitvectory-labs/kuberollouttrigger-action\n  dependency-version: 0.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T13:41:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/1fefe0dc668cf4a8a41085c28de31077479af528",
+      "is_merge": false
+    },
+    {
+      "sha": "c5e2291378a9f43a18b1ae87418a848928a1a567",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #165 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-7.4.0\n\nbuild(deps): bump docker/build-push-action from 7.3.0 to 7.4.0",
+      "timestamp": "2026-09-19T13:40:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/c5e2291378a9f43a18b1ae87418a848928a1a567",
+      "is_merge": true
+    },
+    {
+      "sha": "a7bbcab6fe2290f7895265f3b6a3af34eca7b39d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #162 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-7.1.1\n\nbuild(deps): bump codecov/codecov-action from 7.0.0 to 7.1.1",
+      "timestamp": "2026-09-19T13:39:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/a7bbcab6fe2290f7895265f3b6a3af34eca7b39d",
+      "is_merge": true
+    },
+    {
+      "sha": "0fad08947b86a214743f4a2cb9da7c47a021abf3",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump docker/build-push-action from 7.3.0 to 7.4.0\n\nBumps [docker/build-push-action](https://github.com/docker/build-push-action) from 7.3.0 to 7.4.0.\n- [Release notes](https://github.com/docker/build-push-action/releases)\n- [Commits](https://github.com/docker/build-push-action/compare/53b7df96c91f9c12dcc8a07bcb9ccacbed38856a...c3c9e263c25d99ce0380d002d59b67737d91b0dc)\n\n---\nupdated-dependencies:\n- dependency-name: docker/build-push-action\n  dependency-version: 7.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T13:10:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/0fad08947b86a214743f4a2cb9da7c47a021abf3",
+      "is_merge": false
+    },
+    {
+      "sha": "17a5f42dcdbfe764acd99acb38b6830abdb1c130",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump codecov/codecov-action from 7.0.0 to 7.1.1\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 7.0.0 to 7.1.1.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/fb8b3582c8e4def4969c97caa2f19720cb33a72f...303a32d7a59b442fa8d48b6a1cc6825c09c847a5)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 7.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T13:10:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/17a5f42dcdbfe764acd99acb38b6830abdb1c130",
+      "is_merge": false
+    },
+    {
+      "sha": "4977e2f78a06fdbfbc7da9dfa947647d86ed0049",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #164 from UnitVectorY-Labs/dependabot/github_actions/docker/setup-buildx-action-4.4.1\n\nbuild(deps): bump docker/setup-buildx-action from 4.3.0 to 4.4.1",
+      "timestamp": "2026-09-19T13:08:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/4977e2f78a06fdbfbc7da9dfa947647d86ed0049",
+      "is_merge": true
+    },
+    {
+      "sha": "041d0f4d69104cd2779032ed66472c0d10727664",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump docker/setup-buildx-action from 4.3.0 to 4.4.1\n\nBumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 4.3.0 to 4.4.1.\n- [Release notes](https://github.com/docker/setup-buildx-action/releases)\n- [Commits](https://github.com/docker/setup-buildx-action/compare/37fe631027851001ddb9b187196cc803df7f5f0e...f87e5991a6d7451dcb8d9637bfbc97413f497069)\n\n---\nupdated-dependencies:\n- dependency-name: docker/setup-buildx-action\n  dependency-version: 4.4.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T12:22:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/041d0f4d69104cd2779032ed66472c0d10727664",
+      "is_merge": false
+    },
+    {
+      "sha": "21d162e1227daa4bd224af76e6b1d02120b5c9b9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #163 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.1.0\n\nbuild(deps): bump astral-sh/setup-uv from 10.0.1 to 10.1.0",
+      "timestamp": "2026-09-19T12:19:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/21d162e1227daa4bd224af76e6b1d02120b5c9b9",
+      "is_merge": true
+    },
+    {
+      "sha": "40f07dd85e2c1c9dde0c0094de627d4d7138f1d1",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 10.0.1 to 10.1.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.0.1 to 10.1.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/20cfd1bf945f4377ade1205e4dbc17946fc9a30d...bec219d24cd3e171d82865faccec33120bb574f4)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T10:04:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/40f07dd85e2c1c9dde0c0094de627d4d7138f1d1",
+      "is_merge": false
+    },
+    {
       "sha": "b555ade1a97e9b763ff638d11f8d3a01b93ca078",
       "author": "JaredHatfield",
       "message": "Merge pull request #161 from UnitVectorY-Labs/chore/codeql-4.38.0\n\nBump CodeQL version to 4.38.0",

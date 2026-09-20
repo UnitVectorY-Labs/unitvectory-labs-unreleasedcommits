@@ -6,6 +6,22 @@
   "latest_release_time": "2026-09-03T09:52:24Z",
   "unreleased_commits": [
     {
+      "sha": "85b3e1c588b895cf20c3d9f94ec891ff007758ed",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #82 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.1.0\n\nbuild(deps): bump astral-sh/setup-uv from 10.0.1 to 10.1.0",
+      "timestamp": "2026-09-19T12:23:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/85b3e1c588b895cf20c3d9f94ec891ff007758ed",
+      "is_merge": true
+    },
+    {
+      "sha": "e6256cc2e207c2393747c0d3fbc228ebe2751f4a",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 10.0.1 to 10.1.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.0.1 to 10.1.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/20cfd1bf945f4377ade1205e4dbc17946fc9a30d...bec219d24cd3e171d82865faccec33120bb574f4)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T10:10:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/e6256cc2e207c2393747c0d3fbc228ebe2751f4a",
+      "is_merge": false
+    },
+    {
       "sha": "8d56d95a8a526a7c27c6791bdb52c7396e445f06",
       "author": "JaredHatfield",
       "message": "Merge pull request #81 from UnitVectorY-Labs/chore/codeql-4.38.0\n\nBump CodeQL version to 4.38.0",

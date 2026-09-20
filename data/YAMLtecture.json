@@ -6,6 +6,70 @@
   "latest_release_time": "2026-09-03T09:52:58Z",
   "unreleased_commits": [
     {
+      "sha": "bd3604867f8d2d950837b2495c906e30223a9303",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #168 from UnitVectorY-Labs/dependabot/go_modules/github.com/go-playground/validator/v10-10.30.4\n\nbuild(deps): bump github.com/go-playground/validator/v10 from 10.30.3 to 10.30.4",
+      "timestamp": "2026-09-19T14:49:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/bd3604867f8d2d950837b2495c906e30223a9303",
+      "is_merge": true
+    },
+    {
+      "sha": "e33eb8cbeae61eafe4b8818253443e0af9fe32f5",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github.com/go-playground/validator/v10\n\nBumps [github.com/go-playground/validator/v10](https://github.com/go-playground/validator) from 10.30.3 to 10.30.4.\n- [Release notes](https://github.com/go-playground/validator/releases)\n- [Commits](https://github.com/go-playground/validator/compare/v10.30.3...v10.30.4)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/go-playground/validator/v10\n  dependency-version: 10.30.4\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T14:47:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/e33eb8cbeae61eafe4b8818253443e0af9fe32f5",
+      "is_merge": false
+    },
+    {
+      "sha": "cb13779b6a3a56da4178ce28c3620777f32aa373",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #167 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/term-0.46.0\n\nbuild(deps): bump golang.org/x/term from 0.45.0 to 0.46.0",
+      "timestamp": "2026-09-19T14:45:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/cb13779b6a3a56da4178ce28c3620777f32aa373",
+      "is_merge": true
+    },
+    {
+      "sha": "2b925d5d8991fb9f943bdd7aa1aaa718f03b6d7c",
+      "author": "JaredHatfield",
+      "message": "Merge branch 'main' into dependabot/go_modules/golang.org/x/term-0.46.0",
+      "timestamp": "2026-09-19T14:44:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/2b925d5d8991fb9f943bdd7aa1aaa718f03b6d7c",
+      "is_merge": true
+    },
+    {
+      "sha": "d5b4a108173fe033074d8f2b51c2a6dd774ed4e9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #174 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-7.1.1\n\nbuild(deps): bump codecov/codecov-action from 7.0.0 to 7.1.1",
+      "timestamp": "2026-09-19T13:39:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/d5b4a108173fe033074d8f2b51c2a6dd774ed4e9",
+      "is_merge": true
+    },
+    {
+      "sha": "ec8fd40018c8e5f7c309ff0ed5a1fc4f4d03cc39",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump codecov/codecov-action from 7.0.0 to 7.1.1\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 7.0.0 to 7.1.1.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/fb8b3582c8e4def4969c97caa2f19720cb33a72f...303a32d7a59b442fa8d48b6a1cc6825c09c847a5)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 7.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T12:25:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/ec8fd40018c8e5f7c309ff0ed5a1fc4f4d03cc39",
+      "is_merge": false
+    },
+    {
+      "sha": "a474312290f54edc43b37c51cbb69207a1ec40ac",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #173 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.1.0\n\nbuild(deps): bump astral-sh/setup-uv from 10.0.1 to 10.1.0",
+      "timestamp": "2026-09-19T12:20:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/a474312290f54edc43b37c51cbb69207a1ec40ac",
+      "is_merge": true
+    },
+    {
+      "sha": "6ca6cad37e9c01da6109b95f30fedabfe6152a5d",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 10.0.1 to 10.1.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.0.1 to 10.1.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/20cfd1bf945f4377ade1205e4dbc17946fc9a30d...bec219d24cd3e171d82865faccec33120bb574f4)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T10:06:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/6ca6cad37e9c01da6109b95f30fedabfe6152a5d",
+      "is_merge": false
+    },
+    {
       "sha": "91f19ec93996fd21fefa2b3a2a769423bb4a056a",
       "author": "JaredHatfield",
       "message": "Merge pull request #172 from UnitVectorY-Labs/chore/codeql-4.38.0\n\nBump CodeQL version to 4.38.0",
@@ -35,6 +99,14 @@
       "message": "build(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.37.9 to 4.38.0.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/cdf488f595d80d6e07e03d4674febd5ab45fa938...b96794f015dfd88f77b49b1c93e0fa7110f94c63)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.38.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-09-12T10:12:13Z",
       "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/18e3b9fd0b7563c995aaea555a99511a57a17bbe",
+      "is_merge": false
+    },
+    {
+      "sha": "f82b7c8304348149b53d1267096cda8b34a05a75",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump golang.org/x/term from 0.45.0 to 0.46.0\n\nBumps [golang.org/x/term](https://github.com/golang/term) from 0.45.0 to 0.46.0.\n- [Commits](https://github.com/golang/term/compare/v0.45.0...v0.46.0)\n\n---\nupdated-dependencies:\n- dependency-name: golang.org/x/term\n  dependency-version: 0.46.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-12T10:09:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/f82b7c8304348149b53d1267096cda8b34a05a75",
       "is_merge": false
     },
     {

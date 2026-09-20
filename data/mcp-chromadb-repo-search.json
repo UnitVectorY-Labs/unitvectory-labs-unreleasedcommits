@@ -6,6 +6,38 @@
   "latest_release_time": "2026-09-03T09:52:41Z",
   "unreleased_commits": [
     {
+      "sha": "78fcbdd1ef1c7f7161b4af57d05cf9980253fbfc",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #41 from UnitVectorY-Labs/dependabot/go_modules/github.com/modelcontextprotocol/go-sdk-1.8.0\n\nchore(deps): bump github.com/modelcontextprotocol/go-sdk from 1.7.0 to 1.8.0",
+      "timestamp": "2026-09-19T20:50:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-chromadb-repo-search/commit/78fcbdd1ef1c7f7161b4af57d05cf9980253fbfc",
+      "is_merge": true
+    },
+    {
+      "sha": "ea7cff7bd03131f683ebd6a87bbb6841ad968af1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #42 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.1.0\n\nchore(deps): bump astral-sh/setup-uv from 10.0.1 to 10.1.0",
+      "timestamp": "2026-09-19T12:24:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-chromadb-repo-search/commit/ea7cff7bd03131f683ebd6a87bbb6841ad968af1",
+      "is_merge": true
+    },
+    {
+      "sha": "43195a003b8c7564bf54b7551f0b6c8efdef1e7d",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.0.1 to 10.1.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.0.1 to 10.1.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/20cfd1bf945f4377ade1205e4dbc17946fc9a30d...bec219d24cd3e171d82865faccec33120bb574f4)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T10:11:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-chromadb-repo-search/commit/43195a003b8c7564bf54b7551f0b6c8efdef1e7d",
+      "is_merge": false
+    },
+    {
+      "sha": "1f36703d6490c78944b42117867fc8b7a83576be",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github.com/modelcontextprotocol/go-sdk\n\nBumps [github.com/modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) from 1.7.0 to 1.8.0.\n- [Release notes](https://github.com/modelcontextprotocol/go-sdk/releases)\n- [Commits](https://github.com/modelcontextprotocol/go-sdk/compare/v1.7.0...v1.8.0)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/modelcontextprotocol/go-sdk\n  dependency-version: 1.8.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T10:08:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-chromadb-repo-search/commit/1f36703d6490c78944b42117867fc8b7a83576be",
+      "is_merge": false
+    },
+    {
       "sha": "c171d8a54f78fa31d4a6ee08e095374c871d4f44",
       "author": "JaredHatfield",
       "message": "Merge pull request #40 from UnitVectorY-Labs/chore/codeql-4.38.0\n\nBump CodeQL version to 4.38.0",

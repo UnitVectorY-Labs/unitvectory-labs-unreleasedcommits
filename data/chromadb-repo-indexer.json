@@ -6,6 +6,38 @@
   "latest_release_time": "2026-08-16T15:47:15Z",
   "unreleased_commits": [
     {
+      "sha": "e7b6ed82f37de4bdec485232cb2c38a4e7890eb0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #37 from UnitVectorY-Labs/dependabot/pip/tree-sitter-language-pack-1.20.0\n\nbuild(deps): bump tree-sitter-language-pack from 1.16.2 to 1.20.0",
+      "timestamp": "2026-09-19T21:00:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/e7b6ed82f37de4bdec485232cb2c38a4e7890eb0",
+      "is_merge": true
+    },
+    {
+      "sha": "947d8b4cf5106cc64e79a2f1f5574106ffb80c32",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #38 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.1.0\n\nbuild(deps): bump astral-sh/setup-uv from 10.0.1 to 10.1.0",
+      "timestamp": "2026-09-19T12:24:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/947d8b4cf5106cc64e79a2f1f5574106ffb80c32",
+      "is_merge": true
+    },
+    {
+      "sha": "a5a0d6c5171693682a5d86b426b93942cff4d671",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 10.0.1 to 10.1.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.0.1 to 10.1.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/20cfd1bf945f4377ade1205e4dbc17946fc9a30d...bec219d24cd3e171d82865faccec33120bb574f4)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T10:13:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/a5a0d6c5171693682a5d86b426b93942cff4d671",
+      "is_merge": false
+    },
+    {
+      "sha": "37eaf874aaf9841ffc5b457d93a7f5ea2790b309",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump tree-sitter-language-pack from 1.16.2 to 1.20.0\n\nBumps [tree-sitter-language-pack](https://github.com/xberg-io/tree-sitter-language-pack) from 1.16.2 to 1.20.0.\n- [Release notes](https://github.com/xberg-io/tree-sitter-language-pack/releases)\n- [Changelog](https://github.com/xberg-io/tree-sitter-language-pack/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/xberg-io/tree-sitter-language-pack/compare/v1.16.2...v1.20.0)\n\n---\nupdated-dependencies:\n- dependency-name: tree-sitter-language-pack\n  dependency-version: 1.20.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T10:12:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/37eaf874aaf9841ffc5b457d93a7f5ea2790b309",
+      "is_merge": false
+    },
+    {
       "sha": "5e09e8035399e50fdb3e00b7ca9c1b63a12efc6a",
       "author": "JaredHatfield",
       "message": "Merge pull request #35 from UnitVectorY-Labs/dependabot/pip/tree-sitter-language-pack-1.16.2\n\nbuild(deps): bump tree-sitter-language-pack from 1.16.1 to 1.16.2",

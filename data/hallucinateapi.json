@@ -6,6 +6,70 @@
   "latest_release_time": "2026-09-03T09:52:26Z",
   "unreleased_commits": [
     {
+      "sha": "1dd316e561f796fecd890707926ece2fcfcbdb67",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #126 from UnitVectorY-Labs/dependabot/github_actions/unitvectory-labs/kuberollouttrigger-action-0.4.0\n\nbuild(deps): bump unitvectory-labs/kuberollouttrigger-action from 0.3.0 to 0.4.0",
+      "timestamp": "2026-09-19T13:21:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/1dd316e561f796fecd890707926ece2fcfcbdb67",
+      "is_merge": true
+    },
+    {
+      "sha": "a5462690b420cdfe0328220006a8ad4d42f841ab",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #125 from UnitVectorY-Labs/dependabot/github_actions/docker/setup-buildx-action-4.4.1\n\nbuild(deps): bump docker/setup-buildx-action from 4.3.0 to 4.4.1",
+      "timestamp": "2026-09-19T13:10:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/a5462690b420cdfe0328220006a8ad4d42f841ab",
+      "is_merge": true
+    },
+    {
+      "sha": "4812cb897d8973fcb77ba39df812822b72b75f26",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #127 from UnitVectorY-Labs/dependabot/github_actions/docker/build-push-action-7.4.0\n\nbuild(deps): bump docker/build-push-action from 7.3.0 to 7.4.0",
+      "timestamp": "2026-09-19T12:56:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/4812cb897d8973fcb77ba39df812822b72b75f26",
+      "is_merge": true
+    },
+    {
+      "sha": "0d59ff4d809c00e95ef2855049b25f79721fb029",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #124 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.1.0\n\nbuild(deps): bump astral-sh/setup-uv from 10.0.1 to 10.1.0",
+      "timestamp": "2026-09-19T12:23:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/0d59ff4d809c00e95ef2855049b25f79721fb029",
+      "is_merge": true
+    },
+    {
+      "sha": "8d17f75acf489c5acdcd1c923f0c170765b0c8c0",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump docker/build-push-action from 7.3.0 to 7.4.0\n\nBumps [docker/build-push-action](https://github.com/docker/build-push-action) from 7.3.0 to 7.4.0.\n- [Release notes](https://github.com/docker/build-push-action/releases)\n- [Commits](https://github.com/docker/build-push-action/compare/53b7df96c91f9c12dcc8a07bcb9ccacbed38856a...c3c9e263c25d99ce0380d002d59b67737d91b0dc)\n\n---\nupdated-dependencies:\n- dependency-name: docker/build-push-action\n  dependency-version: 7.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T10:12:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/8d17f75acf489c5acdcd1c923f0c170765b0c8c0",
+      "is_merge": false
+    },
+    {
+      "sha": "4d1aeb50b2160ab8f96c1709917ecee13cc75bd0",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump unitvectory-labs/kuberollouttrigger-action\n\nBumps [unitvectory-labs/kuberollouttrigger-action](https://github.com/unitvectory-labs/kuberollouttrigger-action) from 0.3.0 to 0.4.0.\n- [Release notes](https://github.com/unitvectory-labs/kuberollouttrigger-action/releases)\n- [Commits](https://github.com/unitvectory-labs/kuberollouttrigger-action/compare/a22de2a2ec7e9bef05f8cd2d6c72fceeb61fa88c...6314962103390064260592923858f28be95271a5)\n\n---\nupdated-dependencies:\n- dependency-name: unitvectory-labs/kuberollouttrigger-action\n  dependency-version: 0.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T10:10:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/4d1aeb50b2160ab8f96c1709917ecee13cc75bd0",
+      "is_merge": false
+    },
+    {
+      "sha": "3283c469d2d561a1e69442b46780b57497a00551",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump docker/setup-buildx-action from 4.3.0 to 4.4.1\n\nBumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 4.3.0 to 4.4.1.\n- [Release notes](https://github.com/docker/setup-buildx-action/releases)\n- [Commits](https://github.com/docker/setup-buildx-action/compare/37fe631027851001ddb9b187196cc803df7f5f0e...f87e5991a6d7451dcb8d9637bfbc97413f497069)\n\n---\nupdated-dependencies:\n- dependency-name: docker/setup-buildx-action\n  dependency-version: 4.4.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T10:10:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/3283c469d2d561a1e69442b46780b57497a00551",
+      "is_merge": false
+    },
+    {
+      "sha": "5c1c31e26a69eb5167e09a58e50ec8c8bc42e6d3",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 10.0.1 to 10.1.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.0.1 to 10.1.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/20cfd1bf945f4377ade1205e4dbc17946fc9a30d...bec219d24cd3e171d82865faccec33120bb574f4)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T10:09:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/5c1c31e26a69eb5167e09a58e50ec8c8bc42e6d3",
+      "is_merge": false
+    },
+    {
       "sha": "fb13a3b0b424d36ddb557b8664c80ec891d9049f",
       "author": "JaredHatfield",
       "message": "Merge pull request #119 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/oauth2-0.37.0\n\nbuild(deps): bump golang.org/x/oauth2 from 0.36.0 to 0.37.0",

@@ -6,6 +6,22 @@
   "latest_release_time": "2026-09-03T09:52:33Z",
   "unreleased_commits": [
     {
+      "sha": "16b558682cde326d98b60a9a32b24b57bdd5654c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #92 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.1.0\n\nbuild(deps): bump astral-sh/setup-uv from 10.0.1 to 10.1.0",
+      "timestamp": "2026-09-19T12:23:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/16b558682cde326d98b60a9a32b24b57bdd5654c",
+      "is_merge": true
+    },
+    {
+      "sha": "0e6b6da48fbc04b5e53ec04729d79295217a0ff8",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 10.0.1 to 10.1.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.0.1 to 10.1.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/20cfd1bf945f4377ade1205e4dbc17946fc9a30d...bec219d24cd3e171d82865faccec33120bb574f4)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T10:09:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/0e6b6da48fbc04b5e53ec04729d79295217a0ff8",
+      "is_merge": false
+    },
+    {
       "sha": "210bc1c256f85504bdc0726ee4e0c05d7d027395",
       "author": "JaredHatfield",
       "message": "Merge pull request #87 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/text-0.42.0\n\nbuild(deps): bump golang.org/x/text from 0.41.0 to 0.42.0",

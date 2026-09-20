@@ -6,6 +6,38 @@
   "latest_release_time": "2026-06-23T10:57:11Z",
   "unreleased_commits": [
     {
+      "sha": "80e9e6021e78343cdab014717bb8007b12253fd0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #177 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-7.1.1\n\nchore(deps): bump codecov/codecov-action from 7.0.0 to 7.1.1",
+      "timestamp": "2026-09-19T13:38:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/80e9e6021e78343cdab014717bb8007b12253fd0",
+      "is_merge": true
+    },
+    {
+      "sha": "88e521761c0c133b4125bda35f59ea0af5ed1e89",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump codecov/codecov-action from 7.0.0 to 7.1.1\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 7.0.0 to 7.1.1.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/fb8b3582c8e4def4969c97caa2f19720cb33a72f...303a32d7a59b442fa8d48b6a1cc6825c09c847a5)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 7.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T12:21:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/88e521761c0c133b4125bda35f59ea0af5ed1e89",
+      "is_merge": false
+    },
+    {
+      "sha": "10ec7abd76e0ed0864b8234932bef1352e365583",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #178 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.1.0\n\nchore(deps): bump astral-sh/setup-uv from 10.0.1 to 10.1.0",
+      "timestamp": "2026-09-19T12:18:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/10ec7abd76e0ed0864b8234932bef1352e365583",
+      "is_merge": true
+    },
+    {
+      "sha": "b494c2fa3a81c54604f9a27d9ea8b3f06363380e",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.0.1 to 10.1.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.0.1 to 10.1.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/20cfd1bf945f4377ade1205e4dbc17946fc9a30d...bec219d24cd3e171d82865faccec33120bb574f4)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T10:03:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/b494c2fa3a81c54604f9a27d9ea8b3f06363380e",
+      "is_merge": false
+    },
+    {
       "sha": "a2623b5fcd45406fb741f908d3315087d9aab5b4",
       "author": "JaredHatfield",
       "message": "Merge pull request #174 from UnitVectorY-Labs/dependabot/github_actions/advanced-security/maven-dependency-submission-action-6.0.1\n\nchore(deps): bump advanced-security/maven-dependency-submission-action from 5.0.0 to 6.0.1",

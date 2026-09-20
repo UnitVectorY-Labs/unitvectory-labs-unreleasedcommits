@@ -6,6 +6,38 @@
   "latest_release_time": "2026-09-03T09:52:55Z",
   "unreleased_commits": [
     {
+      "sha": "d9b22c426fd96dbf4170834f3a320568b4a31225",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #117 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-7.1.1\n\nbuild(deps): bump codecov/codecov-action from 7.0.0 to 7.1.1",
+      "timestamp": "2026-09-19T13:40:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/d9b22c426fd96dbf4170834f3a320568b4a31225",
+      "is_merge": true
+    },
+    {
+      "sha": "2b75215891f006f53290e61f9f04afcc25617caf",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump codecov/codecov-action from 7.0.0 to 7.1.1\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 7.0.0 to 7.1.1.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/fb8b3582c8e4def4969c97caa2f19720cb33a72f...303a32d7a59b442fa8d48b6a1cc6825c09c847a5)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 7.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T12:26:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/2b75215891f006f53290e61f9f04afcc25617caf",
+      "is_merge": false
+    },
+    {
+      "sha": "aabbdc757065f32fa31bd07a7ffd56516bc2a4af",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #116 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.1.0\n\nbuild(deps): bump astral-sh/setup-uv from 10.0.1 to 10.1.0",
+      "timestamp": "2026-09-19T12:21:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/aabbdc757065f32fa31bd07a7ffd56516bc2a4af",
+      "is_merge": true
+    },
+    {
+      "sha": "27be1f23360126272d22a96c51dcc9a9e57b3a92",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 10.0.1 to 10.1.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.0.1 to 10.1.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/20cfd1bf945f4377ade1205e4dbc17946fc9a30d...bec219d24cd3e171d82865faccec33120bb574f4)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T10:03:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/27be1f23360126272d22a96c51dcc9a9e57b3a92",
+      "is_merge": false
+    },
+    {
       "sha": "addc118bab941e199b609b0b8686749f279cdee1",
       "author": "JaredHatfield",
       "message": "Merge pull request #115 from UnitVectorY-Labs/chore/codeql-4.38.0\n\nBump CodeQL version to 4.38.0",

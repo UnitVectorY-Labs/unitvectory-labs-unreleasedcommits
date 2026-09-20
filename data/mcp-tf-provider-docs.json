@@ -6,6 +6,54 @@
   "latest_release_time": "2026-09-03T09:52:48Z",
   "unreleased_commits": [
     {
+      "sha": "b331229e7ee1ecb1ed693602d743e477dee2cb21",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #148 from UnitVectorY-Labs/dependabot/go_modules/github.com/modelcontextprotocol/go-sdk-1.8.0\n\nchore(deps): bump github.com/modelcontextprotocol/go-sdk from 1.7.0 to 1.8.0",
+      "timestamp": "2026-09-19T20:50:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/b331229e7ee1ecb1ed693602d743e477dee2cb21",
+      "is_merge": true
+    },
+    {
+      "sha": "c8ccb722d2623089be3ae3246eef9048bfee4d6e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #150 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-7.1.1\n\nchore(deps): bump codecov/codecov-action from 7.0.0 to 7.1.1",
+      "timestamp": "2026-09-19T13:40:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/c8ccb722d2623089be3ae3246eef9048bfee4d6e",
+      "is_merge": true
+    },
+    {
+      "sha": "e7911b789d6a950590846b2afda9d36948d450ea",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump codecov/codecov-action from 7.0.0 to 7.1.1\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 7.0.0 to 7.1.1.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/fb8b3582c8e4def4969c97caa2f19720cb33a72f...303a32d7a59b442fa8d48b6a1cc6825c09c847a5)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 7.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T12:27:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/e7911b789d6a950590846b2afda9d36948d450ea",
+      "is_merge": false
+    },
+    {
+      "sha": "89b75c89c73c2abeee4f2dbdd3816dd15b11489b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #149 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.1.0\n\nchore(deps): bump astral-sh/setup-uv from 10.0.1 to 10.1.0",
+      "timestamp": "2026-09-19T12:21:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/89b75c89c73c2abeee4f2dbdd3816dd15b11489b",
+      "is_merge": true
+    },
+    {
+      "sha": "51d7d01add72daf0f22e94e09c48c7b75ad5cfb2",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.0.1 to 10.1.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.0.1 to 10.1.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/20cfd1bf945f4377ade1205e4dbc17946fc9a30d...bec219d24cd3e171d82865faccec33120bb574f4)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T10:07:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/51d7d01add72daf0f22e94e09c48c7b75ad5cfb2",
+      "is_merge": false
+    },
+    {
+      "sha": "e6b0b6bc3b3861e5094ad5a8d7bc99336157a9a3",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github.com/modelcontextprotocol/go-sdk\n\nBumps [github.com/modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) from 1.7.0 to 1.8.0.\n- [Release notes](https://github.com/modelcontextprotocol/go-sdk/releases)\n- [Commits](https://github.com/modelcontextprotocol/go-sdk/compare/v1.7.0...v1.8.0)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/modelcontextprotocol/go-sdk\n  dependency-version: 1.8.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T10:04:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/e6b0b6bc3b3861e5094ad5a8d7bc99336157a9a3",
+      "is_merge": false
+    },
+    {
       "sha": "32462868a7484bc131ec4ffbc8a7a2e6867b05b7",
       "author": "JaredHatfield",
       "message": "Merge pull request #147 from UnitVectorY-Labs/chore/codeql-4.38.0\n\nBump CodeQL version to 4.38.0",

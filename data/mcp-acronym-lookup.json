@@ -6,6 +6,54 @@
   "latest_release_time": "2026-09-03T09:52:39Z",
   "unreleased_commits": [
     {
+      "sha": "b1273f8081bd7eeb649c61fcc05ab7d5e79e0810",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #159 from UnitVectorY-Labs/dependabot/go_modules/github.com/modelcontextprotocol/go-sdk-1.8.0\n\nchore(deps): bump github.com/modelcontextprotocol/go-sdk from 1.7.0 to 1.8.0",
+      "timestamp": "2026-09-19T20:50:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/b1273f8081bd7eeb649c61fcc05ab7d5e79e0810",
+      "is_merge": true
+    },
+    {
+      "sha": "8deb2cc2255921b92d95cb1f334e7b6fd6f968bf",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #160 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-7.1.1\n\nchore(deps): bump codecov/codecov-action from 7.0.0 to 7.1.1",
+      "timestamp": "2026-09-19T13:39:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/8deb2cc2255921b92d95cb1f334e7b6fd6f968bf",
+      "is_merge": true
+    },
+    {
+      "sha": "b8fddb05a0b1084d986ae7d736bb1ef3b86e6945",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump codecov/codecov-action from 7.0.0 to 7.1.1\n\nBumps [codecov/codecov-action](https://github.com/codecov/codecov-action) from 7.0.0 to 7.1.1.\n- [Release notes](https://github.com/codecov/codecov-action/releases)\n- [Changelog](https://github.com/codecov/codecov-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/codecov/codecov-action/compare/fb8b3582c8e4def4969c97caa2f19720cb33a72f...303a32d7a59b442fa8d48b6a1cc6825c09c847a5)\n\n---\nupdated-dependencies:\n- dependency-name: codecov/codecov-action\n  dependency-version: 7.1.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T12:26:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/b8fddb05a0b1084d986ae7d736bb1ef3b86e6945",
+      "is_merge": false
+    },
+    {
+      "sha": "e99f0bded1bc241c7ebee9c7c27023aee3e21904",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #158 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.1.0\n\nchore(deps): bump astral-sh/setup-uv from 10.0.1 to 10.1.0",
+      "timestamp": "2026-09-19T12:21:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/e99f0bded1bc241c7ebee9c7c27023aee3e21904",
+      "is_merge": true
+    },
+    {
+      "sha": "ba6235f53941371f6e6f7e3f50758f6f4c1ecb57",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github.com/modelcontextprotocol/go-sdk\n\nBumps [github.com/modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) from 1.7.0 to 1.8.0.\n- [Release notes](https://github.com/modelcontextprotocol/go-sdk/releases)\n- [Commits](https://github.com/modelcontextprotocol/go-sdk/compare/v1.7.0...v1.8.0)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/modelcontextprotocol/go-sdk\n  dependency-version: 1.8.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T10:10:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/ba6235f53941371f6e6f7e3f50758f6f4c1ecb57",
+      "is_merge": false
+    },
+    {
+      "sha": "2873827c1de82c5ed8ce4052366fd8f23722c370",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.0.1 to 10.1.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.0.1 to 10.1.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/20cfd1bf945f4377ade1205e4dbc17946fc9a30d...bec219d24cd3e171d82865faccec33120bb574f4)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-19T10:09:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/2873827c1de82c5ed8ce4052366fd8f23722c370",
+      "is_merge": false
+    },
+    {
       "sha": "84a0f39b6c0b21150389cfa7cd0b678620f47c2c",
       "author": "JaredHatfield",
       "message": "Merge pull request #157 from UnitVectorY-Labs/chore/codeql-4.38.0\n\nBump CodeQL version to 4.38.0",
