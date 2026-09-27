@@ -6,6 +6,86 @@
   "latest_release_time": "2026-08-13T00:53:49Z",
   "unreleased_commits": [
     {
+      "sha": "f3cee2f685efb0beb54c16c5e1eb663a268d9bad",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #244 from UnitVectorY-Labs/dependabot/maven/org.mockito-mockito-core-5.24.0\n\nchore(deps-dev): bump org.mockito:mockito-core from 5.23.0 to 5.24.0",
+      "timestamp": "2026-09-26T19:01:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/f3cee2f685efb0beb54c16c5e1eb663a268d9bad",
+      "is_merge": true
+    },
+    {
+      "sha": "31b8df534840a5874c49da1e42e05a3bb1ef44e1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #245 from UnitVectorY-Labs/dependabot/github_actions/codeql-4f351959ed\n\nchore(deps): bump the codeql group with 3 updates",
+      "timestamp": "2026-09-26T19:01:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/31b8df534840a5874c49da1e42e05a3bb1ef44e1",
+      "is_merge": true
+    },
+    {
+      "sha": "deb132ea7e52cba8787fd9555c40f524bf72917d",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump the codeql group with 3 updates\n\nBumps the codeql group with 3 updates: [github/codeql-action/init](https://github.com/github/codeql-action), [github/codeql-action/autobuild](https://github.com/github/codeql-action) and [github/codeql-action/analyze](https://github.com/github/codeql-action).\n\n\nUpdates `github/codeql-action/init` from 4.38.0 to 4.38.1\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/b96794f015dfd88f77b49b1c93e0fa7110f94c63...1c5b675653bb5c22dbe9b12b556ec555138e09fd)\n\nUpdates `github/codeql-action/autobuild` from 4.38.0 to 4.38.1\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/b96794f015dfd88f77b49b1c93e0fa7110f94c63...1c5b675653bb5c22dbe9b12b556ec555138e09fd)\n\nUpdates `github/codeql-action/analyze` from 4.38.0 to 4.38.1\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/b96794f015dfd88f77b49b1c93e0fa7110f94c63...1c5b675653bb5c22dbe9b12b556ec555138e09fd)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/init\n  dependency-version: 4.38.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n- dependency-name: github/codeql-action/autobuild\n  dependency-version: 4.38.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n- dependency-name: github/codeql-action/analyze\n  dependency-version: 4.38.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-26T18:37:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/deb132ea7e52cba8787fd9555c40f524bf72917d",
+      "is_merge": false
+    },
+    {
+      "sha": "8e6b0b667c57a99f6cf0b89090a9efd648fd50db",
+      "author": "dependabot[bot]",
+      "message": "chore(deps-dev): bump org.mockito:mockito-core from 5.23.0 to 5.24.0\n\nBumps [org.mockito:mockito-core](https://github.com/mockito/mockito) from 5.23.0 to 5.24.0.\n- [Release notes](https://github.com/mockito/mockito/releases)\n- [Commits](https://github.com/mockito/mockito/compare/v5.23.0...v5.24.0)\n\n---\nupdated-dependencies:\n- dependency-name: org.mockito:mockito-core\n  dependency-version: 5.24.0\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-26T18:35:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/8e6b0b667c57a99f6cf0b89090a9efd648fd50db",
+      "is_merge": false
+    },
+    {
+      "sha": "6b58ed4c09d141a8416eef23f2cadb9421fcbc06",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #243 from UnitVectorY-Labs/dependabot-codeql-group\n\nAdd codeql groups to dependabot github-actions",
+      "timestamp": "2026-09-26T18:32:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/6b58ed4c09d141a8416eef23f2cadb9421fcbc06",
+      "is_merge": true
+    },
+    {
+      "sha": "6f4f4cd7b96fc2d22ba8e18aef6f592c0a932dd2",
+      "author": "JaredHatfield",
+      "message": "Add codeql groups to dependabot github-actions",
+      "timestamp": "2026-09-26T18:20:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/6f4f4cd7b96fc2d22ba8e18aef6f592c0a932dd2",
+      "is_merge": false
+    },
+    {
+      "sha": "bfafea63240d91731301061b642985c94740bbb7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #239 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.2.0\n\nchore(deps): bump astral-sh/setup-uv from 10.1.0 to 10.2.0",
+      "timestamp": "2026-09-26T12:39:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/bfafea63240d91731301061b642985c94740bbb7",
+      "is_merge": true
+    },
+    {
+      "sha": "cc83fa9c252d0e0d65ad81018682349d1fcaf52c",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.1.0 to 10.2.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.1.0 to 10.2.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/bec219d24cd3e171d82865faccec33120bb574f4...c18668ad3cf93ea998bef934396af7bb5c839dc7)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-26T12:32:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/cc83fa9c252d0e0d65ad81018682349d1fcaf52c",
+      "is_merge": false
+    },
+    {
+      "sha": "7a4cb3f85cd36e2fd60544cb4a8069dcd3495452",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #240 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.38.1\n\nchore(deps): bump github/codeql-action/upload-sarif from 4.38.0 to 4.38.1",
+      "timestamp": "2026-09-26T12:30:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/7a4cb3f85cd36e2fd60544cb4a8069dcd3495452",
+      "is_merge": true
+    },
+    {
+      "sha": "666b6df1a5a28c711d12e07c4ad34b3de81f789a",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.38.0 to 4.38.1.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/b96794f015dfd88f77b49b1c93e0fa7110f94c63...1c5b675653bb5c22dbe9b12b556ec555138e09fd)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.38.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-26T10:04:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/666b6df1a5a28c711d12e07c4ad34b3de81f789a",
+      "is_merge": false
+    },
+    {
       "sha": "6f6c04c5cab5d2a75c06beda655126e6f6f1016d",
       "author": "JaredHatfield",
       "message": "Merge pull request #236 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-7.1.1\n\nchore(deps): bump codecov/codecov-action from 7.0.0 to 7.1.1",

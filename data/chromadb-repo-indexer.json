@@ -6,6 +6,54 @@
   "latest_release_time": "2026-08-16T15:47:15Z",
   "unreleased_commits": [
     {
+      "sha": "1769d99272c49186087bdeef87ac09803fdb18ad",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #43 from UnitVectorY-Labs/dependabot-codeql-group\n\nAdd codeql groups to dependabot github-actions",
+      "timestamp": "2026-09-26T18:33:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/1769d99272c49186087bdeef87ac09803fdb18ad",
+      "is_merge": true
+    },
+    {
+      "sha": "bd1807ecab1fce8b738bf1945398fb85852bf2c4",
+      "author": "JaredHatfield",
+      "message": "Add codeql groups to dependabot github-actions",
+      "timestamp": "2026-09-26T18:13:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/bd1807ecab1fce8b738bf1945398fb85852bf2c4",
+      "is_merge": false
+    },
+    {
+      "sha": "621b4bf9533f0741155138051db7ec3241571fa9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #41 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.2.0\n\nbuild(deps): bump astral-sh/setup-uv from 10.1.0 to 10.2.0",
+      "timestamp": "2026-09-26T13:10:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/621b4bf9533f0741155138051db7ec3241571fa9",
+      "is_merge": true
+    },
+    {
+      "sha": "9487fd2026c589d2b37140c8b40433ad7a99da10",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #42 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.38.1\n\nbuild(deps): bump github/codeql-action/upload-sarif from 4.38.0 to 4.38.1",
+      "timestamp": "2026-09-26T12:37:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/9487fd2026c589d2b37140c8b40433ad7a99da10",
+      "is_merge": true
+    },
+    {
+      "sha": "fced7f632e456dcb21a3fcdee86e89f8496ffcab",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.38.0 to 4.38.1.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/b96794f015dfd88f77b49b1c93e0fa7110f94c63...1c5b675653bb5c22dbe9b12b556ec555138e09fd)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.38.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-26T10:12:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/fced7f632e456dcb21a3fcdee86e89f8496ffcab",
+      "is_merge": false
+    },
+    {
+      "sha": "a982e4fa3f4264c392613efd59f71232816212a0",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 10.1.0 to 10.2.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.1.0 to 10.2.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/bec219d24cd3e171d82865faccec33120bb574f4...c18668ad3cf93ea998bef934396af7bb5c839dc7)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-26T10:11:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/a982e4fa3f4264c392613efd59f71232816212a0",
+      "is_merge": false
+    },
+    {
       "sha": "e7b6ed82f37de4bdec485232cb2c38a4e7890eb0",
       "author": "JaredHatfield",
       "message": "Merge pull request #37 from UnitVectorY-Labs/dependabot/pip/tree-sitter-language-pack-1.20.0\n\nbuild(deps): bump tree-sitter-language-pack from 1.16.2 to 1.20.0",

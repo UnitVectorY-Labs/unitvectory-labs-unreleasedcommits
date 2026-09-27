@@ -6,6 +6,70 @@
   "latest_release_time": "2026-09-03T09:52:42Z",
   "unreleased_commits": [
     {
+      "sha": "0b23ec41920f91092ee0d26e30ff518466a39fce",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #54 from UnitVectorY-Labs/dependabot/github_actions/codeql-c83b7ed659\n\nbuild(deps): bump the codeql group with 2 updates",
+      "timestamp": "2026-09-26T17:38:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-filter-proxy/commit/0b23ec41920f91092ee0d26e30ff518466a39fce",
+      "is_merge": true
+    },
+    {
+      "sha": "587e0e4d8e581e3fa99fce34be30ff2c9775cc34",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump the codeql group with 2 updates\n\nBumps the codeql group with 2 updates: [github/codeql-action/init](https://github.com/github/codeql-action) and [github/codeql-action/analyze](https://github.com/github/codeql-action).\n\n\nUpdates `github/codeql-action/init` from 4.38.0 to 4.38.1\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/b96794f015dfd88f77b49b1c93e0fa7110f94c63...1c5b675653bb5c22dbe9b12b556ec555138e09fd)\n\nUpdates `github/codeql-action/analyze` from 4.38.0 to 4.38.1\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/b96794f015dfd88f77b49b1c93e0fa7110f94c63...1c5b675653bb5c22dbe9b12b556ec555138e09fd)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/init\n  dependency-version: 4.38.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n- dependency-name: github/codeql-action/analyze\n  dependency-version: 4.38.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-26T16:54:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-filter-proxy/commit/587e0e4d8e581e3fa99fce34be30ff2c9775cc34",
+      "is_merge": false
+    },
+    {
+      "sha": "823a000d59c426597fdd4a7c2d17186c61ba9e94",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #53 from UnitVectorY-Labs/gitrepoforge/mcp-filter-proxy\n\ngitrepoforge: apply desired state for mcp-filter-proxy",
+      "timestamp": "2026-09-26T16:50:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-filter-proxy/commit/823a000d59c426597fdd4a7c2d17186c61ba9e94",
+      "is_merge": true
+    },
+    {
+      "sha": "d341f6dbb19c318715c7aed6fa1ab67f6e170f0d",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for mcp-filter-proxy",
+      "timestamp": "2026-09-26T16:15:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-filter-proxy/commit/d341f6dbb19c318715c7aed6fa1ab67f6e170f0d",
+      "is_merge": false
+    },
+    {
+      "sha": "6a4597054ccf506c7bc0b92b30d08881e8cba132",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #50 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.2.0\n\nbuild(deps): bump astral-sh/setup-uv from 10.1.0 to 10.2.0",
+      "timestamp": "2026-09-26T13:10:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-filter-proxy/commit/6a4597054ccf506c7bc0b92b30d08881e8cba132",
+      "is_merge": true
+    },
+    {
+      "sha": "8d4f7de9b4489ab83f0e81abac507bf172027f05",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #51 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.38.1\n\nbuild(deps): bump github/codeql-action/upload-sarif from 4.38.0 to 4.38.1",
+      "timestamp": "2026-09-26T12:37:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-filter-proxy/commit/8d4f7de9b4489ab83f0e81abac507bf172027f05",
+      "is_merge": true
+    },
+    {
+      "sha": "6690f5e34d1d1fb33c07394067950909a4b1a54b",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.38.0 to 4.38.1.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/b96794f015dfd88f77b49b1c93e0fa7110f94c63...1c5b675653bb5c22dbe9b12b556ec555138e09fd)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.38.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-26T10:11:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-filter-proxy/commit/6690f5e34d1d1fb33c07394067950909a4b1a54b",
+      "is_merge": false
+    },
+    {
+      "sha": "f8f23359fe2dc35c0a5433b41ae51b9b4d0d8909",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 10.1.0 to 10.2.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.1.0 to 10.2.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/bec219d24cd3e171d82865faccec33120bb574f4...c18668ad3cf93ea998bef934396af7bb5c839dc7)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-26T10:10:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-filter-proxy/commit/f8f23359fe2dc35c0a5433b41ae51b9b4d0d8909",
+      "is_merge": false
+    },
+    {
       "sha": "faa26b766b444adda1ae6ee7c14ed18ab0a4774a",
       "author": "JaredHatfield",
       "message": "Merge pull request #48 from UnitVectorY-Labs/dependabot/go_modules/github.com/modelcontextprotocol/go-sdk-1.8.0\n\nbuild(deps): bump github.com/modelcontextprotocol/go-sdk from 1.7.0 to 1.8.0",

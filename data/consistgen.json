@@ -6,6 +6,70 @@
   "latest_release_time": "2026-07-02T10:52:46Z",
   "unreleased_commits": [
     {
+      "sha": "0f31639f9a315e4b049cc05970a4ecb6939cd3d1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #164 from UnitVectorY-Labs/dependabot/github_actions/codeql-4f351959ed\n\nchore(deps): bump the codeql group with 3 updates",
+      "timestamp": "2026-09-26T19:01:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/0f31639f9a315e4b049cc05970a4ecb6939cd3d1",
+      "is_merge": true
+    },
+    {
+      "sha": "0b876e3ddb318fd6988597b6ac3b1438d411a7e4",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump the codeql group with 3 updates\n\nBumps the codeql group with 3 updates: [github/codeql-action/init](https://github.com/github/codeql-action), [github/codeql-action/autobuild](https://github.com/github/codeql-action) and [github/codeql-action/analyze](https://github.com/github/codeql-action).\n\n\nUpdates `github/codeql-action/init` from 4.38.0 to 4.38.1\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/b96794f015dfd88f77b49b1c93e0fa7110f94c63...1c5b675653bb5c22dbe9b12b556ec555138e09fd)\n\nUpdates `github/codeql-action/autobuild` from 4.38.0 to 4.38.1\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/b96794f015dfd88f77b49b1c93e0fa7110f94c63...1c5b675653bb5c22dbe9b12b556ec555138e09fd)\n\nUpdates `github/codeql-action/analyze` from 4.38.0 to 4.38.1\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/b96794f015dfd88f77b49b1c93e0fa7110f94c63...1c5b675653bb5c22dbe9b12b556ec555138e09fd)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/init\n  dependency-version: 4.38.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n- dependency-name: github/codeql-action/autobuild\n  dependency-version: 4.38.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n- dependency-name: github/codeql-action/analyze\n  dependency-version: 4.38.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-26T18:42:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/0b876e3ddb318fd6988597b6ac3b1438d411a7e4",
+      "is_merge": false
+    },
+    {
+      "sha": "81e90a1c058fda4519adbb69095bafb9d129b32d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #163 from UnitVectorY-Labs/dependabot-codeql-group\n\nAdd codeql groups to dependabot github-actions",
+      "timestamp": "2026-09-26T18:32:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/81e90a1c058fda4519adbb69095bafb9d129b32d",
+      "is_merge": true
+    },
+    {
+      "sha": "c3323200cfa0ad8f01f7261ae1c031765d000fd1",
+      "author": "JaredHatfield",
+      "message": "Add codeql groups to dependabot github-actions",
+      "timestamp": "2026-09-26T18:14:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/c3323200cfa0ad8f01f7261ae1c031765d000fd1",
+      "is_merge": false
+    },
+    {
+      "sha": "16597a970391c77eb5e90c783e7c6662b8fdd942",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #162 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.2.0\n\nchore(deps): bump astral-sh/setup-uv from 10.1.0 to 10.2.0",
+      "timestamp": "2026-09-26T13:05:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/16597a970391c77eb5e90c783e7c6662b8fdd942",
+      "is_merge": true
+    },
+    {
+      "sha": "54d48f2f14d6483f781b51dbfe78bfd736c2747a",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.1.0 to 10.2.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.1.0 to 10.2.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/bec219d24cd3e171d82865faccec33120bb574f4...c18668ad3cf93ea998bef934396af7bb5c839dc7)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-26T12:36:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/54d48f2f14d6483f781b51dbfe78bfd736c2747a",
+      "is_merge": false
+    },
+    {
+      "sha": "f15ecd96a4c49b98c1d85988e527e55af74b9f6d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #160 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.38.1\n\nchore(deps): bump github/codeql-action/upload-sarif from 4.38.0 to 4.38.1",
+      "timestamp": "2026-09-26T12:31:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/f15ecd96a4c49b98c1d85988e527e55af74b9f6d",
+      "is_merge": true
+    },
+    {
+      "sha": "81297fbbda61faa7187489fb8bfb08211a3dd097",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.38.0 to 4.38.1.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/b96794f015dfd88f77b49b1c93e0fa7110f94c63...1c5b675653bb5c22dbe9b12b556ec555138e09fd)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.38.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-26T10:05:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/81297fbbda61faa7187489fb8bfb08211a3dd097",
+      "is_merge": false
+    },
+    {
       "sha": "7606c672eec59f3db722fe3591f142fbeb4e260b",
       "author": "JaredHatfield",
       "message": "Merge pull request #156 from UnitVectorY-Labs/dependabot/github_actions/codecov/codecov-action-7.1.1\n\nchore(deps): bump codecov/codecov-action from 7.0.0 to 7.1.1",

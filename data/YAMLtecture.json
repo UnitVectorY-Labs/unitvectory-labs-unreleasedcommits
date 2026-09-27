@@ -6,6 +6,70 @@
   "latest_release_time": "2026-09-03T09:52:58Z",
   "unreleased_commits": [
     {
+      "sha": "0611e6f4dd9df6cd523780d2d1c331b6276d4a69",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #181 from UnitVectorY-Labs/dependabot/github_actions/codeql-c83b7ed659\n\nbuild(deps): bump the codeql group with 2 updates",
+      "timestamp": "2026-09-26T17:37:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/0611e6f4dd9df6cd523780d2d1c331b6276d4a69",
+      "is_merge": true
+    },
+    {
+      "sha": "e9b803ceb03935138b824869eb2f69c71034b787",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump the codeql group with 2 updates\n\nBumps the codeql group with 2 updates: [github/codeql-action/init](https://github.com/github/codeql-action) and [github/codeql-action/analyze](https://github.com/github/codeql-action).\n\n\nUpdates `github/codeql-action/init` from 4.38.0 to 4.38.1\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/b96794f015dfd88f77b49b1c93e0fa7110f94c63...1c5b675653bb5c22dbe9b12b556ec555138e09fd)\n\nUpdates `github/codeql-action/analyze` from 4.38.0 to 4.38.1\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/b96794f015dfd88f77b49b1c93e0fa7110f94c63...1c5b675653bb5c22dbe9b12b556ec555138e09fd)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/init\n  dependency-version: 4.38.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n- dependency-name: github/codeql-action/analyze\n  dependency-version: 4.38.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-26T16:42:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/e9b803ceb03935138b824869eb2f69c71034b787",
+      "is_merge": false
+    },
+    {
+      "sha": "14726305b2ebaa8f8424a9a10b219c57d8f1cf11",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #180 from UnitVectorY-Labs/gitrepoforge/YAMLtecture\n\ngitrepoforge: apply desired state for YAMLtecture",
+      "timestamp": "2026-09-26T16:38:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/14726305b2ebaa8f8424a9a10b219c57d8f1cf11",
+      "is_merge": true
+    },
+    {
+      "sha": "d46909ebbfce13a8f269b20f36eaaf80def18fe5",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for YAMLtecture",
+      "timestamp": "2026-09-26T16:15:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/d46909ebbfce13a8f269b20f36eaaf80def18fe5",
+      "is_merge": false
+    },
+    {
+      "sha": "627c06e271c64d952154bff49da6d020ffef8612",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #176 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.2.0\n\nbuild(deps): bump astral-sh/setup-uv from 10.1.0 to 10.2.0",
+      "timestamp": "2026-09-26T13:54:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/627c06e271c64d952154bff49da6d020ffef8612",
+      "is_merge": true
+    },
+    {
+      "sha": "cc1d905c35638b912509cb927450482aa0ec589d",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 10.1.0 to 10.2.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.1.0 to 10.2.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/bec219d24cd3e171d82865faccec33120bb574f4...c18668ad3cf93ea998bef934396af7bb5c839dc7)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-26T12:39:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/cc1d905c35638b912509cb927450482aa0ec589d",
+      "is_merge": false
+    },
+    {
+      "sha": "8f93fc523faec6d912e99ff62db5b071820507e5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #177 from UnitVectorY-Labs/dependabot/github_actions/github/codeql-action/upload-sarif-4.38.1\n\nbuild(deps): bump github/codeql-action/upload-sarif from 4.38.0 to 4.38.1",
+      "timestamp": "2026-09-26T12:33:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/8f93fc523faec6d912e99ff62db5b071820507e5",
+      "is_merge": true
+    },
+    {
+      "sha": "8f1cb27702b92f65237a4d63825d5589dee70223",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github/codeql-action/upload-sarif\n\nBumps [github/codeql-action/upload-sarif](https://github.com/github/codeql-action) from 4.38.0 to 4.38.1.\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/b96794f015dfd88f77b49b1c93e0fa7110f94c63...1c5b675653bb5c22dbe9b12b556ec555138e09fd)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.38.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-26T10:05:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/8f1cb27702b92f65237a4d63825d5589dee70223",
+      "is_merge": false
+    },
+    {
       "sha": "bd3604867f8d2d950837b2495c906e30223a9303",
       "author": "JaredHatfield",
       "message": "Merge pull request #168 from UnitVectorY-Labs/dependabot/go_modules/github.com/go-playground/validator/v10-10.30.4\n\nbuild(deps): bump github.com/go-playground/validator/v10 from 10.30.3 to 10.30.4",
