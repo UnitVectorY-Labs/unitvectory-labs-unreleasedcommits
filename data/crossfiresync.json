@@ -6,6 +6,14 @@
   "latest_release_time": "2026-06-22T22:18:06Z",
   "unreleased_commits": [
     {
+      "sha": "d481ebe05e49065b94b47dac9c1de733dde3fab4",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #282 from UnitVectorY-Labs/dependabot/maven/org.mockito-mockito-core-5.24.0\n\nchore(deps-dev): bump org.mockito:mockito-core from 5.23.0 to 5.24.0",
+      "timestamp": "2026-09-27T13:27:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/d481ebe05e49065b94b47dac9c1de733dde3fab4",
+      "is_merge": true
+    },
+    {
       "sha": "417e369a96977be8b8bb1884d4a5e2fa45084969",
       "author": "JaredHatfield",
       "message": "Merge pull request #283 from UnitVectorY-Labs/dependabot/github_actions/codeql-4f351959ed\n\nchore(deps): bump the codeql group with 3 updates",
@@ -19,6 +27,14 @@
       "message": "chore(deps): bump the codeql group with 3 updates\n\nBumps the codeql group with 3 updates: [github/codeql-action/init](https://github.com/github/codeql-action), [github/codeql-action/autobuild](https://github.com/github/codeql-action) and [github/codeql-action/analyze](https://github.com/github/codeql-action).\n\n\nUpdates `github/codeql-action/init` from 4.38.0 to 4.38.1\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/b96794f015dfd88f77b49b1c93e0fa7110f94c63...1c5b675653bb5c22dbe9b12b556ec555138e09fd)\n\nUpdates `github/codeql-action/autobuild` from 4.38.0 to 4.38.1\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/b96794f015dfd88f77b49b1c93e0fa7110f94c63...1c5b675653bb5c22dbe9b12b556ec555138e09fd)\n\nUpdates `github/codeql-action/analyze` from 4.38.0 to 4.38.1\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/b96794f015dfd88f77b49b1c93e0fa7110f94c63...1c5b675653bb5c22dbe9b12b556ec555138e09fd)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/init\n  dependency-version: 4.38.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n- dependency-name: github/codeql-action/autobuild\n  dependency-version: 4.38.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n- dependency-name: github/codeql-action/analyze\n  dependency-version: 4.38.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-09-26T18:39:14Z",
       "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/fbfcc8cfecf204fa54c74e1761a0074d345da723",
+      "is_merge": false
+    },
+    {
+      "sha": "24448eedc1a8e15d6ced74b0faf97f67a545128a",
+      "author": "dependabot[bot]",
+      "message": "chore(deps-dev): bump org.mockito:mockito-core from 5.23.0 to 5.24.0\n\nBumps [org.mockito:mockito-core](https://github.com/mockito/mockito) from 5.23.0 to 5.24.0.\n- [Release notes](https://github.com/mockito/mockito/releases)\n- [Commits](https://github.com/mockito/mockito/compare/v5.23.0...v5.24.0)\n\n---\nupdated-dependencies:\n- dependency-name: org.mockito:mockito-core\n  dependency-version: 5.24.0\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-26T18:35:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/24448eedc1a8e15d6ced74b0faf97f67a545128a",
       "is_merge": false
     },
     {

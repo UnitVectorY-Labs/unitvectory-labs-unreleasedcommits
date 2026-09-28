@@ -2,25 +2,8 @@
   "owner": "UnitVectorY-Labs",
   "name": "ghprmerge",
   "default_branch": "main",
-  "latest_release_tag": "v0.8.0",
-  "latest_release_time": "2026-09-26T18:05:19Z",
-  "unreleased_commits": [
-    {
-      "sha": "7172c5073de9d08fa566f488593b88b49f8a5c64",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #135 from UnitVectorY-Labs/feat/workers-env-var\n\nfeat: support GHPRMERGE_WORKERS env var for default worker count",
-      "timestamp": "2026-09-26T19:11:38Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/7172c5073de9d08fa566f488593b88b49f8a5c64",
-      "is_merge": true
-    },
-    {
-      "sha": "cb1aa3af63a1baaf3613133dd8f1ce8646c609dc",
-      "author": "JaredHatfield",
-      "message": "feat: support GHPRMERGE_WORKERS env var for default worker count\n\n- Parse GHPRMERGE_WORKERS env var during flag parsing, overriding default\n- --workers flag still takes precedence over env var\n- Update docs to reflect env var default for workers\n- Add tests for env var parsing and validation",
-      "timestamp": "2026-09-26T19:09:18Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/cb1aa3af63a1baaf3613133dd8f1ce8646c609dc",
-      "is_merge": false
-    }
-  ],
+  "latest_release_tag": "v0.8.1",
+  "latest_release_time": "2026-09-27T13:05:03Z",
+  "unreleased_commits": null,
   "repository_url": "https://github.com/UnitVectorY-Labs/ghprmerge"
 }

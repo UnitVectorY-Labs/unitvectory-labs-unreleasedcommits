@@ -6,6 +6,30 @@
   "latest_release_time": "2026-08-16T15:47:15Z",
   "unreleased_commits": [
     {
+      "sha": "5befbce8c5f6105aab233f619ea7e8be3204d8f7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #39 from UnitVectorY-Labs/dependabot/pip/hatchling-1.32.4\n\nbuild(deps-dev): bump hatchling from 1.32.0 to 1.32.4",
+      "timestamp": "2026-09-27T13:58:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/5befbce8c5f6105aab233f619ea7e8be3204d8f7",
+      "is_merge": true
+    },
+    {
+      "sha": "e109a6125d8b55fc5b0b35d1d71ebde5cd436a26",
+      "author": "dependabot[bot]",
+      "message": "build(deps-dev): bump hatchling from 1.32.0 to 1.32.4\n\nBumps [hatchling](https://github.com/pypa/hatch) from 1.32.0 to 1.32.4.\n- [Release notes](https://github.com/pypa/hatch/releases)\n- [Commits](https://github.com/pypa/hatch/compare/hatchling-v1.32.0...hatchling-v1.32.4)\n\n---\nupdated-dependencies:\n- dependency-name: hatchling\n  dependency-version: 1.32.4\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-27T13:35:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/e109a6125d8b55fc5b0b35d1d71ebde5cd436a26",
+      "is_merge": false
+    },
+    {
+      "sha": "84fe3735b8ab68d8e2dc44b42d2c4c556109eb4d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #40 from UnitVectorY-Labs/dependabot/pip/llama-index-core-0.14.25\n\nbuild(deps): bump llama-index-core from 0.14.24 to 0.14.25",
+      "timestamp": "2026-09-27T13:29:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/84fe3735b8ab68d8e2dc44b42d2c4c556109eb4d",
+      "is_merge": true
+    },
+    {
       "sha": "1769d99272c49186087bdeef87ac09803fdb18ad",
       "author": "JaredHatfield",
       "message": "Merge pull request #43 from UnitVectorY-Labs/dependabot-codeql-group\n\nAdd codeql groups to dependabot github-actions",
@@ -51,6 +75,14 @@
       "message": "build(deps): bump astral-sh/setup-uv from 10.1.0 to 10.2.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.1.0 to 10.2.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/bec219d24cd3e171d82865faccec33120bb574f4...c18668ad3cf93ea998bef934396af7bb5c839dc7)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-09-26T10:11:39Z",
       "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/a982e4fa3f4264c392613efd59f71232816212a0",
+      "is_merge": false
+    },
+    {
+      "sha": "9070e190bba22f16a73df4464fbc34df887d7334",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump llama-index-core from 0.14.24 to 0.14.25\n\nBumps [llama-index-core](https://github.com/run-llama/llama_index) from 0.14.24 to 0.14.25.\n- [Release notes](https://github.com/run-llama/llama_index/releases)\n- [Changelog](https://github.com/run-llama/llama_index/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/run-llama/llama_index/compare/v0.14.24...v0.14.25)\n\n---\nupdated-dependencies:\n- dependency-name: llama-index-core\n  dependency-version: 0.14.25\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-09-26T10:10:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/9070e190bba22f16a73df4464fbc34df887d7334",
       "is_merge": false
     },
     {
