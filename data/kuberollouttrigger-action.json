@@ -6,6 +6,22 @@
   "latest_release_time": "2026-09-10T23:33:10Z",
   "unreleased_commits": [
     {
+      "sha": "63b59a91a8aaea7c295e8f4c13fd18384d3a97c8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #77 from UnitVectorY-Labs/dependabot/github_actions/codeql-9d88a12d2b\n\nBump the codeql group with 3 updates",
+      "timestamp": "2026-10-04T12:53:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/63b59a91a8aaea7c295e8f4c13fd18384d3a97c8",
+      "is_merge": true
+    },
+    {
+      "sha": "1e87f648769d92ab3e67534aae4782f7099e6499",
+      "author": "dependabot[bot]",
+      "message": "Bump the codeql group with 3 updates\n\nBumps the codeql group with 3 updates: [github/codeql-action/init](https://github.com/github/codeql-action), [github/codeql-action/analyze](https://github.com/github/codeql-action) and [github/codeql-action/upload-sarif](https://github.com/github/codeql-action).\n\n\nUpdates `github/codeql-action/init` from 4.38.1 to 4.38.2\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/1c5b675653bb5c22dbe9b12b556ec555138e09fd...2892aa5e19bbd11bc0cff5427e3b750a04d9e3c2)\n\nUpdates `github/codeql-action/analyze` from 4.38.1 to 4.38.2\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/1c5b675653bb5c22dbe9b12b556ec555138e09fd...2892aa5e19bbd11bc0cff5427e3b750a04d9e3c2)\n\nUpdates `github/codeql-action/upload-sarif` from 4.38.1 to 4.38.2\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/1c5b675653bb5c22dbe9b12b556ec555138e09fd...2892aa5e19bbd11bc0cff5427e3b750a04d9e3c2)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/init\n  dependency-version: 4.38.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n- dependency-name: github/codeql-action/analyze\n  dependency-version: 4.38.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.38.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-03T10:11:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/1e87f648769d92ab3e67534aae4782f7099e6499",
+      "is_merge": false
+    },
+    {
       "sha": "d7d132cd47486977f18e3df51bb86da69dbe2a67",
       "author": "JaredHatfield",
       "message": "Merge pull request #75 from UnitVectorY-Labs/dependabot/github_actions/codeql-c83b7ed659\n\nBump the codeql group with 2 updates",

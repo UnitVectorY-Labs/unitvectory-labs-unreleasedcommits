@@ -6,6 +6,22 @@
   "latest_release_time": "2026-08-13T00:50:01Z",
   "unreleased_commits": [
     {
+      "sha": "f0de1b55e35a95f45f7f4c5590eadc3a8bf560d5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #204 from UnitVectorY-Labs/dependabot/github_actions/codeql-435f1796a1\n\nchore(deps): bump the codeql group with 4 updates",
+      "timestamp": "2026-10-04T12:53:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/fileparamunit/commit/f0de1b55e35a95f45f7f4c5590eadc3a8bf560d5",
+      "is_merge": true
+    },
+    {
+      "sha": "caa413c2cb2c20d9e6fdd753dc596f44feffbb46",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump the codeql group with 4 updates\n\nBumps the codeql group with 4 updates: [github/codeql-action/init](https://github.com/github/codeql-action), [github/codeql-action/autobuild](https://github.com/github/codeql-action), [github/codeql-action/analyze](https://github.com/github/codeql-action) and [github/codeql-action/upload-sarif](https://github.com/github/codeql-action).\n\n\nUpdates `github/codeql-action/init` from 4.38.1 to 4.38.2\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/1c5b675653bb5c22dbe9b12b556ec555138e09fd...2892aa5e19bbd11bc0cff5427e3b750a04d9e3c2)\n\nUpdates `github/codeql-action/autobuild` from 4.38.1 to 4.38.2\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/1c5b675653bb5c22dbe9b12b556ec555138e09fd...2892aa5e19bbd11bc0cff5427e3b750a04d9e3c2)\n\nUpdates `github/codeql-action/analyze` from 4.38.1 to 4.38.2\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/1c5b675653bb5c22dbe9b12b556ec555138e09fd...2892aa5e19bbd11bc0cff5427e3b750a04d9e3c2)\n\nUpdates `github/codeql-action/upload-sarif` from 4.38.1 to 4.38.2\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/1c5b675653bb5c22dbe9b12b556ec555138e09fd...2892aa5e19bbd11bc0cff5427e3b750a04d9e3c2)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/init\n  dependency-version: 4.38.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n- dependency-name: github/codeql-action/autobuild\n  dependency-version: 4.38.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n- dependency-name: github/codeql-action/analyze\n  dependency-version: 4.38.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.38.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-03T10:06:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/fileparamunit/commit/caa413c2cb2c20d9e6fdd753dc596f44feffbb46",
+      "is_merge": false
+    },
+    {
       "sha": "ebb1cec90ef6bedb5f350ffe110e23ef317bdb11",
       "author": "JaredHatfield",
       "message": "Merge pull request #202 from UnitVectorY-Labs/dependabot/maven/org.mockito-mockito-core-5.24.0\n\nchore(deps-dev): bump org.mockito:mockito-core from 5.23.0 to 5.24.0",

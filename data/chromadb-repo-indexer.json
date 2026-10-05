@@ -6,6 +6,38 @@
   "latest_release_time": "2026-08-16T15:47:15Z",
   "unreleased_commits": [
     {
+      "sha": "94f820584a8528a54a3d5de09c25fd91fbf78264",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #45 from UnitVectorY-Labs/dependabot/pip/charset-normalizer-3.5.2\n\nbuild(deps): bump charset-normalizer from 3.5.1 to 3.5.2",
+      "timestamp": "2026-10-04T13:53:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/94f820584a8528a54a3d5de09c25fd91fbf78264",
+      "is_merge": true
+    },
+    {
+      "sha": "41b43ceeb1ffa09bd9e08ad31f0608f266819c87",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #46 from UnitVectorY-Labs/dependabot/github_actions/codeql-b300d6d0aa\n\nbuild(deps): bump github/codeql-action/upload-sarif from 4.38.1 to 4.38.2 in the codeql group",
+      "timestamp": "2026-10-04T12:53:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/41b43ceeb1ffa09bd9e08ad31f0608f266819c87",
+      "is_merge": true
+    },
+    {
+      "sha": "6b6f2d828d83731fba6031ae6dfbc5bb383eaa20",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github/codeql-action/upload-sarif\n\nBumps the codeql group with 1 update: [github/codeql-action/upload-sarif](https://github.com/github/codeql-action).\n\n\nUpdates `github/codeql-action/upload-sarif` from 4.38.1 to 4.38.2\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/1c5b675653bb5c22dbe9b12b556ec555138e09fd...2892aa5e19bbd11bc0cff5427e3b750a04d9e3c2)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.38.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-03T10:13:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/6b6f2d828d83731fba6031ae6dfbc5bb383eaa20",
+      "is_merge": false
+    },
+    {
+      "sha": "3cd65e81cdbb2cf6bf58a5cd7f9bee0895f639e6",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump charset-normalizer from 3.5.1 to 3.5.2\n\nBumps [charset-normalizer](https://github.com/jawah/charset_normalizer) from 3.5.1 to 3.5.2.\n- [Release notes](https://github.com/jawah/charset_normalizer/releases)\n- [Changelog](https://github.com/jawah/charset_normalizer/blob/master/CHANGELOG.md)\n- [Commits](https://github.com/jawah/charset_normalizer/compare/3.5.1...3.5.2)\n\n---\nupdated-dependencies:\n- dependency-name: charset-normalizer\n  dependency-version: 3.5.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-03T10:09:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/3cd65e81cdbb2cf6bf58a5cd7f9bee0895f639e6",
+      "is_merge": false
+    },
+    {
       "sha": "5befbce8c5f6105aab233f619ea7e8be3204d8f7",
       "author": "JaredHatfield",
       "message": "Merge pull request #39 from UnitVectorY-Labs/dependabot/pip/hatchling-1.32.4\n\nbuild(deps-dev): bump hatchling from 1.32.0 to 1.32.4",
