@@ -6,6 +6,38 @@
   "latest_release_time": "2026-09-03T09:52:39Z",
   "unreleased_commits": [
     {
+      "sha": "373fbd913b67a5014f4dbf091b56227f1984278a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #169 from UnitVectorY-Labs/gitrepoforge/govulncheck-sarif\n\nAdd official govulncheck SARIF scanning",
+      "timestamp": "2026-10-06T01:47:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/373fbd913b67a5014f4dbf091b56227f1984278a",
+      "is_merge": true
+    },
+    {
+      "sha": "9f8f14dd1dfafdd9800bc5cd5beff3b17005ca35",
+      "author": "JaredHatfield",
+      "message": "Add official govulncheck SARIF scanning",
+      "timestamp": "2026-10-06T00:55:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/9f8f14dd1dfafdd9800bc5cd5beff3b17005ca35",
+      "is_merge": false
+    },
+    {
+      "sha": "734bf8740aa0ffb6965ed219d66ca57f60f3ebf4",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #168 from UnitVectorY-Labs/chore/bump-golang.org-x-sys-0.44.0\n\nBump golang.org/x/sys from v0.41.0 to v0.44.0",
+      "timestamp": "2026-10-05T23:03:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/734bf8740aa0ffb6965ed219d66ca57f60f3ebf4",
+      "is_merge": true
+    },
+    {
+      "sha": "82597fd36152ab036908d97bcba3415d93861e53",
+      "author": "JaredHatfield",
+      "message": "Bump golang.org/x/sys from v0.41.0 to v0.44.0\n\n- GO-2026-5024 / CVE-2026-39824 — Invoking integer overflow in NewNTUnicodeString ([advisory](https://pkg.go.dev/vuln/GO-2026-5024))",
+      "timestamp": "2026-10-05T22:30:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/82597fd36152ab036908d97bcba3415d93861e53",
+      "is_merge": false
+    },
+    {
       "sha": "3d62528a500a5946a23979cad453424d56dd5a1f",
       "author": "JaredHatfield",
       "message": "Merge pull request #167 from UnitVectorY-Labs/dependabot/github_actions/codeql-9d88a12d2b\n\nchore(deps): bump the codeql group with 3 updates",

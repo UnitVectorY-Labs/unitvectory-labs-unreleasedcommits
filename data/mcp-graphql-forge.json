@@ -6,6 +6,38 @@
   "latest_release_time": "2026-09-03T09:52:44Z",
   "unreleased_commits": [
     {
+      "sha": "8f995411d179ed2eb7a602210f609675657cb822",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #179 from UnitVectorY-Labs/gitrepoforge/govulncheck-sarif\n\nAdd official govulncheck SARIF scanning",
+      "timestamp": "2026-10-06T01:47:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/8f995411d179ed2eb7a602210f609675657cb822",
+      "is_merge": true
+    },
+    {
+      "sha": "4754f13718128016c4248736e6c0adb14bbf411a",
+      "author": "JaredHatfield",
+      "message": "Add official govulncheck SARIF scanning",
+      "timestamp": "2026-10-06T00:55:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/4754f13718128016c4248736e6c0adb14bbf411a",
+      "is_merge": false
+    },
+    {
+      "sha": "c21c19f901ec6d4573001139c4e11a7be4e93aee",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #178 from UnitVectorY-Labs/chore/bump-golang.org-x-sys-0.44.0\n\nBump golang.org/x/sys from v0.41.0 to v0.44.0",
+      "timestamp": "2026-10-05T23:03:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/c21c19f901ec6d4573001139c4e11a7be4e93aee",
+      "is_merge": true
+    },
+    {
+      "sha": "b8c6056baf6538b0c8148e740e9906ba3cb89527",
+      "author": "JaredHatfield",
+      "message": "Bump golang.org/x/sys from v0.41.0 to v0.44.0\n\n- GO-2026-5024 / CVE-2026-39824 — Invoking integer overflow in NewNTUnicodeString ([advisory](https://pkg.go.dev/vuln/GO-2026-5024))",
+      "timestamp": "2026-10-05T22:30:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/b8c6056baf6538b0c8148e740e9906ba3cb89527",
+      "is_merge": false
+    },
+    {
       "sha": "e5161dbabaedf9c07d5cb576bcfbde8fae9c850e",
       "author": "JaredHatfield",
       "message": "Merge pull request #177 from UnitVectorY-Labs/dependabot/github_actions/codeql-9d88a12d2b\n\nchore(deps): bump the codeql group with 3 updates",

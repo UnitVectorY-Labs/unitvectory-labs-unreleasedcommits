@@ -6,6 +6,22 @@
   "latest_release_time": "2026-09-03T09:52:29Z",
   "unreleased_commits": [
     {
+      "sha": "d7093a3bbd7b752ed62e18d86a9dc858d578c7ad",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #177 from UnitVectorY-Labs/chore/bump-golang.org-x-crypto-0.56.0\n\nBump golang.org/x/crypto from v0.53.0 to v0.56.0",
+      "timestamp": "2026-10-05T23:03:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/d7093a3bbd7b752ed62e18d86a9dc858d578c7ad",
+      "is_merge": true
+    },
+    {
+      "sha": "106d8d63cad1f9e5a4f00dbfc035b76e07cb6f5f",
+      "author": "JaredHatfield",
+      "message": "Bump golang.org/x/crypto from v0.53.0 to v0.56.0\n\n- GO-2026-6303 / CVE-2026-56854 — Source-address critical option not enforced for non-public-key auth in ssh ([advisory](https://pkg.go.dev/vuln/GO-2026-6303))\n- GO-2026-6354 / CVE-2026-78662 — DoS on deadlocked undecided channel in ssh ([advisory](https://pkg.go.dev/vuln/GO-2026-6354))\n- GO-2026-6355 / CVE-2026-56855 — DoS on deadlocked established channel in ssh ([advisory](https://pkg.go.dev/vuln/GO-2026-6355))",
+      "timestamp": "2026-10-05T22:30:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/iapheaders/commit/106d8d63cad1f9e5a4f00dbfc035b76e07cb6f5f",
+      "is_merge": false
+    },
+    {
       "sha": "80c559791de00f43611130c961d48efa8214a8a2",
       "author": "JaredHatfield",
       "message": "Merge pull request #176 from UnitVectorY-Labs/dependabot/github_actions/codeql-9d88a12d2b\n\nchore(deps): bump the codeql group with 3 updates",

@@ -6,6 +6,38 @@
   "latest_release_time": "2026-09-03T09:52:42Z",
   "unreleased_commits": [
     {
+      "sha": "ff1bd0bc260c8d05bea0bbbd4cbbf42ccfc49298",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #57 from UnitVectorY-Labs/gitrepoforge/govulncheck-sarif\n\nAdd official govulncheck SARIF scanning",
+      "timestamp": "2026-10-06T01:50:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-filter-proxy/commit/ff1bd0bc260c8d05bea0bbbd4cbbf42ccfc49298",
+      "is_merge": true
+    },
+    {
+      "sha": "a0ecab7ea7eba484f27f0f0c6df2bf17943e069a",
+      "author": "JaredHatfield",
+      "message": "Add official govulncheck SARIF scanning",
+      "timestamp": "2026-10-06T00:55:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-filter-proxy/commit/a0ecab7ea7eba484f27f0f0c6df2bf17943e069a",
+      "is_merge": false
+    },
+    {
+      "sha": "ccffe9311f1a0244031f9e9150b93ba1f5db985f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #56 from UnitVectorY-Labs/chore/bump-golang.org-x-sys-0.44.0\n\nBump golang.org/x/sys from v0.41.0 to v0.44.0",
+      "timestamp": "2026-10-05T23:03:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-filter-proxy/commit/ccffe9311f1a0244031f9e9150b93ba1f5db985f",
+      "is_merge": true
+    },
+    {
+      "sha": "a6b7f93cb3a1be1f768166fbdcabcdc3aacfa80b",
+      "author": "JaredHatfield",
+      "message": "Bump golang.org/x/sys from v0.41.0 to v0.44.0\n\n- GO-2026-5024 / CVE-2026-39824 — Invoking integer overflow in NewNTUnicodeString ([advisory](https://pkg.go.dev/vuln/GO-2026-5024))",
+      "timestamp": "2026-10-05T22:30:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-filter-proxy/commit/a6b7f93cb3a1be1f768166fbdcabcdc3aacfa80b",
+      "is_merge": false
+    },
+    {
       "sha": "cef60502c85d3103c075d643980435005315eafd",
       "author": "JaredHatfield",
       "message": "Merge pull request #55 from UnitVectorY-Labs/dependabot/github_actions/codeql-9d88a12d2b\n\nbuild(deps): bump the codeql group with 3 updates",

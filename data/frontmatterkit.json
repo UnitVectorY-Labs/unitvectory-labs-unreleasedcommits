@@ -6,6 +6,38 @@
   "latest_release_time": "2026-09-03T09:52:00Z",
   "unreleased_commits": [
     {
+      "sha": "3c4588fdc3924087360ae71ec672ab6a59368b5e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #90 from UnitVectorY-Labs/gitrepoforge/govulncheck-sarif\n\nAdd official govulncheck SARIF scanning",
+      "timestamp": "2026-10-06T01:49:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/3c4588fdc3924087360ae71ec672ab6a59368b5e",
+      "is_merge": true
+    },
+    {
+      "sha": "eb185f4fe394daf5229b7c9284418a0344b9a74c",
+      "author": "JaredHatfield",
+      "message": "Add official govulncheck SARIF scanning",
+      "timestamp": "2026-10-06T00:53:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/eb185f4fe394daf5229b7c9284418a0344b9a74c",
+      "is_merge": false
+    },
+    {
+      "sha": "3936bbaf3c110dd5a631b04b0e7a9cb1d2b63466",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #89 from UnitVectorY-Labs/chore/bump-golang.org-x-text-0.39.0\n\nBump golang.org/x/text from v0.14.0 to v0.39.0",
+      "timestamp": "2026-10-05T23:02:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/3936bbaf3c110dd5a631b04b0e7a9cb1d2b63466",
+      "is_merge": true
+    },
+    {
+      "sha": "01e65a984982ac5fe76a4f734537cc65d5709347",
+      "author": "JaredHatfield",
+      "message": "Bump golang.org/x/text from v0.14.0 to v0.39.0\n\n- GO-2026-5970 / CVE-2026-56852 — Infinite loop on invalid input ([advisory](https://pkg.go.dev/vuln/GO-2026-5970))",
+      "timestamp": "2026-10-05T22:29:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/01e65a984982ac5fe76a4f734537cc65d5709347",
+      "is_merge": false
+    },
+    {
       "sha": "18122c903990a06b87c1b3d3b8c16139d31c04f2",
       "author": "JaredHatfield",
       "message": "Merge pull request #88 from UnitVectorY-Labs/dependabot/github_actions/codeql-9d88a12d2b\n\nbuild(deps): bump the codeql group with 3 updates",

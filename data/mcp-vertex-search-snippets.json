@@ -6,6 +6,38 @@
   "latest_release_time": "2026-09-03T09:52:49Z",
   "unreleased_commits": [
     {
+      "sha": "a39501f5c44cd604f13ee5b8324b1cd8e89f1033",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #158 from UnitVectorY-Labs/gitrepoforge/govulncheck-sarif\n\nAdd official govulncheck SARIF scanning",
+      "timestamp": "2026-10-06T01:47:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/a39501f5c44cd604f13ee5b8324b1cd8e89f1033",
+      "is_merge": true
+    },
+    {
+      "sha": "bd4e7b374c7d240f9313ef6600b7f67d736bed6e",
+      "author": "JaredHatfield",
+      "message": "Add official govulncheck SARIF scanning",
+      "timestamp": "2026-10-06T00:56:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/bd4e7b374c7d240f9313ef6600b7f67d736bed6e",
+      "is_merge": false
+    },
+    {
+      "sha": "a61b36acd94f9fb355f332f995083f1212d33bd1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #157 from UnitVectorY-Labs/chore/bump-golang.org-x-sys-0.44.0\n\nBump golang.org/x/sys from v0.41.0 to v0.44.0",
+      "timestamp": "2026-10-05T23:03:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/a61b36acd94f9fb355f332f995083f1212d33bd1",
+      "is_merge": true
+    },
+    {
+      "sha": "1dd38087a99c87628e248ceed484b6e293fffadd",
+      "author": "JaredHatfield",
+      "message": "Bump golang.org/x/sys from v0.41.0 to v0.44.0\n\n- GO-2026-5024 / CVE-2026-39824 — Invoking integer overflow in NewNTUnicodeString ([advisory](https://pkg.go.dev/vuln/GO-2026-5024))",
+      "timestamp": "2026-10-05T22:29:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/1dd38087a99c87628e248ceed484b6e293fffadd",
+      "is_merge": false
+    },
+    {
       "sha": "662684863d99f80cb0cb090105b6b6759a00bb68",
       "author": "JaredHatfield",
       "message": "Merge pull request #156 from UnitVectorY-Labs/dependabot/github_actions/codeql-9d88a12d2b\n\nchore(deps): bump the codeql group with 3 updates",

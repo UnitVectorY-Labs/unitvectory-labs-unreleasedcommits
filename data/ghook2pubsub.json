@@ -6,6 +6,22 @@
   "latest_release_time": "2026-09-03T09:52:07Z",
   "unreleased_commits": [
     {
+      "sha": "9cdd7dedd3fa360bc6307c5d491bc61eaa68632c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #111 from UnitVectorY-Labs/chore/bump-golang.org-x-crypto-0.56.0\n\nBump golang.org/x/crypto from v0.55.0 to v0.56.0",
+      "timestamp": "2026-10-05T23:04:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/9cdd7dedd3fa360bc6307c5d491bc61eaa68632c",
+      "is_merge": true
+    },
+    {
+      "sha": "1b9bf419fd56e8cbc98d94f79fbbe381a996a712",
+      "author": "JaredHatfield",
+      "message": "Bump golang.org/x/crypto from v0.55.0 to v0.56.0\n\n- GO-2026-6354 / CVE-2026-78662 — DoS on deadlocked undecided channel in ssh ([advisory](https://pkg.go.dev/vuln/GO-2026-6354))\n- GO-2026-6355 / CVE-2026-56855 — DoS on deadlocked established channel in ssh ([advisory](https://pkg.go.dev/vuln/GO-2026-6355))",
+      "timestamp": "2026-10-05T22:31:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/1b9bf419fd56e8cbc98d94f79fbbe381a996a712",
+      "is_merge": false
+    },
+    {
       "sha": "424b5fa80d5c02695061df3c071ad036249ef474",
       "author": "JaredHatfield",
       "message": "Merge pull request #109 from UnitVectorY-Labs/dependabot/go_modules/github.com/klauspost/compress-1.20.1\n\nchore(deps): bump github.com/klauspost/compress from 1.20.0 to 1.20.1",

@@ -6,6 +6,38 @@
   "latest_release_time": "2026-09-03T09:52:41Z",
   "unreleased_commits": [
     {
+      "sha": "b0ac60a68d1948a619b58faab07fbc2776c64964",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #51 from UnitVectorY-Labs/gitrepoforge/govulncheck-sarif\n\nAdd official govulncheck SARIF scanning",
+      "timestamp": "2026-10-06T01:50:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-chromadb-repo-search/commit/b0ac60a68d1948a619b58faab07fbc2776c64964",
+      "is_merge": true
+    },
+    {
+      "sha": "d015433f2c9861cc78730b6bb42f1a6af34a07a3",
+      "author": "JaredHatfield",
+      "message": "Add official govulncheck SARIF scanning",
+      "timestamp": "2026-10-06T00:55:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-chromadb-repo-search/commit/d015433f2c9861cc78730b6bb42f1a6af34a07a3",
+      "is_merge": false
+    },
+    {
+      "sha": "3ff63bb29c2deae0b45a01eae9cd5e2055b2669b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #50 from UnitVectorY-Labs/chore/bump-golang.org-x-sys-0.44.0\n\nBump golang.org/x/sys from v0.41.0 to v0.44.0",
+      "timestamp": "2026-10-05T23:03:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-chromadb-repo-search/commit/3ff63bb29c2deae0b45a01eae9cd5e2055b2669b",
+      "is_merge": true
+    },
+    {
+      "sha": "55a85ea8edae08cccf58266a079d38caea78c46c",
+      "author": "JaredHatfield",
+      "message": "Bump golang.org/x/sys from v0.41.0 to v0.44.0\n\n- GO-2026-5024 / CVE-2026-39824 — Invoking integer overflow in NewNTUnicodeString ([advisory](https://pkg.go.dev/vuln/GO-2026-5024))",
+      "timestamp": "2026-10-05T22:30:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-chromadb-repo-search/commit/55a85ea8edae08cccf58266a079d38caea78c46c",
+      "is_merge": false
+    },
+    {
       "sha": "4cca8075ce518c4e6cd2ef1a2e340dae409c646b",
       "author": "JaredHatfield",
       "message": "Merge pull request #49 from UnitVectorY-Labs/dependabot/github_actions/codeql-9d88a12d2b\n\nchore(deps): bump the codeql group with 3 updates",

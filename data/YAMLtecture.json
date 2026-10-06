@@ -6,6 +6,22 @@
   "latest_release_time": "2026-09-03T09:52:58Z",
   "unreleased_commits": [
     {
+      "sha": "4eef5f4e7c32e7ad772a4ea95a62d3987d69910f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #183 from UnitVectorY-Labs/gitrepoforge/govulncheck-sarif\n\nAdd official govulncheck SARIF scanning",
+      "timestamp": "2026-10-06T01:46:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/4eef5f4e7c32e7ad772a4ea95a62d3987d69910f",
+      "is_merge": true
+    },
+    {
+      "sha": "720501517d64ad8870e28d31f88ac92dd44ff9a7",
+      "author": "JaredHatfield",
+      "message": "Add official govulncheck SARIF scanning",
+      "timestamp": "2026-10-06T00:52:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/720501517d64ad8870e28d31f88ac92dd44ff9a7",
+      "is_merge": false
+    },
+    {
       "sha": "ef12d80d04bf0a11e45028dae79a7da738cff5c8",
       "author": "JaredHatfield",
       "message": "Merge pull request #182 from UnitVectorY-Labs/dependabot/github_actions/codeql-9d88a12d2b\n\nbuild(deps): bump the codeql group with 3 updates",

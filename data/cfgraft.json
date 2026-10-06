@@ -6,6 +6,22 @@
   "latest_release_time": "2026-09-03T09:51:56Z",
   "unreleased_commits": [
     {
+      "sha": "092b287cab8520dcb4f0ae19c63994e788a30230",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #78 from UnitVectorY-Labs/gitrepoforge/govulncheck-sarif\n\nAdd official govulncheck SARIF scanning",
+      "timestamp": "2026-10-06T01:49:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/092b287cab8520dcb4f0ae19c63994e788a30230",
+      "is_merge": true
+    },
+    {
+      "sha": "b90c462acf270c66ff889eeb6cbdf4cd1566a82e",
+      "author": "JaredHatfield",
+      "message": "Add official govulncheck SARIF scanning",
+      "timestamp": "2026-10-06T00:52:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/b90c462acf270c66ff889eeb6cbdf4cd1566a82e",
+      "is_merge": false
+    },
+    {
       "sha": "69a3560cf3eb2ce48d2fefa46b430b51d8c79dc3",
       "author": "JaredHatfield",
       "message": "Merge pull request #76 from UnitVectorY-Labs/dependabot/go_modules/charm.land/bubbletea/v2-2.0.10\n\nbuild(deps): bump charm.land/bubbletea/v2 from 2.0.9 to 2.0.10",

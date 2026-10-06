@@ -6,6 +6,38 @@
   "latest_release_time": "2026-09-03T09:52:24Z",
   "unreleased_commits": [
     {
+      "sha": "229e9e731740efc5cce85a02e4c9b29777617e05",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #91 from UnitVectorY-Labs/gitrepoforge/govulncheck-sarif\n\nAdd official govulncheck SARIF scanning",
+      "timestamp": "2026-10-06T01:49:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/229e9e731740efc5cce85a02e4c9b29777617e05",
+      "is_merge": true
+    },
+    {
+      "sha": "00fc66f526ce9aa79dfba6143891d1b2541787b9",
+      "author": "JaredHatfield",
+      "message": "Add official govulncheck SARIF scanning",
+      "timestamp": "2026-10-06T00:54:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/00fc66f526ce9aa79dfba6143891d1b2541787b9",
+      "is_merge": false
+    },
+    {
+      "sha": "715790399d4cd09119c4760ddbe8d9336570cf68",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #90 from UnitVectorY-Labs/chore/bump-golang.org-x-sys-0.44.0\n\nBump golang.org/x/sys from v0.41.0 to v0.44.0",
+      "timestamp": "2026-10-05T23:03:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/715790399d4cd09119c4760ddbe8d9336570cf68",
+      "is_merge": true
+    },
+    {
+      "sha": "17f532f352460e82ebcf68af479e8ecf6469fae4",
+      "author": "JaredHatfield",
+      "message": "Bump golang.org/x/sys from v0.41.0 to v0.44.0\n\n- GO-2026-5024 / CVE-2026-39824 — Invoking integer overflow in NewNTUnicodeString ([advisory](https://pkg.go.dev/vuln/GO-2026-5024))",
+      "timestamp": "2026-10-05T22:30:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/17f532f352460e82ebcf68af479e8ecf6469fae4",
+      "is_merge": false
+    },
+    {
       "sha": "c9c5311e970fad634a05b8c4a57c9f57acdf625a",
       "author": "JaredHatfield",
       "message": "Merge pull request #89 from UnitVectorY-Labs/dependabot/github_actions/codeql-9d88a12d2b\n\nbuild(deps): bump the codeql group with 3 updates",

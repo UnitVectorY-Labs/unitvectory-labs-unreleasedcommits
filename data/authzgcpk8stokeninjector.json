@@ -6,6 +6,22 @@
   "latest_release_time": "2026-09-03T09:51:50Z",
   "unreleased_commits": [
     {
+      "sha": "03e72bb76eba7b1a1e8a6da33a9b1c58fe1ecf19",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #205 from UnitVectorY-Labs/gitrepoforge/authzgcpk8stokeninjector-govulncheck\n\nApply gitrepoforge standards and add govulncheck SARIF scanning",
+      "timestamp": "2026-10-06T00:35:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/03e72bb76eba7b1a1e8a6da33a9b1c58fe1ecf19",
+      "is_merge": true
+    },
+    {
+      "sha": "9f063d0450afa91fad6e9e369ba7289304e3a749",
+      "author": "JaredHatfield",
+      "message": "Apply gitrepoforge standards and add Go vulnerability SARIF scanning",
+      "timestamp": "2026-10-06T00:23:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/9f063d0450afa91fad6e9e369ba7289304e3a749",
+      "is_merge": false
+    },
+    {
       "sha": "f7680091b042617bbbafd8599056576f06c0b906",
       "author": "JaredHatfield",
       "message": "Merge pull request #204 from UnitVectorY-Labs/dependabot/github_actions/codeql-9d88a12d2b\n\nchore(deps): bump the codeql group with 3 updates",

@@ -6,6 +6,38 @@
   "latest_release_time": "2026-09-03T09:52:26Z",
   "unreleased_commits": [
     {
+      "sha": "f8287de16f1c48f68ebce2929b225de67dd2945f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #139 from UnitVectorY-Labs/gitrepoforge/govulncheck-sarif\n\nAdd official govulncheck SARIF scanning",
+      "timestamp": "2026-10-06T01:49:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/f8287de16f1c48f68ebce2929b225de67dd2945f",
+      "is_merge": true
+    },
+    {
+      "sha": "1255a48aae57e2466f8d9d6d1940be7a1b4f133b",
+      "author": "JaredHatfield",
+      "message": "Add official govulncheck SARIF scanning",
+      "timestamp": "2026-10-06T00:54:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/1255a48aae57e2466f8d9d6d1940be7a1b4f133b",
+      "is_merge": false
+    },
+    {
+      "sha": "7c379b24cdfd9cb2b1b9db42ebaf92173af7b685",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #138 from UnitVectorY-Labs/chore/bump-golang.org-x-sys-0.44.0\n\nBump golang.org/x/sys from v0.29.0 to v0.44.0",
+      "timestamp": "2026-10-05T23:02:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/7c379b24cdfd9cb2b1b9db42ebaf92173af7b685",
+      "is_merge": true
+    },
+    {
+      "sha": "c5da6f9f62899bb1dd75fa817205a22302e0c8ed",
+      "author": "JaredHatfield",
+      "message": "Bump golang.org/x/sys from v0.29.0 to v0.44.0\n\n- GO-2026-5024 / CVE-2026-39824 — Invoking integer overflow in NewNTUnicodeString ([advisory](https://pkg.go.dev/vuln/GO-2026-5024))",
+      "timestamp": "2026-10-05T22:29:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/c5da6f9f62899bb1dd75fa817205a22302e0c8ed",
+      "is_merge": false
+    },
+    {
       "sha": "03167fa8197823f2b0690f33f67e9762d3b0230c",
       "author": "JaredHatfield",
       "message": "Merge pull request #137 from UnitVectorY-Labs/dependabot/github_actions/codeql-9d88a12d2b\n\nbuild(deps): bump the codeql group with 3 updates",
