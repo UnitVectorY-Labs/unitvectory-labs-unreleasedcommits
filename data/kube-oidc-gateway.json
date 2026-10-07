@@ -6,6 +6,22 @@
   "latest_release_time": "2026-09-03T09:52:35Z",
   "unreleased_commits": [
     {
+      "sha": "73a4d967e128bac26eb06829096d9cd855875df0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #120 from UnitVectorY-Labs/gitrepoforge/go-app-onboarding\n\nConfigure gitrepoforge and standardize Go repository files",
+      "timestamp": "2026-10-06T10:16:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/73a4d967e128bac26eb06829096d9cd855875df0",
+      "is_merge": true
+    },
+    {
+      "sha": "7eb6b29067b8f9dd6eb9f0825327680b56a226a8",
+      "author": "JaredHatfield",
+      "message": "Configure gitrepoforge and apply standard Go repository files",
+      "timestamp": "2026-10-06T09:59:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/7eb6b29067b8f9dd6eb9f0825327680b56a226a8",
+      "is_merge": false
+    },
+    {
       "sha": "b2a8c379e94d6242224803271d6f401f0c68f4e5",
       "author": "JaredHatfield",
       "message": "Merge pull request #119 from UnitVectorY-Labs/dependabot/github_actions/codeql-b300d6d0aa\n\nchore(deps): bump github/codeql-action/upload-sarif from 4.38.1 to 4.38.2 in the codeql group",

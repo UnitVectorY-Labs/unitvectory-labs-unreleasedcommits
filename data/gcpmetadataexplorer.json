@@ -6,6 +6,22 @@
   "latest_release_time": "2026-09-03T09:52:04Z",
   "unreleased_commits": [
     {
+      "sha": "f35729ca8875bb315f6b022cb3ef94b92c897117",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #166 from UnitVectorY-Labs/gitrepoforge/go-app-onboarding\n\nConfigure gitrepoforge and standardize Go repository files",
+      "timestamp": "2026-10-06T10:18:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/f35729ca8875bb315f6b022cb3ef94b92c897117",
+      "is_merge": true
+    },
+    {
+      "sha": "832c99944f0307c256604896a7e1c0bf59f031fd",
+      "author": "JaredHatfield",
+      "message": "Configure gitrepoforge and apply standard Go repository files",
+      "timestamp": "2026-10-06T09:59:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/832c99944f0307c256604896a7e1c0bf59f031fd",
+      "is_merge": false
+    },
+    {
       "sha": "278f08ac8d9479864f2bb0a5709b7b99e8409e3a",
       "author": "JaredHatfield",
       "message": "Merge pull request #165 from UnitVectorY-Labs/dependabot/github_actions/codeql-9d88a12d2b\n\nchore(deps): bump the codeql group with 3 updates",
