@@ -4,6 +4,55 @@
   "default_branch": "main",
   "latest_release_tag": "v0.4.3",
   "latest_release_time": "2026-10-06T22:34:43Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "975714f121c9e4f9684c3a846665d64828b6ddcd",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #162 from UnitVectorY-Labs/repver/go-v1.27.2\n\nUpdate Go version to v1.27.2",
+      "timestamp": "2026-10-11T00:06:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/975714f121c9e4f9684c3a846665d64828b6ddcd",
+      "is_merge": true
+    },
+    {
+      "sha": "548a00ea95c56ecfc637095a2776b8023d973342",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.27.2",
+      "timestamp": "2026-10-10T23:51:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/548a00ea95c56ecfc637095a2776b8023d973342",
+      "is_merge": false
+    },
+    {
+      "sha": "81452eb364d60007c14f7fc08e2bc3174c22b86e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #160 from UnitVectorY-Labs/dependabot/github_actions/actions/upload-artifact-7.0.2\n\nchore(deps): bump actions/upload-artifact from 7.0.1 to 7.0.2",
+      "timestamp": "2026-10-10T12:55:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/81452eb364d60007c14f7fc08e2bc3174c22b86e",
+      "is_merge": true
+    },
+    {
+      "sha": "b803d8b79b885d2fbfc623a74a9de80b4d19dc28",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/upload-artifact from 7.0.1 to 7.0.2\n\nBumps [actions/upload-artifact](https://github.com/actions/upload-artifact) from 7.0.1 to 7.0.2.\n- [Release notes](https://github.com/actions/upload-artifact/releases)\n- [Commits](https://github.com/actions/upload-artifact/compare/043fb46d1a93c77aae656e7c1c64a875d1fc6a0a...cf430e030ddbb5b0abf93d22962f4752f3646cd9)\n\n---\nupdated-dependencies:\n- dependency-name: actions/upload-artifact\n  dependency-version: 7.0.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-10T12:18:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/b803d8b79b885d2fbfc623a74a9de80b4d19dc28",
+      "is_merge": false
+    },
+    {
+      "sha": "0d43d3371c2853012aad2e83c79bf92a8c31a714",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #161 from UnitVectorY-Labs/fix/govulncheck-sarif-duplicate-stacks\n\nFix govulncheck SARIF upload failures",
+      "timestamp": "2026-10-10T12:14:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/0d43d3371c2853012aad2e83c79bf92a8c31a714",
+      "is_merge": true
+    },
+    {
+      "sha": "e8a934a70ba04dab2fbb82353ad7335e775748fe",
+      "author": "JaredHatfield",
+      "message": "fix: deduplicate govulncheck SARIF stacks",
+      "timestamp": "2026-10-10T12:06:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/e8a934a70ba04dab2fbb82353ad7335e775748fe",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs"
 }

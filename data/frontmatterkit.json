@@ -4,6 +4,55 @@
   "default_branch": "main",
   "latest_release_tag": "v0.2.2",
   "latest_release_time": "2026-10-06T22:13:30Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "c3daeaafd72cb6bc3157bde2642f859a33240c7e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #93 from UnitVectorY-Labs/repver/go-v1.27.2\n\nUpdate Go version to v1.27.2",
+      "timestamp": "2026-10-11T00:08:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/c3daeaafd72cb6bc3157bde2642f859a33240c7e",
+      "is_merge": true
+    },
+    {
+      "sha": "5e0a1b8761e441dd7a6a910b443aafd4d5aeebbc",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.27.2",
+      "timestamp": "2026-10-10T23:49:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/5e0a1b8761e441dd7a6a910b443aafd4d5aeebbc",
+      "is_merge": false
+    },
+    {
+      "sha": "4a9c4e93ec268d3c81f5edc20e80e6a937b92cab",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #91 from UnitVectorY-Labs/dependabot/github_actions/actions/upload-artifact-7.0.2\n\nbuild(deps): bump actions/upload-artifact from 7.0.1 to 7.0.2",
+      "timestamp": "2026-10-10T12:57:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/4a9c4e93ec268d3c81f5edc20e80e6a937b92cab",
+      "is_merge": true
+    },
+    {
+      "sha": "de4df294575ed0b42ef827b66fdf2ce4f1a94683",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #92 from UnitVectorY-Labs/fix/govulncheck-sarif-duplicate-stacks\n\nFix govulncheck SARIF upload failures",
+      "timestamp": "2026-10-10T12:14:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/de4df294575ed0b42ef827b66fdf2ce4f1a94683",
+      "is_merge": true
+    },
+    {
+      "sha": "fae52d89b0f50ee7e6e83e0348dd0e8dd9197930",
+      "author": "JaredHatfield",
+      "message": "fix: deduplicate govulncheck SARIF stacks",
+      "timestamp": "2026-10-10T12:05:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/fae52d89b0f50ee7e6e83e0348dd0e8dd9197930",
+      "is_merge": false
+    },
+    {
+      "sha": "b88db3607d2a37af77e3552c70bbefe0424ad40f",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/upload-artifact from 7.0.1 to 7.0.2\n\nBumps [actions/upload-artifact](https://github.com/actions/upload-artifact) from 7.0.1 to 7.0.2.\n- [Release notes](https://github.com/actions/upload-artifact/releases)\n- [Commits](https://github.com/actions/upload-artifact/compare/043fb46d1a93c77aae656e7c1c64a875d1fc6a0a...cf430e030ddbb5b0abf93d22962f4752f3646cd9)\n\n---\nupdated-dependencies:\n- dependency-name: actions/upload-artifact\n  dependency-version: 7.0.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-10T10:12:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/b88db3607d2a37af77e3552c70bbefe0424ad40f",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/frontmatterkit"
 }

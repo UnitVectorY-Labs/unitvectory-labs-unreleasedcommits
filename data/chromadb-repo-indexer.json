@@ -6,12 +6,76 @@
   "latest_release_time": "2026-08-16T15:47:15Z",
   "unreleased_commits": [
     {
+      "sha": "959280b7c2ea357ccf6a8a93d515d568ce9ecafb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #50 from UnitVectorY-Labs/dependabot/uv/multidict-6.9.1\n\nbuild(deps): bump multidict from 6.7.1 to 6.9.1",
+      "timestamp": "2026-10-10T19:30:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/959280b7c2ea357ccf6a8a93d515d568ce9ecafb",
+      "is_merge": true
+    },
+    {
+      "sha": "60110194536581daf9475483fd43f5d911345425",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #49 from UnitVectorY-Labs/dependabot/uv/banks-2.5.1\n\nbuild(deps): bump banks from 2.4.5 to 2.5.1",
+      "timestamp": "2026-10-10T19:30:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/60110194536581daf9475483fd43f5d911345425",
+      "is_merge": true
+    },
+    {
+      "sha": "3d8a4b83d1f7b713f4b758d8d3eae94a243c25ae",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump multidict from 6.7.1 to 6.9.1\n\nBumps [multidict](https://github.com/aio-libs/multidict) from 6.7.1 to 6.9.1.\n- [Release notes](https://github.com/aio-libs/multidict/releases)\n- [Changelog](https://github.com/aio-libs/multidict/blob/master/CHANGES.rst)\n- [Commits](https://github.com/aio-libs/multidict/compare/v6.7.1...v6.9.1)\n\n---\nupdated-dependencies:\n- dependency-name: multidict\n  dependency-version: 6.9.1\n  dependency-type: indirect\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-10T17:16:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/3d8a4b83d1f7b713f4b758d8d3eae94a243c25ae",
+      "is_merge": false
+    },
+    {
+      "sha": "1c7c6cdd9ae74f7e627a8e3dd00880e85d2efe12",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump banks from 2.4.5 to 2.5.1\n\nBumps [banks](https://github.com/masci/banks) from 2.4.5 to 2.5.1.\n- [Release notes](https://github.com/masci/banks/releases)\n- [Commits](https://github.com/masci/banks/compare/v2.4.5...v2.5.1)\n\n---\nupdated-dependencies:\n- dependency-name: banks\n  dependency-version: 2.5.1\n  dependency-type: indirect\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-10T17:16:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/1c7c6cdd9ae74f7e627a8e3dd00880e85d2efe12",
+      "is_merge": false
+    },
+    {
+      "sha": "0fd4bac2c44f0b299ff48ef2d252f04d779464d5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #47 from UnitVectorY-Labs/dependabot/uv/urllib3-2.8.0\n\nbuild(deps): bump urllib3 from 2.7.0 to 2.8.0",
+      "timestamp": "2026-10-10T17:14:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/0fd4bac2c44f0b299ff48ef2d252f04d779464d5",
+      "is_merge": true
+    },
+    {
+      "sha": "1402141f4cdf4ce47d64c7a845fd1e70abd3fb7d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #48 from UnitVectorY-Labs/dependabot/pip/tree-sitter-language-pack-1.21.0\n\nbuild(deps): bump tree-sitter-language-pack from 1.20.0 to 1.21.0",
+      "timestamp": "2026-10-10T17:14:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/1402141f4cdf4ce47d64c7a845fd1e70abd3fb7d",
+      "is_merge": true
+    },
+    {
+      "sha": "10b8e3ec4b40196c60421345be1d8a3770f1f50d",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump tree-sitter-language-pack from 1.20.0 to 1.21.0\n\nBumps [tree-sitter-language-pack](https://github.com/xberg-io/tree-sitter-language-pack) from 1.20.0 to 1.21.0.\n- [Release notes](https://github.com/xberg-io/tree-sitter-language-pack/releases)\n- [Changelog](https://github.com/xberg-io/tree-sitter-language-pack/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/xberg-io/tree-sitter-language-pack/compare/v1.20.0...v1.21.0)\n\n---\nupdated-dependencies:\n- dependency-name: tree-sitter-language-pack\n  dependency-version: 1.21.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-10T10:10:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/10b8e3ec4b40196c60421345be1d8a3770f1f50d",
+      "is_merge": false
+    },
+    {
       "sha": "94f820584a8528a54a3d5de09c25fd91fbf78264",
       "author": "JaredHatfield",
       "message": "Merge pull request #45 from UnitVectorY-Labs/dependabot/pip/charset-normalizer-3.5.2\n\nbuild(deps): bump charset-normalizer from 3.5.1 to 3.5.2",
       "timestamp": "2026-10-04T13:53:14Z",
       "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/94f820584a8528a54a3d5de09c25fd91fbf78264",
       "is_merge": true
+    },
+    {
+      "sha": "a8fd630d63097c65b503ebb5332a531e666c6a35",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump urllib3 from 2.7.0 to 2.8.0\n\nBumps [urllib3](https://github.com/urllib3/urllib3) from 2.7.0 to 2.8.0.\n- [Release notes](https://github.com/urllib3/urllib3/releases)\n- [Changelog](https://github.com/urllib3/urllib3/blob/main/CHANGES.rst)\n- [Commits](https://github.com/urllib3/urllib3/compare/2.7.0...2.8.0)\n\n---\nupdated-dependencies:\n- dependency-name: urllib3\n  dependency-version: 2.8.0\n  dependency-type: indirect\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-04T13:01:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/a8fd630d63097c65b503ebb5332a531e666c6a35",
+      "is_merge": false
     },
     {
       "sha": "41b43ceeb1ffa09bd9e08ad31f0608f266819c87",

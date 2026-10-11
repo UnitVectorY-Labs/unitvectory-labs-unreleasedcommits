@@ -4,6 +4,55 @@
   "default_branch": "main",
   "latest_release_tag": "v0.11.3",
   "latest_release_time": "2026-10-06T22:31:09Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "e2ec4ec97c8757a7f867a5f5c950bed6150cca5f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #183 from UnitVectorY-Labs/repver/go-v1.27.2\n\nUpdate Go version to v1.27.2",
+      "timestamp": "2026-10-11T00:06:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/e2ec4ec97c8757a7f867a5f5c950bed6150cca5f",
+      "is_merge": true
+    },
+    {
+      "sha": "06c2ff5ac145396f4836b53e5c6d6bdbced227a6",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.27.2",
+      "timestamp": "2026-10-10T23:51:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/06c2ff5ac145396f4836b53e5c6d6bdbced227a6",
+      "is_merge": false
+    },
+    {
+      "sha": "5082ff80088bddd4ae5cb21586387c7a230b0cfe",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #181 from UnitVectorY-Labs/dependabot/github_actions/actions/upload-artifact-7.0.2\n\nchore(deps): bump actions/upload-artifact from 7.0.1 to 7.0.2",
+      "timestamp": "2026-10-10T12:54:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/5082ff80088bddd4ae5cb21586387c7a230b0cfe",
+      "is_merge": true
+    },
+    {
+      "sha": "47dcffa2f8ce530649b4526b66675d4aa0ac4d79",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/upload-artifact from 7.0.1 to 7.0.2\n\nBumps [actions/upload-artifact](https://github.com/actions/upload-artifact) from 7.0.1 to 7.0.2.\n- [Release notes](https://github.com/actions/upload-artifact/releases)\n- [Commits](https://github.com/actions/upload-artifact/compare/043fb46d1a93c77aae656e7c1c64a875d1fc6a0a...cf430e030ddbb5b0abf93d22962f4752f3646cd9)\n\n---\nupdated-dependencies:\n- dependency-name: actions/upload-artifact\n  dependency-version: 7.0.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-10T12:19:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/47dcffa2f8ce530649b4526b66675d4aa0ac4d79",
+      "is_merge": false
+    },
+    {
+      "sha": "888ee344b5be1811b0250f75b80eac162e0cef6b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #182 from UnitVectorY-Labs/fix/govulncheck-sarif-duplicate-stacks\n\nFix govulncheck SARIF upload failures",
+      "timestamp": "2026-10-10T12:14:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/888ee344b5be1811b0250f75b80eac162e0cef6b",
+      "is_merge": true
+    },
+    {
+      "sha": "42504d3fa2ca1bca50550def720e872da0cdb1fb",
+      "author": "JaredHatfield",
+      "message": "fix: deduplicate govulncheck SARIF stacks",
+      "timestamp": "2026-10-10T12:06:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/42504d3fa2ca1bca50550def720e872da0cdb1fb",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge"
 }

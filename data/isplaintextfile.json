@@ -6,6 +6,54 @@
   "latest_release_time": "2026-09-03T09:52:31Z",
   "unreleased_commits": [
     {
+      "sha": "69c0252023a28451902d1503272dc36e14687d62",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #114 from UnitVectorY-Labs/repver/go-v1.27.2\n\nUpdate Go version to v1.27.2",
+      "timestamp": "2026-10-11T00:05:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/69c0252023a28451902d1503272dc36e14687d62",
+      "is_merge": true
+    },
+    {
+      "sha": "a982314b767acb0cd6b42ccc6d2d22bd720de029",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.27.2",
+      "timestamp": "2026-10-10T23:51:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/a982314b767acb0cd6b42ccc6d2d22bd720de029",
+      "is_merge": false
+    },
+    {
+      "sha": "68aae9c519fc4f85c3f849fa2982062b99e5006b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #112 from UnitVectorY-Labs/dependabot/github_actions/actions/upload-artifact-7.0.2\n\nbuild(deps): bump actions/upload-artifact from 7.0.1 to 7.0.2",
+      "timestamp": "2026-10-10T12:54:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/68aae9c519fc4f85c3f849fa2982062b99e5006b",
+      "is_merge": true
+    },
+    {
+      "sha": "c0134d81477a712528d6df5fba85249398a60a85",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/upload-artifact from 7.0.1 to 7.0.2\n\nBumps [actions/upload-artifact](https://github.com/actions/upload-artifact) from 7.0.1 to 7.0.2.\n- [Release notes](https://github.com/actions/upload-artifact/releases)\n- [Commits](https://github.com/actions/upload-artifact/compare/043fb46d1a93c77aae656e7c1c64a875d1fc6a0a...cf430e030ddbb5b0abf93d22962f4752f3646cd9)\n\n---\nupdated-dependencies:\n- dependency-name: actions/upload-artifact\n  dependency-version: 7.0.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-10T12:19:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/c0134d81477a712528d6df5fba85249398a60a85",
+      "is_merge": false
+    },
+    {
+      "sha": "bafe61613292aa3830190f7d81e8a637f412749b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #113 from UnitVectorY-Labs/fix/govulncheck-sarif-duplicate-stacks\n\nFix govulncheck SARIF upload failures",
+      "timestamp": "2026-10-10T12:13:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/bafe61613292aa3830190f7d81e8a637f412749b",
+      "is_merge": true
+    },
+    {
+      "sha": "dfce492a4692301f2db96edf5a1a88e66e7803b6",
+      "author": "JaredHatfield",
+      "message": "fix: deduplicate govulncheck SARIF stacks",
+      "timestamp": "2026-10-10T12:05:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/dfce492a4692301f2db96edf5a1a88e66e7803b6",
+      "is_merge": false
+    },
+    {
       "sha": "5605b2bde2da7507628a92313ffa9209d32d7331",
       "author": "JaredHatfield",
       "message": "Merge pull request #111 from UnitVectorY-Labs/gitrepoforge/govulncheck-sarif\n\nAdd official govulncheck SARIF scanning",

@@ -6,6 +6,38 @@
   "latest_release_time": "2025-12-06T18:46:02Z",
   "unreleased_commits": [
     {
+      "sha": "b7e5d736046f6350b68f6770907773407e7342cf",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #98 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-node-7.1.0\n\nBump actions/setup-node from 7.0.0 to 7.1.0",
+      "timestamp": "2026-10-10T19:31:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/jwt-bearer-token-vendor/commit/b7e5d736046f6350b68f6770907773407e7342cf",
+      "is_merge": true
+    },
+    {
+      "sha": "d436996b011bb74a05d288e327d6fbab83fb952c",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/setup-node from 7.0.0 to 7.1.0\n\nBumps [actions/setup-node](https://github.com/actions/setup-node) from 7.0.0 to 7.1.0.\n- [Release notes](https://github.com/actions/setup-node/releases)\n- [Commits](https://github.com/actions/setup-node/compare/820762786026740c76f36085b0efc47a31fe5020...949feb2413d6458794dcd2491c4babbbce0c15c1)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-node\n  dependency-version: 7.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-10T12:55:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/jwt-bearer-token-vendor/commit/d436996b011bb74a05d288e327d6fbab83fb952c",
+      "is_merge": false
+    },
+    {
+      "sha": "a602ff753e9f250cd207a7aa8d02edd2fb66a3e4",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #99 from UnitVectorY-Labs/dependabot/github_actions/actions/upload-artifact-7.0.2\n\nBump actions/upload-artifact from 7.0.1 to 7.0.2",
+      "timestamp": "2026-10-10T12:53:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/jwt-bearer-token-vendor/commit/a602ff753e9f250cd207a7aa8d02edd2fb66a3e4",
+      "is_merge": true
+    },
+    {
+      "sha": "ddd503723fce719ff479734053a8685f06ab2412",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/upload-artifact from 7.0.1 to 7.0.2\n\nBumps [actions/upload-artifact](https://github.com/actions/upload-artifact) from 7.0.1 to 7.0.2.\n- [Release notes](https://github.com/actions/upload-artifact/releases)\n- [Commits](https://github.com/actions/upload-artifact/compare/043fb46d1a93c77aae656e7c1c64a875d1fc6a0a...cf430e030ddbb5b0abf93d22962f4752f3646cd9)\n\n---\nupdated-dependencies:\n- dependency-name: actions/upload-artifact\n  dependency-version: 7.0.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-10T10:07:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/jwt-bearer-token-vendor/commit/ddd503723fce719ff479734053a8685f06ab2412",
+      "is_merge": false
+    },
+    {
       "sha": "77be61b13077420df9448c573db66e86dba84ebf",
       "author": "JaredHatfield",
       "message": "Merge pull request #97 from UnitVectorY-Labs/dependabot/github_actions/codeql-9d88a12d2b\n\nBump the codeql group with 3 updates",

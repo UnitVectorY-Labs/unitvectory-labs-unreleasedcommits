@@ -4,6 +4,55 @@
   "default_branch": "main",
   "latest_release_tag": "v0.9.3",
   "latest_release_time": "2026-10-06T22:03:12Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "4a43d8b50809a97e8f015b61eb7ed4fbf6884972",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #88 from UnitVectorY-Labs/repver/go-v1.27.2\n\nUpdate Go version to v1.27.2",
+      "timestamp": "2026-10-11T00:08:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/4a43d8b50809a97e8f015b61eb7ed4fbf6884972",
+      "is_merge": true
+    },
+    {
+      "sha": "6723b7fdd742768775f2653182411a0d3d74ea6d",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.27.2",
+      "timestamp": "2026-10-10T23:51:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/6723b7fdd742768775f2653182411a0d3d74ea6d",
+      "is_merge": false
+    },
+    {
+      "sha": "6ec84fb4ef0ec573f72cf75e32657bc2b3b413c0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #86 from UnitVectorY-Labs/dependabot/github_actions/actions/upload-artifact-7.0.2\n\nbuild(deps): bump actions/upload-artifact from 7.0.1 to 7.0.2",
+      "timestamp": "2026-10-10T12:57:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/6ec84fb4ef0ec573f72cf75e32657bc2b3b413c0",
+      "is_merge": true
+    },
+    {
+      "sha": "189ab5dd3c74fe87a4feefdf80f6fd9e5f40a524",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/upload-artifact from 7.0.1 to 7.0.2\n\nBumps [actions/upload-artifact](https://github.com/actions/upload-artifact) from 7.0.1 to 7.0.2.\n- [Release notes](https://github.com/actions/upload-artifact/releases)\n- [Commits](https://github.com/actions/upload-artifact/compare/043fb46d1a93c77aae656e7c1c64a875d1fc6a0a...cf430e030ddbb5b0abf93d22962f4752f3646cd9)\n\n---\nupdated-dependencies:\n- dependency-name: actions/upload-artifact\n  dependency-version: 7.0.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-10T12:18:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/189ab5dd3c74fe87a4feefdf80f6fd9e5f40a524",
+      "is_merge": false
+    },
+    {
+      "sha": "33ae0d4c3e73c35d995d347fae6cfb3de7ae918a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #87 from UnitVectorY-Labs/fix/govulncheck-sarif-duplicate-stacks\n\nFix govulncheck SARIF upload failures",
+      "timestamp": "2026-10-10T12:14:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/33ae0d4c3e73c35d995d347fae6cfb3de7ae918a",
+      "is_merge": true
+    },
+    {
+      "sha": "b120dc59716aba36ad407afe347002702b0663b4",
+      "author": "JaredHatfield",
+      "message": "fix: deduplicate govulncheck SARIF stacks",
+      "timestamp": "2026-10-10T12:05:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/b120dc59716aba36ad407afe347002702b0663b4",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/localmodelproxy"
 }

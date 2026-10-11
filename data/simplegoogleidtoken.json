@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:44:58Z",
   "unreleased_commits": [
     {
+      "sha": "ccee14e5f15d6c8b4878b03a3d7ed976681746ce",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #217 from UnitVectorY-Labs/dependabot/maven/com.google.auth-google-auth-library-oauth2-http-1.54.0\n\nchore(deps): bump com.google.auth:google-auth-library-oauth2-http from 1.52.0 to 1.54.0",
+      "timestamp": "2026-10-10T16:15:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/ccee14e5f15d6c8b4878b03a3d7ed976681746ce",
+      "is_merge": true
+    },
+    {
+      "sha": "c81a1eac057562924af0518d4723bea74988cfcf",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump com.google.auth:google-auth-library-oauth2-http\n\nBumps com.google.auth:google-auth-library-oauth2-http from 1.52.0 to 1.54.0.\n\n---\nupdated-dependencies:\n- dependency-name: com.google.auth:google-auth-library-oauth2-http\n  dependency-version: 1.54.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-10T10:02:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/c81a1eac057562924af0518d4723bea74988cfcf",
+      "is_merge": false
+    },
+    {
       "sha": "f0a76f76ce460ed75a6657a2e52d5e2aea9c90e4",
       "author": "JaredHatfield",
       "message": "Merge pull request #216 from UnitVectorY-Labs/dependabot/github_actions/codeql-435f1796a1\n\nBump the codeql group with 4 updates",

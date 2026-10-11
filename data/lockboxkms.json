@@ -4,6 +4,55 @@
   "default_branch": "main",
   "latest_release_tag": "v0.3.8",
   "latest_release_time": "2026-10-06T21:53:53Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "d61aec1f8eadd07363f7c66ecdf9e9615a4e45eb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #279 from UnitVectorY-Labs/repver/go-v1.27.2\n\nUpdate Go version to v1.27.2",
+      "timestamp": "2026-10-11T00:04:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/d61aec1f8eadd07363f7c66ecdf9e9615a4e45eb",
+      "is_merge": true
+    },
+    {
+      "sha": "091ad96a5c777685ccf19369f5abaf832b650941",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.27.2",
+      "timestamp": "2026-10-10T23:51:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/091ad96a5c777685ccf19369f5abaf832b650941",
+      "is_merge": false
+    },
+    {
+      "sha": "794488d5ac57304df1d569403c535c95abea7a22",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #277 from UnitVectorY-Labs/dependabot/github_actions/actions/upload-artifact-7.0.2\n\nchore(deps): bump actions/upload-artifact from 7.0.1 to 7.0.2",
+      "timestamp": "2026-10-10T12:53:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/794488d5ac57304df1d569403c535c95abea7a22",
+      "is_merge": true
+    },
+    {
+      "sha": "1681d3a861140dff5b557dda061ab360e127d4e3",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/upload-artifact from 7.0.1 to 7.0.2\n\nBumps [actions/upload-artifact](https://github.com/actions/upload-artifact) from 7.0.1 to 7.0.2.\n- [Release notes](https://github.com/actions/upload-artifact/releases)\n- [Commits](https://github.com/actions/upload-artifact/compare/043fb46d1a93c77aae656e7c1c64a875d1fc6a0a...cf430e030ddbb5b0abf93d22962f4752f3646cd9)\n\n---\nupdated-dependencies:\n- dependency-name: actions/upload-artifact\n  dependency-version: 7.0.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-10T12:18:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/1681d3a861140dff5b557dda061ab360e127d4e3",
+      "is_merge": false
+    },
+    {
+      "sha": "005a5d3156170981756780a21dfb23c38fb93ad5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #278 from UnitVectorY-Labs/fix/govulncheck-sarif-duplicate-stacks\n\nFix govulncheck SARIF upload failures",
+      "timestamp": "2026-10-10T12:13:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/005a5d3156170981756780a21dfb23c38fb93ad5",
+      "is_merge": true
+    },
+    {
+      "sha": "d0c24e7cad2cdfc26c3863449681ce868c91cd4d",
+      "author": "JaredHatfield",
+      "message": "fix: deduplicate govulncheck SARIF stacks",
+      "timestamp": "2026-10-10T12:06:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/d0c24e7cad2cdfc26c3863449681ce868c91cd4d",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/lockboxkms"
 }
