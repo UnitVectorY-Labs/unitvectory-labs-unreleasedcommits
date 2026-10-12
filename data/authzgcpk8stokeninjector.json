@@ -6,6 +6,30 @@
   "latest_release_time": "2026-10-06T22:18:05Z",
   "unreleased_commits": [
     {
+      "sha": "f7ea03b1a9e9f19bbcdf7e7d04bdf94edaf7d5c9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #209 from UnitVectorY-Labs/chore/bump-golang.org-x-net-v0.61.0\n\nchore(deps): bump golang.org/x/net to v0.61.0",
+      "timestamp": "2026-10-11T21:05:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/f7ea03b1a9e9f19bbcdf7e7d04bdf94edaf7d5c9",
+      "is_merge": true
+    },
+    {
+      "sha": "8e3db5a399c965caffa1d3b23c03ebc3dd0dbbee",
+      "author": "JaredHatfield",
+      "message": "chore(deps): go mod tidy",
+      "timestamp": "2026-10-11T20:55:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/8e3db5a399c965caffa1d3b23c03ebc3dd0dbbee",
+      "is_merge": false
+    },
+    {
+      "sha": "2be452f25db569a24efd4d1a5767a777713c38e0",
+      "author": "JaredHatfield",
+      "message": "chore(deps): bump golang.org/x/net to v0.61.0",
+      "timestamp": "2026-10-11T20:47:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/2be452f25db569a24efd4d1a5767a777713c38e0",
+      "is_merge": false
+    },
+    {
       "sha": "8e1704b69fd9a96a91014687a1c9a88eacf839d9",
       "author": "JaredHatfield",
       "message": "Merge pull request #208 from UnitVectorY-Labs/repver/go-v1.27.2\n\nUpdate Go version to v1.27.2",

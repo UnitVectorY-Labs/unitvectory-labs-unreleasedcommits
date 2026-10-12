@@ -6,6 +6,30 @@
   "latest_release_time": "2026-10-06T21:45:57Z",
   "unreleased_commits": [
     {
+      "sha": "b00c07968f00c7d86e35c94b5879a863531d9da3",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #116 from UnitVectorY-Labs/chore/bump-golang.org-x-net-v0.61.0\n\nchore(deps): bump golang.org/x/net to v0.61.0",
+      "timestamp": "2026-10-11T21:05:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/b00c07968f00c7d86e35c94b5879a863531d9da3",
+      "is_merge": true
+    },
+    {
+      "sha": "67b0f98f78ec05626205da586195154e92b0ff94",
+      "author": "JaredHatfield",
+      "message": "chore(deps): go mod tidy",
+      "timestamp": "2026-10-11T20:55:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/67b0f98f78ec05626205da586195154e92b0ff94",
+      "is_merge": false
+    },
+    {
+      "sha": "fcaf78935f02364f6990e23c25166ec76d4cc8a3",
+      "author": "JaredHatfield",
+      "message": "chore(deps): bump golang.org/x/net to v0.61.0",
+      "timestamp": "2026-10-11T20:48:19Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/fcaf78935f02364f6990e23c25166ec76d4cc8a3",
+      "is_merge": false
+    },
+    {
       "sha": "c32322dd5f68b7e95c4e3511f8174382ebdf5643",
       "author": "JaredHatfield",
       "message": "Merge pull request #115 from UnitVectorY-Labs/repver/go-v1.27.2\n\nUpdate Go version to v1.27.2",

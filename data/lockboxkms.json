@@ -6,6 +6,62 @@
   "latest_release_time": "2026-10-06T21:53:53Z",
   "unreleased_commits": [
     {
+      "sha": "30f91dc15da34de9e2959c6c1f7257dce61eefa0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #276 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.300.0\n\nchore(deps): bump google.golang.org/api from 0.299.0 to 0.301.0",
+      "timestamp": "2026-10-11T21:14:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/30f91dc15da34de9e2959c6c1f7257dce61eefa0",
+      "is_merge": true
+    },
+    {
+      "sha": "5f834b1be30b9387e0b1fb3ede0c3176095d20c5",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/api from 0.299.0 to 0.301.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.299.0 to 0.301.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.299.0...v0.301.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.300.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-11T21:13:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/5f834b1be30b9387e0b1fb3ede0c3176095d20c5",
+      "is_merge": false
+    },
+    {
+      "sha": "17607a64abb86ebc9702ae8997351c3fb26a26b5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #273 from UnitVectorY-Labs/dependabot/go_modules/cloud.google.com/go/kms-1.35.0\n\nchore(deps): bump cloud.google.com/go/kms from 1.34.0 to 1.35.0",
+      "timestamp": "2026-10-11T21:09:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/17607a64abb86ebc9702ae8997351c3fb26a26b5",
+      "is_merge": true
+    },
+    {
+      "sha": "879452c3e45e58e1193b9f2e73172c7e267973cc",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump cloud.google.com/go/kms from 1.34.0 to 1.35.0\n\nBumps [cloud.google.com/go/kms](https://github.com/googleapis/google-cloud-go) from 1.34.0 to 1.35.0.\n- [Release notes](https://github.com/googleapis/google-cloud-go/releases)\n- [Changelog](https://github.com/googleapis/google-cloud-go/blob/main/documentai/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-cloud-go/compare/kms/v1.34.0...dlp/v1.35.0)\n\n---\nupdated-dependencies:\n- dependency-name: cloud.google.com/go/kms\n  dependency-version: 1.35.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-11T21:08:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/879452c3e45e58e1193b9f2e73172c7e267973cc",
+      "is_merge": false
+    },
+    {
+      "sha": "3632cbb2090925b18639eb3fde383923f664de75",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #280 from UnitVectorY-Labs/chore/bump-golang.org-x-net-v0.61.0\n\nchore(deps): bump golang.org/x/net to v0.61.0",
+      "timestamp": "2026-10-11T21:05:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/3632cbb2090925b18639eb3fde383923f664de75",
+      "is_merge": true
+    },
+    {
+      "sha": "50f0b5bcc56ab302003d0495ee0fcf51799bcd9c",
+      "author": "JaredHatfield",
+      "message": "chore(deps): go mod tidy",
+      "timestamp": "2026-10-11T20:55:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/50f0b5bcc56ab302003d0495ee0fcf51799bcd9c",
+      "is_merge": false
+    },
+    {
+      "sha": "436eac8b332a173ff958c882d3cc16090fe2b02d",
+      "author": "JaredHatfield",
+      "message": "chore(deps): bump golang.org/x/net to v0.61.0",
+      "timestamp": "2026-10-11T20:49:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/436eac8b332a173ff958c882d3cc16090fe2b02d",
+      "is_merge": false
+    },
+    {
       "sha": "d61aec1f8eadd07363f7c66ecdf9e9615a4e45eb",
       "author": "JaredHatfield",
       "message": "Merge pull request #279 from UnitVectorY-Labs/repver/go-v1.27.2\n\nUpdate Go version to v1.27.2",
