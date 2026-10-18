@@ -6,6 +6,54 @@
   "latest_release_time": "2026-10-06T22:16:07Z",
   "unreleased_commits": [
     {
+      "sha": "59902aced16b50d952e1705df48b4a586b61bc7b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #97 from UnitVectorY-Labs/repver/go-v1.27.2\n\nUpdate Go version to v1.27.2",
+      "timestamp": "2026-10-17T15:33:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/59902aced16b50d952e1705df48b4a586b61bc7b",
+      "is_merge": true
+    },
+    {
+      "sha": "0bcecd8d4f8e6a3d187161c531022440071cad3e",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.27.2",
+      "timestamp": "2026-10-17T14:05:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/0bcecd8d4f8e6a3d187161c531022440071cad3e",
+      "is_merge": false
+    },
+    {
+      "sha": "629b36b326911987e2af0c57dc123e42077a92de",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #95 from UnitVectorY-Labs/dependabot/github_actions/codeql-307b189a33\n\nbuild(deps): bump the codeql group with 3 updates",
+      "timestamp": "2026-10-17T13:54:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/629b36b326911987e2af0c57dc123e42077a92de",
+      "is_merge": true
+    },
+    {
+      "sha": "b49e7d875562a72ed9a3a5dd602076b2ba4cc04e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #96 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.3.0\n\nbuild(deps): bump astral-sh/setup-uv from 10.2.0 to 10.3.0",
+      "timestamp": "2026-10-17T13:51:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/b49e7d875562a72ed9a3a5dd602076b2ba4cc04e",
+      "is_merge": true
+    },
+    {
+      "sha": "037bf02079e5f06af683b268a10891debaf5fe4e",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 10.2.0 to 10.3.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.2.0 to 10.3.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/c18668ad3cf93ea998bef934396af7bb5c839dc7...1c37ad07a6a961277cf70c0d37d6f313000f5884)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.3.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-17T10:11:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/037bf02079e5f06af683b268a10891debaf5fe4e",
+      "is_merge": false
+    },
+    {
+      "sha": "365d6f06bfa597858b4b4175d0691ef9c4ff4fc0",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump the codeql group with 3 updates\n\nBumps the codeql group with 3 updates: [github/codeql-action/init](https://github.com/github/codeql-action), [github/codeql-action/analyze](https://github.com/github/codeql-action) and [github/codeql-action/upload-sarif](https://github.com/github/codeql-action).\n\n\nUpdates `github/codeql-action/init` from 4.38.2 to 4.38.3\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/2892aa5e19bbd11bc0cff5427e3b750a04d9e3c2...24c54180a607b1449ed407dd24f251e4e9147c8d)\n\nUpdates `github/codeql-action/analyze` from 4.38.2 to 4.38.3\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/2892aa5e19bbd11bc0cff5427e3b750a04d9e3c2...24c54180a607b1449ed407dd24f251e4e9147c8d)\n\nUpdates `github/codeql-action/upload-sarif` from 4.38.2 to 4.38.3\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/2892aa5e19bbd11bc0cff5427e3b750a04d9e3c2...24c54180a607b1449ed407dd24f251e4e9147c8d)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/init\n  dependency-version: 4.38.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n- dependency-name: github/codeql-action/analyze\n  dependency-version: 4.38.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.38.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-17T10:11:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/365d6f06bfa597858b4b4175d0691ef9c4ff4fc0",
+      "is_merge": false
+    },
+    {
       "sha": "2443668df337eaa049f16753e111be8b321a6b3e",
       "author": "JaredHatfield",
       "message": "Merge pull request #94 from UnitVectorY-Labs/repver/go-v1.27.2\n\nUpdate Go version to v1.27.2",

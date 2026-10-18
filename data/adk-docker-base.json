@@ -6,6 +6,38 @@
   "latest_release_time": "2025-10-25T13:36:20Z",
   "unreleased_commits": [
     {
+      "sha": "c1973dcbc1a662e7b61d5da28ce461e9470c3899",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #145 from UnitVectorY-Labs/dependabot/github_actions/codeql-70127681c3\n\nbuild(deps): bump github/codeql-action/upload-sarif from 4.38.2 to 4.38.3 in the codeql group",
+      "timestamp": "2026-10-17T13:54:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/c1973dcbc1a662e7b61d5da28ce461e9470c3899",
+      "is_merge": true
+    },
+    {
+      "sha": "a339cabbdf6eaf8296ad7afe877ff7442c65c28f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #146 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.3.0\n\nbuild(deps): bump astral-sh/setup-uv from 10.2.0 to 10.3.0",
+      "timestamp": "2026-10-17T13:51:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/a339cabbdf6eaf8296ad7afe877ff7442c65c28f",
+      "is_merge": true
+    },
+    {
+      "sha": "b5df1ef737c337bc460283c35c625e68871221d5",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 10.2.0 to 10.3.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.2.0 to 10.3.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/c18668ad3cf93ea998bef934396af7bb5c839dc7...1c37ad07a6a961277cf70c0d37d6f313000f5884)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.3.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-17T10:05:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/b5df1ef737c337bc460283c35c625e68871221d5",
+      "is_merge": false
+    },
+    {
+      "sha": "a8e393db333d1f46d85215d52aed4c0c337f4d05",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github/codeql-action/upload-sarif\n\nBumps the codeql group with 1 update: [github/codeql-action/upload-sarif](https://github.com/github/codeql-action).\n\n\nUpdates `github/codeql-action/upload-sarif` from 4.38.2 to 4.38.3\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/2892aa5e19bbd11bc0cff5427e3b750a04d9e3c2...24c54180a607b1449ed407dd24f251e4e9147c8d)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.38.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-17T10:05:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/a8e393db333d1f46d85215d52aed4c0c337f4d05",
+      "is_merge": false
+    },
+    {
       "sha": "0d0a8b73e872a5a39a80d437dac1a9c72d700d86",
       "author": "JaredHatfield",
       "message": "Merge pull request #142 from UnitVectorY-Labs/dependabot/github_actions/codeql-b300d6d0aa\n\nbuild(deps): bump github/codeql-action/upload-sarif from 4.38.1 to 4.38.2 in the codeql group",
