@@ -6,6 +6,14 @@
   "latest_release_time": "2026-10-06T22:31:09Z",
   "unreleased_commits": [
     {
+      "sha": "8590414319b738881c49d1f5e7a1683cce418582",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #184 from UnitVectorY-Labs/dependabot/go_modules/github.com/toon-format/toon-go-1.0.1\n\nchore(deps): bump github.com/toon-format/toon-go from 0.0.0-20251202084852-7ca0e27c4e8c to 1.0.1",
+      "timestamp": "2026-10-18T12:54:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/8590414319b738881c49d1f5e7a1683cce418582",
+      "is_merge": true
+    },
+    {
       "sha": "50593a4494cec53b21fc1a0c16b7ef84b609d470",
       "author": "JaredHatfield",
       "message": "Merge pull request #187 from UnitVectorY-Labs/repver/go-v1.27.2\n\nUpdate Go version to v1.27.2",
@@ -51,6 +59,14 @@
       "message": "chore(deps): bump the codeql group with 3 updates\n\nBumps the codeql group with 3 updates: [github/codeql-action/init](https://github.com/github/codeql-action), [github/codeql-action/analyze](https://github.com/github/codeql-action) and [github/codeql-action/upload-sarif](https://github.com/github/codeql-action).\n\n\nUpdates `github/codeql-action/init` from 4.38.2 to 4.38.3\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/2892aa5e19bbd11bc0cff5427e3b750a04d9e3c2...24c54180a607b1449ed407dd24f251e4e9147c8d)\n\nUpdates `github/codeql-action/analyze` from 4.38.2 to 4.38.3\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/2892aa5e19bbd11bc0cff5427e3b750a04d9e3c2...24c54180a607b1449ed407dd24f251e4e9147c8d)\n\nUpdates `github/codeql-action/upload-sarif` from 4.38.2 to 4.38.3\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/2892aa5e19bbd11bc0cff5427e3b750a04d9e3c2...24c54180a607b1449ed407dd24f251e4e9147c8d)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/init\n  dependency-version: 4.38.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n- dependency-name: github/codeql-action/analyze\n  dependency-version: 4.38.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.38.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-10-17T10:07:22Z",
       "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/82ff7e8eb80d4e2cf61bbc14f28e7029fb1159d4",
+      "is_merge": false
+    },
+    {
+      "sha": "9b326c76b63358a8f3c8e50047bd78237f249dbe",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github.com/toon-format/toon-go\n\nBumps [github.com/toon-format/toon-go](https://github.com/toon-format/toon-go) from 0.0.0-20251202084852-7ca0e27c4e8c to 1.0.1.\n- [Release notes](https://github.com/toon-format/toon-go/releases)\n- [Commits](https://github.com/toon-format/toon-go/commits/v1.0.1)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/toon-format/toon-go\n  dependency-version: 1.0.1\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-17T10:04:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/9b326c76b63358a8f3c8e50047bd78237f249dbe",
       "is_merge": false
     },
     {

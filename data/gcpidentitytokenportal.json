@@ -6,6 +6,14 @@
   "latest_release_time": "2026-10-06T21:51:24Z",
   "unreleased_commits": [
     {
+      "sha": "5b1e703ce53b6837d2ebc18d5a999e1adbc02452",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #281 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.303.0\n\nchore(deps): bump google.golang.org/api from 0.301.0 to 0.303.0",
+      "timestamp": "2026-10-18T12:54:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/5b1e703ce53b6837d2ebc18d5a999e1adbc02452",
+      "is_merge": true
+    },
+    {
       "sha": "6ca6667982b1ef953d1eaa1ea3ae2bdf7734b53d",
       "author": "JaredHatfield",
       "message": "Merge pull request #284 from UnitVectorY-Labs/repver/go-v1.27.2\n\nUpdate Go version to v1.27.2",
@@ -51,6 +59,14 @@
       "message": "chore(deps): bump the codeql group with 3 updates\n\nBumps the codeql group with 3 updates: [github/codeql-action/init](https://github.com/github/codeql-action), [github/codeql-action/analyze](https://github.com/github/codeql-action) and [github/codeql-action/upload-sarif](https://github.com/github/codeql-action).\n\n\nUpdates `github/codeql-action/init` from 4.38.2 to 4.38.3\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/2892aa5e19bbd11bc0cff5427e3b750a04d9e3c2...24c54180a607b1449ed407dd24f251e4e9147c8d)\n\nUpdates `github/codeql-action/analyze` from 4.38.2 to 4.38.3\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/2892aa5e19bbd11bc0cff5427e3b750a04d9e3c2...24c54180a607b1449ed407dd24f251e4e9147c8d)\n\nUpdates `github/codeql-action/upload-sarif` from 4.38.2 to 4.38.3\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/2892aa5e19bbd11bc0cff5427e3b750a04d9e3c2...24c54180a607b1449ed407dd24f251e4e9147c8d)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/init\n  dependency-version: 4.38.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n- dependency-name: github/codeql-action/analyze\n  dependency-version: 4.38.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.38.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-10-17T10:08:34Z",
       "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/9656ddf27a9aac80d76e16eb189131a5bb8c1852",
+      "is_merge": false
+    },
+    {
+      "sha": "45c9cffef6644b252f9eee7e519ca20ec4971f68",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/api from 0.301.0 to 0.303.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.301.0 to 0.303.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.301.0...v0.303.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.303.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-17T10:04:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/45c9cffef6644b252f9eee7e519ca20ec4971f68",
       "is_merge": false
     },
     {
