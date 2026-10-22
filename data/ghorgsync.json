@@ -2,73 +2,8 @@
   "owner": "UnitVectorY-Labs",
   "name": "ghorgsync",
   "default_branch": "main",
-  "latest_release_tag": "v0.6.2",
-  "latest_release_time": "2026-10-14T23:53:17Z",
-  "unreleased_commits": [
-    {
-      "sha": "d4148afc4ad067e9ff7a84ce2a7e809217b7d7d4",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #126 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/term-0.47.0\n\nbuild(deps): bump golang.org/x/term from 0.46.0 to 0.47.0",
-      "timestamp": "2026-10-18T12:54:51Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/d4148afc4ad067e9ff7a84ce2a7e809217b7d7d4",
-      "is_merge": true
-    },
-    {
-      "sha": "d766b32bc224bc36ad86d2b256b5870d89f6e5c1",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #129 from UnitVectorY-Labs/repver/go-v1.27.2\n\nUpdate Go version to v1.27.2",
-      "timestamp": "2026-10-17T15:33:26Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/d766b32bc224bc36ad86d2b256b5870d89f6e5c1",
-      "is_merge": true
-    },
-    {
-      "sha": "b950fd1db219600e2510585178b2adf7ffec5899",
-      "author": "JaredHatfield",
-      "message": "Update Go version to v1.27.2",
-      "timestamp": "2026-10-17T14:04:45Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/b950fd1db219600e2510585178b2adf7ffec5899",
-      "is_merge": false
-    },
-    {
-      "sha": "2c9bff7d8d705f6300db64114bb8993e98f373a1",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #127 from UnitVectorY-Labs/dependabot/github_actions/codeql-307b189a33\n\nbuild(deps): bump the codeql group with 3 updates",
-      "timestamp": "2026-10-17T13:54:52Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/2c9bff7d8d705f6300db64114bb8993e98f373a1",
-      "is_merge": true
-    },
-    {
-      "sha": "73246e91ad19be65b277037fe4486e0723abba43",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #128 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.3.0\n\nbuild(deps): bump astral-sh/setup-uv from 10.2.0 to 10.3.0",
-      "timestamp": "2026-10-17T13:51:51Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/73246e91ad19be65b277037fe4486e0723abba43",
-      "is_merge": true
-    },
-    {
-      "sha": "15182bed8f63475e9187874d5fadeec0f2f14d97",
-      "author": "dependabot[bot]",
-      "message": "build(deps): bump astral-sh/setup-uv from 10.2.0 to 10.3.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.2.0 to 10.3.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/c18668ad3cf93ea998bef934396af7bb5c839dc7...1c37ad07a6a961277cf70c0d37d6f313000f5884)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.3.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
-      "timestamp": "2026-10-17T10:12:25Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/15182bed8f63475e9187874d5fadeec0f2f14d97",
-      "is_merge": false
-    },
-    {
-      "sha": "6a07ba46ceefe9a5c122d46400d8e48c8df8782b",
-      "author": "dependabot[bot]",
-      "message": "build(deps): bump the codeql group with 3 updates\n\nBumps the codeql group with 3 updates: [github/codeql-action/init](https://github.com/github/codeql-action), [github/codeql-action/analyze](https://github.com/github/codeql-action) and [github/codeql-action/upload-sarif](https://github.com/github/codeql-action).\n\n\nUpdates `github/codeql-action/init` from 4.38.2 to 4.38.3\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/2892aa5e19bbd11bc0cff5427e3b750a04d9e3c2...24c54180a607b1449ed407dd24f251e4e9147c8d)\n\nUpdates `github/codeql-action/analyze` from 4.38.2 to 4.38.3\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/2892aa5e19bbd11bc0cff5427e3b750a04d9e3c2...24c54180a607b1449ed407dd24f251e4e9147c8d)\n\nUpdates `github/codeql-action/upload-sarif` from 4.38.2 to 4.38.3\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/2892aa5e19bbd11bc0cff5427e3b750a04d9e3c2...24c54180a607b1449ed407dd24f251e4e9147c8d)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/init\n  dependency-version: 4.38.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n- dependency-name: github/codeql-action/analyze\n  dependency-version: 4.38.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.38.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
-      "timestamp": "2026-10-17T10:12:14Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/6a07ba46ceefe9a5c122d46400d8e48c8df8782b",
-      "is_merge": false
-    },
-    {
-      "sha": "121f1259bdd114bcc9ea5b082f1501b64b90258f",
-      "author": "dependabot[bot]",
-      "message": "build(deps): bump golang.org/x/term from 0.46.0 to 0.47.0\n\nBumps [golang.org/x/term](https://github.com/golang/term) from 0.46.0 to 0.47.0.\n- [Commits](https://github.com/golang/term/compare/v0.46.0...v0.47.0)\n\n---\nupdated-dependencies:\n- dependency-name: golang.org/x/term\n  dependency-version: 0.47.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
-      "timestamp": "2026-10-17T10:09:06Z",
-      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/121f1259bdd114bcc9ea5b082f1501b64b90258f",
-      "is_merge": false
-    }
-  ],
+  "latest_release_tag": "v0.6.3",
+  "latest_release_time": "2026-10-22T00:22:41Z",
+  "unreleased_commits": null,
   "repository_url": "https://github.com/UnitVectorY-Labs/ghorgsync"
 }

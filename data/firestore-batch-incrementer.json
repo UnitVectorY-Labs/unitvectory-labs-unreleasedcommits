@@ -2,8 +2,8 @@
   "owner": "UnitVectorY-Labs",
   "name": "firestore-batch-incrementer",
   "default_branch": "main",
-  "latest_release_tag": "v0.1.7",
-  "latest_release_time": "2026-10-20T22:32:03Z",
+  "latest_release_tag": "v0.1.8",
+  "latest_release_time": "2026-10-22T01:05:34Z",
   "unreleased_commits": null,
   "repository_url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer"
 }

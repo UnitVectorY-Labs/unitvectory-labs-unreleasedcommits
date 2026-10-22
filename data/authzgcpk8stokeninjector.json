@@ -2,8 +2,8 @@
   "owner": "UnitVectorY-Labs",
   "name": "authzgcpk8stokeninjector",
   "default_branch": "main",
-  "latest_release_tag": "v0.2.9",
-  "latest_release_time": "2026-10-20T22:30:06Z",
+  "latest_release_tag": "v0.2.10",
+  "latest_release_time": "2026-10-22T00:52:22Z",
   "unreleased_commits": null,
   "repository_url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector"
 }

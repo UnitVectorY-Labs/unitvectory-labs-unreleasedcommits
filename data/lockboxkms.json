@@ -2,8 +2,8 @@
   "owner": "UnitVectorY-Labs",
   "name": "lockboxkms",
   "default_branch": "main",
-  "latest_release_tag": "v0.3.9",
-  "latest_release_time": "2026-10-20T22:34:44Z",
+  "latest_release_tag": "v0.3.10",
+  "latest_release_time": "2026-10-22T02:38:47Z",
   "unreleased_commits": null,
   "repository_url": "https://github.com/UnitVectorY-Labs/lockboxkms"
 }

@@ -2,8 +2,8 @@
   "owner": "UnitVectorY-Labs",
   "name": "ghook2pubsub",
   "default_branch": "main",
-  "latest_release_tag": "v0.2.6",
-  "latest_release_time": "2026-10-20T22:33:52Z",
+  "latest_release_tag": "v0.2.7",
+  "latest_release_time": "2026-10-22T01:26:08Z",
   "unreleased_commits": null,
   "repository_url": "https://github.com/UnitVectorY-Labs/ghook2pubsub"
 }
