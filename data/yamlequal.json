@@ -6,6 +6,22 @@
   "latest_release_time": "2026-09-03T09:52:57Z",
   "unreleased_commits": [
     {
+      "sha": "de7f8e422c34d9eec8fd53ae8b1e630e2387b112",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #116 from UnitVectorY-Labs/security/add-osv-scanner\n\nAdd weekly OSV-Scanner vulnerability scans",
+      "timestamp": "2026-10-22T21:54:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/de7f8e422c34d9eec8fd53ae8b1e630e2387b112",
+      "is_merge": true
+    },
+    {
+      "sha": "f88b62676d8cfcec0b316a014b085ea31d6ab0cf",
+      "author": "JaredHatfield",
+      "message": "Add weekly OSV-Scanner vulnerability scans",
+      "timestamp": "2026-10-22T21:53:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/f88b62676d8cfcec0b316a014b085ea31d6ab0cf",
+      "is_merge": false
+    },
+    {
       "sha": "81a20aa0eaec3bc3938628a0ab47f96b4b79034d",
       "author": "JaredHatfield",
       "message": "Merge pull request #115 from UnitVectorY-Labs/repver/go-v1.27.2\n\nUpdate Go version to v1.27.2",
