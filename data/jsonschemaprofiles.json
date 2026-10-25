@@ -6,6 +6,62 @@
   "latest_release_time": "2026-10-06T22:23:09Z",
   "unreleased_commits": [
     {
+      "sha": "ae883a72bf4043acbe84bd851ba04d7157328822",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #111 from UnitVectorY-Labs/repver/go-v1.27.3\n\nUpdate Go version to v1.27.3",
+      "timestamp": "2026-10-25T00:20:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/ae883a72bf4043acbe84bd851ba04d7157328822",
+      "is_merge": true
+    },
+    {
+      "sha": "5bae009c4cbc5e490d2d6ced5275d8894517859a",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.27.3",
+      "timestamp": "2026-10-25T00:13:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/5bae009c4cbc5e490d2d6ced5275d8894517859a",
+      "is_merge": false
+    },
+    {
+      "sha": "3639e22d59ea8f5635d853afc8d0f3d1e3d61cff",
+      "author": "JaredHatfield",
+      "message": "Add weekly OSV-Scanner vulnerability scans (#108)\n\n* Add weekly OSV-Scanner vulnerability scans\n\n* Enable SARIF OSV source scans\n\n* gitrepoforge: apply desired state for jsonschemaprofiles\n\n* chore: sync OSV scanner workflows with template",
+      "timestamp": "2026-10-24T15:31:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/3639e22d59ea8f5635d853afc8d0f3d1e3d61cff",
+      "is_merge": false
+    },
+    {
+      "sha": "3c613cec7f2e81f14b68fb92423413d4a111566c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #109 from UnitVectorY-Labs/dependabot/github_actions/codeql-52fc152648\n\nbuild(deps): bump the codeql group with 3 updates",
+      "timestamp": "2026-10-24T13:02:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/3c613cec7f2e81f14b68fb92423413d4a111566c",
+      "is_merge": true
+    },
+    {
+      "sha": "f8b9160fc573fbc997a2819c95a4b47c8348876c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #110 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.3.1\n\nbuild(deps): bump astral-sh/setup-uv from 10.3.0 to 10.3.1",
+      "timestamp": "2026-10-24T12:20:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/f8b9160fc573fbc997a2819c95a4b47c8348876c",
+      "is_merge": true
+    },
+    {
+      "sha": "0264b24df29b7f8f5d6f8b99664d238ab3143e8f",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 10.3.0 to 10.3.1\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.0 to 10.3.1.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/1c37ad07a6a961277cf70c0d37d6f313000f5884...18d369b23da25a81e9458561248e1aafff6a70fa)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.3.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-24T10:21:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/0264b24df29b7f8f5d6f8b99664d238ab3143e8f",
+      "is_merge": false
+    },
+    {
+      "sha": "981f75a3e0a41b5d0f9e5c3b81a687d0506d18e6",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump the codeql group with 3 updates\n\nBumps the codeql group with 3 updates: [github/codeql-action/init](https://github.com/github/codeql-action), [github/codeql-action/analyze](https://github.com/github/codeql-action) and [github/codeql-action/upload-sarif](https://github.com/github/codeql-action).\n\n\nUpdates `github/codeql-action/init` from 4.38.3 to 4.39.1\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/24c54180a607b1449ed407dd24f251e4e9147c8d...9b3254085494b55a0f7c4c2b3d2d52cc712ce370)\n\nUpdates `github/codeql-action/analyze` from 4.38.3 to 4.39.1\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/24c54180a607b1449ed407dd24f251e4e9147c8d...9b3254085494b55a0f7c4c2b3d2d52cc712ce370)\n\nUpdates `github/codeql-action/upload-sarif` from 4.38.3 to 4.39.1\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/24c54180a607b1449ed407dd24f251e4e9147c8d...9b3254085494b55a0f7c4c2b3d2d52cc712ce370)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/init\n  dependency-version: 4.39.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n  dependency-group: codeql\n- dependency-name: github/codeql-action/analyze\n  dependency-version: 4.39.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n  dependency-group: codeql\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.39.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n  dependency-group: codeql\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-24T10:20:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/981f75a3e0a41b5d0f9e5c3b81a687d0506d18e6",
+      "is_merge": false
+    },
+    {
       "sha": "6de7e5b7643529d0982eb42bd19a05d2ab9ed295",
       "author": "JaredHatfield",
       "message": "Merge pull request #107 from UnitVectorY-Labs/repver/go-v1.27.2\n\nUpdate Go version to v1.27.2",

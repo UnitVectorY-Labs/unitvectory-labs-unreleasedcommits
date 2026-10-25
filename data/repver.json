@@ -2,23 +2,23 @@
   "owner": "UnitVectorY-Labs",
   "name": "repver",
   "default_branch": "main",
-  "latest_release_tag": "v0.6.3",
-  "latest_release_time": "2026-10-17T10:28:23Z",
+  "latest_release_tag": "v0.6.4",
+  "latest_release_time": "2026-10-24T18:07:06Z",
   "unreleased_commits": [
     {
-      "sha": "744ff7565277ff8a016201066a7ae2654eeaaa1d",
+      "sha": "a22fa0f3a70385d59e3c2462769d22fc531d7091",
       "author": "JaredHatfield",
-      "message": "Merge pull request #142 from UnitVectorY-Labs/repver/go-v1.27.2\n\nUpdate Go version to v1.27.2",
-      "timestamp": "2026-10-17T15:33:22Z",
-      "url": "https://github.com/UnitVectorY-Labs/repver/commit/744ff7565277ff8a016201066a7ae2654eeaaa1d",
+      "message": "Merge pull request #148 from UnitVectorY-Labs/repver/go-v1.27.3\n\nUpdate Go version to v1.27.3",
+      "timestamp": "2026-10-25T00:20:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/a22fa0f3a70385d59e3c2462769d22fc531d7091",
       "is_merge": true
     },
     {
-      "sha": "1d3e5615c99e254cb1efdd466c637423be81cc93",
+      "sha": "b2a28a3df82ce3998ff72c0bcbaf4f18d91cc557",
       "author": "JaredHatfield",
-      "message": "Update Go version to v1.27.2",
-      "timestamp": "2026-10-17T14:06:54Z",
-      "url": "https://github.com/UnitVectorY-Labs/repver/commit/1d3e5615c99e254cb1efdd466c637423be81cc93",
+      "message": "Update Go version to v1.27.3",
+      "timestamp": "2026-10-25T00:14:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/b2a28a3df82ce3998ff72c0bcbaf4f18d91cc557",
       "is_merge": false
     }
   ],
