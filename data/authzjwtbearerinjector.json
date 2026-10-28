@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T00:58:57Z",
   "unreleased_commits": [
     {
+      "sha": "c059791b69d83dbb18143def49c241d7c3f39dfa",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #224 from UnitVectorY-Labs/chore/enable-docker-sbom\n\nchore: enable Docker SBOM attestations",
+      "timestamp": "2026-10-27T22:23:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/c059791b69d83dbb18143def49c241d7c3f39dfa",
+      "is_merge": true
+    },
+    {
+      "sha": "866c91442c8cd449191faad6a65e693eae544493",
+      "author": "JaredHatfield",
+      "message": "chore: enable Docker SBOM attestations",
+      "timestamp": "2026-10-27T22:01:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/866c91442c8cd449191faad6a65e693eae544493",
+      "is_merge": false
+    },
+    {
       "sha": "52c3fa536a067876acc52d6e78abfe540d641b65",
       "author": "JaredHatfield",
       "message": "Merge pull request #223 from UnitVectorY-Labs/repver/go-v1.27.3\n\nUpdate Go version to v1.27.3",

@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T01:19:15Z",
   "unreleased_commits": [
     {
+      "sha": "d41399ed56bba1932a5475d61cf33ba267d1f758",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #178 from UnitVectorY-Labs/chore/enable-docker-sbom\n\nEnable Docker SBOM generation",
+      "timestamp": "2026-10-27T22:23:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/d41399ed56bba1932a5475d61cf33ba267d1f758",
+      "is_merge": true
+    },
+    {
+      "sha": "869db1fdbf6c745cc93668d381f33219d72edfe1",
+      "author": "JaredHatfield",
+      "message": "Enable Docker SBOM generation",
+      "timestamp": "2026-10-27T22:02:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/869db1fdbf6c745cc93668d381f33219d72edfe1",
+      "is_merge": false
+    },
+    {
       "sha": "8c756fab1459b56f8ab21e434e119c063ab5281c",
       "author": "JaredHatfield",
       "message": "Merge pull request #177 from UnitVectorY-Labs/repver/go-v1.27.3\n\nUpdate Go version to v1.27.3",

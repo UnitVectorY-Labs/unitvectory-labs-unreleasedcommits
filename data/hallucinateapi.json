@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T02:08:01Z",
   "unreleased_commits": [
     {
+      "sha": "bfdd17c39ed756b6b6df790ebc62d700abc52af5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #154 from UnitVectorY-Labs/chore/enable-docker-sbom\n\nEnable Docker image SBOM generation",
+      "timestamp": "2026-10-27T22:23:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/bfdd17c39ed756b6b6df790ebc62d700abc52af5",
+      "is_merge": true
+    },
+    {
+      "sha": "a5f528baf2308d54fed0150a5d51fb58c88c4493",
+      "author": "JaredHatfield",
+      "message": "Enable Docker image SBOM generation",
+      "timestamp": "2026-10-27T22:04:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/a5f528baf2308d54fed0150a5d51fb58c88c4493",
+      "is_merge": false
+    },
+    {
       "sha": "5f0a5afeb2cb06204e03bced3d0e5c3bf84123f3",
       "author": "JaredHatfield",
       "message": "Merge pull request #153 from UnitVectorY-Labs/repver/go-v1.27.3\n\nUpdate Go version to v1.27.3",
