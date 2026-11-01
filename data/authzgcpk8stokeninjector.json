@@ -6,6 +6,102 @@
   "latest_release_time": "2026-10-22T00:52:22Z",
   "unreleased_commits": [
     {
+      "sha": "ce5f1b5af32e2d665fad5f333a6e420ca6041f6e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #225 from UnitVectorY-Labs/deps/x-net-v0.62.0\n\nchore(deps): bump golang.org/x/net to v0.62.0",
+      "timestamp": "2026-10-31T20:50:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/ce5f1b5af32e2d665fad5f333a6e420ca6041f6e",
+      "is_merge": true
+    },
+    {
+      "sha": "bf73d0e2721c2cf3cacc17ec4019a1ac92b2983e",
+      "author": "JaredHatfield",
+      "message": "chore(deps): bump golang.org/x/net to v0.62.0\n\ngolang.org/x/net@v0.62.0 fixes GO-2026-6860 (CVE-2026-78661) and GO-2026-6866 (CVE-2026-97045), reported against go.mod.\n\nVerified with: go get golang.org/x/net@v0.62.0 \u0026\u0026 go mod tidy \u0026\u0026 go build ./...",
+      "timestamp": "2026-10-31T20:17:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/bf73d0e2721c2cf3cacc17ec4019a1ac92b2983e",
+      "is_merge": false
+    },
+    {
+      "sha": "863cd406f86d8e8d0d52bb103e03baed70b89046",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #224 from UnitVectorY-Labs/chore/remove-govulncheck-workflow\n\nchore: remove govulncheck-go workflow superseded by OSV-Scanner",
+      "timestamp": "2026-10-31T19:29:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/863cd406f86d8e8d0d52bb103e03baed70b89046",
+      "is_merge": true
+    },
+    {
+      "sha": "17a0add8141750a3cd14e640974bc0124abcb660",
+      "author": "JaredHatfield",
+      "message": "chore: remove govulncheck-go workflow superseded by OSV-Scanner\n\nOSV-Scanner (osv-scanner-full.yml / osv-scanner-pr.yml) now provides\ndependency vulnerability scanning for this repository, so the Go-only\ngovulncheck workflow is redundant.\n\nThe two govulncheck GOVERSION targets are dropped from .repver as well,\nbecause repver fails when a target file cannot be read, and the file is\nremoved from the .managedfiles manifest.",
+      "timestamp": "2026-10-31T19:19:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/17a0add8141750a3cd14e640974bc0124abcb660",
+      "is_merge": false
+    },
+    {
+      "sha": "9820408e22772d3f071536c9570a821a9a5ae88d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #220 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/grpc-1.85.0\n\nchore(deps): bump google.golang.org/grpc from 1.84.0 to 1.85.0",
+      "timestamp": "2026-10-31T16:58:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/9820408e22772d3f071536c9570a821a9a5ae88d",
+      "is_merge": true
+    },
+    {
+      "sha": "1693bca6d317631404b93f3f4ff71e003c4ce60d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #221 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.7.0\n\nchore(deps): bump docker/login-action from 4.6.0 to 4.7.0",
+      "timestamp": "2026-10-31T13:30:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/1693bca6d317631404b93f3f4ff71e003c4ce60d",
+      "is_merge": true
+    },
+    {
+      "sha": "abe9b6576f38986d18e1d1052e285d0725db018d",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/login-action from 4.6.0 to 4.7.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.6.0 to 4.7.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/dbcb813823bdd20940b903addbd779551569679f...81c6f93d4bc991e510b342a00b419b3bb4efc5c6)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.7.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T13:06:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/abe9b6576f38986d18e1d1052e285d0725db018d",
+      "is_merge": false
+    },
+    {
+      "sha": "bdc9da63446e57b6fe9714e68fd52bb0b6306e91",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #222 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.3.3\n\nchore(deps): bump astral-sh/setup-uv from 10.3.1 to 10.3.3",
+      "timestamp": "2026-10-31T12:57:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/bdc9da63446e57b6fe9714e68fd52bb0b6306e91",
+      "is_merge": true
+    },
+    {
+      "sha": "1dadb54e0f712da33dedbdaf40ef354c396a1aa2",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.3.1 to 10.3.3\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.1 to 10.3.3.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/18d369b23da25a81e9458561248e1aafff6a70fa...68559e99cc807c1eb7e9238fd43a15bba460eec2)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.3.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T12:02:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/1dadb54e0f712da33dedbdaf40ef354c396a1aa2",
+      "is_merge": false
+    },
+    {
+      "sha": "07751d7427894e221f6cc3d51c26e285f6c45408",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #223 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.1\n\nchore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.2.0 to 1.2.1",
+      "timestamp": "2026-10-31T11:53:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/07751d7427894e221f6cc3d51c26e285f6c45408",
+      "is_merge": true
+    },
+    {
+      "sha": "e70c47dc6e4c9bd0049b28b28ae6bde39ad7dfbf",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.0 to 1.2.1.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/69bfd4086b9251106a5c8b036068e02f2d0731aa...8ee570e0b30e5252afadb146977b411b8acd3e34)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T10:12:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/e70c47dc6e4c9bd0049b28b28ae6bde39ad7dfbf",
+      "is_merge": false
+    },
+    {
+      "sha": "0361c0221954b32f4b4b27cd0a5f641be76a1092",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/grpc from 1.84.0 to 1.85.0\n\nBumps [google.golang.org/grpc](https://github.com/grpc/grpc-go) from 1.84.0 to 1.85.0.\n- [Release notes](https://github.com/grpc/grpc-go/releases)\n- [Commits](https://github.com/grpc/grpc-go/compare/v1.84.0...v1.85.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/grpc\n  dependency-version: 1.85.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T10:04:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/0361c0221954b32f4b4b27cd0a5f641be76a1092",
+      "is_merge": false
+    },
+    {
       "sha": "274a866e0edf82fab521bf9025650ba2ffbc4fc6",
       "author": "JaredHatfield",
       "message": "Merge pull request #219 from UnitVectorY-Labs/chore/enable-docker-sbom\n\nchore: enable Docker SBOM attestations",

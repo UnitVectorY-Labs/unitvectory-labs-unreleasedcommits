@@ -6,6 +6,70 @@
   "latest_release_time": "2026-10-22T02:16:40Z",
   "unreleased_commits": [
     {
+      "sha": "e585118b5548430febb8c9d274a39390cefe6535",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #190 from UnitVectorY-Labs/chore/remove-govulncheck-workflow\n\nchore: remove govulncheck-go workflow superseded by OSV-Scanner",
+      "timestamp": "2026-10-31T19:29:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/e585118b5548430febb8c9d274a39390cefe6535",
+      "is_merge": true
+    },
+    {
+      "sha": "458fb5473a5b1ee51e4b2572c15317fe062c33d8",
+      "author": "JaredHatfield",
+      "message": "chore: remove govulncheck-go workflow superseded by OSV-Scanner\n\nOSV-Scanner (osv-scanner-full.yml / osv-scanner-pr.yml) now provides\ndependency vulnerability scanning for this repository, so the Go-only\ngovulncheck workflow is redundant.\n\nThe two govulncheck GOVERSION targets are dropped from .repver as well,\nbecause repver fails when a target file cannot be read, and the file is\nremoved from the .managedfiles manifest.",
+      "timestamp": "2026-10-31T19:21:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/458fb5473a5b1ee51e4b2572c15317fe062c33d8",
+      "is_merge": false
+    },
+    {
+      "sha": "b4778a5bb3005cc86674b892b16e4bd08361444e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #187 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.7.0\n\nbuild(deps): bump docker/login-action from 4.6.0 to 4.7.0",
+      "timestamp": "2026-10-31T13:30:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/b4778a5bb3005cc86674b892b16e4bd08361444e",
+      "is_merge": true
+    },
+    {
+      "sha": "a840d28227b46fdd24c3de0e06e8a0363adfdddb",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump docker/login-action from 4.6.0 to 4.7.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.6.0 to 4.7.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/dbcb813823bdd20940b903addbd779551569679f...81c6f93d4bc991e510b342a00b419b3bb4efc5c6)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.7.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T13:06:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/a840d28227b46fdd24c3de0e06e8a0363adfdddb",
+      "is_merge": false
+    },
+    {
+      "sha": "ffff82f9231272c3073fa5ac9241b68cb59ec0c9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #188 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.3.3\n\nbuild(deps): bump astral-sh/setup-uv from 10.3.1 to 10.3.3",
+      "timestamp": "2026-10-31T12:57:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/ffff82f9231272c3073fa5ac9241b68cb59ec0c9",
+      "is_merge": true
+    },
+    {
+      "sha": "a5ea7b83ce781ad192c14d6a8708064c06cb7b0a",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 10.3.1 to 10.3.3\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.1 to 10.3.3.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/18d369b23da25a81e9458561248e1aafff6a70fa...68559e99cc807c1eb7e9238fd43a15bba460eec2)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.3.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T12:02:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/a5ea7b83ce781ad192c14d6a8708064c06cb7b0a",
+      "is_merge": false
+    },
+    {
+      "sha": "02c0965e3d6d1c546d5b64f9872bb81c78fefdcd",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #189 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.1\n\nbuild(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.2.0 to 1.2.1",
+      "timestamp": "2026-10-31T11:53:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/02c0965e3d6d1c546d5b64f9872bb81c78fefdcd",
+      "is_merge": true
+    },
+    {
+      "sha": "2e745c2cf7d814ffb490f339b6b6984a3590d3a0",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.0 to 1.2.1.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/69bfd4086b9251106a5c8b036068e02f2d0731aa...8ee570e0b30e5252afadb146977b411b8acd3e34)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T10:13:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/2e745c2cf7d814ffb490f339b6b6984a3590d3a0",
+      "is_merge": false
+    },
+    {
       "sha": "8d536a885770101667751adba2eca83e6d023f1d",
       "author": "JaredHatfield",
       "message": "Merge pull request #186 from UnitVectorY-Labs/chore/enable-docker-sbom\n\nEnable Docker SBOM generation",

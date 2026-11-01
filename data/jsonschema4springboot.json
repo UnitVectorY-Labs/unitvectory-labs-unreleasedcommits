@@ -6,6 +6,70 @@
   "latest_release_time": "2026-06-22T22:26:01Z",
   "unreleased_commits": [
     {
+      "sha": "0ac94340ff6c5fa5ea75ad88f7833a4450215403",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #283 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.6.1\n\nchore(deps-dev): bump org.apache.maven.plugins:maven-surefire-plugin from 3.6.0 to 3.6.1",
+      "timestamp": "2026-10-31T14:38:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/0ac94340ff6c5fa5ea75ad88f7833a4450215403",
+      "is_merge": true
+    },
+    {
+      "sha": "0580cb0741880313253717955a333aa4250db7f8",
+      "author": "dependabot[bot]",
+      "message": "chore(deps-dev): bump org.apache.maven.plugins:maven-surefire-plugin\n\nBumps [org.apache.maven.plugins:maven-surefire-plugin](https://github.com/apache/maven-surefire) from 3.6.0 to 3.6.1.\n- [Release notes](https://github.com/apache/maven-surefire/releases)\n- [Commits](https://github.com/apache/maven-surefire/compare/surefire-3.6.0...surefire-3.6.1)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-surefire-plugin\n  dependency-version: 3.6.1\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T13:40:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/0580cb0741880313253717955a333aa4250db7f8",
+      "is_merge": false
+    },
+    {
+      "sha": "7d37c7cda7a3a0cb753ded6faa79aad1b74bce9b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #284 from UnitVectorY-Labs/dependabot/maven/org.jacoco-jacoco-maven-plugin-0.8.16\n\nchore(deps-dev): bump org.jacoco:jacoco-maven-plugin from 0.8.15 to 0.8.16",
+      "timestamp": "2026-10-31T13:37:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/7d37c7cda7a3a0cb753ded6faa79aad1b74bce9b",
+      "is_merge": true
+    },
+    {
+      "sha": "3416b1faee15eb657d8b2e36ee477c8c54d9f553",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #285 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.3.3\n\nchore(deps): bump astral-sh/setup-uv from 10.3.1 to 10.3.3",
+      "timestamp": "2026-10-31T12:57:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/3416b1faee15eb657d8b2e36ee477c8c54d9f553",
+      "is_merge": true
+    },
+    {
+      "sha": "d52050725d4edcc3c70ddcb6c505409d7d6df751",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.3.1 to 10.3.3\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.1 to 10.3.3.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/18d369b23da25a81e9458561248e1aafff6a70fa...68559e99cc807c1eb7e9238fd43a15bba460eec2)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.3.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T12:02:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/d52050725d4edcc3c70ddcb6c505409d7d6df751",
+      "is_merge": false
+    },
+    {
+      "sha": "79f6bd59a696d59ba39854d5e815603a6bb4adee",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #286 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.1\n\nchore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.2.0 to 1.2.1",
+      "timestamp": "2026-10-31T11:53:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/79f6bd59a696d59ba39854d5e815603a6bb4adee",
+      "is_merge": true
+    },
+    {
+      "sha": "237a1cda6f7620965e3500cfb047fbabc9063634",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.0 to 1.2.1.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/69bfd4086b9251106a5c8b036068e02f2d0731aa...8ee570e0b30e5252afadb146977b411b8acd3e34)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T10:06:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/237a1cda6f7620965e3500cfb047fbabc9063634",
+      "is_merge": false
+    },
+    {
+      "sha": "382664fa0dc7dc44945a72e1ae82cfb29c7515eb",
+      "author": "dependabot[bot]",
+      "message": "chore(deps-dev): bump org.jacoco:jacoco-maven-plugin\n\nBumps [org.jacoco:jacoco-maven-plugin](https://github.com/jacoco/jacoco) from 0.8.15 to 0.8.16.\n- [Release notes](https://github.com/jacoco/jacoco/releases)\n- [Commits](https://github.com/jacoco/jacoco/compare/v0.8.15...v0.8.16)\n\n---\nupdated-dependencies:\n- dependency-name: org.jacoco:jacoco-maven-plugin\n  dependency-version: 0.8.16\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T10:02:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/382664fa0dc7dc44945a72e1ae82cfb29c7515eb",
+      "is_merge": false
+    },
+    {
       "sha": "80db9249eabc41bc1660dd613d39eaf00160f7f0",
       "author": "JaredHatfield",
       "message": "Add weekly OSV-Scanner vulnerability scans (#280)\n\n* Add weekly OSV-Scanner vulnerability scans\n\n* Fix OSV merge-group workflow routing\n\n* Align OSV-Scanner workflows with SARIF policy\n\n---------\n\nCo-authored-by: OpenCode \u003copencode@users.noreply.github.com\u003e",

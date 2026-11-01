@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-24T23:45:23Z",
   "unreleased_commits": [
     {
+      "sha": "bb53ac182ac582b1abf27cf839a6530ab690caeb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #67 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.3.3\n\nbuild(deps): bump astral-sh/setup-uv from 10.3.1 to 10.3.3",
+      "timestamp": "2026-10-31T12:57:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/bb53ac182ac582b1abf27cf839a6530ab690caeb",
+      "is_merge": true
+    },
+    {
+      "sha": "72d36ea92fb4073610fd40ac89979d09f19c839e",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 10.3.1 to 10.3.3\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.1 to 10.3.3.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/18d369b23da25a81e9458561248e1aafff6a70fa...68559e99cc807c1eb7e9238fd43a15bba460eec2)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.3.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T10:09:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/72d36ea92fb4073610fd40ac89979d09f19c839e",
+      "is_merge": false
+    },
+    {
       "sha": "f2a29ea7ed5dbb51a51b4cfdbf0175cb29c15696",
       "author": "JaredHatfield",
       "message": "Merge pull request #64 from UnitVectorY-Labs/chore/update-self-action-v1.2.1\n\nUpdate repository indexing Action to v1.2.1",

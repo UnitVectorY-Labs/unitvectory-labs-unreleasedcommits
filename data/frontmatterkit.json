@@ -6,6 +6,70 @@
   "latest_release_time": "2026-10-06T22:13:30Z",
   "unreleased_commits": [
     {
+      "sha": "4668e23619a3b87b62d866b19bf09f6215e70448",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #104 from UnitVectorY-Labs/deps/x-text-v0.41.0\n\nchore(deps): bump golang.org/x/text to v0.41.0",
+      "timestamp": "2026-10-31T20:48:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/4668e23619a3b87b62d866b19bf09f6215e70448",
+      "is_merge": true
+    },
+    {
+      "sha": "e077f5a36dfe1e24df35768f3e6946c34bd76e3a",
+      "author": "JaredHatfield",
+      "message": "chore(deps): bump golang.org/x/text to v0.41.0\n\ngolang.org/x/text@v0.41.0 fixes GO-2026-6629 (CVE-2026-56851), a panic when parsing crafted input in x/text/secure/precis, reported against go.mod.\n\nVerified with: go get golang.org/x/text@v0.41.0 \u0026\u0026 go mod tidy \u0026\u0026 go build ./...",
+      "timestamp": "2026-10-31T20:18:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/e077f5a36dfe1e24df35768f3e6946c34bd76e3a",
+      "is_merge": false
+    },
+    {
+      "sha": "1b2ee8bc4d3476c0b46a5e1bf2441f26bf3f7b35",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #103 from UnitVectorY-Labs/chore/remove-govulncheck-workflow\n\nchore: remove govulncheck-go workflow superseded by OSV-Scanner",
+      "timestamp": "2026-10-31T19:29:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/1b2ee8bc4d3476c0b46a5e1bf2441f26bf3f7b35",
+      "is_merge": true
+    },
+    {
+      "sha": "42d0ad98d1f5fc0f7eefdd3dd10d1d37c203bea1",
+      "author": "JaredHatfield",
+      "message": "chore: remove govulncheck-go workflow superseded by OSV-Scanner\n\nOSV-Scanner (osv-scanner-full.yml / osv-scanner-pr.yml) now provides\ndependency vulnerability scanning for this repository, so the Go-only\ngovulncheck workflow is redundant.\n\nThe two govulncheck GOVERSION targets are dropped from .repver as well,\nbecause repver fails when a target file cannot be read, and the file is\nremoved from the .managedfiles manifest.",
+      "timestamp": "2026-10-31T19:20:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/42d0ad98d1f5fc0f7eefdd3dd10d1d37c203bea1",
+      "is_merge": false
+    },
+    {
+      "sha": "e1541c674e6c3e324fb322cc78ee5fe59b84748f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #102 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.3.3\n\nbuild(deps): bump astral-sh/setup-uv from 10.3.1 to 10.3.3",
+      "timestamp": "2026-10-31T12:57:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/e1541c674e6c3e324fb322cc78ee5fe59b84748f",
+      "is_merge": true
+    },
+    {
+      "sha": "6344e1f2ec4cd5345e3e32801304dce36f2c8eab",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #101 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.1\n\nbuild(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.2.0 to 1.2.1",
+      "timestamp": "2026-10-31T11:53:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/6344e1f2ec4cd5345e3e32801304dce36f2c8eab",
+      "is_merge": true
+    },
+    {
+      "sha": "a109129bc0086607ff6de5328b9eacfe7c9236a8",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 10.3.1 to 10.3.3\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.1 to 10.3.3.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/18d369b23da25a81e9458561248e1aafff6a70fa...68559e99cc807c1eb7e9238fd43a15bba460eec2)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.3.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T10:13:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/a109129bc0086607ff6de5328b9eacfe7c9236a8",
+      "is_merge": false
+    },
+    {
+      "sha": "d8bfaaab2151bc2ea8be54dbb933d35baa59607a",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.0 to 1.2.1.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/69bfd4086b9251106a5c8b036068e02f2d0731aa...8ee570e0b30e5252afadb146977b411b8acd3e34)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T10:12:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/d8bfaaab2151bc2ea8be54dbb933d35baa59607a",
+      "is_merge": false
+    },
+    {
       "sha": "f5a8cb09bc19d1a5f21c9d72acac16e6e664809c",
       "author": "JaredHatfield",
       "message": "Merge pull request #100 from UnitVectorY-Labs/repver/go-v1.27.3\n\nUpdate Go version to v1.27.3",

@@ -6,6 +6,70 @@
   "latest_release_time": "2026-06-22T22:22:29Z",
   "unreleased_commits": [
     {
+      "sha": "e6270c9a9d88efa0f9a9fe1f0d79305a328483f3",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #295 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.6.1\n\nchore(deps-dev): bump org.apache.maven.plugins:maven-surefire-plugin from 3.6.0 to 3.6.1",
+      "timestamp": "2026-10-31T14:38:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/e6270c9a9d88efa0f9a9fe1f0d79305a328483f3",
+      "is_merge": true
+    },
+    {
+      "sha": "7ed40fe1163234b2a9c1e4717985c7c1bb4542de",
+      "author": "dependabot[bot]",
+      "message": "chore(deps-dev): bump org.apache.maven.plugins:maven-surefire-plugin\n\nBumps [org.apache.maven.plugins:maven-surefire-plugin](https://github.com/apache/maven-surefire) from 3.6.0 to 3.6.1.\n- [Release notes](https://github.com/apache/maven-surefire/releases)\n- [Commits](https://github.com/apache/maven-surefire/compare/surefire-3.6.0...surefire-3.6.1)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-surefire-plugin\n  dependency-version: 3.6.1\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T13:39:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/7ed40fe1163234b2a9c1e4717985c7c1bb4542de",
+      "is_merge": false
+    },
+    {
+      "sha": "28ac3009eac6260d730872c038ff9e25b2e0f805",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #297 from UnitVectorY-Labs/dependabot/maven/org.jacoco-jacoco-maven-plugin-0.8.16\n\nchore(deps-dev): bump org.jacoco:jacoco-maven-plugin from 0.8.15 to 0.8.16",
+      "timestamp": "2026-10-31T13:37:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/28ac3009eac6260d730872c038ff9e25b2e0f805",
+      "is_merge": true
+    },
+    {
+      "sha": "ce74049f118d46e0eefcab8d519a0d8f75e8851b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #298 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.3.3\n\nchore(deps): bump astral-sh/setup-uv from 10.3.1 to 10.3.3",
+      "timestamp": "2026-10-31T12:57:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/ce74049f118d46e0eefcab8d519a0d8f75e8851b",
+      "is_merge": true
+    },
+    {
+      "sha": "28fe81239954e646c904fbd0931dbc21e261af5b",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.3.1 to 10.3.3\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.1 to 10.3.3.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/18d369b23da25a81e9458561248e1aafff6a70fa...68559e99cc807c1eb7e9238fd43a15bba460eec2)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.3.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T12:01:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/28fe81239954e646c904fbd0931dbc21e261af5b",
+      "is_merge": false
+    },
+    {
+      "sha": "cc541e182916edd0331908e0805567230ada8a95",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #299 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.1\n\nchore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.2.0 to 1.2.1",
+      "timestamp": "2026-10-31T11:53:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/cc541e182916edd0331908e0805567230ada8a95",
+      "is_merge": true
+    },
+    {
+      "sha": "126e80332a2b75610ef40863bba67591e91e2bb0",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.0 to 1.2.1.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/69bfd4086b9251106a5c8b036068e02f2d0731aa...8ee570e0b30e5252afadb146977b411b8acd3e34)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T10:07:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/126e80332a2b75610ef40863bba67591e91e2bb0",
+      "is_merge": false
+    },
+    {
+      "sha": "32e6c9b10e7ade82bd36799019cb40b409c8d17a",
+      "author": "dependabot[bot]",
+      "message": "chore(deps-dev): bump org.jacoco:jacoco-maven-plugin\n\nBumps [org.jacoco:jacoco-maven-plugin](https://github.com/jacoco/jacoco) from 0.8.15 to 0.8.16.\n- [Release notes](https://github.com/jacoco/jacoco/releases)\n- [Commits](https://github.com/jacoco/jacoco/compare/v0.8.15...v0.8.16)\n\n---\nupdated-dependencies:\n- dependency-name: org.jacoco:jacoco-maven-plugin\n  dependency-version: 0.8.16\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T10:02:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/32e6c9b10e7ade82bd36799019cb40b409c8d17a",
+      "is_merge": false
+    },
+    {
       "sha": "3fe02b6f00242b21d6a5012a1e7cb1659dce66d3",
       "author": "JaredHatfield",
       "message": "Add weekly OSV-Scanner vulnerability scans (#292)\n\n* Add weekly OSV-Scanner vulnerability scans\n\n* security: refine OSV scanner event filters\n\n* Split OSV scanner workflows by event",

@@ -6,6 +6,126 @@
   "latest_release_time": "2026-10-22T02:38:47Z",
   "unreleased_commits": [
     {
+      "sha": "6007505e3ccbcb69160b2f74cae7af64d882d111",
+      "author": "JaredHatfield",
+      "message": "Upgrade frontend to HTMX 4.0.0 (#251)\n\n- Load htmx.org@4.0.0 from unpkg with verified sha384 integrity hash\n- Remove htmx-ext-response-targets extension and hx-ext activation\n- Replace hx-target-error with native hx-status:4xx/5xx inherited\n  targeting of the #error element\n- Mark form hx-target/hx-swap as :inherited (explicit inheritance in v4)\n\nVerified with the official upgrade checker (0 findings), go build/test,\nand browser tests covering 200/400/500 swap targeting.\n\nCloses #250",
+      "timestamp": "2026-10-31T21:33:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/6007505e3ccbcb69160b2f74cae7af64d882d111",
+      "is_merge": false
+    },
+    {
+      "sha": "4b388594b97f84052bc55d6f5bdd411147b9c1fe",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #293 from UnitVectorY-Labs/dependabot/go_modules/cloud.google.com/go/kms-1.36.0\n\nchore(deps): bump cloud.google.com/go/kms from 1.35.0 to 1.36.1",
+      "timestamp": "2026-10-31T20:56:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/4b388594b97f84052bc55d6f5bdd411147b9c1fe",
+      "is_merge": true
+    },
+    {
+      "sha": "2a351cc80d9040313b0a96d2debbc8a827ee3e8b",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump cloud.google.com/go/kms from 1.35.0 to 1.36.1\n\nBumps [cloud.google.com/go/kms](https://github.com/googleapis/google-cloud-go) from 1.35.0 to 1.36.1.\n- [Release notes](https://github.com/googleapis/google-cloud-go/releases)\n- [Changelog](https://github.com/googleapis/google-cloud-go/blob/main/documentai/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-cloud-go/compare/kms/v1.35.0...dlp/v1.36.1)\n\n---\nupdated-dependencies:\n- dependency-name: cloud.google.com/go/kms\n  dependency-version: 1.36.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T20:51:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/2a351cc80d9040313b0a96d2debbc8a827ee3e8b",
+      "is_merge": false
+    },
+    {
+      "sha": "104c4fe8d587d2460589be69c2a416119ed53a90",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #298 from UnitVectorY-Labs/deps/x-net-v0.62.0\n\nchore(deps): bump golang.org/x/net to v0.62.0",
+      "timestamp": "2026-10-31T20:48:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/104c4fe8d587d2460589be69c2a416119ed53a90",
+      "is_merge": true
+    },
+    {
+      "sha": "df557a72d71cad825c84cdab3e00a50ddf030037",
+      "author": "JaredHatfield",
+      "message": "chore(deps): bump golang.org/x/net to v0.62.0\n\ngolang.org/x/net@v0.62.0 fixes GO-2026-6860 (CVE-2026-78661) and GO-2026-6866 (CVE-2026-97045), reported against go.mod.\n\nVerified with: go get golang.org/x/net@v0.62.0 \u0026\u0026 go mod tidy \u0026\u0026 go build ./...",
+      "timestamp": "2026-10-31T20:18:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/df557a72d71cad825c84cdab3e00a50ddf030037",
+      "is_merge": false
+    },
+    {
+      "sha": "36e6b45b721dc6a49357936c4524e4bc6ab86176",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #297 from UnitVectorY-Labs/chore/remove-govulncheck-workflow\n\nchore: remove govulncheck-go workflow superseded by OSV-Scanner",
+      "timestamp": "2026-10-31T19:29:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/36e6b45b721dc6a49357936c4524e4bc6ab86176",
+      "is_merge": true
+    },
+    {
+      "sha": "eb2ddb42ce56b37c6e622249afcc756b948adaa9",
+      "author": "JaredHatfield",
+      "message": "chore: remove govulncheck-go workflow superseded by OSV-Scanner\n\nOSV-Scanner (osv-scanner-full.yml / osv-scanner-pr.yml) now provides\ndependency vulnerability scanning for this repository, so the Go-only\ngovulncheck workflow is redundant.\n\nThe two govulncheck GOVERSION targets are dropped from .repver as well,\nbecause repver fails when a target file cannot be read, and the file is\nremoved from the .managedfiles manifest.",
+      "timestamp": "2026-10-31T19:22:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/eb2ddb42ce56b37c6e622249afcc756b948adaa9",
+      "is_merge": false
+    },
+    {
+      "sha": "3baa09c420e4f721a2cd8c0c732f93a648390896",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #292 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.309.0\n\nchore(deps): bump google.golang.org/api from 0.303.0 to 0.309.0",
+      "timestamp": "2026-10-31T13:38:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/3baa09c420e4f721a2cd8c0c732f93a648390896",
+      "is_merge": true
+    },
+    {
+      "sha": "6091094320b61a949c42e2c30946b4c88607ece3",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #296 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.7.0\n\nchore(deps): bump docker/login-action from 4.6.0 to 4.7.0",
+      "timestamp": "2026-10-31T13:30:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/6091094320b61a949c42e2c30946b4c88607ece3",
+      "is_merge": true
+    },
+    {
+      "sha": "14578a11ba239ca404fa7ae2f4616ae214477803",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/login-action from 4.6.0 to 4.7.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.6.0 to 4.7.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/dbcb813823bdd20940b903addbd779551569679f...81c6f93d4bc991e510b342a00b419b3bb4efc5c6)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.7.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T13:06:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/14578a11ba239ca404fa7ae2f4616ae214477803",
+      "is_merge": false
+    },
+    {
+      "sha": "adb2b5062ab09eab80aec62abdec19af17ab977a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #294 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.3.3\n\nchore(deps): bump astral-sh/setup-uv from 10.3.1 to 10.3.3",
+      "timestamp": "2026-10-31T12:57:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/adb2b5062ab09eab80aec62abdec19af17ab977a",
+      "is_merge": true
+    },
+    {
+      "sha": "4d1b6b5e56fee430568c398b90177944f3b028eb",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.3.1 to 10.3.3\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.1 to 10.3.3.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/18d369b23da25a81e9458561248e1aafff6a70fa...68559e99cc807c1eb7e9238fd43a15bba460eec2)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.3.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T12:01:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/4d1b6b5e56fee430568c398b90177944f3b028eb",
+      "is_merge": false
+    },
+    {
+      "sha": "76ddc00ecda67c474c3d179ec2d18a4065c0dedb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #295 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.1\n\nchore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.2.0 to 1.2.1",
+      "timestamp": "2026-10-31T11:53:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/76ddc00ecda67c474c3d179ec2d18a4065c0dedb",
+      "is_merge": true
+    },
+    {
+      "sha": "03ea281562ef1789d03f4ae77f27aeaa611ccf83",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.0 to 1.2.1.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/69bfd4086b9251106a5c8b036068e02f2d0731aa...8ee570e0b30e5252afadb146977b411b8acd3e34)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T10:09:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/03ea281562ef1789d03f4ae77f27aeaa611ccf83",
+      "is_merge": false
+    },
+    {
+      "sha": "68cde32aeed3b0ffb3e8ea9f4c52f653e8bb0343",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/api from 0.303.0 to 0.309.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.303.0 to 0.309.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.303.0...v0.309.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.309.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T10:05:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/68cde32aeed3b0ffb3e8ea9f4c52f653e8bb0343",
+      "is_merge": false
+    },
+    {
       "sha": "c947fe8d7fd5a3dec88f4a7454012f82fdb9377c",
       "author": "JaredHatfield",
       "message": "Merge pull request #291 from UnitVectorY-Labs/chore/enable-docker-sbom\n\nchore: enable Docker SBOM generation",

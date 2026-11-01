@@ -6,6 +6,86 @@
   "latest_release_time": "2026-08-13T00:53:49Z",
   "unreleased_commits": [
     {
+      "sha": "3e72e97980d23cfc40b6d9719c91d38aa754f839",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #252 from UnitVectorY-Labs/dependabot/maven/com.fasterxml.jackson.core-jackson-databind-2.22.4\n\nchore(deps): bump com.fasterxml.jackson.core:jackson-databind from 2.22.3 to 2.22.4",
+      "timestamp": "2026-10-31T16:58:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/3e72e97980d23cfc40b6d9719c91d38aa754f839",
+      "is_merge": true
+    },
+    {
+      "sha": "044bac98ffce654cc39ff02ddef288fcf44ebe04",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump com.fasterxml.jackson.core:jackson-databind\n\nBumps [com.fasterxml.jackson.core:jackson-databind](https://github.com/FasterXML/jackson-databind) from 2.22.3 to 2.22.4.\n- [Commits](https://github.com/FasterXML/jackson-databind/compare/jackson-databind-2.22.3...jackson-databind-2.22.4)\n\n---\nupdated-dependencies:\n- dependency-name: com.fasterxml.jackson.core:jackson-databind\n  dependency-version: 2.22.4\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T14:40:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/044bac98ffce654cc39ff02ddef288fcf44ebe04",
+      "is_merge": false
+    },
+    {
+      "sha": "a090d3dfed86433b390840ffb62e748454c8edc4",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #256 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.6.1\n\nchore(deps-dev): bump org.apache.maven.plugins:maven-surefire-plugin from 3.6.0 to 3.6.1",
+      "timestamp": "2026-10-31T14:38:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/a090d3dfed86433b390840ffb62e748454c8edc4",
+      "is_merge": true
+    },
+    {
+      "sha": "b68016bace9364110b50ef454b5365a15e3db44d",
+      "author": "dependabot[bot]",
+      "message": "chore(deps-dev): bump org.apache.maven.plugins:maven-surefire-plugin\n\nBumps [org.apache.maven.plugins:maven-surefire-plugin](https://github.com/apache/maven-surefire) from 3.6.0 to 3.6.1.\n- [Release notes](https://github.com/apache/maven-surefire/releases)\n- [Commits](https://github.com/apache/maven-surefire/compare/surefire-3.6.0...surefire-3.6.1)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-surefire-plugin\n  dependency-version: 3.6.1\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T13:41:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/b68016bace9364110b50ef454b5365a15e3db44d",
+      "is_merge": false
+    },
+    {
+      "sha": "1b938a495bce9b1d3147479f9267b9867636eed5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #255 from UnitVectorY-Labs/dependabot/maven/org.jacoco-jacoco-maven-plugin-0.8.16\n\nchore(deps-dev): bump org.jacoco:jacoco-maven-plugin from 0.8.15 to 0.8.16",
+      "timestamp": "2026-10-31T13:37:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/1b938a495bce9b1d3147479f9267b9867636eed5",
+      "is_merge": true
+    },
+    {
+      "sha": "bf19cb7c5a6585b50ce95f89a4bd1bbb7eb13263",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #257 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.3.3\n\nchore(deps): bump astral-sh/setup-uv from 10.3.1 to 10.3.3",
+      "timestamp": "2026-10-31T12:57:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/bf19cb7c5a6585b50ce95f89a4bd1bbb7eb13263",
+      "is_merge": true
+    },
+    {
+      "sha": "3af6871713c9ab61c769f15bf5a456ecbba260d3",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.3.1 to 10.3.3\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.1 to 10.3.3.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/18d369b23da25a81e9458561248e1aafff6a70fa...68559e99cc807c1eb7e9238fd43a15bba460eec2)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.3.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T12:03:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/3af6871713c9ab61c769f15bf5a456ecbba260d3",
+      "is_merge": false
+    },
+    {
+      "sha": "1daca7e682a511337e9e992a4d8c79e48512c332",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #258 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.1\n\nchore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.2.0 to 1.2.1",
+      "timestamp": "2026-10-31T11:53:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/1daca7e682a511337e9e992a4d8c79e48512c332",
+      "is_merge": true
+    },
+    {
+      "sha": "41d492241b9a0eb31a1b37a84490bca31a6a3e4d",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.0 to 1.2.1.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/69bfd4086b9251106a5c8b036068e02f2d0731aa...8ee570e0b30e5252afadb146977b411b8acd3e34)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T10:06:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/41d492241b9a0eb31a1b37a84490bca31a6a3e4d",
+      "is_merge": false
+    },
+    {
+      "sha": "36e0939703f8d0b7f179e8b9c84219fe803e4a19",
+      "author": "dependabot[bot]",
+      "message": "chore(deps-dev): bump org.jacoco:jacoco-maven-plugin\n\nBumps [org.jacoco:jacoco-maven-plugin](https://github.com/jacoco/jacoco) from 0.8.15 to 0.8.16.\n- [Release notes](https://github.com/jacoco/jacoco/releases)\n- [Commits](https://github.com/jacoco/jacoco/compare/v0.8.15...v0.8.16)\n\n---\nupdated-dependencies:\n- dependency-name: org.jacoco:jacoco-maven-plugin\n  dependency-version: 0.8.16\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T10:02:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/36e0939703f8d0b7f179e8b9c84219fe803e4a19",
+      "is_merge": false
+    },
+    {
       "sha": "83fdcffdcc7fbd5b6fafd6d3f917ea63435577c9",
       "author": "JaredHatfield",
       "message": "Add weekly OSV-Scanner vulnerability scans (#251)\n\n* Add weekly OSV-Scanner vulnerability scans\n\n* Split OSV source workflows\n\n* chore: sync OSV scanner workflows with template",

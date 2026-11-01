@@ -6,6 +6,54 @@
   "latest_release_time": "2025-10-25T13:36:20Z",
   "unreleased_commits": [
     {
+      "sha": "283533dbbcb98680f3bf8d6e2504bd4f587d9ca7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #155 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.7.0\n\nbuild(deps): bump docker/login-action from 4.6.0 to 4.7.0",
+      "timestamp": "2026-10-31T13:30:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/283533dbbcb98680f3bf8d6e2504bd4f587d9ca7",
+      "is_merge": true
+    },
+    {
+      "sha": "ac156ccbfda036f67becc9a78ce57bb5742b0cce",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #156 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.3.3\n\nbuild(deps): bump astral-sh/setup-uv from 10.3.1 to 10.3.3",
+      "timestamp": "2026-10-31T12:57:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/ac156ccbfda036f67becc9a78ce57bb5742b0cce",
+      "is_merge": true
+    },
+    {
+      "sha": "7790ff0a88ded24fa46ecd5c03a4f579429362bb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #154 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.1\n\nbuild(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.2.0 to 1.2.1",
+      "timestamp": "2026-10-31T11:53:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/7790ff0a88ded24fa46ecd5c03a4f579429362bb",
+      "is_merge": true
+    },
+    {
+      "sha": "7bc4966b7be2bee2ead25318764b64fde3a410fb",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 10.3.1 to 10.3.3\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.1 to 10.3.3.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/18d369b23da25a81e9458561248e1aafff6a70fa...68559e99cc807c1eb7e9238fd43a15bba460eec2)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.3.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T10:04:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/7bc4966b7be2bee2ead25318764b64fde3a410fb",
+      "is_merge": false
+    },
+    {
+      "sha": "8332d00cdf36af4cddb894b2c02e397726d478e5",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump docker/login-action from 4.6.0 to 4.7.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.6.0 to 4.7.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/dbcb813823bdd20940b903addbd779551569679f...81c6f93d4bc991e510b342a00b419b3bb4efc5c6)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.7.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T10:04:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/8332d00cdf36af4cddb894b2c02e397726d478e5",
+      "is_merge": false
+    },
+    {
+      "sha": "2d956ec69bea44a8f2680306f3c59a6de510f3a5",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.0 to 1.2.1.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/69bfd4086b9251106a5c8b036068e02f2d0731aa...8ee570e0b30e5252afadb146977b411b8acd3e34)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T10:04:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/2d956ec69bea44a8f2680306f3c59a6de510f3a5",
+      "is_merge": false
+    },
+    {
       "sha": "b585eaf7b191d027181332289fd3328fd3d9d8bf",
       "author": "JaredHatfield",
       "message": "Add weekly OSV-Scanner vulnerability scans (#148)\n\n* Add weekly OSV-Scanner vulnerability scans\n\n* security: refine OSV scanner event filters\n\n* Split OSV scanner workflows by event",

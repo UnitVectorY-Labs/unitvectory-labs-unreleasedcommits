@@ -6,6 +6,54 @@
   "latest_release_time": "2026-10-22T00:42:53Z",
   "unreleased_commits": [
     {
+      "sha": "17ac0735935b7649b5d0407d343f916e16b1882a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #194 from UnitVectorY-Labs/chore/remove-govulncheck-workflow\n\nchore: remove govulncheck-go workflow superseded by OSV-Scanner",
+      "timestamp": "2026-10-31T19:29:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/17ac0735935b7649b5d0407d343f916e16b1882a",
+      "is_merge": true
+    },
+    {
+      "sha": "33f32c631165051306188d639092a9e695ae87e1",
+      "author": "JaredHatfield",
+      "message": "chore: remove govulncheck-go workflow superseded by OSV-Scanner\n\nOSV-Scanner (osv-scanner-full.yml / osv-scanner-pr.yml) now provides\ndependency vulnerability scanning for this repository, so the Go-only\ngovulncheck workflow is redundant.\n\nThe two govulncheck GOVERSION targets are dropped from .repver as well,\nbecause repver fails when a target file cannot be read, and the file is\nremoved from the .managedfiles manifest.",
+      "timestamp": "2026-10-31T19:23:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/33f32c631165051306188d639092a9e695ae87e1",
+      "is_merge": false
+    },
+    {
+      "sha": "fb463033a29cee304151d49b464424da6c89a185",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #192 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.3.3\n\nchore(deps): bump astral-sh/setup-uv from 10.3.1 to 10.3.3",
+      "timestamp": "2026-10-31T12:57:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/fb463033a29cee304151d49b464424da6c89a185",
+      "is_merge": true
+    },
+    {
+      "sha": "9afbb947c497e90eed84387dacd333c2ecc69e04",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.3.1 to 10.3.3\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.1 to 10.3.3.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/18d369b23da25a81e9458561248e1aafff6a70fa...68559e99cc807c1eb7e9238fd43a15bba460eec2)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.3.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T12:03:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/9afbb947c497e90eed84387dacd333c2ecc69e04",
+      "is_merge": false
+    },
+    {
+      "sha": "246c5852b08c3b8016470be888e652dcad541d23",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #193 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.1\n\nchore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.2.0 to 1.2.1",
+      "timestamp": "2026-10-31T11:53:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/246c5852b08c3b8016470be888e652dcad541d23",
+      "is_merge": true
+    },
+    {
+      "sha": "c7f4eddb2129e44fa496f0e90aed13fa879fdce2",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.0 to 1.2.1.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/69bfd4086b9251106a5c8b036068e02f2d0731aa...8ee570e0b30e5252afadb146977b411b8acd3e34)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T10:06:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/c7f4eddb2129e44fa496f0e90aed13fa879fdce2",
+      "is_merge": false
+    },
+    {
       "sha": "fd94cc5334b99752af0dc3c7480891f0fa3afddb",
       "author": "JaredHatfield",
       "message": "Merge pull request #191 from UnitVectorY-Labs/repver/go-v1.27.3\n\nUpdate Go version to v1.27.3",

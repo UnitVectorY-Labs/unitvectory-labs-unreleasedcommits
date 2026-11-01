@@ -6,6 +6,54 @@
   "latest_release_time": "2026-10-23T01:33:57Z",
   "unreleased_commits": [
     {
+      "sha": "47fc844cdd3decb473790a4a56a393786308e4b1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #155 from UnitVectorY-Labs/chore/remove-govulncheck-workflow\n\nchore: remove govulncheck-go workflow superseded by OSV-Scanner",
+      "timestamp": "2026-10-31T19:29:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/47fc844cdd3decb473790a4a56a393786308e4b1",
+      "is_merge": true
+    },
+    {
+      "sha": "a4001e8cc838732806ce5c8ef8c70e2d6fc243ee",
+      "author": "JaredHatfield",
+      "message": "chore: remove govulncheck-go workflow superseded by OSV-Scanner\n\nOSV-Scanner (osv-scanner-full.yml / osv-scanner-pr.yml) now provides\ndependency vulnerability scanning for this repository, so the Go-only\ngovulncheck workflow is redundant.\n\nThe two govulncheck GOVERSION targets are dropped from .repver as well,\nbecause repver fails when a target file cannot be read, and the file is\nremoved from the .managedfiles manifest.",
+      "timestamp": "2026-10-31T19:20:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/a4001e8cc838732806ce5c8ef8c70e2d6fc243ee",
+      "is_merge": false
+    },
+    {
+      "sha": "ffde80013b9695e6d004b69a2b49390b7c1d03ec",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #154 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.3.3\n\nchore(deps): bump astral-sh/setup-uv from 10.3.1 to 10.3.3",
+      "timestamp": "2026-10-31T12:57:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/ffde80013b9695e6d004b69a2b49390b7c1d03ec",
+      "is_merge": true
+    },
+    {
+      "sha": "4ad7f38dd927ff91276b64dd4846ba392b25db36",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #153 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.1\n\nchore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.2.0 to 1.2.1",
+      "timestamp": "2026-10-31T11:53:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/4ad7f38dd927ff91276b64dd4846ba392b25db36",
+      "is_merge": true
+    },
+    {
+      "sha": "79791bf58a4192dbde3123b65e87b3b6244be5aa",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.3.1 to 10.3.3\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.1 to 10.3.3.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/18d369b23da25a81e9458561248e1aafff6a70fa...68559e99cc807c1eb7e9238fd43a15bba460eec2)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.3.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T10:07:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/79791bf58a4192dbde3123b65e87b3b6244be5aa",
+      "is_merge": false
+    },
+    {
+      "sha": "b285d2acf69f21edba4c506171fe31f18d16f2a9",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.0 to 1.2.1.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/69bfd4086b9251106a5c8b036068e02f2d0731aa...8ee570e0b30e5252afadb146977b411b8acd3e34)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T10:07:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/b285d2acf69f21edba4c506171fe31f18d16f2a9",
+      "is_merge": false
+    },
+    {
       "sha": "6313758013204e16c9e37178b906f99758d69fb2",
       "author": "JaredHatfield",
       "message": "Merge pull request #152 from UnitVectorY-Labs/repver/go-v1.27.3\n\nUpdate Go version to v1.27.3",

@@ -6,6 +6,102 @@
   "latest_release_time": "2026-06-22T22:44:58Z",
   "unreleased_commits": [
     {
+      "sha": "ac56e876125ef791e1443bf277a049037ccbbdb1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #225 from UnitVectorY-Labs/dependabot/maven/com.google.auth-google-auth-library-oauth2-http-1.55.0\n\nchore(deps): bump com.google.auth:google-auth-library-oauth2-http from 1.54.0 to 1.55.0",
+      "timestamp": "2026-10-31T16:58:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/ac56e876125ef791e1443bf277a049037ccbbdb1",
+      "is_merge": true
+    },
+    {
+      "sha": "fb5801591e30d708b73327e4fd142f9af570ec8a",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump com.google.auth:google-auth-library-oauth2-http\n\nBumps com.google.auth:google-auth-library-oauth2-http from 1.54.0 to 1.55.0.\n\n---\nupdated-dependencies:\n- dependency-name: com.google.auth:google-auth-library-oauth2-http\n  dependency-version: 1.55.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T14:40:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/fb5801591e30d708b73327e4fd142f9af570ec8a",
+      "is_merge": false
+    },
+    {
+      "sha": "5e04e7a114b733bd678db7e21c89402f0034217a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #227 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.6.1\n\nchore(deps-dev): bump org.apache.maven.plugins:maven-surefire-plugin from 3.6.0 to 3.6.1",
+      "timestamp": "2026-10-31T14:38:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/5e04e7a114b733bd678db7e21c89402f0034217a",
+      "is_merge": true
+    },
+    {
+      "sha": "563f7fbf51a75763bb01ab8bf575f4aee197fd03",
+      "author": "dependabot[bot]",
+      "message": "chore(deps-dev): bump org.apache.maven.plugins:maven-surefire-plugin\n\nBumps [org.apache.maven.plugins:maven-surefire-plugin](https://github.com/apache/maven-surefire) from 3.6.0 to 3.6.1.\n- [Release notes](https://github.com/apache/maven-surefire/releases)\n- [Commits](https://github.com/apache/maven-surefire/compare/surefire-3.6.0...surefire-3.6.1)\n\n---\nupdated-dependencies:\n- dependency-name: org.apache.maven.plugins:maven-surefire-plugin\n  dependency-version: 3.6.1\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T13:40:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/563f7fbf51a75763bb01ab8bf575f4aee197fd03",
+      "is_merge": false
+    },
+    {
+      "sha": "221b1a74319937d5a51e91340d8718b650de860f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #226 from UnitVectorY-Labs/dependabot/maven/com.google.code.gson-gson-2.15.0\n\nchore(deps): bump com.google.code.gson:gson from 2.14.0 to 2.15.0",
+      "timestamp": "2026-10-31T13:38:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/221b1a74319937d5a51e91340d8718b650de860f",
+      "is_merge": true
+    },
+    {
+      "sha": "1188d649a5730c1249c7f6246f2d7ea8b11846ed",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #228 from UnitVectorY-Labs/dependabot/maven/org.jacoco-jacoco-maven-plugin-0.8.16\n\nchore(deps-dev): bump org.jacoco:jacoco-maven-plugin from 0.8.15 to 0.8.16",
+      "timestamp": "2026-10-31T13:37:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/1188d649a5730c1249c7f6246f2d7ea8b11846ed",
+      "is_merge": true
+    },
+    {
+      "sha": "2aad2a23264cc3913af137f30bc144e27d3bb294",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #230 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.3.3\n\nchore(deps): bump astral-sh/setup-uv from 10.3.1 to 10.3.3",
+      "timestamp": "2026-10-31T12:57:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/2aad2a23264cc3913af137f30bc144e27d3bb294",
+      "is_merge": true
+    },
+    {
+      "sha": "d7b0e8b85606277c498c96c7b1c36e972dc4545e",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.3.1 to 10.3.3\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.1 to 10.3.3.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/18d369b23da25a81e9458561248e1aafff6a70fa...68559e99cc807c1eb7e9238fd43a15bba460eec2)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.3.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T12:03:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/d7b0e8b85606277c498c96c7b1c36e972dc4545e",
+      "is_merge": false
+    },
+    {
+      "sha": "b2f005e01d24ef488bda8e703e8b5cc4f202ecce",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #229 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.1\n\nchore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.2.0 to 1.2.1",
+      "timestamp": "2026-10-31T11:53:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/b2f005e01d24ef488bda8e703e8b5cc4f202ecce",
+      "is_merge": true
+    },
+    {
+      "sha": "0761b43f7aa2cc4f290377c517996c022b36f594",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.0 to 1.2.1.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/69bfd4086b9251106a5c8b036068e02f2d0731aa...8ee570e0b30e5252afadb146977b411b8acd3e34)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T10:07:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/0761b43f7aa2cc4f290377c517996c022b36f594",
+      "is_merge": false
+    },
+    {
+      "sha": "fe68ad6def920eda37a522f6483595ac51cdc5a9",
+      "author": "dependabot[bot]",
+      "message": "chore(deps-dev): bump org.jacoco:jacoco-maven-plugin\n\nBumps [org.jacoco:jacoco-maven-plugin](https://github.com/jacoco/jacoco) from 0.8.15 to 0.8.16.\n- [Release notes](https://github.com/jacoco/jacoco/releases)\n- [Commits](https://github.com/jacoco/jacoco/compare/v0.8.15...v0.8.16)\n\n---\nupdated-dependencies:\n- dependency-name: org.jacoco:jacoco-maven-plugin\n  dependency-version: 0.8.16\n  dependency-type: direct:development\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T10:02:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/fe68ad6def920eda37a522f6483595ac51cdc5a9",
+      "is_merge": false
+    },
+    {
+      "sha": "96cc0bad2fc8c9b656ae9212b4675606c11f57c3",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump com.google.code.gson:gson from 2.14.0 to 2.15.0\n\nBumps [com.google.code.gson:gson](https://github.com/google/gson) from 2.14.0 to 2.15.0.\n- [Release notes](https://github.com/google/gson/releases)\n- [Changelog](https://github.com/google/gson/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/google/gson/compare/gson-parent-2.14.0...gson-parent-2.15.0)\n\n---\nupdated-dependencies:\n- dependency-name: com.google.code.gson:gson\n  dependency-version: 2.15.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T10:02:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/96cc0bad2fc8c9b656ae9212b4675606c11f57c3",
+      "is_merge": false
+    },
+    {
       "sha": "aafc7cd910f67505fb7edb631e6ff08d1ea9d4d7",
       "author": "JaredHatfield",
       "message": "Add weekly OSV-Scanner vulnerability scans (#222)\n\n* Add weekly OSV-Scanner vulnerability scans\n\n* chore: refine OSV scanner workflow triggers\n\n* Update OSV-Scanner workflows\n\n---------\n\nCo-authored-by: OpenCode \u003copencode@users.noreply.github.com\u003e",
