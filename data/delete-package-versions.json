@@ -6,6 +6,54 @@
   "latest_release_time": "2026-10-16T08:00:25Z",
   "unreleased_commits": [
     {
+      "sha": "1e76702636370f18f03803280d93c8a24cc6cce3",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #6 from UnitVectorY-Labs/dependabot/npm_and_yarn/xmldom/xmldom-0.8.15\n\nbuild: bump @xmldom/xmldom from 0.8.10 to 0.8.15",
+      "timestamp": "2026-11-01T14:53:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/delete-package-versions/commit/1e76702636370f18f03803280d93c8a24cc6cce3",
+      "is_merge": true
+    },
+    {
+      "sha": "233b4370c654e550f42ea2240907c14cf4d0d760",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #5 from UnitVectorY-Labs/dependabot/npm_and_yarn/multi-c5ebbb4833\n\nbuild: bump js-yaml",
+      "timestamp": "2026-11-01T14:51:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/delete-package-versions/commit/233b4370c654e550f42ea2240907c14cf4d0d760",
+      "is_merge": true
+    },
+    {
+      "sha": "071edd702294bad2e28b6e84a04dd5ab88393e5b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #4 from UnitVectorY-Labs/dependabot/npm_and_yarn/multi-b04dc22ff7\n\nbuild: bump brace-expansion",
+      "timestamp": "2026-11-01T14:47:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/delete-package-versions/commit/071edd702294bad2e28b6e84a04dd5ab88393e5b",
+      "is_merge": true
+    },
+    {
+      "sha": "7ff864cb52620ca11fe8b0f11291cac885d096e8",
+      "author": "dependabot[bot]",
+      "message": "build: bump @xmldom/xmldom from 0.8.10 to 0.8.15\n\nBumps [@xmldom/xmldom](https://github.com/xmldom/xmldom) from 0.8.10 to 0.8.15.\n- [Release notes](https://github.com/xmldom/xmldom/releases)\n- [Changelog](https://github.com/xmldom/xmldom/blob/master/CHANGELOG.md)\n- [Commits](https://github.com/xmldom/xmldom/compare/0.8.10...0.8.15)\n\n---\nupdated-dependencies:\n- dependency-name: \"@xmldom/xmldom\"\n  dependency-version: 0.8.15\n  dependency-type: indirect\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-24T22:42:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/delete-package-versions/commit/7ff864cb52620ca11fe8b0f11291cac885d096e8",
+      "is_merge": false
+    },
+    {
+      "sha": "51c852967be86f569fe191df608f1c2a452fa5e2",
+      "author": "dependabot[bot]",
+      "message": "build: bump js-yaml\n\nBumps [js-yaml](https://github.com/nodeca/js-yaml) to 4.3.2 and updates ancestor dependency . These dependencies need to be updated together.\n\n\nUpdates `js-yaml` from 4.1.0 to 4.3.2\n- [Changelog](https://github.com/nodeca/js-yaml/blob/4.3.2/CHANGELOG.md)\n- [Commits](https://github.com/nodeca/js-yaml/compare/4.1.0...4.3.2)\n\nUpdates `js-yaml` from 3.14.1 to 3.15.2\n- [Changelog](https://github.com/nodeca/js-yaml/blob/4.3.2/CHANGELOG.md)\n- [Commits](https://github.com/nodeca/js-yaml/compare/4.1.0...4.3.2)\n\n---\nupdated-dependencies:\n- dependency-name: js-yaml\n  dependency-version: 4.3.2\n  dependency-type: direct:development\n- dependency-name: js-yaml\n  dependency-version: 3.15.2\n  dependency-type: indirect\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-24T22:41:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/delete-package-versions/commit/51c852967be86f569fe191df608f1c2a452fa5e2",
+      "is_merge": false
+    },
+    {
+      "sha": "7761f34fc4a104319097e9151cd40b943e3e1832",
+      "author": "dependabot[bot]",
+      "message": "build: bump brace-expansion\n\nBumps  and [brace-expansion](https://github.com/juliangruber/brace-expansion). These dependencies needed to be updated together.\n\nUpdates `brace-expansion` from 1.1.11 to 1.1.21\n- [Release notes](https://github.com/juliangruber/brace-expansion/releases)\n- [Commits](https://github.com/juliangruber/brace-expansion/compare/1.1.11...v1.1.21)\n\nUpdates `brace-expansion` from 2.0.1 to 2.1.7\n- [Release notes](https://github.com/juliangruber/brace-expansion/releases)\n- [Commits](https://github.com/juliangruber/brace-expansion/compare/1.1.11...v1.1.21)\n\n---\nupdated-dependencies:\n- dependency-name: brace-expansion\n  dependency-version: 1.1.21\n  dependency-type: indirect\n- dependency-name: brace-expansion\n  dependency-version: 2.1.7\n  dependency-type: indirect\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-24T22:41:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/delete-package-versions/commit/7761f34fc4a104319097e9151cd40b943e3e1832",
+      "is_merge": false
+    },
+    {
       "sha": "8064871f74658604a50a3c68a199f121c1640bfc",
       "author": "JaredHatfield",
       "message": "Add weekly OSV-Scanner vulnerability scans (#3)\n\n* Add weekly OSV-Scanner vulnerability scans\n\n* security: refine OSV scanner event filters\n\n* Split OSV scanner workflows by event",
