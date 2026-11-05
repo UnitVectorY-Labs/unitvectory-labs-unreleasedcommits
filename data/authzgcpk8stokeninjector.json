@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T00:52:22Z",
   "unreleased_commits": [
     {
+      "sha": "b23895e331e7fe3c314e91da5a43aa90b35b7a8b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #226 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T03:45:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/b23895e331e7fe3c314e91da5a43aa90b35b7a8b",
+      "is_merge": true
+    },
+    {
+      "sha": "2cbc2eb729c13effd2e3aaada4778f8bcb198741",
+      "author": "JaredHatfield",
+      "message": "Retire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T01:07:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/2cbc2eb729c13effd2e3aaada4778f8bcb198741",
+      "is_merge": false
+    },
+    {
       "sha": "ce5f1b5af32e2d665fad5f333a6e420ca6041f6e",
       "author": "JaredHatfield",
       "message": "Merge pull request #225 from UnitVectorY-Labs/deps/x-net-v0.62.0\n\nchore(deps): bump golang.org/x/net to v0.62.0",

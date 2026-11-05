@@ -6,6 +6,22 @@
   "latest_release_time": "2026-09-03T09:52:57Z",
   "unreleased_commits": [
     {
+      "sha": "86c2713cee255652f4ff7488344b4472ee44ebde",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #125 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T03:45:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/86c2713cee255652f4ff7488344b4472ee44ebde",
+      "is_merge": true
+    },
+    {
+      "sha": "a7790b6e985a1527c47a0e811950afd9ef96c4a8",
+      "author": "JaredHatfield",
+      "message": "Retire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T01:53:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/a7790b6e985a1527c47a0e811950afd9ef96c4a8",
+      "is_merge": false
+    },
+    {
       "sha": "eefeaa2fda322ceaea94ea2ee4867f1a9d050b5a",
       "author": "JaredHatfield",
       "message": "Merge pull request #121 from UnitVectorY-Labs/gitrepoforge/yamlequal\n\ngitrepoforge: apply desired state for yamlequal",

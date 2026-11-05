@@ -6,6 +6,22 @@
   "latest_release_time": "2026-08-13T00:50:01Z",
   "unreleased_commits": [
     {
+      "sha": "ab97b6e8a7b896e47f36ab56a452caf4d2d9d3ff",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #216 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T03:45:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/fileparamunit/commit/ab97b6e8a7b896e47f36ab56a452caf4d2d9d3ff",
+      "is_merge": true
+    },
+    {
+      "sha": "c45c0e48bcf4aed68b24a6d82b2877701f2108be",
+      "author": "JaredHatfield",
+      "message": "Retire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T01:46:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/fileparamunit/commit/c45c0e48bcf4aed68b24a6d82b2877701f2108be",
+      "is_merge": false
+    },
+    {
       "sha": "0f54ed7193a0edc151845fff20591adeb06c9f40",
       "author": "JaredHatfield",
       "message": "Merge pull request #213 from UnitVectorY-Labs/dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.6.1\n\nchore(deps-dev): bump org.apache.maven.plugins:maven-surefire-plugin from 3.6.0 to 3.6.1",

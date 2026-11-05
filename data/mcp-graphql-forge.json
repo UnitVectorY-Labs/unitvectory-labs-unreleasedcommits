@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T00:42:53Z",
   "unreleased_commits": [
     {
+      "sha": "fd144c5c61c9da2d1dbdc30468edfdd40f97a897",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #195 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T03:45:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/fd144c5c61c9da2d1dbdc30468edfdd40f97a897",
+      "is_merge": true
+    },
+    {
+      "sha": "a5bc73c651a9f34aed94688b89785b16a3f55ea1",
+      "author": "JaredHatfield",
+      "message": "Retire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T01:50:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/a5bc73c651a9f34aed94688b89785b16a3f55ea1",
+      "is_merge": false
+    },
+    {
       "sha": "17ac0735935b7649b5d0407d343f916e16b1882a",
       "author": "JaredHatfield",
       "message": "Merge pull request #194 from UnitVectorY-Labs/chore/remove-govulncheck-workflow\n\nchore: remove govulncheck-go workflow superseded by OSV-Scanner",

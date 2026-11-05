@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T00:26:13Z",
   "unreleased_commits": [
     {
+      "sha": "e9d6972bf3dc1c051325cccee4f1e786d953e03c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #80 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T03:45:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghscanscope/commit/e9d6972bf3dc1c051325cccee4f1e786d953e03c",
+      "is_merge": true
+    },
+    {
+      "sha": "342a87cc02b50184ef0cb3f821adb9f0bf3d30c2",
+      "author": "JaredHatfield",
+      "message": "Retire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T01:48:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghscanscope/commit/342a87cc02b50184ef0cb3f821adb9f0bf3d30c2",
+      "is_merge": false
+    },
+    {
       "sha": "476196380da7c1fb232f55f9a5bcf4a49095ba0c",
       "author": "JaredHatfield",
       "message": "Merge pull request #75 from UnitVectorY-Labs/gitrepoforge/ghscanscope\n\ngitrepoforge: apply desired state for ghscanscope",

@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T01:12:05Z",
   "unreleased_commits": [
     {
+      "sha": "82009b22771c80afa8b7237007f2d56e4025cfe1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #297 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T03:45:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/82009b22771c80afa8b7237007f2d56e4025cfe1",
+      "is_merge": true
+    },
+    {
+      "sha": "a23a87fbe3f5f978c0d0b30a5e12e5179e9eda71",
+      "author": "JaredHatfield",
+      "message": "Retire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T01:47:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/a23a87fbe3f5f978c0d0b30a5e12e5179e9eda71",
+      "is_merge": false
+    },
+    {
       "sha": "9902240c97856c0ffb98580a6bb79db7f2492c4a",
       "author": "JaredHatfield",
       "message": "Upgrade frontend to HTMX 4.0.0 (#249)\n\nBump the pinned unpkg htmx release from 2.0.3 to 4.0.0 with a re-verified\nSHA-384 SRI hash, and adapt the template to HTMX 4's behavior changes:\n\n- Mark the form's hx-target/hx-swap as :inherited to preserve the 2.x\n  implicit inheritance of the nested service-account request.\n- Route 4xx/5xx responses to the #error element via hx-status, since\n  htmx 4 swaps error responses by default (2.x did not).\n- Rename the htmx:afterSwap listener to htmx:after:swap and read the swap\n  target from event.detail.ctx.target (normalizing string selectors), which\n  also clears a stale error when a new token succeeds.\n- Drop the now-dead hx-target/hx-swap attributes on the #error element.\n\nVerified with the official upgrade checker (0 issues), go build/vet/test,\nand browser tests of the load, success, 400, and 500 paths.\n\nCloses #248",

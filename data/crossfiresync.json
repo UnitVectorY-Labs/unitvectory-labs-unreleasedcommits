@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-07T02:26:09Z",
   "unreleased_commits": [
     {
+      "sha": "b77df31ef2229f2058c34012284fe11ebe660ffa",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #298 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T03:45:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/b77df31ef2229f2058c34012284fe11ebe660ffa",
+      "is_merge": true
+    },
+    {
+      "sha": "7dfc5f98fabe8351f8c5c9566725378d40e70aa2",
+      "author": "JaredHatfield",
+      "message": "Retire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T01:44:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/7dfc5f98fabe8351f8c5c9566725378d40e70aa2",
+      "is_merge": false
+    },
+    {
       "sha": "b4219ef009b8f8b2f6e726696ffb5a107e57b024",
       "author": "JaredHatfield",
       "message": "Merge pull request #296 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.1\n\nchore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.2.0 to 1.2.1",

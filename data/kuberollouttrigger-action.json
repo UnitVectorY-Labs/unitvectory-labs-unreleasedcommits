@@ -6,6 +6,22 @@
   "latest_release_time": "2026-09-10T23:33:10Z",
   "unreleased_commits": [
     {
+      "sha": "3b7489591228b74f099bd4056789c9aeb289f44a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #88 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T03:45:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/3b7489591228b74f099bd4056789c9aeb289f44a",
+      "is_merge": true
+    },
+    {
+      "sha": "2b8ac11f14f64075ec3dab2b16efa711b9d2fa53",
+      "author": "JaredHatfield",
+      "message": "Retire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T01:50:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/kuberollouttrigger-action/commit/2b8ac11f14f64075ec3dab2b16efa711b9d2fa53",
+      "is_merge": false
+    },
+    {
       "sha": "eba84da76b316e23a018ee893d3574334975ee3c",
       "author": "JaredHatfield",
       "message": "Merge pull request #86 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.3.3\n\nBump astral-sh/setup-uv from 10.3.1 to 10.3.3",

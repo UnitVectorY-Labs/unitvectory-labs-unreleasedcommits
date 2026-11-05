@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-24T18:07:06Z",
   "unreleased_commits": [
     {
+      "sha": "cc4ca2c57712f5fd93eadb7fd7cdf1c3e93a585e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #153 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T03:45:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/cc4ca2c57712f5fd93eadb7fd7cdf1c3e93a585e",
+      "is_merge": true
+    },
+    {
+      "sha": "ee479dede2904a1aa1567c13bbf3a2b82165c5f3",
+      "author": "JaredHatfield",
+      "message": "Retire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T01:51:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/repver/commit/ee479dede2904a1aa1567c13bbf3a2b82165c5f3",
+      "is_merge": false
+    },
+    {
       "sha": "cc74f8242cc8d40ac2e85d00f05971a71ad196e7",
       "author": "JaredHatfield",
       "message": "Merge pull request #149 from UnitVectorY-Labs/gitrepoforge/repver\n\ngitrepoforge: apply desired state for repver",

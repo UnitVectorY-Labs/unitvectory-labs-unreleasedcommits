@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T00:22:41Z",
   "unreleased_commits": [
     {
+      "sha": "a23b4cc7f8be8ed914628a528dce69bc90ee89fa",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #139 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T03:45:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/a23b4cc7f8be8ed914628a528dce69bc90ee89fa",
+      "is_merge": true
+    },
+    {
+      "sha": "eacfc229760196c4b58dedc2d56abe8beb9f687e",
+      "author": "JaredHatfield",
+      "message": "Retire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T01:47:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/eacfc229760196c4b58dedc2d56abe8beb9f687e",
+      "is_merge": false
+    },
+    {
       "sha": "eb42418c2c79ee2067f5f95a915496a9b72af7bb",
       "author": "JaredHatfield",
       "message": "Merge pull request #138 from UnitVectorY-Labs/chore/remove-govulncheck-workflow\n\nchore: remove govulncheck-go workflow superseded by OSV-Scanner",

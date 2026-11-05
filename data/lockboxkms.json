@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T02:38:47Z",
   "unreleased_commits": [
     {
+      "sha": "93892b4e23b363a58df090ea456ee89a3913fef9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #299 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T03:45:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/93892b4e23b363a58df090ea456ee89a3913fef9",
+      "is_merge": true
+    },
+    {
+      "sha": "58a3e0b40c69b842f670aeeeb42afe0f28d7c6d9",
+      "author": "JaredHatfield",
+      "message": "Retire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T01:50:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/58a3e0b40c69b842f670aeeeb42afe0f28d7c6d9",
+      "is_merge": false
+    },
+    {
       "sha": "6007505e3ccbcb69160b2f74cae7af64d882d111",
       "author": "JaredHatfield",
       "message": "Upgrade frontend to HTMX 4.0.0 (#251)\n\n- Load htmx.org@4.0.0 from unpkg with verified sha384 integrity hash\n- Remove htmx-ext-response-targets extension and hx-ext activation\n- Replace hx-target-error with native hx-status:4xx/5xx inherited\n  targeting of the #error element\n- Mark form hx-target/hx-swap as :inherited (explicit inheritance in v4)\n\nVerified with the official upgrade checker (0 findings), go build/test,\nand browser tests covering 200/400/500 swap targeting.\n\nCloses #250",

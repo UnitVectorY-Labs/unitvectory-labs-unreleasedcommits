@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T01:05:34Z",
   "unreleased_commits": [
     {
+      "sha": "dd8c2a07b7ac14465eb5403c54b8373b119c4d45",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #274 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T03:45:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/dd8c2a07b7ac14465eb5403c54b8373b119c4d45",
+      "is_merge": true
+    },
+    {
+      "sha": "3b5766ce63a43ae9a854ac1a55f92e0d5f26fdb1",
+      "author": "JaredHatfield",
+      "message": "Retire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T01:46:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/3b5766ce63a43ae9a854ac1a55f92e0d5f26fdb1",
+      "is_merge": false
+    },
+    {
       "sha": "457b9eeff70de046fd4290b316d06d270ebb6844",
       "author": "JaredHatfield",
       "message": "Merge pull request #267 from UnitVectorY-Labs/dependabot/go_modules/cloud.google.com/go/firestore-1.29.0\n\nchore(deps): bump cloud.google.com/go/firestore from 1.26.0 to 1.29.1",

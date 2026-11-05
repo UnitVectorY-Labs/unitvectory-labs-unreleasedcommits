@@ -6,6 +6,22 @@
   "latest_release_time": "2025-12-06T18:46:02Z",
   "unreleased_commits": [
     {
+      "sha": "ec1beda9ce13b9bf393ca22a68a512c909ad19a9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #108 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T03:45:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/jwt-bearer-token-vendor/commit/ec1beda9ce13b9bf393ca22a68a512c909ad19a9",
+      "is_merge": true
+    },
+    {
+      "sha": "a6a486ea41046b2688ab79cb810b59c80973c665",
+      "author": "JaredHatfield",
+      "message": "Retire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T01:49:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/jwt-bearer-token-vendor/commit/a6a486ea41046b2688ab79cb810b59c80973c665",
+      "is_merge": false
+    },
+    {
       "sha": "9e3eebf0be7628b8262d55325aad73dfd6f4f9bb",
       "author": "JaredHatfield",
       "message": "Merge pull request #107 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.3.3\n\nBump astral-sh/setup-uv from 10.3.1 to 10.3.3",

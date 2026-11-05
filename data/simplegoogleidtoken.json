@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:44:58Z",
   "unreleased_commits": [
     {
+      "sha": "4c9d7aaa7726aecb3be634b92f1ebdd39e68fc8f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #231 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T03:45:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/4c9d7aaa7726aecb3be634b92f1ebdd39e68fc8f",
+      "is_merge": true
+    },
+    {
+      "sha": "31d8d95df3f0044da53cd6466263fd6cd4d6e12e",
+      "author": "JaredHatfield",
+      "message": "Retire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T01:52:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/31d8d95df3f0044da53cd6466263fd6cd4d6e12e",
+      "is_merge": false
+    },
+    {
       "sha": "ac56e876125ef791e1443bf277a049037ccbbdb1",
       "author": "JaredHatfield",
       "message": "Merge pull request #225 from UnitVectorY-Labs/dependabot/maven/com.google.auth-google-auth-library-oauth2-http-1.55.0\n\nchore(deps): bump com.google.auth:google-auth-library-oauth2-http from 1.54.0 to 1.55.0",

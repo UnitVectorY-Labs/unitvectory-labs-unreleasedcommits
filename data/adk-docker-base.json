@@ -6,6 +6,22 @@
   "latest_release_time": "2025-10-25T13:36:20Z",
   "unreleased_commits": [
     {
+      "sha": "5b390e94f8ed1a265b1a4ab954760f31823dac77",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #157 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T03:45:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/5b390e94f8ed1a265b1a4ab954760f31823dac77",
+      "is_merge": true
+    },
+    {
+      "sha": "4856aa53a3b45421f19d7daf01095ce62a209d23",
+      "author": "JaredHatfield",
+      "message": "Retire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T01:07:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/adk-docker-base/commit/4856aa53a3b45421f19d7daf01095ce62a209d23",
+      "is_merge": false
+    },
+    {
       "sha": "283533dbbcb98680f3bf8d6e2504bd4f587d9ca7",
       "author": "JaredHatfield",
       "message": "Merge pull request #155 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.7.0\n\nbuild(deps): bump docker/login-action from 4.6.0 to 4.7.0",

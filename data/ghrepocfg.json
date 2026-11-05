@@ -4,6 +4,23 @@
   "default_branch": "main",
   "latest_release_tag": "v0.4.0",
   "latest_release_time": "2026-11-03T00:17:01Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "a08ec48bc3780092996e58ab3caaa1826e90a3d8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #46 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T03:45:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/a08ec48bc3780092996e58ab3caaa1826e90a3d8",
+      "is_merge": true
+    },
+    {
+      "sha": "dc61ffec677e035084b721f55a4295ebc17f26f1",
+      "author": "JaredHatfield",
+      "message": "Retire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T01:48:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/dc61ffec677e035084b721f55a4295ebc17f26f1",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/ghrepocfg"
 }

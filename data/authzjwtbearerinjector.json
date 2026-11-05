@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T00:58:57Z",
   "unreleased_commits": [
     {
+      "sha": "f1939293ad9267a7046898ba010e6870242a4e9d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #231 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T03:45:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/f1939293ad9267a7046898ba010e6870242a4e9d",
+      "is_merge": true
+    },
+    {
+      "sha": "654b4b984adcd88070e52b63aa1f768f1d1d97da",
+      "author": "JaredHatfield",
+      "message": "Retire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T01:07:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/654b4b984adcd88070e52b63aa1f768f1d1d97da",
+      "is_merge": false
+    },
+    {
       "sha": "ea9b9d9e4b4986366bbbb3763faf494a0cbb1d3b",
       "author": "JaredHatfield",
       "message": "Merge pull request #230 from UnitVectorY-Labs/deps/x-net-v0.62.0\n\nchore(deps): bump golang.org/x/net to v0.62.0",

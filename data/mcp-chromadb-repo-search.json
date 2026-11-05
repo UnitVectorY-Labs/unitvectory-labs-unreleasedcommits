@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T00:35:59Z",
   "unreleased_commits": [
     {
+      "sha": "95c9c11685cfe6e7beb872c1de7329a040bec3a1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #65 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T03:45:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-chromadb-repo-search/commit/95c9c11685cfe6e7beb872c1de7329a040bec3a1",
+      "is_merge": true
+    },
+    {
+      "sha": "c5ecd7e7b5d5ff9531f2bcebe308afbb3f8fbad2",
+      "author": "JaredHatfield",
+      "message": "Retire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T01:50:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-chromadb-repo-search/commit/c5ecd7e7b5d5ff9531f2bcebe308afbb3f8fbad2",
+      "is_merge": false
+    },
+    {
       "sha": "f953c782a73e529b6f56517a1dacdada67e90014",
       "author": "JaredHatfield",
       "message": "Merge pull request #64 from UnitVectorY-Labs/chore/remove-govulncheck-workflow\n\nchore: remove govulncheck-go workflow superseded by OSV-Scanner",

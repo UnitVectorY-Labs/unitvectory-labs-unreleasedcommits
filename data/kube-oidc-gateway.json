@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T02:30:31Z",
   "unreleased_commits": [
     {
+      "sha": "1f228d54b12fd445f0f42d62ea9301ee5e9de7b7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #137 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T03:45:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/1f228d54b12fd445f0f42d62ea9301ee5e9de7b7",
+      "is_merge": true
+    },
+    {
+      "sha": "eb71cec67907a81dc9d527830f197a2aa1a2ea48",
+      "author": "JaredHatfield",
+      "message": "Retire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T01:49:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/eb71cec67907a81dc9d527830f197a2aa1a2ea48",
+      "is_merge": false
+    },
+    {
       "sha": "5801066afa551f46c8cdefb90325dafc91946777",
       "author": "JaredHatfield",
       "message": "Merge pull request #136 from UnitVectorY-Labs/chore/remove-govulncheck-workflow\n\nchore: remove govulncheck-go workflow superseded by OSV-Scanner",

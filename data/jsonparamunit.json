@@ -6,6 +6,22 @@
   "latest_release_time": "2026-08-13T00:53:49Z",
   "unreleased_commits": [
     {
+      "sha": "6a52fc0e05a1293bdcf2d92171765259f9d4f48d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #259 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T03:45:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/6a52fc0e05a1293bdcf2d92171765259f9d4f48d",
+      "is_merge": true
+    },
+    {
+      "sha": "667092b99799bf9c6ba2ad365f684d0eeae9f27f",
+      "author": "JaredHatfield",
+      "message": "Retire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T01:49:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/667092b99799bf9c6ba2ad365f684d0eeae9f27f",
+      "is_merge": false
+    },
+    {
       "sha": "3e72e97980d23cfc40b6d9719c91d38aa754f839",
       "author": "JaredHatfield",
       "message": "Merge pull request #252 from UnitVectorY-Labs/dependabot/maven/com.fasterxml.jackson.core-jackson-databind-2.22.4\n\nchore(deps): bump com.fasterxml.jackson.core:jackson-databind from 2.22.3 to 2.22.4",

@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-06T21:59:25Z",
   "unreleased_commits": [
     {
+      "sha": "065335b687d15ca88850d7e7a58809082c74dc20",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #199 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T03:45:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/065335b687d15ca88850d7e7a58809082c74dc20",
+      "is_merge": true
+    },
+    {
+      "sha": "50e50762bd6f7f83438e0db9c2d80420f0b476c8",
+      "author": "JaredHatfield",
+      "message": "Retire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T01:06:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/50e50762bd6f7f83438e0db9c2d80420f0b476c8",
+      "is_merge": false
+    },
+    {
       "sha": "719603cf9942f83887e067b00a08a29c49f50a00",
       "author": "JaredHatfield",
       "message": "Merge pull request #195 from UnitVectorY-Labs/gitrepoforge/YAMLtecture\n\ngitrepoforge: apply desired state for YAMLtecture",

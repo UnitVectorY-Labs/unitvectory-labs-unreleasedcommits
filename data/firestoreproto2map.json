@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:22:29Z",
   "unreleased_commits": [
     {
+      "sha": "0074373f3c39d057194016a3532f37a18d6371ef",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #300 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T03:45:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/0074373f3c39d057194016a3532f37a18d6371ef",
+      "is_merge": true
+    },
+    {
+      "sha": "fcb493110fee1c2a4955ad20261eb6a4d85d5963",
+      "author": "JaredHatfield",
+      "message": "Retire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T01:46:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/fcb493110fee1c2a4955ad20261eb6a4d85d5963",
+      "is_merge": false
+    },
+    {
       "sha": "0815757b8a6616a5e394e8c7de93fde886d72675",
       "author": "JaredHatfield",
       "message": "Merge pull request #296 from UnitVectorY-Labs/dependabot/maven/com.google.cloud-google-cloud-firestore-3.50.0\n\nchore(deps): bump com.google.cloud:google-cloud-firestore from 3.49.0 to 3.50.0",

@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-06T22:13:30Z",
   "unreleased_commits": [
     {
+      "sha": "d631e7030a6f701e79b8adf48a9e371e4567429a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #105 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T03:45:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/d631e7030a6f701e79b8adf48a9e371e4567429a",
+      "is_merge": true
+    },
+    {
+      "sha": "1149799de73c9bfb87388bdcc6b5185d42479129",
+      "author": "JaredHatfield",
+      "message": "Retire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T01:46:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/1149799de73c9bfb87388bdcc6b5185d42479129",
+      "is_merge": false
+    },
+    {
       "sha": "4668e23619a3b87b62d866b19bf09f6215e70448",
       "author": "JaredHatfield",
       "message": "Merge pull request #104 from UnitVectorY-Labs/deps/x-text-v0.41.0\n\nchore(deps): bump golang.org/x/text to v0.41.0",

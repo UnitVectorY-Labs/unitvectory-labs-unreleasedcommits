@@ -6,6 +6,22 @@
   "latest_release_time": "2026-09-03T09:52:55Z",
   "unreleased_commits": [
     {
+      "sha": "5ef78b0d724fb1ac924255fa6c39e596ffda5adc",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #140 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T03:45:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/5ef78b0d724fb1ac924255fa6c39e596ffda5adc",
+      "is_merge": true
+    },
+    {
+      "sha": "f55278f864929989eafa7f2859ea889d66e1b0a3",
+      "author": "JaredHatfield",
+      "message": "Retire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T01:52:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/f55278f864929989eafa7f2859ea889d66e1b0a3",
+      "is_merge": false
+    },
+    {
       "sha": "95df556c4401343226ef7ab45a0feec7719eb735",
       "author": "JaredHatfield",
       "message": "Merge pull request #136 from UnitVectorY-Labs/gitrepoforge/tofu-template-tester\n\ngitrepoforge: apply desired state for tofu-template-tester",

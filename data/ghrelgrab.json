@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T00:20:55Z",
   "unreleased_commits": [
     {
+      "sha": "609a2d2dd26ce6f6ba8efe298876deed921706ce",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #156 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T03:45:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/609a2d2dd26ce6f6ba8efe298876deed921706ce",
+      "is_merge": true
+    },
+    {
+      "sha": "7be95a55fb49884f99e6043ba5e9cd1f1514f1c1",
+      "author": "JaredHatfield",
+      "message": "Retire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T01:47:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/7be95a55fb49884f99e6043ba5e9cd1f1514f1c1",
+      "is_merge": false
+    },
+    {
       "sha": "c7213286d5b4d5b4deeb9477fac9ce62626a4b7b",
       "author": "JaredHatfield",
       "message": "Merge pull request #154 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.7.0\n\nchore(deps): bump docker/login-action from 4.6.0 to 4.7.0",

@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-24T23:45:23Z",
   "unreleased_commits": [
     {
+      "sha": "0e2fd94b81d82a45825423d57f19770dca144dcf",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #68 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T03:45:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/0e2fd94b81d82a45825423d57f19770dca144dcf",
+      "is_merge": true
+    },
+    {
+      "sha": "fe30f084396b72a257def71da860ec2367bf85a0",
+      "author": "JaredHatfield",
+      "message": "Retire add-to-project workflow in favor of ghook4action",
+      "timestamp": "2026-11-05T01:09:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/fe30f084396b72a257def71da860ec2367bf85a0",
+      "is_merge": false
+    },
+    {
       "sha": "bb53ac182ac582b1abf27cf839a6530ab690caeb",
       "author": "JaredHatfield",
       "message": "Merge pull request #67 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.3.3\n\nbuild(deps): bump astral-sh/setup-uv from 10.3.1 to 10.3.3",
