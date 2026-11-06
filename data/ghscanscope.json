@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T00:26:13Z",
   "unreleased_commits": [
     {
+      "sha": "43c57ef47c7c58881bbb4546626d2b926e2df2a1",
+      "author": "JaredHatfield",
+      "message": "docs: add GitHub release badge\n\nApplied by gitrepoforge from release_github: true.",
+      "timestamp": "2026-11-06T00:26:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghscanscope/commit/43c57ef47c7c58881bbb4546626d2b926e2df2a1",
+      "is_merge": false
+    },
+    {
+      "sha": "a50a68023678b196d45edc400b86cd5b0735d3e8",
+      "author": "JaredHatfield",
+      "message": "chore: set release_github true\n\nRepo publishes GitHub releases; the attribute only controls whether the\nREADME shows the release badge.",
+      "timestamp": "2026-11-06T00:26:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghscanscope/commit/a50a68023678b196d45edc400b86cd5b0735d3e8",
+      "is_merge": false
+    },
+    {
       "sha": "e9d6972bf3dc1c051325cccee4f1e786d953e03c",
       "author": "JaredHatfield",
       "message": "Merge pull request #80 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",

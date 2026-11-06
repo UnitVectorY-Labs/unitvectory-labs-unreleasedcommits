@@ -6,6 +6,78 @@
   "latest_release_time": "2026-10-22T01:26:08Z",
   "unreleased_commits": [
     {
+      "sha": "151d2471a5172dd025bce50847a600daf1d51a56",
+      "author": "JaredHatfield",
+      "message": "docs: add GitHub release badge\n\nApplied by gitrepoforge from release_github: true.",
+      "timestamp": "2026-11-06T00:26:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/151d2471a5172dd025bce50847a600daf1d51a56",
+      "is_merge": false
+    },
+    {
+      "sha": "6b564f94d67d473d2bea5ce303fa1a4fa5994040",
+      "author": "JaredHatfield",
+      "message": "chore: set release_github true\n\nRepo publishes GitHub releases; the attribute only controls whether the\nREADME shows the release badge.",
+      "timestamp": "2026-11-06T00:26:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/6b564f94d67d473d2bea5ce303fa1a4fa5994040",
+      "is_merge": false
+    },
+    {
+      "sha": "b4897a25033a8dd1c8f9041ecf80c5a2c508a720",
+      "author": "JaredHatfield",
+      "message": "docs: update status badge to Active\n\nApplied by gitrepoforge from status: active.",
+      "timestamp": "2026-11-06T00:15:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/b4897a25033a8dd1c8f9041ecf80c5a2c508a720",
+      "is_merge": false
+    },
+    {
+      "sha": "a524d872342885c0720ecdf667d359f973598e7e",
+      "author": "JaredHatfield",
+      "message": "chore: set project status to active\n\nRepo has 9 published GitHub releases (latest v0.2.7); status was\nexplicitly wip.",
+      "timestamp": "2026-11-06T00:15:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/a524d872342885c0720ecdf667d359f973598e7e",
+      "is_merge": false
+    },
+    {
+      "sha": "6f0451367b62943886db0eb7ca58ef9630b78742",
+      "author": "JaredHatfield",
+      "message": "ci: pin delete package versions action (#134)",
+      "timestamp": "2026-11-05T23:15:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/6f0451367b62943886db0eb7ca58ef9630b78742",
+      "is_merge": false
+    },
+    {
+      "sha": "f9b4415c82fe8e42bb0390fc830a8b624a188020",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #133 from UnitVectorY-Labs/docs/improve-user-guides\n\ndocs: improve application setup and usage guides",
+      "timestamp": "2026-11-05T11:35:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/f9b4415c82fe8e42bb0390fc830a8b624a188020",
+      "is_merge": true
+    },
+    {
+      "sha": "163df1507fc76969462317df37ced0943ff807fe",
+      "author": "JaredHatfield",
+      "message": "docs: enable managed documentation site and refine public guides",
+      "timestamp": "2026-11-05T11:07:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/163df1507fc76969462317df37ced0943ff807fe",
+      "is_merge": false
+    },
+    {
+      "sha": "b9c0abfa1faf7e1bd6c1391cf7664300018d2fc9",
+      "author": "JaredHatfield",
+      "message": "Align related application descriptions and documentation navigation",
+      "timestamp": "2026-11-05T11:00:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/b9c0abfa1faf7e1bd6c1391cf7664300018d2fc9",
+      "is_merge": false
+    },
+    {
+      "sha": "f48f0b0288a20d6d1a3bc9c5836892252e7e5c75",
+      "author": "JaredHatfield",
+      "message": "docs: organize user guides and explain related projects",
+      "timestamp": "2026-11-05T10:58:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/f48f0b0288a20d6d1a3bc9c5836892252e7e5c75",
+      "is_merge": false
+    },
+    {
       "sha": "42e3eb7d72f2c799fa957700cb6c7e0ed809f458",
       "author": "JaredHatfield",
       "message": "Merge pull request #132 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",

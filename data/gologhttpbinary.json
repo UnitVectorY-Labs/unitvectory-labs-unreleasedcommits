@@ -6,6 +6,14 @@
   "latest_release_time": "2026-10-22T01:53:09Z",
   "unreleased_commits": [
     {
+      "sha": "6625faa95d61a4574b2d2821b7d8326b692060ad",
+      "author": "JaredHatfield",
+      "message": "chore: use UVY delete package versions action (#178)",
+      "timestamp": "2026-11-05T23:15:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpbinary/commit/6625faa95d61a4574b2d2821b7d8326b692060ad",
+      "is_merge": false
+    },
+    {
       "sha": "179ee36e962aa51f2a58b69939e0479757296ebd",
       "author": "JaredHatfield",
       "message": "Merge pull request #177 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",

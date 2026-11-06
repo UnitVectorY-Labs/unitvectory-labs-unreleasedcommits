@@ -6,6 +6,14 @@
   "latest_release_time": "2026-10-22T02:30:31Z",
   "unreleased_commits": [
     {
+      "sha": "e90da42b0a0f33cb180036f8649d330d4778315a",
+      "author": "JaredHatfield",
+      "message": "ci: pin delete package versions action (#138)",
+      "timestamp": "2026-11-05T23:15:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/e90da42b0a0f33cb180036f8649d330d4778315a",
+      "is_merge": false
+    },
+    {
       "sha": "1f228d54b12fd445f0f42d62ea9301ee5e9de7b7",
       "author": "JaredHatfield",
       "message": "Merge pull request #137 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",

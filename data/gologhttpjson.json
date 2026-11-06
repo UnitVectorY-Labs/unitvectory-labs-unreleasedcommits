@@ -6,6 +6,14 @@
   "latest_release_time": "2026-10-22T02:01:08Z",
   "unreleased_commits": [
     {
+      "sha": "9e816516db237bfb21bac5e6b2a685e4660604a0",
+      "author": "JaredHatfield",
+      "message": "ci: pin delete package versions action (#157)",
+      "timestamp": "2026-11-05T23:15:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/9e816516db237bfb21bac5e6b2a685e4660604a0",
+      "is_merge": false
+    },
+    {
       "sha": "9274932cf9b05b1db6470107d043b7bbb2680d1c",
       "author": "JaredHatfield",
       "message": "Merge pull request #156 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",

@@ -6,6 +6,14 @@
   "latest_release_time": "2026-10-22T00:58:57Z",
   "unreleased_commits": [
     {
+      "sha": "29aa7e0e51238ed4c89db95aeb8f4c317db414d3",
+      "author": "JaredHatfield",
+      "message": "ci: pin delete package versions action (#232)",
+      "timestamp": "2026-11-05T23:15:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/29aa7e0e51238ed4c89db95aeb8f4c317db414d3",
+      "is_merge": false
+    },
+    {
       "sha": "f1939293ad9267a7046898ba010e6870242a4e9d",
       "author": "JaredHatfield",
       "message": "Merge pull request #231 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",

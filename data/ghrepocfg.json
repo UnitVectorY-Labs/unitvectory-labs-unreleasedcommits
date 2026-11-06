@@ -6,6 +6,22 @@
   "latest_release_time": "2026-11-03T00:17:01Z",
   "unreleased_commits": [
     {
+      "sha": "b1cc90f70dafc22da8eb36e33898c1bff8285f01",
+      "author": "JaredHatfield",
+      "message": "docs: add GitHub release badge\n\nApplied by gitrepoforge from release_github: true.",
+      "timestamp": "2026-11-06T00:26:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/b1cc90f70dafc22da8eb36e33898c1bff8285f01",
+      "is_merge": false
+    },
+    {
+      "sha": "aa7b26d3183ea797d700d9290e58e29190b5dd93",
+      "author": "JaredHatfield",
+      "message": "chore: set release_github true\n\nRepo publishes GitHub releases; the attribute only controls whether the\nREADME shows the release badge.",
+      "timestamp": "2026-11-06T00:26:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/aa7b26d3183ea797d700d9290e58e29190b5dd93",
+      "is_merge": false
+    },
+    {
       "sha": "a08ec48bc3780092996e58ab3caaa1826e90a3d8",
       "author": "JaredHatfield",
       "message": "Merge pull request #46 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",

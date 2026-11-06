@@ -6,6 +6,14 @@
   "latest_release_time": "2026-10-22T00:52:22Z",
   "unreleased_commits": [
     {
+      "sha": "cb387a36bcbb9e009b4716d10d187928acfca74f",
+      "author": "JaredHatfield",
+      "message": "ci: pin delete package versions action (#227)",
+      "timestamp": "2026-11-05T23:15:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/cb387a36bcbb9e009b4716d10d187928acfca74f",
+      "is_merge": false
+    },
+    {
       "sha": "b23895e331e7fe3c314e91da5a43aa90b35b7a8b",
       "author": "JaredHatfield",
       "message": "Merge pull request #226 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",

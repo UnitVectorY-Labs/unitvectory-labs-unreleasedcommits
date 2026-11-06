@@ -6,6 +6,14 @@
   "latest_release_time": "2026-10-22T01:32:53Z",
   "unreleased_commits": [
     {
+      "sha": "2d41c56c33b1ab3a7df717e5ad8d19951ec8e8b7",
+      "author": "JaredHatfield",
+      "message": "chore: use UVY delete package versions action (#170)",
+      "timestamp": "2026-11-05T23:15:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/2d41c56c33b1ab3a7df717e5ad8d19951ec8e8b7",
+      "is_merge": false
+    },
+    {
       "sha": "c03f315183a098fe5321f59bdcf36de482b1a2d2",
       "author": "JaredHatfield",
       "message": "Merge pull request #169 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",

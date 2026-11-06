@@ -6,6 +6,38 @@
   "latest_release_time": "2026-09-03T09:52:06Z",
   "unreleased_commits": [
     {
+      "sha": "7d66d44524f26d67ef1d0671abaad45a1d33975e",
+      "author": "JaredHatfield",
+      "message": "docs: add GitHub release badge\n\nApplied by gitrepoforge from release_github: true.",
+      "timestamp": "2026-11-06T00:26:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpvalidate/commit/7d66d44524f26d67ef1d0671abaad45a1d33975e",
+      "is_merge": false
+    },
+    {
+      "sha": "df3dc63db12d3dfdeba768d0c8709c04a7a92e1c",
+      "author": "JaredHatfield",
+      "message": "chore: set release_github true\n\nRepo publishes GitHub releases; the attribute only controls whether the\nREADME shows the release badge.",
+      "timestamp": "2026-11-06T00:26:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpvalidate/commit/df3dc63db12d3dfdeba768d0c8709c04a7a92e1c",
+      "is_merge": false
+    },
+    {
+      "sha": "bacbb301afa0730fb634116bda177e5b0e0081ad",
+      "author": "JaredHatfield",
+      "message": "docs: update status badge to Active\n\nApplied by gitrepoforge from status: active.",
+      "timestamp": "2026-11-06T00:14:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpvalidate/commit/bacbb301afa0730fb634116bda177e5b0e0081ad",
+      "is_merge": false
+    },
+    {
+      "sha": "7d2c7facedf1467bac3723c3db263ee886d29c26",
+      "author": "JaredHatfield",
+      "message": "chore: set project status to active\n\nRepo has 4 published GitHub releases (latest v0.1.3); status was\nimplicitly wip via the gitrepoforge default.",
+      "timestamp": "2026-11-06T00:14:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpvalidate/commit/7d2c7facedf1467bac3723c3db263ee886d29c26",
+      "is_merge": false
+    },
+    {
       "sha": "c84e524f658fea1f26ba7ab09fe151e5db7681d2",
       "author": "JaredHatfield",
       "message": "Merge pull request #113 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",

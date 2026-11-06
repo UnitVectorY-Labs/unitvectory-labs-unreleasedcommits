@@ -6,6 +6,14 @@
   "latest_release_time": "2026-10-22T01:12:05Z",
   "unreleased_commits": [
     {
+      "sha": "5815faebf3fd652628dcf00daa7047226e8f6d52",
+      "author": "JaredHatfield",
+      "message": "ci: pin delete package versions action (#298)",
+      "timestamp": "2026-11-05T23:15:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/5815faebf3fd652628dcf00daa7047226e8f6d52",
+      "is_merge": false
+    },
+    {
       "sha": "82009b22771c80afa8b7237007f2d56e4025cfe1",
       "author": "JaredHatfield",
       "message": "Merge pull request #297 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",

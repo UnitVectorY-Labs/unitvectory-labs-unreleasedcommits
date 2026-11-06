@@ -6,6 +6,14 @@
   "latest_release_time": "2026-10-22T02:16:40Z",
   "unreleased_commits": [
     {
+      "sha": "84381e77f773b65f0030beaf3ed5406f6a957157",
+      "author": "JaredHatfield",
+      "message": "ci: pin delete package versions action (#192)",
+      "timestamp": "2026-11-05T23:15:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/84381e77f773b65f0030beaf3ed5406f6a957157",
+      "is_merge": false
+    },
+    {
       "sha": "322ecd73c7324f01c599c2a0aaf8340ebb333f97",
       "author": "JaredHatfield",
       "message": "Merge pull request #191 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",

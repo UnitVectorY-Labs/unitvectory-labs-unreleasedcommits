@@ -6,6 +6,14 @@
   "latest_release_time": "2026-10-22T00:20:55Z",
   "unreleased_commits": [
     {
+      "sha": "53596104be8af5b57c4587e05cb2f2a79a68cba5",
+      "author": "JaredHatfield",
+      "message": "fix: use UVY package cleanup action (#157)",
+      "timestamp": "2026-11-05T23:15:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/53596104be8af5b57c4587e05cb2f2a79a68cba5",
+      "is_merge": false
+    },
+    {
       "sha": "609a2d2dd26ce6f6ba8efe298876deed921706ce",
       "author": "JaredHatfield",
       "message": "Merge pull request #156 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",

@@ -6,6 +6,14 @@
   "latest_release_time": "2026-10-22T02:38:47Z",
   "unreleased_commits": [
     {
+      "sha": "aa0f0837feea2f2e86443e314324d0a55b8c3ffd",
+      "author": "JaredHatfield",
+      "message": "ci: pin delete package versions action (#300)",
+      "timestamp": "2026-11-05T23:15:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/aa0f0837feea2f2e86443e314324d0a55b8c3ffd",
+      "is_merge": false
+    },
+    {
       "sha": "93892b4e23b363a58df090ea456ee89a3913fef9",
       "author": "JaredHatfield",
       "message": "Merge pull request #299 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",

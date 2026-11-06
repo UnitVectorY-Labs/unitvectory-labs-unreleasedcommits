@@ -6,6 +6,22 @@
   "latest_release_time": "2026-09-03T09:51:54Z",
   "unreleased_commits": [
     {
+      "sha": "59017dafa4ef6af4d5fc3c58f55116310e1bc4dd",
+      "author": "JaredHatfield",
+      "message": "docs: update status badge to Active\n\nApplied by gitrepoforge from status: active.",
+      "timestamp": "2026-11-06T00:09:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/59017dafa4ef6af4d5fc3c58f55116310e1bc4dd",
+      "is_merge": false
+    },
+    {
+      "sha": "014eda39ce3d270be20f0f60ea207166a9aa1633",
+      "author": "JaredHatfield",
+      "message": "chore: set project status to active\n\nRepo has 7 published GitHub releases (latest v0.2.5); status was\nimplicitly wip via the gitrepoforge default.",
+      "timestamp": "2026-11-06T00:09:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/014eda39ce3d270be20f0f60ea207166a9aa1633",
+      "is_merge": false
+    },
+    {
       "sha": "8d4df4b4dc7144abb63968805ee88b6097110432",
       "author": "JaredHatfield",
       "message": "Merge pull request #123 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",

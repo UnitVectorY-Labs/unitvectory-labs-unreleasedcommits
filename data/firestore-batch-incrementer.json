@@ -6,6 +6,14 @@
   "latest_release_time": "2026-10-22T01:05:34Z",
   "unreleased_commits": [
     {
+      "sha": "bec096db76420dcebae475b397399767351b469b",
+      "author": "JaredHatfield",
+      "message": "fix: use UVY package cleanup action (#275)",
+      "timestamp": "2026-11-05T23:15:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/bec096db76420dcebae475b397399767351b469b",
+      "is_merge": false
+    },
+    {
       "sha": "dd8c2a07b7ac14465eb5403c54b8373b119c4d45",
       "author": "JaredHatfield",
       "message": "Merge pull request #274 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",
