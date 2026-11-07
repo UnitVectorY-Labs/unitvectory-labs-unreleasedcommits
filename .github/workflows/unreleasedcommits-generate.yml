@@ -11,6 +11,11 @@ on:
     branches: ["main"]
   # Manual trigger
   workflow_dispatch:
+    inputs:
+      source_sha:
+        description: Full commit SHA of UnitVectorY-Labs/unreleasedcommits to build
+        required: false
+        type: string
 
 permissions:
   contents: read  # Required to clone the repository
@@ -34,14 +39,28 @@ jobs:
           # Ensures full history is fetched for commit
           fetch-depth: 0
 
+      - name: Select source revision
+        id: source
+        env:
+          SOURCE_SHA: ${{ inputs.source_sha }}
+        run: |
+          if [[ -n "$SOURCE_SHA" ]]; then
+            if [[ ! "$SOURCE_SHA" =~ ^[0-9a-fA-F]{40}$ ]]; then
+              echo "source_sha must be exactly 40 hexadecimal characters" >&2
+              exit 1
+            fi
+            echo "ref=$SOURCE_SHA" >> "$GITHUB_OUTPUT"
+          else
+            echo "ref=main" >> "$GITHUB_OUTPUT"
+          fi
+
       # Step 2: Checkout the unreleasedcommits repository into 'unreleasedcommits' folder
       - name: Checkout unreleasedcommits repository
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           repository: UnitVectorY-Labs/unreleasedcommits
           path: unreleasedcommits
-          # Optionally, specify a branch if not default
-          # ref: main
+          ref: ${{ steps.source.outputs.ref }}
 
       # Step 3: Set up Go environment
       - name: Set up Go
