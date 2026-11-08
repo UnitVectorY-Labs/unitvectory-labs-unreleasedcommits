@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-24T23:45:23Z",
   "unreleased_commits": [
     {
+      "sha": "d5d00558ba3694a0dacb48734f1d6a89a5c866bb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #70 from UnitVectorY-Labs/dependabot/github_actions/codeql-52a31eee68\n\nbuild(deps): bump github/codeql-action/upload-sarif from 4.39.1 to 4.39.3 in the codeql group",
+      "timestamp": "2026-11-07T12:50:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/d5d00558ba3694a0dacb48734f1d6a89a5c866bb",
+      "is_merge": true
+    },
+    {
+      "sha": "faa76ed6717a79a22854e43df288a7ae6d9757ff",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github/codeql-action/upload-sarif\n\nBumps the codeql group with 1 update: [github/codeql-action/upload-sarif](https://github.com/github/codeql-action).\n\n\nUpdates `github/codeql-action/upload-sarif` from 4.39.1 to 4.39.3\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/9b3254085494b55a0f7c4c2b3d2d52cc712ce370...33d7b85da1a04171e211befe2c739303b9a4c066)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.39.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-07T11:06:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/faa76ed6717a79a22854e43df288a7ae6d9757ff",
+      "is_merge": false
+    },
+    {
       "sha": "0e2fd94b81d82a45825423d57f19770dca144dcf",
       "author": "JaredHatfield",
       "message": "Merge pull request #68 from UnitVectorY-Labs/retire-add-to-project-workflow\n\nRetire add-to-project workflow in favor of ghook4action",
