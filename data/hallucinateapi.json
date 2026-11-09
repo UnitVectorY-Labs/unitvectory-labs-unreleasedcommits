@@ -6,12 +6,28 @@
   "latest_release_time": "2026-10-22T02:08:01Z",
   "unreleased_commits": [
     {
+      "sha": "8a9ad9bc6ba2d91c39a634289697d97e8b211f82",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #163 from UnitVectorY-Labs/dependabot/go_modules/github.com/pb33f/libopenapi-0.42.3\n\nbuild(deps): bump github.com/pb33f/libopenapi from 0.41.4 to 0.42.3",
+      "timestamp": "2026-11-08T12:54:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/8a9ad9bc6ba2d91c39a634289697d97e8b211f82",
+      "is_merge": true
+    },
+    {
       "sha": "c297399f96af4d0f9f7677fab7c9ffd08a0697e1",
       "author": "JaredHatfield",
       "message": "Merge pull request #162 from UnitVectorY-Labs/dependabot/github_actions/codeql-9bb51a497a\n\nbuild(deps): bump the codeql group with 3 updates",
       "timestamp": "2026-11-07T12:50:04Z",
       "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/c297399f96af4d0f9f7677fab7c9ffd08a0697e1",
       "is_merge": true
+    },
+    {
+      "sha": "b56b7cb7b3c92e38c9078676a6debb77905aeccc",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github.com/pb33f/libopenapi from 0.41.4 to 0.42.3\n\nBumps [github.com/pb33f/libopenapi](https://github.com/pb33f/libopenapi) from 0.41.4 to 0.42.3.\n- [Release notes](https://github.com/pb33f/libopenapi/releases)\n- [Commits](https://github.com/pb33f/libopenapi/compare/v0.41.4...v0.42.3)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/pb33f/libopenapi\n  dependency-version: 0.42.3\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-07T11:08:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/b56b7cb7b3c92e38c9078676a6debb77905aeccc",
+      "is_merge": false
     },
     {
       "sha": "7b036c3ea30478bfc229c77e547139d9280011d2",

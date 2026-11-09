@@ -6,6 +6,30 @@
   "latest_release_time": "2026-10-24T23:45:23Z",
   "unreleased_commits": [
     {
+      "sha": "8c8c57759da0b9d091aee0377f20714a898c5d64",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #71 from UnitVectorY-Labs/dependabot/pip/tree-sitter-language-pack-1.23.1\n\nbuild(deps): bump tree-sitter-language-pack from 1.22.1 to 1.23.1",
+      "timestamp": "2026-11-08T12:39:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/8c8c57759da0b9d091aee0377f20714a898c5d64",
+      "is_merge": true
+    },
+    {
+      "sha": "0516e041c6053adcb80817f2cb6eaf2558344ca5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #69 from UnitVectorY-Labs/dependabot/uv/oauthlib-4.0.1\n\nbuild(deps): bump oauthlib from 4.0.0 to 4.0.1",
+      "timestamp": "2026-11-08T12:39:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/0516e041c6053adcb80817f2cb6eaf2558344ca5",
+      "is_merge": true
+    },
+    {
+      "sha": "b693978272f55695aff19c350456855cdca8649d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #65 from UnitVectorY-Labs/dependabot/pip/pytest-9.2.0\n\nbuild(deps-dev): bump pytest from 9.1.1 to 9.2.0",
+      "timestamp": "2026-11-08T12:39:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/b693978272f55695aff19c350456855cdca8649d",
+      "is_merge": true
+    },
+    {
       "sha": "d5d00558ba3694a0dacb48734f1d6a89a5c866bb",
       "author": "JaredHatfield",
       "message": "Merge pull request #70 from UnitVectorY-Labs/dependabot/github_actions/codeql-52a31eee68\n\nbuild(deps): bump github/codeql-action/upload-sarif from 4.39.1 to 4.39.3 in the codeql group",
@@ -14,11 +38,27 @@
       "is_merge": true
     },
     {
+      "sha": "3a5ada135d1cfe9c3db4ae3d145fb499efd62056",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump tree-sitter-language-pack from 1.22.1 to 1.23.1\n\nBumps [tree-sitter-language-pack](https://github.com/xberg-io/tree-sitter-language-pack) from 1.22.1 to 1.23.1.\n- [Release notes](https://github.com/xberg-io/tree-sitter-language-pack/releases)\n- [Changelog](https://github.com/xberg-io/tree-sitter-language-pack/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/xberg-io/tree-sitter-language-pack/compare/v1.22.1...v1.23.1)\n\n---\nupdated-dependencies:\n- dependency-name: tree-sitter-language-pack\n  dependency-version: 1.23.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-07T11:06:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/3a5ada135d1cfe9c3db4ae3d145fb499efd62056",
+      "is_merge": false
+    },
+    {
       "sha": "faa76ed6717a79a22854e43df288a7ae6d9757ff",
       "author": "dependabot[bot]",
       "message": "build(deps): bump github/codeql-action/upload-sarif\n\nBumps the codeql group with 1 update: [github/codeql-action/upload-sarif](https://github.com/github/codeql-action).\n\n\nUpdates `github/codeql-action/upload-sarif` from 4.39.1 to 4.39.3\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/9b3254085494b55a0f7c4c2b3d2d52cc712ce370...33d7b85da1a04171e211befe2c739303b9a4c066)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.39.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-11-07T11:06:35Z",
       "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/faa76ed6717a79a22854e43df288a7ae6d9757ff",
+      "is_merge": false
+    },
+    {
+      "sha": "8a7ad53d2fdc9ab3f68964505d62ad6a7260319b",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump oauthlib from 4.0.0 to 4.0.1\n\nBumps [oauthlib](https://github.com/oauthlib/oauthlib) from 4.0.0 to 4.0.1.\n- [Release notes](https://github.com/oauthlib/oauthlib/releases)\n- [Changelog](https://github.com/oauthlib/oauthlib/blob/v4.0.1/CHANGELOG.rst)\n- [Commits](https://github.com/oauthlib/oauthlib/compare/v4.0.0...v4.0.1)\n\n---\nupdated-dependencies:\n- dependency-name: oauthlib\n  dependency-version: 4.0.1\n  dependency-type: indirect\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-06T00:25:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/8a7ad53d2fdc9ab3f68964505d62ad6a7260319b",
       "is_merge": false
     },
     {
@@ -51,6 +91,14 @@
       "message": "build(deps): bump astral-sh/setup-uv from 10.3.1 to 10.3.3\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.1 to 10.3.3.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/18d369b23da25a81e9458561248e1aafff6a70fa...68559e99cc807c1eb7e9238fd43a15bba460eec2)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.3.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-10-31T10:09:15Z",
       "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/72d36ea92fb4073610fd40ac89979d09f19c839e",
+      "is_merge": false
+    },
+    {
+      "sha": "4f97ace05139c158d1a2f191eea474ca6ed401e9",
+      "author": "dependabot[bot]",
+      "message": "build(deps-dev): bump pytest from 9.1.1 to 9.2.0\n\nBumps [pytest](https://github.com/pytest-dev/pytest) from 9.1.1 to 9.2.0.\n- [Release notes](https://github.com/pytest-dev/pytest/releases)\n- [Changelog](https://github.com/pytest-dev/pytest/blob/main/CHANGELOG.rst)\n- [Commits](https://github.com/pytest-dev/pytest/compare/9.1.1...9.2.0)\n\n---\nupdated-dependencies:\n- dependency-name: pytest\n  dependency-version: 9.2.0\n  dependency-type: direct:development\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-10-31T10:07:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/4f97ace05139c158d1a2f191eea474ca6ed401e9",
       "is_merge": false
     },
     {

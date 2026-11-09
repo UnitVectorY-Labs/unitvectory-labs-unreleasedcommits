@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-06T21:59:25Z",
   "unreleased_commits": [
     {
+      "sha": "2e42fbcf0ed723ed0c8f3d21b8cc449c4457cb78",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #200 from UnitVectorY-Labs/dependabot/go_modules/github.com/go-playground/validator/v10-10.30.6\n\nbuild(deps): bump github.com/go-playground/validator/v10 from 10.30.5 to 10.30.6",
+      "timestamp": "2026-11-08T13:06:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/2e42fbcf0ed723ed0c8f3d21b8cc449c4457cb78",
+      "is_merge": true
+    },
+    {
+      "sha": "88ac3a1ac31baa42bbbaf6aeba16e391335a1d88",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github.com/go-playground/validator/v10\n\nBumps [github.com/go-playground/validator/v10](https://github.com/go-playground/validator) from 10.30.5 to 10.30.6.\n- [Release notes](https://github.com/go-playground/validator/releases)\n- [Commits](https://github.com/go-playground/validator/compare/v10.30.5...v10.30.6)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/go-playground/validator/v10\n  dependency-version: 10.30.6\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-08T13:05:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/88ac3a1ac31baa42bbbaf6aeba16e391335a1d88",
+      "is_merge": false
+    },
+    {
       "sha": "9a3aa2ad9965c4f6caadb5769321628a0dcfff2c",
       "author": "JaredHatfield",
       "message": "Merge pull request #201 from UnitVectorY-Labs/dependabot/github_actions/codeql-9bb51a497a\n\nbuild(deps): bump the codeql group with 3 updates",
