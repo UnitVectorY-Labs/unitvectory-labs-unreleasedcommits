@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-07T02:26:09Z",
   "unreleased_commits": [
     {
+      "sha": "6f5d5ae65e41e0ca19a44367d285b84eeaf2b3b1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #300 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-6.2.0\n\nchore(deps): bump actions/setup-java from 6.1.0 to 6.2.0",
+      "timestamp": "2026-11-12T00:42:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/6f5d5ae65e41e0ca19a44367d285b84eeaf2b3b1",
+      "is_merge": true
+    },
+    {
+      "sha": "ad7e8649d10586aae5ad181b39cb36d7228c9ab4",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/setup-java from 6.1.0 to 6.2.0\n\nBumps [actions/setup-java](https://github.com/actions/setup-java) from 6.1.0 to 6.2.0.\n- [Release notes](https://github.com/actions/setup-java/releases)\n- [Commits](https://github.com/actions/setup-java/compare/b843ebf9b913146b38da2eaa7aeddf76074ae1ad...77dd5b2ce225ea11469928ac317850245a74ae78)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-java\n  dependency-version: 6.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-12T00:39:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/crossfiresync/commit/ad7e8649d10586aae5ad181b39cb36d7228c9ab4",
+      "is_merge": false
+    },
+    {
       "sha": "9e07721776dead28da1488914ae7a20278ed9778",
       "author": "JaredHatfield",
       "message": "Merge pull request #293 from UnitVectorY-Labs/dependabot/maven/com.google.cloud-libraries-bom-26.91.0\n\nchore(deps): bump com.google.cloud:libraries-bom from 26.90.0 to 26.91.0",

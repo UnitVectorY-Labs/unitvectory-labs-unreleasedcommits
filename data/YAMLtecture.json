@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-06T21:59:25Z",
   "unreleased_commits": [
     {
+      "sha": "0c5c8b04d466139a036a006ff2dc5772ed4f7c45",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #202 from UnitVectorY-Labs/repver/go-v1.27.4\n\nUpdate Go version to v1.27.4",
+      "timestamp": "2026-11-11T11:09:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/0c5c8b04d466139a036a006ff2dc5772ed4f7c45",
+      "is_merge": true
+    },
+    {
+      "sha": "7244ddc8a80af4220665fb360db1d2eca62b465c",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.27.4",
+      "timestamp": "2026-11-11T10:56:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/7244ddc8a80af4220665fb360db1d2eca62b465c",
+      "is_merge": false
+    },
+    {
       "sha": "2e42fbcf0ed723ed0c8f3d21b8cc449c4457cb78",
       "author": "JaredHatfield",
       "message": "Merge pull request #200 from UnitVectorY-Labs/dependabot/go_modules/github.com/go-playground/validator/v10-10.30.6\n\nbuild(deps): bump github.com/go-playground/validator/v10 from 10.30.5 to 10.30.6",

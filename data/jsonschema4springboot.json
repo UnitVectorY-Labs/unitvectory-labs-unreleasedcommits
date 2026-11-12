@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:26:01Z",
   "unreleased_commits": [
     {
+      "sha": "90fd55dae957cc4e47a39ed76611b785e08da04a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #290 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-6.2.0\n\nchore(deps): bump actions/setup-java from 6.1.0 to 6.2.0",
+      "timestamp": "2026-11-12T00:46:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/90fd55dae957cc4e47a39ed76611b785e08da04a",
+      "is_merge": true
+    },
+    {
+      "sha": "7e5c64f229a3cf519fb36595194cb957238663bd",
+      "author": "JaredHatfield",
+      "message": "Merge branch 'main' into dependabot/github_actions/actions/setup-java-6.2.0",
+      "timestamp": "2026-11-12T00:44:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/7e5c64f229a3cf519fb36595194cb957238663bd",
+      "is_merge": true
+    },
+    {
       "sha": "c10589f13a36124920258d91330c3ab9807d3ae9",
       "author": "JaredHatfield",
       "message": "Merge pull request #289 from UnitVectorY-Labs/dependabot/maven/com.networknt-json-schema-validator-3.0.9\n\nchore(deps): bump com.networknt:json-schema-validator from 3.0.8 to 3.0.9",
@@ -19,6 +35,14 @@
       "message": "chore(deps): bump com.networknt:json-schema-validator\n\nBumps [com.networknt:json-schema-validator](https://github.com/networknt/json-schema-validator) from 3.0.8 to 3.0.9.\n- [Release notes](https://github.com/networknt/json-schema-validator/releases)\n- [Changelog](https://github.com/networknt/json-schema-validator/blob/master/CHANGELOG.md)\n- [Commits](https://github.com/networknt/json-schema-validator/compare/3.0.8...3.0.9)\n\n---\nupdated-dependencies:\n- dependency-name: com.networknt:json-schema-validator\n  dependency-version: 3.0.9\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-11-07T11:02:30Z",
       "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/25a9eb1bf36049f54a8f5d4093da7d7830f3e1f2",
+      "is_merge": false
+    },
+    {
+      "sha": "21efd948c6b444bed19c116b05d74f3c66b14ad0",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/setup-java from 6.1.0 to 6.2.0\n\nBumps [actions/setup-java](https://github.com/actions/setup-java) from 6.1.0 to 6.2.0.\n- [Release notes](https://github.com/actions/setup-java/releases)\n- [Commits](https://github.com/actions/setup-java/compare/b843ebf9b913146b38da2eaa7aeddf76074ae1ad...77dd5b2ce225ea11469928ac317850245a74ae78)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-java\n  dependency-version: 6.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-07T12:58:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/21efd948c6b444bed19c116b05d74f3c66b14ad0",
       "is_merge": false
     },
     {

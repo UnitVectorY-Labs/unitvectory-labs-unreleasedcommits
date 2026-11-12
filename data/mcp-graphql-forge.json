@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T00:42:53Z",
   "unreleased_commits": [
     {
+      "sha": "bca9aa7b050495c184e20826eb7bed056adfa677",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #199 from UnitVectorY-Labs/repver/go-v1.27.4\n\nUpdate Go version to v1.27.4",
+      "timestamp": "2026-11-11T11:09:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/bca9aa7b050495c184e20826eb7bed056adfa677",
+      "is_merge": true
+    },
+    {
+      "sha": "33eefb8836fbecad1843e5c9409f9340ec12364f",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.27.4",
+      "timestamp": "2026-11-11T10:54:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/33eefb8836fbecad1843e5c9409f9340ec12364f",
+      "is_merge": false
+    },
+    {
       "sha": "9d431064b25d7cbb405ad2aefe4c46f67ca5b55b",
       "author": "JaredHatfield",
       "message": "Merge pull request #196 from UnitVectorY-Labs/dependabot/github_actions/codeql-9bb51a497a\n\nchore(deps): bump the codeql group with 3 updates",

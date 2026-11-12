@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T01:05:34Z",
   "unreleased_commits": [
     {
+      "sha": "22dff806c8fad526d81bcf24e3c0550b0e3accaa",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #279 from UnitVectorY-Labs/repver/go-v1.27.4\n\nUpdate Go version to v1.27.4",
+      "timestamp": "2026-11-11T11:54:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/22dff806c8fad526d81bcf24e3c0550b0e3accaa",
+      "is_merge": true
+    },
+    {
+      "sha": "e16e8e62bbdab65b839270a896b36cd29582bb57",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.27.4",
+      "timestamp": "2026-11-11T10:52:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/e16e8e62bbdab65b839270a896b36cd29582bb57",
+      "is_merge": false
+    },
+    {
       "sha": "e97fd4dc4cd343e8e4183e4eb3c5fdfab43d08e0",
       "author": "JaredHatfield",
       "message": "Merge pull request #276 from UnitVectorY-Labs/dependabot/github_actions/codeql-9bb51a497a\n\nchore(deps): bump the codeql group with 3 updates",

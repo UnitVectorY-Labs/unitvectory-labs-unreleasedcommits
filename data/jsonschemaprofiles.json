@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-06T22:23:09Z",
   "unreleased_commits": [
     {
+      "sha": "d21ce9d79f3972cf5854b96331c77d608753a14b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #119 from UnitVectorY-Labs/repver/go-v1.27.4\n\nUpdate Go version to v1.27.4",
+      "timestamp": "2026-11-11T11:09:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/d21ce9d79f3972cf5854b96331c77d608753a14b",
+      "is_merge": true
+    },
+    {
+      "sha": "61dde875d4eb87632de7880ecbc3d6f38a718a5d",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.27.4",
+      "timestamp": "2026-11-11T10:54:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/61dde875d4eb87632de7880ecbc3d6f38a718a5d",
+      "is_merge": false
+    },
+    {
       "sha": "34fd15b2af62c5c40e8ab9808dd3ebca6a48eb67",
       "author": "JaredHatfield",
       "message": "Merge pull request #104 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/text-0.43.0\n\nbuild(deps): bump golang.org/x/text from 0.42.0 to 0.43.0",

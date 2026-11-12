@@ -4,6 +4,23 @@
   "default_branch": "main",
   "latest_release_tag": "v0.2.3",
   "latest_release_time": "2026-11-08T19:43:38Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "9d98c9bc65eb4a82aabf1915d32f281ef43f6a7e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #110 from UnitVectorY-Labs/repver/go-v1.27.4\n\nUpdate Go version to v1.27.4",
+      "timestamp": "2026-11-11T11:09:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/9d98c9bc65eb4a82aabf1915d32f281ef43f6a7e",
+      "is_merge": true
+    },
+    {
+      "sha": "273fcbe3737a8c5f7b83e79316a00dbcf35ac129",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.27.4",
+      "timestamp": "2026-11-11T10:52:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/273fcbe3737a8c5f7b83e79316a00dbcf35ac129",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/frontmatterkit"
 }

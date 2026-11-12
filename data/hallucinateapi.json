@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T02:08:01Z",
   "unreleased_commits": [
     {
+      "sha": "c0af022448327fda32b650f62492bee992b71561",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #166 from UnitVectorY-Labs/repver/go-v1.27.4\n\nUpdate Go version to v1.27.4",
+      "timestamp": "2026-11-11T11:09:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/c0af022448327fda32b650f62492bee992b71561",
+      "is_merge": true
+    },
+    {
+      "sha": "10633d9134441c44873744e1da8cf0d36688912c",
+      "author": "JaredHatfield",
+      "message": "Update Go version to v1.27.4",
+      "timestamp": "2026-11-11T10:53:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/10633d9134441c44873744e1da8cf0d36688912c",
+      "is_merge": false
+    },
+    {
       "sha": "8a9ad9bc6ba2d91c39a634289697d97e8b211f82",
       "author": "JaredHatfield",
       "message": "Merge pull request #163 from UnitVectorY-Labs/dependabot/go_modules/github.com/pb33f/libopenapi-0.42.3\n\nbuild(deps): bump github.com/pb33f/libopenapi from 0.41.4 to 0.42.3",

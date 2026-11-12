@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:22:29Z",
   "unreleased_commits": [
     {
+      "sha": "49bf39cc35b8cf34b56f3af077b1495631fbf12c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #302 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-6.2.0\n\nchore(deps): bump actions/setup-java from 6.1.0 to 6.2.0",
+      "timestamp": "2026-11-12T00:40:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/49bf39cc35b8cf34b56f3af077b1495631fbf12c",
+      "is_merge": true
+    },
+    {
+      "sha": "8879702d247a634967b252ed147b212b5c291649",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/setup-java from 6.1.0 to 6.2.0\n\nBumps [actions/setup-java](https://github.com/actions/setup-java) from 6.1.0 to 6.2.0.\n- [Release notes](https://github.com/actions/setup-java/releases)\n- [Commits](https://github.com/actions/setup-java/compare/b843ebf9b913146b38da2eaa7aeddf76074ae1ad...77dd5b2ce225ea11469928ac317850245a74ae78)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-java\n  dependency-version: 6.2.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-07T12:58:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/8879702d247a634967b252ed147b212b5c291649",
+      "is_merge": false
+    },
+    {
       "sha": "112ccc51bba091e2ede25ef4223bef289a4a0930",
       "author": "JaredHatfield",
       "message": "Merge pull request #301 from UnitVectorY-Labs/dependabot/github_actions/codeql-d8a829adeb\n\nchore(deps): bump the codeql group with 4 updates",
