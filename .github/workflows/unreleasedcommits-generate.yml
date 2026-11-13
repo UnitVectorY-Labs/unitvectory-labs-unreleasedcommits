@@ -17,10 +17,7 @@ on:
         required: false
         type: string
 
-permissions:
-  contents: read  # Required to clone the repository
-  pages: write    # Allows publishing to GitHub Pages
-  id-token: write # Required for the `actions/deploy-pages@v4`
+permissions: {}
 
 concurrency:
   group: generate
@@ -29,6 +26,8 @@ concurrency:
 jobs:
   build:
     runs-on: arc-runner-set
+    permissions:
+      contents: read # Required to check out the repositories.
 
     steps:
       # Step 1: Checkout the current repository into 'self' folder
@@ -89,6 +88,9 @@ jobs:
 
   # Deployment job
   deploy:
+    permissions:
+      pages: write # Required to publish to GitHub Pages.
+      id-token: write # Required for the deploy-pages OIDC token.
     environment:
       name: github-pages
       url: unreleasedcommits.unitvectorylabs.com
