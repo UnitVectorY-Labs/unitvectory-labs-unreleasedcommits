@@ -6,6 +6,54 @@
   "latest_release_time": "2026-10-22T01:53:09Z",
   "unreleased_commits": [
     {
+      "sha": "ec30395cda1fdc6cf86c5185a589ccaa8a94a277",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #184 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.8.0\n\nchore(deps): bump docker/login-action from 4.7.0 to 4.8.0",
+      "timestamp": "2026-11-14T13:22:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpbinary/commit/ec30395cda1fdc6cf86c5185a589ccaa8a94a277",
+      "is_merge": true
+    },
+    {
+      "sha": "e8d95bcfda6baa5ac88f0087e029f2f38941c4b6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #185 from UnitVectorY-Labs/dependabot/github_actions/google/osv-scanner-action/dot-github/workflows/osv-scanner-reusable.yml-2.7.1\n\nchore(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml from 2.7.0 to 2.7.1",
+      "timestamp": "2026-11-14T13:19:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpbinary/commit/e8d95bcfda6baa5ac88f0087e029f2f38941c4b6",
+      "is_merge": true
+    },
+    {
+      "sha": "d0d3478fa571e075b218b2f2aaef30cd9c534671",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #183 from UnitVectorY-Labs/dependabot/github_actions/google/osv-scanner-action/dot-github/workflows/osv-scanner-reusable-pr.yml-2.7.1\n\nchore(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml from 2.7.0 to 2.7.1",
+      "timestamp": "2026-11-14T13:13:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpbinary/commit/d0d3478fa571e075b218b2f2aaef30cd9c534671",
+      "is_merge": true
+    },
+    {
+      "sha": "9252b75fcf1e5fab46079130d9f82572c06d8b85",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml\n\nBumps [google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml](https://github.com/google/osv-scanner-action) from 2.7.0 to 2.7.1.\n- [Release notes](https://github.com/google/osv-scanner-action/releases)\n- [Commits](https://github.com/google/osv-scanner-action/compare/b1d267aea5211fa648d9d442fa64b90dbdcbdd36...32d3cd482bdadfb38b186c0ad1b031902d55d932)\n\n---\nupdated-dependencies:\n- dependency-name: google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml\n  dependency-version: 2.7.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-14T11:04:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpbinary/commit/9252b75fcf1e5fab46079130d9f82572c06d8b85",
+      "is_merge": false
+    },
+    {
+      "sha": "fb3882b13423dc6db36628eb492bc533d5ee26c0",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/login-action from 4.7.0 to 4.8.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.7.0 to 4.8.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/81c6f93d4bc991e510b342a00b419b3bb4efc5c6...8aa5831fb8d48d8f76594c7ddde61ae58019f550)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.8.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-14T11:04:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpbinary/commit/fb3882b13423dc6db36628eb492bc533d5ee26c0",
+      "is_merge": false
+    },
+    {
+      "sha": "ac9e047603068b51827c585ba4d78d60cf6df644",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml\n\nBumps [google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml](https://github.com/google/osv-scanner-action) from 2.7.0 to 2.7.1.\n- [Release notes](https://github.com/google/osv-scanner-action/releases)\n- [Commits](https://github.com/google/osv-scanner-action/compare/b1d267aea5211fa648d9d442fa64b90dbdcbdd36...32d3cd482bdadfb38b186c0ad1b031902d55d932)\n\n---\nupdated-dependencies:\n- dependency-name: google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml\n  dependency-version: 2.7.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-14T11:04:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpbinary/commit/ac9e047603068b51827c585ba4d78d60cf6df644",
+      "is_merge": false
+    },
+    {
       "sha": "2308336f12e4b1d8583c70e1f6301cabf13f4e7e",
       "author": "JaredHatfield",
       "message": "Merge pull request #182 from UnitVectorY-Labs/repver/go-v1.27.4\n\nUpdate Go version to v1.27.4",

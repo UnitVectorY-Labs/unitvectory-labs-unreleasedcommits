@@ -4,6 +4,55 @@
   "default_branch": "main",
   "latest_release_tag": "v0.6.3",
   "latest_release_time": "2026-11-12T01:45:39Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "0ad7ab29bdd5c725138e9d63de24e389897c2b19",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #125 from UnitVectorY-Labs/repver/mermaid-12.3.0\n\nUpdate mermaid version to v12.3.0",
+      "timestamp": "2026-11-15T00:51:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/0ad7ab29bdd5c725138e9d63de24e389897c2b19",
+      "is_merge": true
+    },
+    {
+      "sha": "29d8cecf6ca3ffb6a37e69f3d1006dc468d68f1c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #126 from UnitVectorY-Labs/dependabot/github_actions/google/osv-scanner-action/dot-github/workflows/osv-scanner-reusable.yml-2.7.1\n\nbuild(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml from 2.7.0 to 2.7.1",
+      "timestamp": "2026-11-14T13:19:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/29d8cecf6ca3ffb6a37e69f3d1006dc468d68f1c",
+      "is_merge": true
+    },
+    {
+      "sha": "d6f4ccc64b4bf147b35696b66d8c1572f9b0d384",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #127 from UnitVectorY-Labs/dependabot/github_actions/google/osv-scanner-action/dot-github/workflows/osv-scanner-reusable-pr.yml-2.7.1\n\nbuild(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml from 2.7.0 to 2.7.1",
+      "timestamp": "2026-11-14T13:14:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/d6f4ccc64b4bf147b35696b66d8c1572f9b0d384",
+      "is_merge": true
+    },
+    {
+      "sha": "f621c20648a623da87f878dc8d8388c3e28dce2f",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml\n\nBumps [google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml](https://github.com/google/osv-scanner-action) from 2.7.0 to 2.7.1.\n- [Release notes](https://github.com/google/osv-scanner-action/releases)\n- [Commits](https://github.com/google/osv-scanner-action/compare/b1d267aea5211fa648d9d442fa64b90dbdcbdd36...32d3cd482bdadfb38b186c0ad1b031902d55d932)\n\n---\nupdated-dependencies:\n- dependency-name: google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml\n  dependency-version: 2.7.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-14T11:08:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/f621c20648a623da87f878dc8d8388c3e28dce2f",
+      "is_merge": false
+    },
+    {
+      "sha": "f1908adae8b27ef02090c210125dfce9cf2dbbeb",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml\n\nBumps [google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml](https://github.com/google/osv-scanner-action) from 2.7.0 to 2.7.1.\n- [Release notes](https://github.com/google/osv-scanner-action/releases)\n- [Commits](https://github.com/google/osv-scanner-action/compare/b1d267aea5211fa648d9d442fa64b90dbdcbdd36...32d3cd482bdadfb38b186c0ad1b031902d55d932)\n\n---\nupdated-dependencies:\n- dependency-name: google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml\n  dependency-version: 2.7.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-14T11:06:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/f1908adae8b27ef02090c210125dfce9cf2dbbeb",
+      "is_merge": false
+    },
+    {
+      "sha": "604ff6b4512b921756b68a5090c91e339da69b55",
+      "author": "JaredHatfield",
+      "message": "Update mermaid version to v12.3.0",
+      "timestamp": "2026-11-14T01:15:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/604ff6b4512b921756b68a5090c91e339da69b55",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/gogitup"
 }

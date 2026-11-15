@@ -6,6 +6,102 @@
   "latest_release_time": "2026-10-22T01:12:05Z",
   "unreleased_commits": [
     {
+      "sha": "2f087a787a8e1fa27a7face5135384e2124fc378",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #309 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.312.0\n\nchore(deps): bump google.golang.org/api from 0.309.0 to 0.312.0",
+      "timestamp": "2026-11-14T14:36:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/2f087a787a8e1fa27a7face5135384e2124fc378",
+      "is_merge": true
+    },
+    {
+      "sha": "fb75bfd8540ff32731c26a602f6f8393c8ca8133",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google.golang.org/api from 0.309.0 to 0.312.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.309.0 to 0.312.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.309.0...v0.312.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.312.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-14T14:32:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/fb75bfd8540ff32731c26a602f6f8393c8ca8133",
+      "is_merge": false
+    },
+    {
+      "sha": "cb75a0062b2a6019f2a09ba6f4022973bf5a32b2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #304 from UnitVectorY-Labs/dependabot/go_modules/go.opentelemetry.io/otel/trace-1.47.0\n\nchore(deps): bump go.opentelemetry.io/otel/trace from 1.45.0 to 1.47.0",
+      "timestamp": "2026-11-14T14:30:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/cb75a0062b2a6019f2a09ba6f4022973bf5a32b2",
+      "is_merge": true
+    },
+    {
+      "sha": "0055a66883b4989e355ac0019a5b967a70bf37ab",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump go.opentelemetry.io/otel/trace from 1.45.0 to 1.47.0\n\nBumps [go.opentelemetry.io/otel/trace](https://github.com/open-telemetry/opentelemetry-go) from 1.45.0 to 1.47.0.\n- [Release notes](https://github.com/open-telemetry/opentelemetry-go/releases)\n- [Changelog](https://github.com/open-telemetry/opentelemetry-go/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/open-telemetry/opentelemetry-go/compare/v1.45.0...v1.47.0)\n\n---\nupdated-dependencies:\n- dependency-name: go.opentelemetry.io/otel/trace\n  dependency-version: 1.47.0\n  dependency-type: indirect\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-14T14:19:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/0055a66883b4989e355ac0019a5b967a70bf37ab",
+      "is_merge": false
+    },
+    {
+      "sha": "62e70f3fbadc319967e68d2dfd9c8d74046e8d03",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #308 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/oauth2-0.38.0\n\nchore(deps): bump golang.org/x/oauth2 from 0.37.0 to 0.38.0",
+      "timestamp": "2026-11-14T14:17:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/62e70f3fbadc319967e68d2dfd9c8d74046e8d03",
+      "is_merge": true
+    },
+    {
+      "sha": "4650fc5bf4b9c9d2e1bc37a006bd9b54e1a606f9",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #305 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.8.0\n\nchore(deps): bump docker/login-action from 4.7.0 to 4.8.0",
+      "timestamp": "2026-11-14T13:22:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/4650fc5bf4b9c9d2e1bc37a006bd9b54e1a606f9",
+      "is_merge": true
+    },
+    {
+      "sha": "6c8e7494aa4417be3df0e786f15d44f7e3e04546",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #307 from UnitVectorY-Labs/dependabot/github_actions/google/osv-scanner-action/dot-github/workflows/osv-scanner-reusable.yml-2.7.1\n\nchore(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml from 2.7.0 to 2.7.1",
+      "timestamp": "2026-11-14T13:19:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/6c8e7494aa4417be3df0e786f15d44f7e3e04546",
+      "is_merge": true
+    },
+    {
+      "sha": "4110b26c316bb1dd078ee8f5d91684c548ae3d64",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #306 from UnitVectorY-Labs/dependabot/github_actions/google/osv-scanner-action/dot-github/workflows/osv-scanner-reusable-pr.yml-2.7.1\n\nchore(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml from 2.7.0 to 2.7.1",
+      "timestamp": "2026-11-14T13:13:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/4110b26c316bb1dd078ee8f5d91684c548ae3d64",
+      "is_merge": true
+    },
+    {
+      "sha": "39f1d1b1cdf3568bec87a14b286d7cc3805ec631",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump golang.org/x/oauth2 from 0.37.0 to 0.38.0\n\nBumps [golang.org/x/oauth2](https://github.com/golang/oauth2) from 0.37.0 to 0.38.0.\n- [Commits](https://github.com/golang/oauth2/compare/v0.37.0...v0.38.0)\n\n---\nupdated-dependencies:\n- dependency-name: golang.org/x/oauth2\n  dependency-version: 0.38.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-14T11:06:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/39f1d1b1cdf3568bec87a14b286d7cc3805ec631",
+      "is_merge": false
+    },
+    {
+      "sha": "ea58343eba0951271773cf0b476af20663ead52c",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml\n\nBumps [google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml](https://github.com/google/osv-scanner-action) from 2.7.0 to 2.7.1.\n- [Release notes](https://github.com/google/osv-scanner-action/releases)\n- [Commits](https://github.com/google/osv-scanner-action/compare/b1d267aea5211fa648d9d442fa64b90dbdcbdd36...32d3cd482bdadfb38b186c0ad1b031902d55d932)\n\n---\nupdated-dependencies:\n- dependency-name: google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml\n  dependency-version: 2.7.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-14T11:04:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/ea58343eba0951271773cf0b476af20663ead52c",
+      "is_merge": false
+    },
+    {
+      "sha": "b25dbf52865f6333b5f084f1f55fa32fc302ebbc",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml\n\nBumps [google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml](https://github.com/google/osv-scanner-action) from 2.7.0 to 2.7.1.\n- [Release notes](https://github.com/google/osv-scanner-action/releases)\n- [Commits](https://github.com/google/osv-scanner-action/compare/b1d267aea5211fa648d9d442fa64b90dbdcbdd36...32d3cd482bdadfb38b186c0ad1b031902d55d932)\n\n---\nupdated-dependencies:\n- dependency-name: google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml\n  dependency-version: 2.7.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-14T11:04:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/b25dbf52865f6333b5f084f1f55fa32fc302ebbc",
+      "is_merge": false
+    },
+    {
+      "sha": "172c8d6503545f9922adc22b005b9ab23ea6defc",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump docker/login-action from 4.7.0 to 4.8.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.7.0 to 4.8.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/81c6f93d4bc991e510b342a00b419b3bb4efc5c6...8aa5831fb8d48d8f76594c7ddde61ae58019f550)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.8.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-14T11:04:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/172c8d6503545f9922adc22b005b9ab23ea6defc",
+      "is_merge": false
+    },
+    {
       "sha": "18901fc70b70101c5b4aaba8c37a17a3c4de31d1",
       "author": "JaredHatfield",
       "message": "Merge pull request #303 from UnitVectorY-Labs/repver/go-v1.27.4\n\nUpdate Go version to v1.27.4",

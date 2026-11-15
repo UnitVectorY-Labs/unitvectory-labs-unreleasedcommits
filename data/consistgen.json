@@ -6,6 +6,38 @@
   "latest_release_time": "2026-07-02T10:52:46Z",
   "unreleased_commits": [
     {
+      "sha": "cf51e8c37eb399f3a8b24b11d15c2e8890ac05b8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #181 from UnitVectorY-Labs/dependabot/github_actions/google/osv-scanner-action/dot-github/workflows/osv-scanner-reusable.yml-2.7.1\n\nchore(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml from 2.7.0 to 2.7.1",
+      "timestamp": "2026-11-14T13:19:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/cf51e8c37eb399f3a8b24b11d15c2e8890ac05b8",
+      "is_merge": true
+    },
+    {
+      "sha": "f1c6bda9f62ef8a930d4131bc0d8ae8762c3c249",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #180 from UnitVectorY-Labs/dependabot/github_actions/google/osv-scanner-action/dot-github/workflows/osv-scanner-reusable-pr.yml-2.7.1\n\nchore(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml from 2.7.0 to 2.7.1",
+      "timestamp": "2026-11-14T13:13:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/f1c6bda9f62ef8a930d4131bc0d8ae8762c3c249",
+      "is_merge": true
+    },
+    {
+      "sha": "da178bd872c4f77f42ec19e5ec3a181221b3f0aa",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml\n\nBumps [google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml](https://github.com/google/osv-scanner-action) from 2.7.0 to 2.7.1.\n- [Release notes](https://github.com/google/osv-scanner-action/releases)\n- [Commits](https://github.com/google/osv-scanner-action/compare/b1d267aea5211fa648d9d442fa64b90dbdcbdd36...32d3cd482bdadfb38b186c0ad1b031902d55d932)\n\n---\nupdated-dependencies:\n- dependency-name: google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml\n  dependency-version: 2.7.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-14T11:02:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/da178bd872c4f77f42ec19e5ec3a181221b3f0aa",
+      "is_merge": false
+    },
+    {
+      "sha": "30bad92417ecbdfd9dd00c11c05324a5bfa82118",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml\n\nBumps [google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml](https://github.com/google/osv-scanner-action) from 2.7.0 to 2.7.1.\n- [Release notes](https://github.com/google/osv-scanner-action/releases)\n- [Commits](https://github.com/google/osv-scanner-action/compare/b1d267aea5211fa648d9d442fa64b90dbdcbdd36...32d3cd482bdadfb38b186c0ad1b031902d55d932)\n\n---\nupdated-dependencies:\n- dependency-name: google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml\n  dependency-version: 2.7.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-14T11:02:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/30bad92417ecbdfd9dd00c11c05324a5bfa82118",
+      "is_merge": false
+    },
+    {
       "sha": "e7ff8acaa12a65666fb8a98ad180cbff98ccdc73",
       "author": "JaredHatfield",
       "message": "Merge pull request #179 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-6.2.0\n\nchore(deps): bump actions/setup-java from 6.1.0 to 6.2.0",

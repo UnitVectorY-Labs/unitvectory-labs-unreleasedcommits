@@ -6,6 +6,54 @@
   "latest_release_time": "2026-08-13T00:53:49Z",
   "unreleased_commits": [
     {
+      "sha": "510131ea01aa30054e633d15ebaed7c3e7b5b5d1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #262 from UnitVectorY-Labs/dependabot/maven/com.fasterxml.jackson.core-jackson-databind-2.23.0\n\nchore(deps): bump com.fasterxml.jackson.core:jackson-databind from 2.22.4 to 2.23.0",
+      "timestamp": "2026-11-14T14:36:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/510131ea01aa30054e633d15ebaed7c3e7b5b5d1",
+      "is_merge": true
+    },
+    {
+      "sha": "7db8d8c50bf790cf24cd3b33558dceb5f900b443",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #263 from UnitVectorY-Labs/dependabot/github_actions/google/osv-scanner-action/dot-github/workflows/osv-scanner-reusable.yml-2.7.1\n\nchore(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml from 2.7.0 to 2.7.1",
+      "timestamp": "2026-11-14T13:19:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/7db8d8c50bf790cf24cd3b33558dceb5f900b443",
+      "is_merge": true
+    },
+    {
+      "sha": "aceed2bcca99cd9873e5347d2567a34a40e8fef5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #264 from UnitVectorY-Labs/dependabot/github_actions/google/osv-scanner-action/dot-github/workflows/osv-scanner-reusable-pr.yml-2.7.1\n\nchore(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml from 2.7.0 to 2.7.1",
+      "timestamp": "2026-11-14T13:13:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/aceed2bcca99cd9873e5347d2567a34a40e8fef5",
+      "is_merge": true
+    },
+    {
+      "sha": "83673c7d5994d3d3e7c2478153c75fbb69aeadcc",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml\n\nBumps [google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml](https://github.com/google/osv-scanner-action) from 2.7.0 to 2.7.1.\n- [Release notes](https://github.com/google/osv-scanner-action/releases)\n- [Commits](https://github.com/google/osv-scanner-action/compare/b1d267aea5211fa648d9d442fa64b90dbdcbdd36...32d3cd482bdadfb38b186c0ad1b031902d55d932)\n\n---\nupdated-dependencies:\n- dependency-name: google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml\n  dependency-version: 2.7.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-14T11:02:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/83673c7d5994d3d3e7c2478153c75fbb69aeadcc",
+      "is_merge": false
+    },
+    {
+      "sha": "698a9c9dc955c909aa56907e87c818cb5a1db4be",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml\n\nBumps [google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml](https://github.com/google/osv-scanner-action) from 2.7.0 to 2.7.1.\n- [Release notes](https://github.com/google/osv-scanner-action/releases)\n- [Commits](https://github.com/google/osv-scanner-action/compare/b1d267aea5211fa648d9d442fa64b90dbdcbdd36...32d3cd482bdadfb38b186c0ad1b031902d55d932)\n\n---\nupdated-dependencies:\n- dependency-name: google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml\n  dependency-version: 2.7.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-14T11:02:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/698a9c9dc955c909aa56907e87c818cb5a1db4be",
+      "is_merge": false
+    },
+    {
+      "sha": "c8828e20efdfa4d6ff9101241d10f0f5df64970f",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump com.fasterxml.jackson.core:jackson-databind\n\nBumps [com.fasterxml.jackson.core:jackson-databind](https://github.com/FasterXML/jackson-databind) from 2.22.4 to 2.23.0.\n- [Commits](https://github.com/FasterXML/jackson-databind/compare/jackson-databind-2.22.4...jackson-databind-2.23.0)\n\n---\nupdated-dependencies:\n- dependency-name: com.fasterxml.jackson.core:jackson-databind\n  dependency-version: 2.23.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-14T11:02:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/c8828e20efdfa4d6ff9101241d10f0f5df64970f",
+      "is_merge": false
+    },
+    {
       "sha": "95c1fd1ac5d4c68f037ffebf6da74a8218d7d0dd",
       "author": "JaredHatfield",
       "message": "Merge pull request #261 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-6.2.0\n\nchore(deps): bump actions/setup-java from 6.1.0 to 6.2.0",

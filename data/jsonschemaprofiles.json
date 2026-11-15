@@ -6,6 +6,54 @@
   "latest_release_time": "2026-10-06T22:23:09Z",
   "unreleased_commits": [
     {
+      "sha": "8121f0af3f0a8616848a0f18c7013946f109dbcf",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #120 from UnitVectorY-Labs/repver/mermaid-12.3.0\n\nUpdate mermaid version to v12.3.0",
+      "timestamp": "2026-11-15T00:51:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/8121f0af3f0a8616848a0f18c7013946f109dbcf",
+      "is_merge": true
+    },
+    {
+      "sha": "3a319f2b05f6035d8a09eaca2d23e62331b6e23a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #122 from UnitVectorY-Labs/dependabot/github_actions/google/osv-scanner-action/dot-github/workflows/osv-scanner-reusable.yml-2.7.1\n\nbuild(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml from 2.7.0 to 2.7.1",
+      "timestamp": "2026-11-14T13:19:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/3a319f2b05f6035d8a09eaca2d23e62331b6e23a",
+      "is_merge": true
+    },
+    {
+      "sha": "a3fed22ef4c9166070bef74bf8929cfc8ab23104",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #123 from UnitVectorY-Labs/dependabot/github_actions/google/osv-scanner-action/dot-github/workflows/osv-scanner-reusable-pr.yml-2.7.1\n\nbuild(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml from 2.7.0 to 2.7.1",
+      "timestamp": "2026-11-14T13:14:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/a3fed22ef4c9166070bef74bf8929cfc8ab23104",
+      "is_merge": true
+    },
+    {
+      "sha": "25c640490687428532ecd1854b981c4832f91fc0",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml\n\nBumps [google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml](https://github.com/google/osv-scanner-action) from 2.7.0 to 2.7.1.\n- [Release notes](https://github.com/google/osv-scanner-action/releases)\n- [Commits](https://github.com/google/osv-scanner-action/compare/b1d267aea5211fa648d9d442fa64b90dbdcbdd36...32d3cd482bdadfb38b186c0ad1b031902d55d932)\n\n---\nupdated-dependencies:\n- dependency-name: google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml\n  dependency-version: 2.7.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-14T11:08:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/25c640490687428532ecd1854b981c4832f91fc0",
+      "is_merge": false
+    },
+    {
+      "sha": "e9befb2a41a051daf6cab61b4702f7e36634bb20",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml\n\nBumps [google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml](https://github.com/google/osv-scanner-action) from 2.7.0 to 2.7.1.\n- [Release notes](https://github.com/google/osv-scanner-action/releases)\n- [Commits](https://github.com/google/osv-scanner-action/compare/b1d267aea5211fa648d9d442fa64b90dbdcbdd36...32d3cd482bdadfb38b186c0ad1b031902d55d932)\n\n---\nupdated-dependencies:\n- dependency-name: google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml\n  dependency-version: 2.7.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-14T11:07:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/e9befb2a41a051daf6cab61b4702f7e36634bb20",
+      "is_merge": false
+    },
+    {
+      "sha": "e7fccf1c348e9591c833fbc7cb4aedc8b0d2d686",
+      "author": "JaredHatfield",
+      "message": "Update mermaid version to v12.3.0",
+      "timestamp": "2026-11-14T01:15:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/e7fccf1c348e9591c833fbc7cb4aedc8b0d2d686",
+      "is_merge": false
+    },
+    {
       "sha": "d21ce9d79f3972cf5854b96331c77d608753a14b",
       "author": "JaredHatfield",
       "message": "Merge pull request #119 from UnitVectorY-Labs/repver/go-v1.27.4\n\nUpdate Go version to v1.27.4",

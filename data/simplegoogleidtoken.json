@@ -6,6 +6,54 @@
   "latest_release_time": "2026-06-22T22:44:58Z",
   "unreleased_commits": [
     {
+      "sha": "fce329f6d6240e41201e264f63f2d18fb1584188",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #234 from UnitVectorY-Labs/dependabot/maven/com.google.auth-google-auth-library-oauth2-http-1.57.0\n\nchore(deps): bump com.google.auth:google-auth-library-oauth2-http from 1.55.0 to 1.57.0",
+      "timestamp": "2026-11-14T14:36:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/fce329f6d6240e41201e264f63f2d18fb1584188",
+      "is_merge": true
+    },
+    {
+      "sha": "38fc9245d84d8041e4b7ed80b2976cf1b56aa84a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #235 from UnitVectorY-Labs/dependabot/github_actions/google/osv-scanner-action/dot-github/workflows/osv-scanner-reusable.yml-2.7.1\n\nchore(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml from 2.7.0 to 2.7.1",
+      "timestamp": "2026-11-14T13:19:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/38fc9245d84d8041e4b7ed80b2976cf1b56aa84a",
+      "is_merge": true
+    },
+    {
+      "sha": "a4b21e2b04bd44fbfce741adb75251ab8e1ef011",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #236 from UnitVectorY-Labs/dependabot/github_actions/google/osv-scanner-action/dot-github/workflows/osv-scanner-reusable-pr.yml-2.7.1\n\nchore(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml from 2.7.0 to 2.7.1",
+      "timestamp": "2026-11-14T13:13:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/a4b21e2b04bd44fbfce741adb75251ab8e1ef011",
+      "is_merge": true
+    },
+    {
+      "sha": "3a00e5c09ac5f91e24eedf0b02c66e047e95280c",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml\n\nBumps [google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml](https://github.com/google/osv-scanner-action) from 2.7.0 to 2.7.1.\n- [Release notes](https://github.com/google/osv-scanner-action/releases)\n- [Commits](https://github.com/google/osv-scanner-action/compare/b1d267aea5211fa648d9d442fa64b90dbdcbdd36...32d3cd482bdadfb38b186c0ad1b031902d55d932)\n\n---\nupdated-dependencies:\n- dependency-name: google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml\n  dependency-version: 2.7.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-14T11:02:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/3a00e5c09ac5f91e24eedf0b02c66e047e95280c",
+      "is_merge": false
+    },
+    {
+      "sha": "415480efaf869da495d90876cfc59b0179e80ada",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml\n\nBumps [google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml](https://github.com/google/osv-scanner-action) from 2.7.0 to 2.7.1.\n- [Release notes](https://github.com/google/osv-scanner-action/releases)\n- [Commits](https://github.com/google/osv-scanner-action/compare/b1d267aea5211fa648d9d442fa64b90dbdcbdd36...32d3cd482bdadfb38b186c0ad1b031902d55d932)\n\n---\nupdated-dependencies:\n- dependency-name: google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml\n  dependency-version: 2.7.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-14T11:02:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/415480efaf869da495d90876cfc59b0179e80ada",
+      "is_merge": false
+    },
+    {
+      "sha": "32c9a1bc28f17f3c5cf1302cdc09c8f091f15cad",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump com.google.auth:google-auth-library-oauth2-http\n\nBumps com.google.auth:google-auth-library-oauth2-http from 1.55.0 to 1.57.0.\n\n---\nupdated-dependencies:\n- dependency-name: com.google.auth:google-auth-library-oauth2-http\n  dependency-version: 1.57.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-14T11:02:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/32c9a1bc28f17f3c5cf1302cdc09c8f091f15cad",
+      "is_merge": false
+    },
+    {
       "sha": "9cb1f70c2d32f541e805ba770c23809275f92eee",
       "author": "JaredHatfield",
       "message": "Merge pull request #233 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-6.2.0\n\nchore(deps): bump actions/setup-java from 6.1.0 to 6.2.0",

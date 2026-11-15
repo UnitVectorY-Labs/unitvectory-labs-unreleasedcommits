@@ -6,6 +6,70 @@
   "latest_release_time": "2026-10-06T21:59:25Z",
   "unreleased_commits": [
     {
+      "sha": "20d405a0d089987eaa821aee7b9c487d594e9355",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #203 from UnitVectorY-Labs/repver/mermaid-12.3.0\n\nUpdate mermaid version to v12.3.0",
+      "timestamp": "2026-11-15T00:50:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/20d405a0d089987eaa821aee7b9c487d594e9355",
+      "is_merge": true
+    },
+    {
+      "sha": "426cd1f764cf93a2681e199fcd394ede91e96d98",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #206 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/term-0.48.0\n\nbuild(deps): bump golang.org/x/term from 0.47.0 to 0.48.0",
+      "timestamp": "2026-11-14T14:30:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/426cd1f764cf93a2681e199fcd394ede91e96d98",
+      "is_merge": true
+    },
+    {
+      "sha": "708b03f8ff5dcc23b1ee89c19bcf82880e775085",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #204 from UnitVectorY-Labs/dependabot/github_actions/google/osv-scanner-action/dot-github/workflows/osv-scanner-reusable.yml-2.7.1\n\nbuild(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml from 2.7.0 to 2.7.1",
+      "timestamp": "2026-11-14T13:19:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/708b03f8ff5dcc23b1ee89c19bcf82880e775085",
+      "is_merge": true
+    },
+    {
+      "sha": "16d8e05aea1c7ce66ffc1659d54495e2dc242a73",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #205 from UnitVectorY-Labs/dependabot/github_actions/google/osv-scanner-action/dot-github/workflows/osv-scanner-reusable-pr.yml-2.7.1\n\nbuild(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml from 2.7.0 to 2.7.1",
+      "timestamp": "2026-11-14T13:13:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/16d8e05aea1c7ce66ffc1659d54495e2dc242a73",
+      "is_merge": true
+    },
+    {
+      "sha": "1fea247e58077c833c5bd7286bb5e0a282e1f5f7",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump golang.org/x/term from 0.47.0 to 0.48.0\n\nBumps [golang.org/x/term](https://github.com/golang/term) from 0.47.0 to 0.48.0.\n- [Commits](https://github.com/golang/term/compare/v0.47.0...v0.48.0)\n\n---\nupdated-dependencies:\n- dependency-name: golang.org/x/term\n  dependency-version: 0.48.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-14T11:07:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/1fea247e58077c833c5bd7286bb5e0a282e1f5f7",
+      "is_merge": false
+    },
+    {
+      "sha": "b87b453e06cf834f45a79f87f9525bd661b790ce",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml\n\nBumps [google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml](https://github.com/google/osv-scanner-action) from 2.7.0 to 2.7.1.\n- [Release notes](https://github.com/google/osv-scanner-action/releases)\n- [Commits](https://github.com/google/osv-scanner-action/compare/b1d267aea5211fa648d9d442fa64b90dbdcbdd36...32d3cd482bdadfb38b186c0ad1b031902d55d932)\n\n---\nupdated-dependencies:\n- dependency-name: google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml\n  dependency-version: 2.7.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-14T11:04:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/b87b453e06cf834f45a79f87f9525bd661b790ce",
+      "is_merge": false
+    },
+    {
+      "sha": "15f76384ffb700f893c7f580994f415b5685d04c",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml\n\nBumps [google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml](https://github.com/google/osv-scanner-action) from 2.7.0 to 2.7.1.\n- [Release notes](https://github.com/google/osv-scanner-action/releases)\n- [Commits](https://github.com/google/osv-scanner-action/compare/b1d267aea5211fa648d9d442fa64b90dbdcbdd36...32d3cd482bdadfb38b186c0ad1b031902d55d932)\n\n---\nupdated-dependencies:\n- dependency-name: google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml\n  dependency-version: 2.7.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-14T11:04:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/15f76384ffb700f893c7f580994f415b5685d04c",
+      "is_merge": false
+    },
+    {
+      "sha": "bf37af840f168950a93f7cc6f5832a4395f9c94f",
+      "author": "JaredHatfield",
+      "message": "Update mermaid version to v12.3.0",
+      "timestamp": "2026-11-14T01:16:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/bf37af840f168950a93f7cc6f5832a4395f9c94f",
+      "is_merge": false
+    },
+    {
       "sha": "0c5c8b04d466139a036a006ff2dc5772ed4f7c45",
       "author": "JaredHatfield",
       "message": "Merge pull request #202 from UnitVectorY-Labs/repver/go-v1.27.4\n\nUpdate Go version to v1.27.4",
