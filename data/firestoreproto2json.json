@@ -6,6 +6,30 @@
   "latest_release_time": "2026-06-22T22:38:58Z",
   "unreleased_commits": [
     {
+      "sha": "34eecf207f03f846fb11d7b55deec05aba9ccb1d",
+      "author": "JaredHatfield",
+      "message": "fix: align transitive Jackson dependencies on patched release",
+      "timestamp": "2026-11-17T03:12:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/34eecf207f03f846fb11d7b55deec05aba9ccb1d",
+      "is_merge": false
+    },
+    {
+      "sha": "34894644b35f417c4ec2cc294a4f596bd679153c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #252 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",
+      "timestamp": "2026-11-17T03:04:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/34894644b35f417c4ec2cc294a4f596bd679153c",
+      "is_merge": true
+    },
+    {
+      "sha": "c4a909c5e77caadf1feb05bab18fdbe7f4542c93",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/semgrep.yml",
+      "timestamp": "2026-11-17T02:50:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2json/commit/c4a909c5e77caadf1feb05bab18fdbe7f4542c93",
+      "is_merge": false
+    },
+    {
       "sha": "e27050f306a99a4da0041a72171783f6ddd25d40",
       "author": "JaredHatfield",
       "message": "Merge pull request #250 from UnitVectorY-Labs/dependabot/github_actions/google/osv-scanner-action/dot-github/workflows/osv-scanner-reusable.yml-2.7.1\n\nchore(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml from 2.7.0 to 2.7.1",

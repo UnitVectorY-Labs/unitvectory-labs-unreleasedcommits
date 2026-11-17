@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T01:12:05Z",
   "unreleased_commits": [
     {
+      "sha": "53ffb5adaae27956792019ae5752917778e1fd1a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #310 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",
+      "timestamp": "2026-11-17T03:04:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/53ffb5adaae27956792019ae5752917778e1fd1a",
+      "is_merge": true
+    },
+    {
+      "sha": "15a9789d26b5c910d7431b7572bed18ce526b1fa",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/semgrep.yml",
+      "timestamp": "2026-11-17T02:50:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/15a9789d26b5c910d7431b7572bed18ce526b1fa",
+      "is_merge": false
+    },
+    {
       "sha": "2f087a787a8e1fa27a7face5135384e2124fc378",
       "author": "JaredHatfield",
       "message": "Merge pull request #309 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.312.0\n\nchore(deps): bump google.golang.org/api from 0.309.0 to 0.312.0",

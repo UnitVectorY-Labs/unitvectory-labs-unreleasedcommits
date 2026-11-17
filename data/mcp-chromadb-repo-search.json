@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T00:35:59Z",
   "unreleased_commits": [
     {
+      "sha": "7fda50d416ac0c18c3fcdeca6a990e50b4537b39",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #74 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",
+      "timestamp": "2026-11-17T03:04:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-chromadb-repo-search/commit/7fda50d416ac0c18c3fcdeca6a990e50b4537b39",
+      "is_merge": true
+    },
+    {
+      "sha": "2f5f23ef2899097924d92365febf9e85442c20b0",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/semgrep.yml",
+      "timestamp": "2026-11-17T02:51:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-chromadb-repo-search/commit/2f5f23ef2899097924d92365febf9e85442c20b0",
+      "is_merge": false
+    },
+    {
       "sha": "768005e1204de5d6827937cbf618b4ffb34cabe8",
       "author": "JaredHatfield",
       "message": "Merge pull request #70 from UnitVectorY-Labs/repver/mermaid-12.3.0\n\nUpdate mermaid version to v12.3.0",

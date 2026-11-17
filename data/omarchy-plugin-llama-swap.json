@@ -6,6 +6,22 @@
   "latest_release_time": "2026-08-28T23:22:57Z",
   "unreleased_commits": [
     {
+      "sha": "a995a757aa6c41bdb7f5e4d2336ed6496557e7dd",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #6 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",
+      "timestamp": "2026-11-17T03:04:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/omarchy-plugin-llama-swap/commit/a995a757aa6c41bdb7f5e4d2336ed6496557e7dd",
+      "is_merge": true
+    },
+    {
+      "sha": "3af5ab07e2b189b7918a8108fc02bfe15d494a5a",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/semgrep.yml",
+      "timestamp": "2026-11-17T02:51:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/omarchy-plugin-llama-swap/commit/3af5ab07e2b189b7918a8108fc02bfe15d494a5a",
+      "is_merge": false
+    },
+    {
       "sha": "1987cd0c9110173717d5a34394a5c568ebd6030f",
       "author": "JaredHatfield",
       "message": "Merge pull request #5 from UnitVectorY-Labs/fix/codeql-upload-sarif-v4.39.3\n\nchore: pin github/codeql-action/upload-sarif to v4.39.3",

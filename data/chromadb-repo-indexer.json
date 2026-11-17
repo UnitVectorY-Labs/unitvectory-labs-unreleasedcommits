@@ -4,6 +4,23 @@
   "default_branch": "main",
   "latest_release_tag": "v1.2.3",
   "latest_release_time": "2026-11-15T03:16:39Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "1aa425ede0e12dc45f59baa3abf02e49b9cfdb8b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #78 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",
+      "timestamp": "2026-11-17T03:04:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/1aa425ede0e12dc45f59baa3abf02e49b9cfdb8b",
+      "is_merge": true
+    },
+    {
+      "sha": "df1d398e88c93d9b6ddd857dd40b0d457a253e0c",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/semgrep.yml",
+      "timestamp": "2026-11-17T02:49:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer/commit/df1d398e88c93d9b6ddd857dd40b0d457a253e0c",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/chromadb-repo-indexer"
 }

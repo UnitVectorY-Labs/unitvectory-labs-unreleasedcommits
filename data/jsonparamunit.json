@@ -6,6 +6,22 @@
   "latest_release_time": "2026-08-13T00:53:49Z",
   "unreleased_commits": [
     {
+      "sha": "bd575e87c9343275f2de9c6727f6340ceafe1f0a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #265 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",
+      "timestamp": "2026-11-17T03:04:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/bd575e87c9343275f2de9c6727f6340ceafe1f0a",
+      "is_merge": true
+    },
+    {
+      "sha": "bd43270e3ef0c515b67525e1cea26921a6e97a89",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/semgrep.yml",
+      "timestamp": "2026-11-17T02:51:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/bd43270e3ef0c515b67525e1cea26921a6e97a89",
+      "is_merge": false
+    },
+    {
       "sha": "510131ea01aa30054e633d15ebaed7c3e7b5b5d1",
       "author": "JaredHatfield",
       "message": "Merge pull request #262 from UnitVectorY-Labs/dependabot/maven/com.fasterxml.jackson.core-jackson-databind-2.23.0\n\nchore(deps): bump com.fasterxml.jackson.core:jackson-databind from 2.22.4 to 2.23.0",

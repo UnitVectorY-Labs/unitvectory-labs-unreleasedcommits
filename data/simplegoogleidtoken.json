@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:44:58Z",
   "unreleased_commits": [
     {
+      "sha": "fae74732e5af6df30ca5087359ed23738365d5d4",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #237 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",
+      "timestamp": "2026-11-17T03:04:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/fae74732e5af6df30ca5087359ed23738365d5d4",
+      "is_merge": true
+    },
+    {
+      "sha": "e688cd869c5d6ef09aea0cbca98604aae516a61b",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/semgrep.yml",
+      "timestamp": "2026-11-17T02:51:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/simplegoogleidtoken/commit/e688cd869c5d6ef09aea0cbca98604aae516a61b",
+      "is_merge": false
+    },
+    {
       "sha": "fce329f6d6240e41201e264f63f2d18fb1584188",
       "author": "JaredHatfield",
       "message": "Merge pull request #234 from UnitVectorY-Labs/dependabot/maven/com.google.auth-google-auth-library-oauth2-http-1.57.0\n\nchore(deps): bump com.google.auth:google-auth-library-oauth2-http from 1.55.0 to 1.57.0",

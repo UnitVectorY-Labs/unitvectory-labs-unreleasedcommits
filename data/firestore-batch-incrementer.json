@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T01:05:34Z",
   "unreleased_commits": [
     {
+      "sha": "dfe861ca996c7baea471fc633484675334230088",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #284 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",
+      "timestamp": "2026-11-17T03:04:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/dfe861ca996c7baea471fc633484675334230088",
+      "is_merge": true
+    },
+    {
+      "sha": "31f9945c13c0ec6d872fc441c6b7148e4f23c765",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/semgrep.yml",
+      "timestamp": "2026-11-17T02:50:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/31f9945c13c0ec6d872fc441c6b7148e4f23c765",
+      "is_merge": false
+    },
+    {
       "sha": "6a992466fd347ac6bbfca8e7345b793323b62792",
       "author": "JaredHatfield",
       "message": "Merge pull request #282 from UnitVectorY-Labs/dependabot/go_modules/google.golang.org/api-0.312.0\n\nchore(deps): bump google.golang.org/api from 0.309.0 to 0.312.0",

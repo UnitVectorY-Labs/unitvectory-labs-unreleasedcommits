@@ -6,6 +6,22 @@
   "latest_release_time": "2026-11-12T01:08:23Z",
   "unreleased_commits": [
     {
+      "sha": "72aaf67a5f0e63a14b8d2e806020124b52a37b5c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #149 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",
+      "timestamp": "2026-11-17T03:04:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/72aaf67a5f0e63a14b8d2e806020124b52a37b5c",
+      "is_merge": true
+    },
+    {
+      "sha": "3c6d543785886a7bae8034729315bae372e0c309",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/semgrep.yml",
+      "timestamp": "2026-11-17T02:50:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/3c6d543785886a7bae8034729315bae372e0c309",
+      "is_merge": false
+    },
+    {
       "sha": "89da1501cbed8d57e56360482ed957c3d91f5f07",
       "author": "JaredHatfield",
       "message": "Merge pull request #144 from UnitVectorY-Labs/repver/mermaid-12.3.0\n\nUpdate mermaid version to v12.3.0",

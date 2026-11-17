@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T00:20:55Z",
   "unreleased_commits": [
     {
+      "sha": "fa202263713d3f0f52e27db9fe5c1a81d99169bd",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #165 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",
+      "timestamp": "2026-11-17T03:04:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/fa202263713d3f0f52e27db9fe5c1a81d99169bd",
+      "is_merge": true
+    },
+    {
+      "sha": "f9dc218eb7bf1142a7670edd6158da5e7dfc75b3",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/semgrep.yml",
+      "timestamp": "2026-11-17T02:50:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/f9dc218eb7bf1142a7670edd6158da5e7dfc75b3",
+      "is_merge": false
+    },
+    {
       "sha": "3834452bfbada2a905a325a66f17e19a0a61dfeb",
       "author": "JaredHatfield",
       "message": "fix: declare least-privilege workflow permissions",

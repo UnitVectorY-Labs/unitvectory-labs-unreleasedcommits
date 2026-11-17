@@ -6,6 +6,22 @@
   "latest_release_time": "2026-06-22T22:22:29Z",
   "unreleased_commits": [
     {
+      "sha": "9dfd698d5a19224ea38fbf08bf49016e65b86f77",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #306 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",
+      "timestamp": "2026-11-17T03:04:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/9dfd698d5a19224ea38fbf08bf49016e65b86f77",
+      "is_merge": true
+    },
+    {
+      "sha": "1fe5cb1418b82d5d5c57234d2ae77f72d8f0fcff",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/semgrep.yml",
+      "timestamp": "2026-11-17T02:50:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/1fe5cb1418b82d5d5c57234d2ae77f72d8f0fcff",
+      "is_merge": false
+    },
+    {
       "sha": "7f90bbf70d0d60dd28a640c791daa274d2ed5de8",
       "author": "JaredHatfield",
       "message": "Merge pull request #304 from UnitVectorY-Labs/dependabot/github_actions/google/osv-scanner-action/dot-github/workflows/osv-scanner-reusable.yml-2.7.1\n\nchore(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml from 2.7.0 to 2.7.1",

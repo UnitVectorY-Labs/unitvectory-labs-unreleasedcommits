@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T02:08:01Z",
   "unreleased_commits": [
     {
+      "sha": "b28686d10ecf4bdead9d1d8bcfd9dc20aa3532f8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #174 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",
+      "timestamp": "2026-11-17T03:04:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/b28686d10ecf4bdead9d1d8bcfd9dc20aa3532f8",
+      "is_merge": true
+    },
+    {
+      "sha": "35ef1ae18cebd3f1e6a8fbb2f6279fb1ad46e3aa",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/semgrep.yml",
+      "timestamp": "2026-11-17T02:50:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/35ef1ae18cebd3f1e6a8fbb2f6279fb1ad46e3aa",
+      "is_merge": false
+    },
+    {
       "sha": "285c59e474df5972a3093a0955b02bda972a6f20",
       "author": "JaredHatfield",
       "message": "Merge pull request #167 from UnitVectorY-Labs/repver/mermaid-12.3.0\n\nUpdate mermaid version to v12.3.0",

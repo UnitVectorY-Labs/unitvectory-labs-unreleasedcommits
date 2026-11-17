@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T01:53:09Z",
   "unreleased_commits": [
     {
+      "sha": "4c8288f6c4109c03df8bc35a85af4e3b02f17f3b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #186 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",
+      "timestamp": "2026-11-17T03:04:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpbinary/commit/4c8288f6c4109c03df8bc35a85af4e3b02f17f3b",
+      "is_merge": true
+    },
+    {
+      "sha": "1b253876c496338390d63e9d105b1f7d55468f4a",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/semgrep.yml",
+      "timestamp": "2026-11-17T02:50:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpbinary/commit/1b253876c496338390d63e9d105b1f7d55468f4a",
+      "is_merge": false
+    },
+    {
       "sha": "ec30395cda1fdc6cf86c5185a589ccaa8a94a277",
       "author": "JaredHatfield",
       "message": "Merge pull request #184 from UnitVectorY-Labs/dependabot/github_actions/docker/login-action-4.8.0\n\nchore(deps): bump docker/login-action from 4.7.0 to 4.8.0",

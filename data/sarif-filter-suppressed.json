@@ -1,0 +1,18 @@
+{
+  "owner": "UnitVectorY-Labs",
+  "name": "sarif-filter-suppressed",
+  "default_branch": "main",
+  "latest_release_tag": "v0.1.0",
+  "latest_release_time": "2026-11-17T02:17:10Z",
+  "unreleased_commits": [
+    {
+      "sha": "8702ecae170871c64a8a5f6462cf59225b0186ce",
+      "author": "JaredHatfield",
+      "message": "Filter suppressed Semgrep findings before SARIF upload",
+      "timestamp": "2026-11-17T02:22:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/sarif-filter-suppressed/commit/8702ecae170871c64a8a5f6462cf59225b0186ce",
+      "is_merge": false
+    }
+  ],
+  "repository_url": "https://github.com/UnitVectorY-Labs/sarif-filter-suppressed"
+}

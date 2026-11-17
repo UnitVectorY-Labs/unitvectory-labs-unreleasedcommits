@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T00:48:19Z",
   "unreleased_commits": [
     {
+      "sha": "82a7069effd1071ad8fbd4022bad872aa5f6160d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #180 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",
+      "timestamp": "2026-11-17T03:04:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/82a7069effd1071ad8fbd4022bad872aa5f6160d",
+      "is_merge": true
+    },
+    {
+      "sha": "b6efb68b4bcb47304c024fda65cf6ac850ae4476",
+      "author": "JaredHatfield",
+      "message": "chore: update .github/workflows/semgrep.yml",
+      "timestamp": "2026-11-17T02:51:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/b6efb68b4bcb47304c024fda65cf6ac850ae4476",
+      "is_merge": false
+    },
+    {
       "sha": "4183f1362829679d980b97ba08c34a2ec955a198",
       "author": "JaredHatfield",
       "message": "Merge pull request #179 from UnitVectorY-Labs/dependabot/go_modules/golang.org/x/oauth2-0.38.0\n\nchore(deps): bump golang.org/x/oauth2 from 0.37.0 to 0.38.0",
