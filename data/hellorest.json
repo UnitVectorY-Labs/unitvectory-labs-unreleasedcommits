@@ -6,6 +6,14 @@
   "latest_release_time": "2026-10-22T02:16:40Z",
   "unreleased_commits": [
     {
+      "sha": "0d06dda3cde03929c0b2b16e9b809c3b2777464d",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for hellorest (#201)",
+      "timestamp": "2026-11-18T00:06:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/0d06dda3cde03929c0b2b16e9b809c3b2777464d",
+      "is_merge": false
+    },
+    {
       "sha": "788732ea1249c1fa1bfb4db33202706a6196232d",
       "author": "JaredHatfield",
       "message": "Merge pull request #200 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",

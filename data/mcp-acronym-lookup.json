@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T00:33:17Z",
   "unreleased_commits": [
     {
+      "sha": "7de4b6b727762037b5be2d717e1019edf04f164a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #189 from UnitVectorY-Labs/gitrepoforge/mcp-acronym-lookup\n\ngitrepoforge: apply desired state for mcp-acronym-lookup",
+      "timestamp": "2026-11-18T00:07:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/7de4b6b727762037b5be2d717e1019edf04f164a",
+      "is_merge": true
+    },
+    {
+      "sha": "8a4e6d52d2d07f1eebc0e38ec22fc7cbf19d228e",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for mcp-acronym-lookup",
+      "timestamp": "2026-11-17T23:56:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/8a4e6d52d2d07f1eebc0e38ec22fc7cbf19d228e",
+      "is_merge": false
+    },
+    {
       "sha": "02c6980f76ea3c70dae63986b1c1fdb14691e303",
       "author": "JaredHatfield",
       "message": "Merge pull request #188 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",

@@ -6,6 +6,22 @@
   "latest_release_time": "2026-11-12T01:09:33Z",
   "unreleased_commits": [
     {
+      "sha": "86afbb22933d9ce0c8548098dbe0f9d32d101f4a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #166 from UnitVectorY-Labs/gitrepoforge/template-sync-20261115\n\ngitrepoforge: apply desired state for ghprmerge",
+      "timestamp": "2026-11-18T00:40:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/86afbb22933d9ce0c8548098dbe0f9d32d101f4a",
+      "is_merge": true
+    },
+    {
+      "sha": "ada6213f74db8ffdf3e53ec6a4b13cec7788fcfa",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for ghprmerge",
+      "timestamp": "2026-11-17T23:54:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/ada6213f74db8ffdf3e53ec6a4b13cec7788fcfa",
+      "is_merge": false
+    },
+    {
       "sha": "1ccf174f92f26cf494d215eb3de715c77492332b",
       "author": "JaredHatfield",
       "message": "Merge pull request #167 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",

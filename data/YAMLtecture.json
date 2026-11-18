@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-06T21:59:25Z",
   "unreleased_commits": [
     {
+      "sha": "c297f1c7de7c381bf5f2e9ed7235517d918ca472",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #207 from UnitVectorY-Labs/gitrepoforge/template-sync-20261115\n\ngitrepoforge: apply desired state for YAMLtecture",
+      "timestamp": "2026-11-18T00:31:45Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/c297f1c7de7c381bf5f2e9ed7235517d918ca472",
+      "is_merge": true
+    },
+    {
+      "sha": "01268216e939b4516aa8fde294ec04b44444dc22",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for YAMLtecture",
+      "timestamp": "2026-11-17T23:57:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/01268216e939b4516aa8fde294ec04b44444dc22",
+      "is_merge": false
+    },
+    {
       "sha": "a5e6a15ee7db28d235ce11d1c28fc1a4a2c71675",
       "author": "JaredHatfield",
       "message": "Merge pull request #208 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",

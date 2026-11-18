@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T01:05:34Z",
   "unreleased_commits": [
     {
+      "sha": "49eedce4e826849230715ee574e9014037e81c0f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #285 from UnitVectorY-Labs/gitrepoforge/firestore-batch-incrementer\n\ngitrepoforge: apply desired state for firestore-batch-incrementer",
+      "timestamp": "2026-11-18T00:05:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/49eedce4e826849230715ee574e9014037e81c0f",
+      "is_merge": true
+    },
+    {
+      "sha": "3800d30f5f643d0750cbfc7f8ac0983a30009d5e",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for firestore-batch-incrementer",
+      "timestamp": "2026-11-17T23:51:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/3800d30f5f643d0750cbfc7f8ac0983a30009d5e",
+      "is_merge": false
+    },
+    {
       "sha": "dfe861ca996c7baea471fc633484675334230088",
       "author": "JaredHatfield",
       "message": "Merge pull request #284 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",

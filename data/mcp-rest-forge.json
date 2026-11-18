@@ -6,6 +6,14 @@
   "latest_release_time": "2026-10-22T00:44:55Z",
   "unreleased_commits": [
     {
+      "sha": "62a4bbaed69846f0054d0cd4b0401a15a0d22b03",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for mcp-rest-forge (#140)",
+      "timestamp": "2026-11-18T00:08:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-rest-forge/commit/62a4bbaed69846f0054d0cd4b0401a15a0d22b03",
+      "is_merge": false
+    },
+    {
       "sha": "673487e997fb18308df5e7975a40aac851d88a6d",
       "author": "JaredHatfield",
       "message": "Merge pull request #139 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",

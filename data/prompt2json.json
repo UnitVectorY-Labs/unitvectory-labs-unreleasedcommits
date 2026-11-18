@@ -6,6 +6,22 @@
   "latest_release_time": "2026-11-12T01:36:26Z",
   "unreleased_commits": [
     {
+      "sha": "0917ae9b03c359e92faafbc1efd75971cc11466e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #154 from UnitVectorY-Labs/gitrepoforge/template-sync-20261115\n\ngitrepoforge: apply desired state for prompt2json",
+      "timestamp": "2026-11-18T00:38:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/0917ae9b03c359e92faafbc1efd75971cc11466e",
+      "is_merge": true
+    },
+    {
+      "sha": "8580467be844e4b05ff0fd7011fe23bbcfaab22d",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for prompt2json",
+      "timestamp": "2026-11-17T23:56:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/prompt2json/commit/8580467be844e4b05ff0fd7011fe23bbcfaab22d",
+      "is_merge": false
+    },
+    {
       "sha": "a11a07c7ea81ad0c41e70a7b8e239cc4dfadafb4",
       "author": "JaredHatfield",
       "message": "Merge pull request #155 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",

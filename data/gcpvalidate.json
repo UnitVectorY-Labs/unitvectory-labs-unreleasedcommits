@@ -6,6 +6,14 @@
   "latest_release_time": "2026-09-03T09:52:06Z",
   "unreleased_commits": [
     {
+      "sha": "c33f7734df5af4cfa39b822b8cd7a0538051f288",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for gcpvalidate (#119)",
+      "timestamp": "2026-11-18T00:42:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpvalidate/commit/c33f7734df5af4cfa39b822b8cd7a0538051f288",
+      "is_merge": false
+    },
+    {
       "sha": "76fa90d821c9121ebffbe95a2ef6f5d3d681c91f",
       "author": "JaredHatfield",
       "message": "Merge pull request #120 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",

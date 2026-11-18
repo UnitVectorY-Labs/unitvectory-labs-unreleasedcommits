@@ -6,6 +6,14 @@
   "latest_release_time": "2026-10-22T00:52:22Z",
   "unreleased_commits": [
     {
+      "sha": "dae725b1d7e8da338fcc623abeddbf9cee678a6b",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for authzgcpk8stokeninjector (#236)",
+      "timestamp": "2026-11-18T00:02:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzgcpk8stokeninjector/commit/dae725b1d7e8da338fcc623abeddbf9cee678a6b",
+      "is_merge": false
+    },
+    {
       "sha": "46afe47f5457a53045548c91157a40c812d9df04",
       "author": "JaredHatfield",
       "message": "Merge pull request #235 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",

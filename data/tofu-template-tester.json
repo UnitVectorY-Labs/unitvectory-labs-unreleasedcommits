@@ -6,6 +6,22 @@
   "latest_release_time": "2026-09-03T09:52:55Z",
   "unreleased_commits": [
     {
+      "sha": "1a2a6c78273917877ae4b2e990972b2cfde53098",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #146 from UnitVectorY-Labs/gitrepoforge/tofu-template-tester\n\ngitrepoforge: apply desired state for tofu-template-tester",
+      "timestamp": "2026-11-18T00:00:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/1a2a6c78273917877ae4b2e990972b2cfde53098",
+      "is_merge": true
+    },
+    {
+      "sha": "e37aff783d598ebd6541c7877f3c149a0cc10dea",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for tofu-template-tester",
+      "timestamp": "2026-11-17T23:57:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/e37aff783d598ebd6541c7877f3c149a0cc10dea",
+      "is_merge": false
+    },
+    {
       "sha": "3150502860d94566384a0b1c0739d668996329f2",
       "author": "JaredHatfield",
       "message": "Merge pull request #145 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",

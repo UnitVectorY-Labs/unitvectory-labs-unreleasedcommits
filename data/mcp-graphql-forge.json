@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T00:42:53Z",
   "unreleased_commits": [
     {
+      "sha": "2d71df5a69bbdeadaaf53bfbe7c031b1f792c2c6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #203 from UnitVectorY-Labs/gitrepoforge/mcp-graphql-forge\n\ngitrepoforge: apply desired state for mcp-graphql-forge",
+      "timestamp": "2026-11-18T00:08:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/2d71df5a69bbdeadaaf53bfbe7c031b1f792c2c6",
+      "is_merge": true
+    },
+    {
+      "sha": "8c66f3a2a48283a42c1a94e0c14964fdeaf6fabd",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for mcp-graphql-forge",
+      "timestamp": "2026-11-17T23:56:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/8c66f3a2a48283a42c1a94e0c14964fdeaf6fabd",
+      "is_merge": false
+    },
+    {
       "sha": "15e5b307d74e256590c6ec22d157bd916a6f8984",
       "author": "JaredHatfield",
       "message": "Merge pull request #202 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",

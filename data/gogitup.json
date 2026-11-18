@@ -6,6 +6,22 @@
   "latest_release_time": "2026-11-12T01:45:39Z",
   "unreleased_commits": [
     {
+      "sha": "5630eedd4f718696073815e3cf0f3a50bb5ea24d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #128 from UnitVectorY-Labs/gitrepoforge/template-sync-20261115\n\ngitrepoforge: apply desired state for gogitup",
+      "timestamp": "2026-11-18T00:43:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/5630eedd4f718696073815e3cf0f3a50bb5ea24d",
+      "is_merge": true
+    },
+    {
+      "sha": "a7859662f784cc175a74fd4c4245d04bca0e31ac",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for gogitup",
+      "timestamp": "2026-11-17T23:55:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/a7859662f784cc175a74fd4c4245d04bca0e31ac",
+      "is_merge": false
+    },
+    {
       "sha": "2cb9a8a919ba793f69b6512bb852c4e56d0e1df2",
       "author": "JaredHatfield",
       "message": "Merge pull request #129 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",

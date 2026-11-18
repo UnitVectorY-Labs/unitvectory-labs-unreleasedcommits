@@ -6,6 +6,14 @@
   "latest_release_time": "2026-10-22T00:58:57Z",
   "unreleased_commits": [
     {
+      "sha": "ec801d388398c8c30ee46cdf4e68b0d56898f59f",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for authzjwtbearerinjector (#241)",
+      "timestamp": "2026-11-18T00:02:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/authzjwtbearerinjector/commit/ec801d388398c8c30ee46cdf4e68b0d56898f59f",
+      "is_merge": false
+    },
+    {
       "sha": "9b04fa85dba113eea3db96f502a2c18a8c0afab5",
       "author": "JaredHatfield",
       "message": "Merge pull request #240 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",

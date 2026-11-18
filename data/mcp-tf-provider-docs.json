@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T00:46:34Z",
   "unreleased_commits": [
     {
+      "sha": "369c57a641afbc99be58db220f728ad4bdf728b1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #181 from UnitVectorY-Labs/gitrepoforge/mcp-tf-provider-docs\n\ngitrepoforge: apply desired state for mcp-tf-provider-docs",
+      "timestamp": "2026-11-18T00:08:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/369c57a641afbc99be58db220f728ad4bdf728b1",
+      "is_merge": true
+    },
+    {
+      "sha": "8e356b0b7982e1ad21b8af1af3f33732dc5bfc6c",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for mcp-tf-provider-docs",
+      "timestamp": "2026-11-17T23:56:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs/commit/8e356b0b7982e1ad21b8af1af3f33732dc5bfc6c",
+      "is_merge": false
+    },
+    {
       "sha": "b8c2a62ff00fed43ad96fcd07b66d2e2788650e1",
       "author": "JaredHatfield",
       "message": "Merge pull request #180 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",

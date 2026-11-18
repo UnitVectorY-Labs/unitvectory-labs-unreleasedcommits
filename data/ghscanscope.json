@@ -6,6 +6,22 @@
   "latest_release_time": "2026-11-15T01:20:20Z",
   "unreleased_commits": [
     {
+      "sha": "185cb199d06a553ce7986602582928741d607a34",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #96 from UnitVectorY-Labs/gitrepoforge/ghscanscope\n\ngitrepoforge: apply desired state for ghscanscope",
+      "timestamp": "2026-11-18T00:04:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghscanscope/commit/185cb199d06a553ce7986602582928741d607a34",
+      "is_merge": true
+    },
+    {
+      "sha": "4fad7aff6d27eb70957ab955cd4b6eda2af4bf06",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for ghscanscope",
+      "timestamp": "2026-11-17T23:54:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghscanscope/commit/4fad7aff6d27eb70957ab955cd4b6eda2af4bf06",
+      "is_merge": false
+    },
+    {
       "sha": "da725a25af7d6d06e1b4b27fffc8271007d37c64",
       "author": "JaredHatfield",
       "message": "Merge pull request #95 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",

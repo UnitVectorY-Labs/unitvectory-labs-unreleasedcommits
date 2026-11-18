@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T02:38:47Z",
   "unreleased_commits": [
     {
+      "sha": "75f07a85de1e82ecb3af849501eff007accaaad2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #310 from UnitVectorY-Labs/gitrepoforge/lockboxkms\n\ngitrepoforge: apply desired state for lockboxkms",
+      "timestamp": "2026-11-18T00:07:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/75f07a85de1e82ecb3af849501eff007accaaad2",
+      "is_merge": true
+    },
+    {
+      "sha": "66eaa464c7e5bdd2440143501084996278c18a61",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for lockboxkms",
+      "timestamp": "2026-11-17T23:56:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/lockboxkms/commit/66eaa464c7e5bdd2440143501084996278c18a61",
+      "is_merge": false
+    },
+    {
       "sha": "d70d590caf5ad95fc83c16955ed9f0ce37f4a087",
       "author": "JaredHatfield",
       "message": "Merge pull request #309 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",

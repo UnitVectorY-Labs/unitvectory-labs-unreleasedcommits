@@ -6,6 +6,14 @@
   "latest_release_time": "2026-10-22T00:30:02Z",
   "unreleased_commits": [
     {
+      "sha": "e5a658928603a882f49e67f82a4ad17ee52bd9c7",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for gowebshot (#113)",
+      "timestamp": "2026-11-18T00:39:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/gowebshot/commit/e5a658928603a882f49e67f82a4ad17ee52bd9c7",
+      "is_merge": false
+    },
+    {
       "sha": "17c51cd1e270252e1bfce98ba13727062a9e608d",
       "author": "JaredHatfield",
       "message": "Merge pull request #114 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",

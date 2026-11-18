@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T00:48:19Z",
   "unreleased_commits": [
     {
+      "sha": "8653e3695c9ace6ccae03060c17016b5bae8b483",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #181 from UnitVectorY-Labs/gitrepoforge/mcp-vertex-search-snippets\n\ngitrepoforge: apply desired state for mcp-vertex-search-snippets",
+      "timestamp": "2026-11-18T00:08:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/8653e3695c9ace6ccae03060c17016b5bae8b483",
+      "is_merge": true
+    },
+    {
+      "sha": "8c7b20363bc25301ca86b5bd4d48d012137f962c",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for mcp-vertex-search-snippets",
+      "timestamp": "2026-11-17T23:56:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/8c7b20363bc25301ca86b5bd4d48d012137f962c",
+      "is_merge": false
+    },
+    {
       "sha": "82a7069effd1071ad8fbd4022bad872aa5f6160d",
       "author": "JaredHatfield",
       "message": "Merge pull request #180 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",

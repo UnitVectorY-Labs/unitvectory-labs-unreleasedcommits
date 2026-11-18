@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T00:35:59Z",
   "unreleased_commits": [
     {
+      "sha": "92a291f1c274052e45752f98ba34f3377f3422ea",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #73 from UnitVectorY-Labs/gitrepoforge/template-sync-20261115\n\ngitrepoforge: apply desired state for mcp-chromadb-repo-search",
+      "timestamp": "2026-11-17T23:57:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-chromadb-repo-search/commit/92a291f1c274052e45752f98ba34f3377f3422ea",
+      "is_merge": true
+    },
+    {
+      "sha": "052deda26ba15025496ebdd9ad34418c4c7f1a7d",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for mcp-chromadb-repo-search",
+      "timestamp": "2026-11-17T23:56:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-chromadb-repo-search/commit/052deda26ba15025496ebdd9ad34418c4c7f1a7d",
+      "is_merge": false
+    },
+    {
       "sha": "7fda50d416ac0c18c3fcdeca6a990e50b4537b39",
       "author": "JaredHatfield",
       "message": "Merge pull request #74 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",

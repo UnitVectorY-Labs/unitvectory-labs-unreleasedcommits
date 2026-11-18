@@ -6,6 +6,22 @@
   "latest_release_time": "2026-11-08T19:43:38Z",
   "unreleased_commits": [
     {
+      "sha": "96a9a268e3a73cc5ff5f2fe2ea9ddfa17557809e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #114 from UnitVectorY-Labs/gitrepoforge/template-sync-20261115\n\ngitrepoforge: apply desired state for frontmatterkit",
+      "timestamp": "2026-11-18T00:42:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/96a9a268e3a73cc5ff5f2fe2ea9ddfa17557809e",
+      "is_merge": true
+    },
+    {
+      "sha": "9c161eb91131e7569ccea4ef7979e413cd69c2da",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for frontmatterkit",
+      "timestamp": "2026-11-17T23:51:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/frontmatterkit/commit/9c161eb91131e7569ccea4ef7979e413cd69c2da",
+      "is_merge": false
+    },
+    {
       "sha": "3718532ce4f97db143c82a95a3bac96effede5b9",
       "author": "JaredHatfield",
       "message": "Merge pull request #115 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",

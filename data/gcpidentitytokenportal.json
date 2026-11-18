@@ -6,6 +6,14 @@
   "latest_release_time": "2026-10-22T01:12:05Z",
   "unreleased_commits": [
     {
+      "sha": "1a7e8fd4b30d077eb9c1e706fa8357db5108d9f9",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for gcpidentitytokenportal (#311)",
+      "timestamp": "2026-11-18T00:02:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpidentitytokenportal/commit/1a7e8fd4b30d077eb9c1e706fa8357db5108d9f9",
+      "is_merge": false
+    },
+    {
       "sha": "53ffb5adaae27956792019ae5752917778e1fd1a",
       "author": "JaredHatfield",
       "message": "Merge pull request #310 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",

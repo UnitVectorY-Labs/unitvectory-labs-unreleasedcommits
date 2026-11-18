@@ -6,6 +6,22 @@
   "latest_release_time": "2026-09-03T09:52:57Z",
   "unreleased_commits": [
     {
+      "sha": "615e7a0acd0931541e7efcf790275ed91760ad56",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #131 from UnitVectorY-Labs/gitrepoforge/yamlequal\n\ngitrepoforge: apply desired state for yamlequal",
+      "timestamp": "2026-11-17T23:59:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/615e7a0acd0931541e7efcf790275ed91760ad56",
+      "is_merge": true
+    },
+    {
+      "sha": "eac04ec65015437fb4c5b30da7aa382dfb0c7a14",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for yamlequal",
+      "timestamp": "2026-11-17T23:57:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/yamlequal/commit/eac04ec65015437fb4c5b30da7aa382dfb0c7a14",
+      "is_merge": false
+    },
+    {
       "sha": "2cf4a54f49484f38bec3f95ae2fa2a8fce24b484",
       "author": "JaredHatfield",
       "message": "Merge pull request #130 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",

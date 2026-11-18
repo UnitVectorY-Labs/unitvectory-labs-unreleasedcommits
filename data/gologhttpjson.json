@@ -6,6 +6,14 @@
   "latest_release_time": "2026-10-22T02:01:08Z",
   "unreleased_commits": [
     {
+      "sha": "866e95d2b87e4dfa439749af9c39d6628eacd0f5",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for gologhttpjson (#166)",
+      "timestamp": "2026-11-18T00:06:25Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/866e95d2b87e4dfa439749af9c39d6628eacd0f5",
+      "is_merge": false
+    },
+    {
       "sha": "c59275722057cc824efa18203a3c67656315e58a",
       "author": "JaredHatfield",
       "message": "Merge pull request #165 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",

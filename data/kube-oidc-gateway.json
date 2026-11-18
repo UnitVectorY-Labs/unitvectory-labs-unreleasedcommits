@@ -6,6 +6,14 @@
   "latest_release_time": "2026-10-22T02:30:31Z",
   "unreleased_commits": [
     {
+      "sha": "d100e83a9f00d7344f0359978ff6f33171b011ed",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for kube-oidc-gateway (#147)",
+      "timestamp": "2026-11-18T00:07:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/d100e83a9f00d7344f0359978ff6f33171b011ed",
+      "is_merge": false
+    },
+    {
       "sha": "d06b570ba9b73f4fa420237fe95faff1cac1636f",
       "author": "JaredHatfield",
       "message": "Merge pull request #146 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",

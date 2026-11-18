@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T01:26:08Z",
   "unreleased_commits": [
     {
+      "sha": "432493febfaab92c3da9784bbad1fbcc2a2cb30f",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for ghook2pubsub (#146)",
+      "timestamp": "2026-11-18T00:41:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/432493febfaab92c3da9784bbad1fbcc2a2cb30f",
+      "is_merge": false
+    },
+    {
+      "sha": "4092da71495994da2ec55004911b3bbe5beaf307",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump github.com/klauspost/compress from 1.20.3 to 1.20.4 (#141)\n\nBumps [github.com/klauspost/compress](https://github.com/klauspost/compress) from 1.20.3 to 1.20.4.\n- [Release notes](https://github.com/klauspost/compress/releases)\n- [Commits](https://github.com/klauspost/compress/compare/v1.20.3...v1.20.4)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/klauspost/compress\n  dependency-version: 1.20.4\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e\nCo-authored-by: dependabot[bot] \u003c49699333+dependabot[bot]@users.noreply.github.com\u003e",
+      "timestamp": "2026-11-18T00:16:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/4092da71495994da2ec55004911b3bbe5beaf307",
+      "is_merge": false
+    },
+    {
       "sha": "8ac8a5ae4507bb548ac51304235b82038a52a567",
       "author": "JaredHatfield",
       "message": "Merge pull request #147 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",

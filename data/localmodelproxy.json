@@ -6,6 +6,14 @@
   "latest_release_time": "2026-10-22T00:31:43Z",
   "unreleased_commits": [
     {
+      "sha": "6456878a6ab13bb892bc6c0be3321c53a027384d",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for localmodelproxy (#110)",
+      "timestamp": "2026-11-18T00:39:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/localmodelproxy/commit/6456878a6ab13bb892bc6c0be3321c53a027384d",
+      "is_merge": false
+    },
+    {
       "sha": "d7cb999dff4329e15f56867463fa0fc0f08d98c2",
       "author": "JaredHatfield",
       "message": "Merge pull request #111 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",

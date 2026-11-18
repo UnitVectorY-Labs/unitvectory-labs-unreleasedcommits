@@ -6,6 +6,22 @@
   "latest_release_time": "2026-09-03T09:52:31Z",
   "unreleased_commits": [
     {
+      "sha": "b98d878beb172a486fffe506b3a2dbe20adf75e6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #131 from UnitVectorY-Labs/gitrepoforge/isplaintextfile\n\ngitrepoforge: apply desired state for isplaintextfile",
+      "timestamp": "2026-11-18T00:06:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/b98d878beb172a486fffe506b3a2dbe20adf75e6",
+      "is_merge": true
+    },
+    {
+      "sha": "d6cf5ca138fe62354cf2f6eaf8664267bd88f21b",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for isplaintextfile",
+      "timestamp": "2026-11-17T23:55:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/isplaintextfile/commit/d6cf5ca138fe62354cf2f6eaf8664267bd88f21b",
+      "is_merge": false
+    },
+    {
       "sha": "3837e6b69307a9a375439c9ddf3e0ccc4492f998",
       "author": "JaredHatfield",
       "message": "Merge pull request #130 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",

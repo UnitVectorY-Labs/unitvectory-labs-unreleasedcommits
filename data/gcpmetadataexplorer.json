@@ -6,6 +6,14 @@
   "latest_release_time": "2026-10-22T01:19:15Z",
   "unreleased_commits": [
     {
+      "sha": "bbaae491dffc8cc0f75cc5961fb3a13d23352da8",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for gcpmetadataexplorer (#193)",
+      "timestamp": "2026-11-18T00:03:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/bbaae491dffc8cc0f75cc5961fb3a13d23352da8",
+      "is_merge": false
+    },
+    {
       "sha": "a73e50c0e84e30e866d451d5546d688aec63f958",
       "author": "JaredHatfield",
       "message": "Merge pull request #192 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",
