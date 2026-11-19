@@ -2,49 +2,8 @@
   "owner": "UnitVectorY-Labs",
   "name": "cfgraft",
   "default_branch": "main",
-  "latest_release_tag": "v0.4.1",
-  "latest_release_time": "2026-11-16T11:40:02Z",
-  "unreleased_commits": [
-    {
-      "sha": "246eef089ebdd7e032a74f46b31b6638a4a94c78",
-      "author": "JaredHatfield",
-      "message": "Merge pull request #109 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",
-      "timestamp": "2026-11-17T03:04:35Z",
-      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/246eef089ebdd7e032a74f46b31b6638a4a94c78",
-      "is_merge": true
-    },
-    {
-      "sha": "66d6a91d3cde68d7adb0dc0f3ad5420666f7a555",
-      "author": "JaredHatfield",
-      "message": "chore: update .github/workflows/semgrep.yml",
-      "timestamp": "2026-11-17T02:49:57Z",
-      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/66d6a91d3cde68d7adb0dc0f3ad5420666f7a555",
-      "is_merge": false
-    },
-    {
-      "sha": "b42ca598c6cfc6a175f730a30f8d8b1ef1240c21",
-      "author": "JaredHatfield",
-      "message": "Supressing cooldown in semgrep",
-      "timestamp": "2026-11-17T01:21:56Z",
-      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/b42ca598c6cfc6a175f730a30f8d8b1ef1240c21",
-      "is_merge": false
-    },
-    {
-      "sha": "33f79c029b5e72f7c9857d5945fabefc580f1566",
-      "author": "JaredHatfield",
-      "message": "Add .zizmor.yml to GitHub Actions workflow paths",
-      "timestamp": "2026-11-17T00:54:53Z",
-      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/33f79c029b5e72f7c9857d5945fabefc580f1566",
-      "is_merge": false
-    },
-    {
-      "sha": "782acf9f3ef470d1dd32b11995421ea76ac43bab",
-      "author": "JaredHatfield",
-      "message": "Add dependabot cooldown rule to .zizmor.yml",
-      "timestamp": "2026-11-17T00:51:32Z",
-      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/782acf9f3ef470d1dd32b11995421ea76ac43bab",
-      "is_merge": false
-    }
-  ],
+  "latest_release_tag": "v0.4.2",
+  "latest_release_time": "2026-11-18T11:55:29Z",
+  "unreleased_commits": null,
   "repository_url": "https://github.com/UnitVectorY-Labs/cfgraft"
 }
