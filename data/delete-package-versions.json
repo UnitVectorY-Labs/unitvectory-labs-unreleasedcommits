@@ -4,6 +4,39 @@
   "default_branch": "main",
   "latest_release_tag": "v5.0.1-uvy.2",
   "latest_release_time": "2026-11-18T01:08:05Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "673c7ce9cb09fbcf296984d574dd8ee9abb10271",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #10 from UnitVectorY-Labs/dependabot/npm_and_yarn/multi-f15f611930\n\nbuild: bump cookie and msw",
+      "timestamp": "2026-11-21T03:12:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/delete-package-versions/commit/673c7ce9cb09fbcf296984d574dd8ee9abb10271",
+      "is_merge": true
+    },
+    {
+      "sha": "978de18a22b05e24c136284e7b6a1e0cbd8776fd",
+      "author": "JaredHatfield",
+      "message": "test: migrate tests to msw v3 and upgrade TypeScript for PR #10\n\n- Upgrade typescript to ^5.9.3 and ts-jest to ^29.4.15 (keeping jest 29 with 0 audit vulnerabilities)\n- Configure Jest + ts-jest to run tests with Node VM modules for ESM-only msw v3\n- Migrate all 4 test suites from msw v1 (rest, req/res/ctx, onUnhandledRequest) to msw v3 (http, HttpResponse, onUnhandledFrame)\n- Use default https import in src/version/container-references.ts so ClientRequestInterceptor can intercept https.request under ESM\n- Pin Node 24 in rebuild-dist.yml and rebuild dist/index.js\n\nFixes #11",
+      "timestamp": "2026-11-21T03:11:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/delete-package-versions/commit/978de18a22b05e24c136284e7b6a1e0cbd8776fd",
+      "is_merge": false
+    },
+    {
+      "sha": "f1ef41a19ede4562a991f6a8b88a3c6c999476ba",
+      "author": "JaredHatfield",
+      "message": "ci: add rebuild-dist workflow for regenerating dist/ on branches",
+      "timestamp": "2026-11-21T02:26:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/delete-package-versions/commit/f1ef41a19ede4562a991f6a8b88a3c6c999476ba",
+      "is_merge": false
+    },
+    {
+      "sha": "eede765b4f24e6a60bd6fd12093918dabec706e1",
+      "author": "dependabot[bot]",
+      "message": "build: bump cookie and msw\n\nBumps [cookie](https://github.com/jshttp/cookie) to 2.0.2 and updates ancestor dependency [msw](https://github.com/mswjs/msw). These dependencies need to be updated together.\n\n\nUpdates `cookie` from 0.4.2 to 2.0.2\n- [Release notes](https://github.com/jshttp/cookie/releases)\n- [Commits](https://github.com/jshttp/cookie/compare/v0.4.2...v2.0.2)\n\nUpdates `msw` from 1.3.5 to 3.0.6\n- [Release notes](https://github.com/mswjs/msw/releases)\n- [Changelog](https://github.com/mswjs/msw/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/mswjs/msw/compare/v1.3.5...v3.0.6)\n\n---\nupdated-dependencies:\n- dependency-name: cookie\n  dependency-version: 2.0.2\n  dependency-type: indirect\n- dependency-name: msw\n  dependency-version: 3.0.6\n  dependency-type: direct:development\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-18T01:15:04Z",
+      "url": "https://github.com/UnitVectorY-Labs/delete-package-versions/commit/eede765b4f24e6a60bd6fd12093918dabec706e1",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/delete-package-versions"
 }
