@@ -6,6 +6,70 @@
   "latest_release_time": "2026-10-22T02:01:08Z",
   "unreleased_commits": [
     {
+      "sha": "fa208cc7838e36f535443ef22121fbfb32b118d3",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #169 from UnitVectorY-Labs/dependabot/github_actions/unitvectory-labs/kuberollouttrigger-action-0.4.1\n\nchore(deps): bump unitvectory-labs/kuberollouttrigger-action from 0.4.0 to 0.4.1",
+      "timestamp": "2026-11-21T17:04:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/fa208cc7838e36f535443ef22121fbfb32b118d3",
+      "is_merge": true
+    },
+    {
+      "sha": "9062e04d5ef9112e683a5b77fee281df2a5274fd",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #170 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.1.0\n\nchore(deps): bump actions/setup-go from 7.0.0 to 7.1.0",
+      "timestamp": "2026-11-21T16:49:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/9062e04d5ef9112e683a5b77fee281df2a5274fd",
+      "is_merge": true
+    },
+    {
+      "sha": "de810ed45c572c64e34aa5db25ac2de3d360b166",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #167 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.4.0\n\nchore(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0",
+      "timestamp": "2026-11-21T16:48:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/de810ed45c572c64e34aa5db25ac2de3d360b166",
+      "is_merge": true
+    },
+    {
+      "sha": "1ec051705261ae8ee979f2093314e04548d892cc",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #168 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.3\n\nchore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.2.1 to 1.2.3",
+      "timestamp": "2026-11-21T15:14:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/1ec051705261ae8ee979f2093314e04548d892cc",
+      "is_merge": true
+    },
+    {
+      "sha": "b8d243d39d3cd4aace2bb78c37410a7539e74b7b",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/setup-go from 7.0.0 to 7.1.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 7.0.0 to 7.1.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/b7ad1dad31e06c5925ef5d2fc7ad053ef454303e...d8cbb8045d7f43706b9177cceb36c1f91a6644d5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:08:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/b8d243d39d3cd4aace2bb78c37410a7539e74b7b",
+      "is_merge": false
+    },
+    {
+      "sha": "3a9ea4d95248d42bb7bdfe42f769018d33cc83c6",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump unitvectory-labs/kuberollouttrigger-action\n\nBumps [unitvectory-labs/kuberollouttrigger-action](https://github.com/unitvectory-labs/kuberollouttrigger-action) from 0.4.0 to 0.4.1.\n- [Release notes](https://github.com/unitvectory-labs/kuberollouttrigger-action/releases)\n- [Commits](https://github.com/unitvectory-labs/kuberollouttrigger-action/compare/6314962103390064260592923858f28be95271a5...3a4ddefe0b99b926e28a9b7c38032388979648fb)\n\n---\nupdated-dependencies:\n- dependency-name: unitvectory-labs/kuberollouttrigger-action\n  dependency-version: 0.4.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:07:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/3a9ea4d95248d42bb7bdfe42f769018d33cc83c6",
+      "is_merge": false
+    },
+    {
+      "sha": "8c7b18e0b2b611d3a87fb03abe7f0c0ae6993b0e",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.1 to 1.2.3.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/8ee570e0b30e5252afadb146977b411b8acd3e34...9524dea066d587a9a0e314f0fa1140da85c3e9c0)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:04:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/8c7b18e0b2b611d3a87fb03abe7f0c0ae6993b0e",
+      "is_merge": false
+    },
+    {
+      "sha": "3e52413814782046e95d6bfcf46df39e60db4f33",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.3 to 10.4.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/68559e99cc807c1eb7e9238fd43a15bba460eec2...1db35dd8eee11c5894872e0b383ae6c406cf738d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:04:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/gologhttpjson/commit/3e52413814782046e95d6bfcf46df39e60db4f33",
+      "is_merge": false
+    },
+    {
       "sha": "866e95d2b87e4dfa439749af9c39d6628eacd0f5",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for gologhttpjson (#166)",

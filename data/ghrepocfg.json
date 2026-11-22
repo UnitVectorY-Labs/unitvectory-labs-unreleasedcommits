@@ -6,6 +6,54 @@
   "latest_release_time": "2026-11-03T00:17:01Z",
   "unreleased_commits": [
     {
+      "sha": "01bcf995eb8d9a5e99f03084ea100639a7f020be",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #58 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.1.0\n\nBump actions/setup-go from 7.0.0 to 7.1.0",
+      "timestamp": "2026-11-21T16:49:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/01bcf995eb8d9a5e99f03084ea100639a7f020be",
+      "is_merge": true
+    },
+    {
+      "sha": "0266cf3730720c3887b30c53c9d74021a1b92dd7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #56 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.4.0\n\nBump astral-sh/setup-uv from 10.3.3 to 10.4.0",
+      "timestamp": "2026-11-21T16:48:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/0266cf3730720c3887b30c53c9d74021a1b92dd7",
+      "is_merge": true
+    },
+    {
+      "sha": "5d521b1ac916028507cc7370feb6312a57c7b893",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #57 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.3\n\nBump UnitVectorY-Labs/chromadb-repo-indexer from 1.2.1 to 1.2.3",
+      "timestamp": "2026-11-21T15:14:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/5d521b1ac916028507cc7370feb6312a57c7b893",
+      "is_merge": true
+    },
+    {
+      "sha": "58bc0d75aa55b2ff45f65112fe7ec3c9f07d8d2a",
+      "author": "dependabot[bot]",
+      "message": "Bump actions/setup-go from 7.0.0 to 7.1.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 7.0.0 to 7.1.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/b7ad1dad31e06c5925ef5d2fc7ad053ef454303e...d8cbb8045d7f43706b9177cceb36c1f91a6644d5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:04:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/58bc0d75aa55b2ff45f65112fe7ec3c9f07d8d2a",
+      "is_merge": false
+    },
+    {
+      "sha": "74c60763c8bfb127bc447c45b077df5d52086de6",
+      "author": "dependabot[bot]",
+      "message": "Bump UnitVectorY-Labs/chromadb-repo-indexer from 1.2.1 to 1.2.3\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.1 to 1.2.3.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/8ee570e0b30e5252afadb146977b411b8acd3e34...9524dea066d587a9a0e314f0fa1140da85c3e9c0)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:04:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/74c60763c8bfb127bc447c45b077df5d52086de6",
+      "is_merge": false
+    },
+    {
+      "sha": "74369b20077269904332856c2baa73877476a9f6",
+      "author": "dependabot[bot]",
+      "message": "Bump astral-sh/setup-uv from 10.3.3 to 10.4.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.3 to 10.4.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/68559e99cc807c1eb7e9238fd43a15bba460eec2...1db35dd8eee11c5894872e0b383ae6c406cf738d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:04:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/74369b20077269904332856c2baa73877476a9f6",
+      "is_merge": false
+    },
+    {
       "sha": "eea8ca9be4d3a870e3890edf2085118072c1123c",
       "author": "JaredHatfield",
       "message": "Merge pull request #54 from UnitVectorY-Labs/gitrepoforge/template-sync-20261115\n\ngitrepoforge: apply desired state for ghrepocfg",

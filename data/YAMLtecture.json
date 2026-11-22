@@ -6,6 +6,54 @@
   "latest_release_time": "2026-10-06T21:59:25Z",
   "unreleased_commits": [
     {
+      "sha": "8e380a420d6c0ddc296e93b50f6250058c417552",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #209 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.1.0\n\nbuild(deps): bump actions/setup-go from 7.0.0 to 7.1.0",
+      "timestamp": "2026-11-21T16:49:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/8e380a420d6c0ddc296e93b50f6250058c417552",
+      "is_merge": true
+    },
+    {
+      "sha": "fff95fbd189ee835053ef9b130d03521e2b6276a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #211 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.4.0\n\nbuild(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0",
+      "timestamp": "2026-11-21T16:48:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/fff95fbd189ee835053ef9b130d03521e2b6276a",
+      "is_merge": true
+    },
+    {
+      "sha": "420b917376c662efebb64f3a98fa0c92b44a2427",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/setup-go from 7.0.0 to 7.1.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 7.0.0 to 7.1.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/b7ad1dad31e06c5925ef5d2fc7ad053ef454303e...d8cbb8045d7f43706b9177cceb36c1f91a6644d5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T15:23:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/420b917376c662efebb64f3a98fa0c92b44a2427",
+      "is_merge": false
+    },
+    {
+      "sha": "b2411e199f1b0dc42c1a9df811a2abf63b236148",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.3 to 10.4.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/68559e99cc807c1eb7e9238fd43a15bba460eec2...1db35dd8eee11c5894872e0b383ae6c406cf738d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T15:23:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/b2411e199f1b0dc42c1a9df811a2abf63b236148",
+      "is_merge": false
+    },
+    {
+      "sha": "4cc6e15aa3f4512ad41fe4c23542dfe2623b4d70",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #210 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.3\n\nbuild(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.2.1 to 1.2.3",
+      "timestamp": "2026-11-21T15:14:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/4cc6e15aa3f4512ad41fe4c23542dfe2623b4d70",
+      "is_merge": true
+    },
+    {
+      "sha": "4ab39e8b5b9ecbec9722f8aa58cc27fddb920f15",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.1 to 1.2.3.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/8ee570e0b30e5252afadb146977b411b8acd3e34...9524dea066d587a9a0e314f0fa1140da85c3e9c0)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:15:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/YAMLtecture/commit/4ab39e8b5b9ecbec9722f8aa58cc27fddb920f15",
+      "is_merge": false
+    },
+    {
       "sha": "c297f1c7de7c381bf5f2e9ed7235517d918ca472",
       "author": "JaredHatfield",
       "message": "Merge pull request #207 from UnitVectorY-Labs/gitrepoforge/template-sync-20261115\n\ngitrepoforge: apply desired state for YAMLtecture",

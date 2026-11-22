@@ -6,6 +6,54 @@
   "latest_release_time": "2026-07-02T10:52:46Z",
   "unreleased_commits": [
     {
+      "sha": "ecaabe03bc6addfeaa7bce0e14bfe37a946f228a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #185 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-6.3.0\n\nchore(deps): bump actions/setup-java from 6.2.0 to 6.3.0",
+      "timestamp": "2026-11-21T16:49:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/ecaabe03bc6addfeaa7bce0e14bfe37a946f228a",
+      "is_merge": true
+    },
+    {
+      "sha": "739f7486d163ac64c880332ce7baf7ab7568f93e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #183 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.4.0\n\nchore(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0",
+      "timestamp": "2026-11-21T16:48:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/739f7486d163ac64c880332ce7baf7ab7568f93e",
+      "is_merge": true
+    },
+    {
+      "sha": "ea4ab16fc24b59e6903c8517aacefe7064a37a1e",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/setup-java from 6.2.0 to 6.3.0\n\nBumps [actions/setup-java](https://github.com/actions/setup-java) from 6.2.0 to 6.3.0.\n- [Release notes](https://github.com/actions/setup-java/releases)\n- [Commits](https://github.com/actions/setup-java/compare/77dd5b2ce225ea11469928ac317850245a74ae78...d1374f8ac74474200d16ef8ecee22c7ae7a51880)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-java\n  dependency-version: 6.3.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T15:17:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/ea4ab16fc24b59e6903c8517aacefe7064a37a1e",
+      "is_merge": false
+    },
+    {
+      "sha": "7ef15257882e9b24d3eb95836777a179dc32ede2",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.3 to 10.4.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/68559e99cc807c1eb7e9238fd43a15bba460eec2...1db35dd8eee11c5894872e0b383ae6c406cf738d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T15:17:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/7ef15257882e9b24d3eb95836777a179dc32ede2",
+      "is_merge": false
+    },
+    {
+      "sha": "1c0d05b2f51c4a7712f462e4b8b8e4f0d2eb1452",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #184 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.3\n\nchore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.2.1 to 1.2.3",
+      "timestamp": "2026-11-21T15:13:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/1c0d05b2f51c4a7712f462e4b8b8e4f0d2eb1452",
+      "is_merge": true
+    },
+    {
+      "sha": "e7841a3531af6619e16a6a154bcbb193b49b6a95",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.1 to 1.2.3.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/8ee570e0b30e5252afadb146977b411b8acd3e34...9524dea066d587a9a0e314f0fa1140da85c3e9c0)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:02:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/e7841a3531af6619e16a6a154bcbb193b49b6a95",
+      "is_merge": false
+    },
+    {
       "sha": "24c2721795e37ce337abde5657482302e1224fb9",
       "author": "JaredHatfield",
       "message": "Merge pull request #182 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",

@@ -6,6 +6,70 @@
   "latest_release_time": "2026-10-22T00:20:55Z",
   "unreleased_commits": [
     {
+      "sha": "432e48be21f19fe17ced5ad01ea55e7a83ae42aa",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #167 from UnitVectorY-Labs/dependabot/github_actions/unitvectory-labs/kuberollouttrigger-action-0.4.1\n\nchore(deps): bump unitvectory-labs/kuberollouttrigger-action from 0.4.0 to 0.4.1",
+      "timestamp": "2026-11-21T17:04:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/432e48be21f19fe17ced5ad01ea55e7a83ae42aa",
+      "is_merge": true
+    },
+    {
+      "sha": "be53c41284e25980b786c6da7d53f799a56fa64e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #168 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.1.0\n\nchore(deps): bump actions/setup-go from 7.0.0 to 7.1.0",
+      "timestamp": "2026-11-21T16:49:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/be53c41284e25980b786c6da7d53f799a56fa64e",
+      "is_merge": true
+    },
+    {
+      "sha": "996f568dd28e0ed8ed1c509f7e79e47a71f804a7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #169 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.4.0\n\nchore(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0",
+      "timestamp": "2026-11-21T16:48:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/996f568dd28e0ed8ed1c509f7e79e47a71f804a7",
+      "is_merge": true
+    },
+    {
+      "sha": "cb28a87f4389ed6125c2fb1bdad57802958c4b2b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #166 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.3\n\nchore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.2.1 to 1.2.3",
+      "timestamp": "2026-11-21T15:14:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/cb28a87f4389ed6125c2fb1bdad57802958c4b2b",
+      "is_merge": true
+    },
+    {
+      "sha": "d2b1b4e9001d618db9c5f8f25596a84a90e2d66a",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.3 to 10.4.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/68559e99cc807c1eb7e9238fd43a15bba460eec2...1db35dd8eee11c5894872e0b383ae6c406cf738d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:04:09Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/d2b1b4e9001d618db9c5f8f25596a84a90e2d66a",
+      "is_merge": false
+    },
+    {
+      "sha": "6c2dfe4b81f7d4596a9a5c35e954f7a5fea21cfd",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/setup-go from 7.0.0 to 7.1.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 7.0.0 to 7.1.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/b7ad1dad31e06c5925ef5d2fc7ad053ef454303e...d8cbb8045d7f43706b9177cceb36c1f91a6644d5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:04:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/6c2dfe4b81f7d4596a9a5c35e954f7a5fea21cfd",
+      "is_merge": false
+    },
+    {
+      "sha": "3accf7ff40942edd24599939d19e5ee43da4cfbb",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump unitvectory-labs/kuberollouttrigger-action\n\nBumps [unitvectory-labs/kuberollouttrigger-action](https://github.com/unitvectory-labs/kuberollouttrigger-action) from 0.4.0 to 0.4.1.\n- [Release notes](https://github.com/unitvectory-labs/kuberollouttrigger-action/releases)\n- [Commits](https://github.com/unitvectory-labs/kuberollouttrigger-action/compare/6314962103390064260592923858f28be95271a5...3a4ddefe0b99b926e28a9b7c38032388979648fb)\n\n---\nupdated-dependencies:\n- dependency-name: unitvectory-labs/kuberollouttrigger-action\n  dependency-version: 0.4.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:04:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/3accf7ff40942edd24599939d19e5ee43da4cfbb",
+      "is_merge": false
+    },
+    {
+      "sha": "9a9585154c50a992202ab54f92ccf57f4e143f81",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.1 to 1.2.3.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/8ee570e0b30e5252afadb146977b411b8acd3e34...9524dea066d587a9a0e314f0fa1140da85c3e9c0)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:03:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrelgrab/commit/9a9585154c50a992202ab54f92ccf57f4e143f81",
+      "is_merge": false
+    },
+    {
       "sha": "fa202263713d3f0f52e27db9fe5c1a81d99169bd",
       "author": "JaredHatfield",
       "message": "Merge pull request #165 from UnitVectorY-Labs/bulkfilepr/b2bfd7173c48\n\nAdd suppressed SARIF filtering to Semgrep workflow",

@@ -6,6 +6,54 @@
   "latest_release_time": "2026-10-22T02:16:40Z",
   "unreleased_commits": [
     {
+      "sha": "3c22a30118d363b33379ec49b25985e321b9c598",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #204 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.1.0\n\nbuild(deps): bump actions/setup-go from 7.0.0 to 7.1.0",
+      "timestamp": "2026-11-21T16:49:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/3c22a30118d363b33379ec49b25985e321b9c598",
+      "is_merge": true
+    },
+    {
+      "sha": "c57b49debefa11902d8b43c0e542a03bf0fa4573",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #203 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.4.0\n\nbuild(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0",
+      "timestamp": "2026-11-21T16:48:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/c57b49debefa11902d8b43c0e542a03bf0fa4573",
+      "is_merge": true
+    },
+    {
+      "sha": "34da01def1f9a266b8537ba8777d9182f394f4b3",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/setup-go from 7.0.0 to 7.1.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 7.0.0 to 7.1.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/b7ad1dad31e06c5925ef5d2fc7ad053ef454303e...d8cbb8045d7f43706b9177cceb36c1f91a6644d5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T15:16:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/34da01def1f9a266b8537ba8777d9182f394f4b3",
+      "is_merge": false
+    },
+    {
+      "sha": "673add93d07212a94ed7e7f691de199e93562d59",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.3 to 10.4.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/68559e99cc807c1eb7e9238fd43a15bba460eec2...1db35dd8eee11c5894872e0b383ae6c406cf738d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T15:16:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/673add93d07212a94ed7e7f691de199e93562d59",
+      "is_merge": false
+    },
+    {
+      "sha": "4599dbf8020a0cd5cd23dced6c7b2a22a94866fd",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #202 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.3\n\nbuild(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.2.1 to 1.2.3",
+      "timestamp": "2026-11-21T15:13:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/4599dbf8020a0cd5cd23dced6c7b2a22a94866fd",
+      "is_merge": true
+    },
+    {
+      "sha": "b78e1676b40852ebbb6d4b4156d64d8d5e929f90",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.1 to 1.2.3.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/8ee570e0b30e5252afadb146977b411b8acd3e34...9524dea066d587a9a0e314f0fa1140da85c3e9c0)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:02:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/hellorest/commit/b78e1676b40852ebbb6d4b4156d64d8d5e929f90",
+      "is_merge": false
+    },
+    {
       "sha": "0d06dda3cde03929c0b2b16e9b809c3b2777464d",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for hellorest (#201)",

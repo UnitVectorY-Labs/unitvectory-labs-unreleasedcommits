@@ -6,6 +6,70 @@
   "latest_release_time": "2026-10-22T02:08:01Z",
   "unreleased_commits": [
     {
+      "sha": "d87dd07a6d671b22fac1ab8555ac2f0d06280de8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #176 from UnitVectorY-Labs/dependabot/github_actions/unitvectory-labs/kuberollouttrigger-action-0.4.1\n\nbuild(deps): bump unitvectory-labs/kuberollouttrigger-action from 0.4.0 to 0.4.1",
+      "timestamp": "2026-11-21T17:04:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/d87dd07a6d671b22fac1ab8555ac2f0d06280de8",
+      "is_merge": true
+    },
+    {
+      "sha": "ab95a867c9178e6aae26e5eb33f07ad1c151e822",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #177 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.1.0\n\nbuild(deps): bump actions/setup-go from 7.0.0 to 7.1.0",
+      "timestamp": "2026-11-21T16:49:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/ab95a867c9178e6aae26e5eb33f07ad1c151e822",
+      "is_merge": true
+    },
+    {
+      "sha": "4ee5fb5cca8852a9f71182e26e056503cf252394",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #178 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.4.0\n\nbuild(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0",
+      "timestamp": "2026-11-21T16:48:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/4ee5fb5cca8852a9f71182e26e056503cf252394",
+      "is_merge": true
+    },
+    {
+      "sha": "ab540511fd38eac42c435e9d62375280c2fce28b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #179 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.3\n\nbuild(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.2.1 to 1.2.3",
+      "timestamp": "2026-11-21T15:14:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/ab540511fd38eac42c435e9d62375280c2fce28b",
+      "is_merge": true
+    },
+    {
+      "sha": "bf4d0ff78b70a56e5218b281a82d889688569a17",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.1 to 1.2.3.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/8ee570e0b30e5252afadb146977b411b8acd3e34...9524dea066d587a9a0e314f0fa1140da85c3e9c0)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:06:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/bf4d0ff78b70a56e5218b281a82d889688569a17",
+      "is_merge": false
+    },
+    {
+      "sha": "5020fbfe46fbacdf1e884c8c856357888456aed7",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.3 to 10.4.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/68559e99cc807c1eb7e9238fd43a15bba460eec2...1db35dd8eee11c5894872e0b383ae6c406cf738d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:06:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/5020fbfe46fbacdf1e884c8c856357888456aed7",
+      "is_merge": false
+    },
+    {
+      "sha": "81e72bf760045327044373c6a0a1295410c022fe",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/setup-go from 7.0.0 to 7.1.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 7.0.0 to 7.1.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/b7ad1dad31e06c5925ef5d2fc7ad053ef454303e...d8cbb8045d7f43706b9177cceb36c1f91a6644d5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:05:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/81e72bf760045327044373c6a0a1295410c022fe",
+      "is_merge": false
+    },
+    {
+      "sha": "ff46c3083515e2bd98b89f8edd8f241412f047ec",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump unitvectory-labs/kuberollouttrigger-action\n\nBumps [unitvectory-labs/kuberollouttrigger-action](https://github.com/unitvectory-labs/kuberollouttrigger-action) from 0.4.0 to 0.4.1.\n- [Release notes](https://github.com/unitvectory-labs/kuberollouttrigger-action/releases)\n- [Commits](https://github.com/unitvectory-labs/kuberollouttrigger-action/compare/6314962103390064260592923858f28be95271a5...3a4ddefe0b99b926e28a9b7c38032388979648fb)\n\n---\nupdated-dependencies:\n- dependency-name: unitvectory-labs/kuberollouttrigger-action\n  dependency-version: 0.4.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:05:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/ff46c3083515e2bd98b89f8edd8f241412f047ec",
+      "is_merge": false
+    },
+    {
       "sha": "a15843b5314fe521ca918667bfc656989fcc0335",
       "author": "JaredHatfield",
       "message": "Merge pull request #173 from UnitVectorY-Labs/gitrepoforge/template-sync-20261115\n\ngitrepoforge: apply desired state for hallucinateapi",

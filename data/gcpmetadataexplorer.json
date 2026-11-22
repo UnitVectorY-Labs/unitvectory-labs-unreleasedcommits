@@ -6,6 +6,54 @@
   "latest_release_time": "2026-10-22T01:19:15Z",
   "unreleased_commits": [
     {
+      "sha": "5cae16f445a019c10a2b0cab83e64ecbeabc4e49",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #197 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.1.0\n\nchore(deps): bump actions/setup-go from 7.0.0 to 7.1.0",
+      "timestamp": "2026-11-21T16:49:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/5cae16f445a019c10a2b0cab83e64ecbeabc4e49",
+      "is_merge": true
+    },
+    {
+      "sha": "12973d94f8c629ed41da065b5d35079b52677dd0",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #194 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.4.0\n\nchore(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0",
+      "timestamp": "2026-11-21T16:48:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/12973d94f8c629ed41da065b5d35079b52677dd0",
+      "is_merge": true
+    },
+    {
+      "sha": "63109284b49103a2c03613f6684cbec3b230801d",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/setup-go from 7.0.0 to 7.1.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 7.0.0 to 7.1.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/b7ad1dad31e06c5925ef5d2fc7ad053ef454303e...d8cbb8045d7f43706b9177cceb36c1f91a6644d5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T15:22:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/63109284b49103a2c03613f6684cbec3b230801d",
+      "is_merge": false
+    },
+    {
+      "sha": "9f2f7f67513bba4d917c8756b0d430ce3487786c",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.3 to 10.4.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/68559e99cc807c1eb7e9238fd43a15bba460eec2...1db35dd8eee11c5894872e0b383ae6c406cf738d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T15:21:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/9f2f7f67513bba4d917c8756b0d430ce3487786c",
+      "is_merge": false
+    },
+    {
+      "sha": "814bbfdc6d59af6655a4f09d8c564cd7a7e99c50",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #195 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.3\n\nchore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.2.1 to 1.2.3",
+      "timestamp": "2026-11-21T15:13:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/814bbfdc6d59af6655a4f09d8c564cd7a7e99c50",
+      "is_merge": true
+    },
+    {
+      "sha": "b52c8c6f7f3b8a1a5bc00a1a1f304e7b2b795c66",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.1 to 1.2.3.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/8ee570e0b30e5252afadb146977b411b8acd3e34...9524dea066d587a9a0e314f0fa1140da85c3e9c0)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:06:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpmetadataexplorer/commit/b52c8c6f7f3b8a1a5bc00a1a1f304e7b2b795c66",
+      "is_merge": false
+    },
+    {
       "sha": "bbaae491dffc8cc0f75cc5961fb3a13d23352da8",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for gcpmetadataexplorer (#193)",

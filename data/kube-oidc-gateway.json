@@ -6,6 +6,70 @@
   "latest_release_time": "2026-10-22T02:30:31Z",
   "unreleased_commits": [
     {
+      "sha": "587e7671a8dbf9753bdf2a7e54ca361a71362646",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #151 from UnitVectorY-Labs/dependabot/github_actions/unitvectory-labs/kuberollouttrigger-action-0.4.1\n\nchore(deps): bump unitvectory-labs/kuberollouttrigger-action from 0.4.0 to 0.4.1",
+      "timestamp": "2026-11-21T17:04:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/587e7671a8dbf9753bdf2a7e54ca361a71362646",
+      "is_merge": true
+    },
+    {
+      "sha": "71c0b9c497a116f6041c98c414767afde55c013a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #149 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.1.0\n\nchore(deps): bump actions/setup-go from 7.0.0 to 7.1.0",
+      "timestamp": "2026-11-21T16:49:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/71c0b9c497a116f6041c98c414767afde55c013a",
+      "is_merge": true
+    },
+    {
+      "sha": "03c719159e8b66b04f9ceb7d316d7232dac2bc0f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #150 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.4.0\n\nchore(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0",
+      "timestamp": "2026-11-21T16:48:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/03c719159e8b66b04f9ceb7d316d7232dac2bc0f",
+      "is_merge": true
+    },
+    {
+      "sha": "60dbf2dd0c038a4274c1985a2a0a8be8b0cee93c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #148 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.3\n\nchore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.2.1 to 1.2.3",
+      "timestamp": "2026-11-21T15:14:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/60dbf2dd0c038a4274c1985a2a0a8be8b0cee93c",
+      "is_merge": true
+    },
+    {
+      "sha": "74d64da8c277587330b7a93fe4bfa21cf93b86a7",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump unitvectory-labs/kuberollouttrigger-action\n\nBumps [unitvectory-labs/kuberollouttrigger-action](https://github.com/unitvectory-labs/kuberollouttrigger-action) from 0.4.0 to 0.4.1.\n- [Release notes](https://github.com/unitvectory-labs/kuberollouttrigger-action/releases)\n- [Commits](https://github.com/unitvectory-labs/kuberollouttrigger-action/compare/6314962103390064260592923858f28be95271a5...3a4ddefe0b99b926e28a9b7c38032388979648fb)\n\n---\nupdated-dependencies:\n- dependency-name: unitvectory-labs/kuberollouttrigger-action\n  dependency-version: 0.4.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:05:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/74d64da8c277587330b7a93fe4bfa21cf93b86a7",
+      "is_merge": false
+    },
+    {
+      "sha": "60951fd19fd1df9029989065d0113520682eda29",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.3 to 10.4.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/68559e99cc807c1eb7e9238fd43a15bba460eec2...1db35dd8eee11c5894872e0b383ae6c406cf738d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:05:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/60951fd19fd1df9029989065d0113520682eda29",
+      "is_merge": false
+    },
+    {
+      "sha": "6ddd8f9736a580fd9233c327a01a28dbb0b740d7",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/setup-go from 7.0.0 to 7.1.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 7.0.0 to 7.1.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/b7ad1dad31e06c5925ef5d2fc7ad053ef454303e...d8cbb8045d7f43706b9177cceb36c1f91a6644d5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:04:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/6ddd8f9736a580fd9233c327a01a28dbb0b740d7",
+      "is_merge": false
+    },
+    {
+      "sha": "bfe442b6ad84860b51033de246b3fc8f136ac273",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.1 to 1.2.3.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/8ee570e0b30e5252afadb146977b411b8acd3e34...9524dea066d587a9a0e314f0fa1140da85c3e9c0)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:04:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/kube-oidc-gateway/commit/bfe442b6ad84860b51033de246b3fc8f136ac273",
+      "is_merge": false
+    },
+    {
       "sha": "d100e83a9f00d7344f0359978ff6f33171b011ed",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for kube-oidc-gateway (#147)",

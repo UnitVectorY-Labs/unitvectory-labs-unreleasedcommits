@@ -6,6 +6,54 @@
   "latest_release_time": "2026-10-06T21:41:33Z",
   "unreleased_commits": [
     {
+      "sha": "a9290fc9322233b28eabb579d6c9fc2e189fff03",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #163 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.1.0\n\nbuild(deps): bump actions/setup-go from 7.0.0 to 7.1.0",
+      "timestamp": "2026-11-21T16:49:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/a9290fc9322233b28eabb579d6c9fc2e189fff03",
+      "is_merge": true
+    },
+    {
+      "sha": "0d0f627555f78561d89d642b2ebe55aa35f7751d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #165 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.4.0\n\nbuild(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0",
+      "timestamp": "2026-11-21T16:48:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/0d0f627555f78561d89d642b2ebe55aa35f7751d",
+      "is_merge": true
+    },
+    {
+      "sha": "e743d6aad300fc60d7c0f1a58a760b9a2add81a7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #164 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.3\n\nbuild(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.2.1 to 1.2.3",
+      "timestamp": "2026-11-21T15:13:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/e743d6aad300fc60d7c0f1a58a760b9a2add81a7",
+      "is_merge": true
+    },
+    {
+      "sha": "a50f3546184248731f3f113a56331669d60e4e98",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.3 to 10.4.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/68559e99cc807c1eb7e9238fd43a15bba460eec2...1db35dd8eee11c5894872e0b383ae6c406cf738d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:02:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/a50f3546184248731f3f113a56331669d60e4e98",
+      "is_merge": false
+    },
+    {
+      "sha": "7954a465b8386438c54530573190f18dc5255aa1",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.1 to 1.2.3.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/8ee570e0b30e5252afadb146977b411b8acd3e34...9524dea066d587a9a0e314f0fa1140da85c3e9c0)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:02:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/7954a465b8386438c54530573190f18dc5255aa1",
+      "is_merge": false
+    },
+    {
+      "sha": "aaf4aca31a44fe64865953f60a4c66946d32ea3c",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/setup-go from 7.0.0 to 7.1.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 7.0.0 to 7.1.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/b7ad1dad31e06c5925ef5d2fc7ad053ef454303e...d8cbb8045d7f43706b9177cceb36c1f91a6644d5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:02:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/aaf4aca31a44fe64865953f60a4c66946d32ea3c",
+      "is_merge": false
+    },
+    {
       "sha": "739df27634c35a9b01d42f1ceac628c2130974e3",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for clip4llm (#162)",

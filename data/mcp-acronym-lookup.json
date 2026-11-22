@@ -6,6 +6,54 @@
   "latest_release_time": "2026-10-22T00:33:17Z",
   "unreleased_commits": [
     {
+      "sha": "f29d6b173c2bb224d490105ae4d886ddc3bf4796",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #190 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.1.0\n\nchore(deps): bump actions/setup-go from 7.0.0 to 7.1.0",
+      "timestamp": "2026-11-21T16:49:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/f29d6b173c2bb224d490105ae4d886ddc3bf4796",
+      "is_merge": true
+    },
+    {
+      "sha": "968d8fa4fc066a430d4606e5a016c88b26fa55ae",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #192 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.4.0\n\nchore(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0",
+      "timestamp": "2026-11-21T16:48:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/968d8fa4fc066a430d4606e5a016c88b26fa55ae",
+      "is_merge": true
+    },
+    {
+      "sha": "7da82c50ccd18114d16fa1e12626837b04ff1af1",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/setup-go from 7.0.0 to 7.1.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 7.0.0 to 7.1.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/b7ad1dad31e06c5925ef5d2fc7ad053ef454303e...d8cbb8045d7f43706b9177cceb36c1f91a6644d5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T15:21:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/7da82c50ccd18114d16fa1e12626837b04ff1af1",
+      "is_merge": false
+    },
+    {
+      "sha": "5204e16ac779bc6a53d175dd3d748f6afb6d02ca",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.3 to 10.4.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/68559e99cc807c1eb7e9238fd43a15bba460eec2...1db35dd8eee11c5894872e0b383ae6c406cf738d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T15:20:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/5204e16ac779bc6a53d175dd3d748f6afb6d02ca",
+      "is_merge": false
+    },
+    {
+      "sha": "73510f7b5ecdedd982ea42db5ef0763ab4aff2af",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #191 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.3\n\nchore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.2.1 to 1.2.3",
+      "timestamp": "2026-11-21T15:14:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/73510f7b5ecdedd982ea42db5ef0763ab4aff2af",
+      "is_merge": true
+    },
+    {
+      "sha": "da8b00a1d232806a2be1308972860ee102b9d797",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.1 to 1.2.3.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/8ee570e0b30e5252afadb146977b411b8acd3e34...9524dea066d587a9a0e314f0fa1140da85c3e9c0)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:05:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup/commit/da8b00a1d232806a2be1308972860ee102b9d797",
+      "is_merge": false
+    },
+    {
       "sha": "7de4b6b727762037b5be2d717e1019edf04f164a",
       "author": "JaredHatfield",
       "message": "Merge pull request #189 from UnitVectorY-Labs/gitrepoforge/mcp-acronym-lookup\n\ngitrepoforge: apply desired state for mcp-acronym-lookup",

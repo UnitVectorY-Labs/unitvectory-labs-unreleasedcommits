@@ -6,6 +6,78 @@
   "latest_release_time": "2026-10-22T01:26:08Z",
   "unreleased_commits": [
     {
+      "sha": "6069ed9e841683efdf3aa32e8a50eb0c04d8d9f8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #151 from UnitVectorY-Labs/dependabot/github_actions/unitvectory-labs/kuberollouttrigger-action-0.4.1\n\nchore(deps): bump unitvectory-labs/kuberollouttrigger-action from 0.4.0 to 0.4.1",
+      "timestamp": "2026-11-21T17:04:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/6069ed9e841683efdf3aa32e8a50eb0c04d8d9f8",
+      "is_merge": true
+    },
+    {
+      "sha": "b9d56659c54e1e9a5363b0bdaf2744b2a1992528",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #150 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.1.0\n\nchore(deps): bump actions/setup-go from 7.0.0 to 7.1.0",
+      "timestamp": "2026-11-21T16:49:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/b9d56659c54e1e9a5363b0bdaf2744b2a1992528",
+      "is_merge": true
+    },
+    {
+      "sha": "e3d159ce1f5a865a5eb9d0bd66dd4387490b7f31",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #149 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.4.0\n\nchore(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0",
+      "timestamp": "2026-11-21T16:48:54Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/e3d159ce1f5a865a5eb9d0bd66dd4387490b7f31",
+      "is_merge": true
+    },
+    {
+      "sha": "029f3548928251aaaf972a26d2f6ce95fca0cb46",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #148 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.3\n\nchore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.2.1 to 1.2.3",
+      "timestamp": "2026-11-21T15:14:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/029f3548928251aaaf972a26d2f6ce95fca0cb46",
+      "is_merge": true
+    },
+    {
+      "sha": "a22ba94bf5e2d0340ec9472763cbc5980a43e62c",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump unitvectory-labs/kuberollouttrigger-action\n\nBumps [unitvectory-labs/kuberollouttrigger-action](https://github.com/unitvectory-labs/kuberollouttrigger-action) from 0.4.0 to 0.4.1.\n- [Release notes](https://github.com/unitvectory-labs/kuberollouttrigger-action/releases)\n- [Commits](https://github.com/unitvectory-labs/kuberollouttrigger-action/compare/6314962103390064260592923858f28be95271a5...3a4ddefe0b99b926e28a9b7c38032388979648fb)\n\n---\nupdated-dependencies:\n- dependency-name: unitvectory-labs/kuberollouttrigger-action\n  dependency-version: 0.4.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:15:05Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/a22ba94bf5e2d0340ec9472763cbc5980a43e62c",
+      "is_merge": false
+    },
+    {
+      "sha": "9650f10001957f5d93098b69114df2bbcc1dcfe0",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/setup-go from 7.0.0 to 7.1.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 7.0.0 to 7.1.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/b7ad1dad31e06c5925ef5d2fc7ad053ef454303e...d8cbb8045d7f43706b9177cceb36c1f91a6644d5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:15:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/9650f10001957f5d93098b69114df2bbcc1dcfe0",
+      "is_merge": false
+    },
+    {
+      "sha": "87215be73f78f249038070d52ef53ca4c7990541",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.3 to 10.4.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/68559e99cc807c1eb7e9238fd43a15bba460eec2...1db35dd8eee11c5894872e0b383ae6c406cf738d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:14:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/87215be73f78f249038070d52ef53ca4c7990541",
+      "is_merge": false
+    },
+    {
+      "sha": "e1cd6dded154362255414c17abd3e8795ce2a724",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.1 to 1.2.3.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/8ee570e0b30e5252afadb146977b411b8acd3e34...9524dea066d587a9a0e314f0fa1140da85c3e9c0)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:14:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/e1cd6dded154362255414c17abd3e8795ce2a724",
+      "is_merge": false
+    },
+    {
+      "sha": "2a1f4b43d86c4d0c3ec5f9cbec273d643bf20fff",
+      "author": "JaredHatfield",
+      "message": "docs: add pubsub2webhook to related projects",
+      "timestamp": "2026-11-21T08:38:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/2a1f4b43d86c4d0c3ec5f9cbec273d643bf20fff",
+      "is_merge": false
+    },
+    {
       "sha": "432493febfaab92c3da9784bbad1fbcc2a2cb30f",
       "author": "JaredHatfield",
       "message": "gitrepoforge: apply desired state for ghook2pubsub (#146)",

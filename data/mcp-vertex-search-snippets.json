@@ -6,6 +6,54 @@
   "latest_release_time": "2026-10-22T00:48:19Z",
   "unreleased_commits": [
     {
+      "sha": "9d270662dbb4bc41e45133cfc1d6177336025a5c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #183 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.1.0\n\nchore(deps): bump actions/setup-go from 7.0.0 to 7.1.0",
+      "timestamp": "2026-11-21T16:49:12Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/9d270662dbb4bc41e45133cfc1d6177336025a5c",
+      "is_merge": true
+    },
+    {
+      "sha": "c12b0eb603e06a9b7bbb0ca858936303cf56abd5",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #184 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.4.0\n\nchore(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0",
+      "timestamp": "2026-11-21T16:48:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/c12b0eb603e06a9b7bbb0ca858936303cf56abd5",
+      "is_merge": true
+    },
+    {
+      "sha": "9278b103ebeb336632fd8442663459a54d5e032c",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.3 to 10.4.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/68559e99cc807c1eb7e9238fd43a15bba460eec2...1db35dd8eee11c5894872e0b383ae6c406cf738d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T15:22:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/9278b103ebeb336632fd8442663459a54d5e032c",
+      "is_merge": false
+    },
+    {
+      "sha": "6d9284617ce437001b196919744bb571e1a43ac7",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump actions/setup-go from 7.0.0 to 7.1.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 7.0.0 to 7.1.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/b7ad1dad31e06c5925ef5d2fc7ad053ef454303e...d8cbb8045d7f43706b9177cceb36c1f91a6644d5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T15:19:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/6d9284617ce437001b196919744bb571e1a43ac7",
+      "is_merge": false
+    },
+    {
+      "sha": "c0aa55a1d0614b10c648bac5aa4262c0d16ff96a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #182 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.3\n\nchore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.2.1 to 1.2.3",
+      "timestamp": "2026-11-21T15:14:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/c0aa55a1d0614b10c648bac5aa4262c0d16ff96a",
+      "is_merge": true
+    },
+    {
+      "sha": "8d69a8afa49615dd2bdc2aa042eb2ff4fa1f6e7d",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.1 to 1.2.3.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/8ee570e0b30e5252afadb146977b411b8acd3e34...9524dea066d587a9a0e314f0fa1140da85c3e9c0)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:14:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/8d69a8afa49615dd2bdc2aa042eb2ff4fa1f6e7d",
+      "is_merge": false
+    },
+    {
       "sha": "8653e3695c9ace6ccae03060c17016b5bae8b483",
       "author": "JaredHatfield",
       "message": "Merge pull request #181 from UnitVectorY-Labs/gitrepoforge/mcp-vertex-search-snippets\n\ngitrepoforge: apply desired state for mcp-vertex-search-snippets",

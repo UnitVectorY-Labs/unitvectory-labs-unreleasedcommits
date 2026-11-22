@@ -6,6 +6,54 @@
   "latest_release_time": "2026-11-15T01:20:20Z",
   "unreleased_commits": [
     {
+      "sha": "caebf2ce7da9fa229183b59d163e439c157b5867",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #100 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.1.0\n\nbuild(deps): bump actions/setup-go from 7.0.0 to 7.1.0",
+      "timestamp": "2026-11-21T16:49:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghscanscope/commit/caebf2ce7da9fa229183b59d163e439c157b5867",
+      "is_merge": true
+    },
+    {
+      "sha": "a5f61ca0c2d40327495cb19953e012346376a3ad",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #99 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.4.0\n\nbuild(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0",
+      "timestamp": "2026-11-21T16:48:56Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghscanscope/commit/a5f61ca0c2d40327495cb19953e012346376a3ad",
+      "is_merge": true
+    },
+    {
+      "sha": "6888e15ea156e3b7b6a5697fe98c93f858e04d90",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #101 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.3\n\nbuild(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.2.1 to 1.2.3",
+      "timestamp": "2026-11-21T15:14:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghscanscope/commit/6888e15ea156e3b7b6a5697fe98c93f858e04d90",
+      "is_merge": true
+    },
+    {
+      "sha": "fe4e5f52f05a3c4c8466c9db5103a0b9d9c0326d",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.1 to 1.2.3.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/8ee570e0b30e5252afadb146977b411b8acd3e34...9524dea066d587a9a0e314f0fa1140da85c3e9c0)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:05:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghscanscope/commit/fe4e5f52f05a3c4c8466c9db5103a0b9d9c0326d",
+      "is_merge": false
+    },
+    {
+      "sha": "d5b4d0a970ca1a81f5bc20f789b7e86fc3024806",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/setup-go from 7.0.0 to 7.1.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 7.0.0 to 7.1.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/b7ad1dad31e06c5925ef5d2fc7ad053ef454303e...d8cbb8045d7f43706b9177cceb36c1f91a6644d5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:05:40Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghscanscope/commit/d5b4d0a970ca1a81f5bc20f789b7e86fc3024806",
+      "is_merge": false
+    },
+    {
+      "sha": "d2c6b807d855d854d73e8912a9d440927ebcd444",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.3 to 10.4.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/68559e99cc807c1eb7e9238fd43a15bba460eec2...1db35dd8eee11c5894872e0b383ae6c406cf738d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:05:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghscanscope/commit/d2c6b807d855d854d73e8912a9d440927ebcd444",
+      "is_merge": false
+    },
+    {
       "sha": "185cb199d06a553ce7986602582928741d607a34",
       "author": "JaredHatfield",
       "message": "Merge pull request #96 from UnitVectorY-Labs/gitrepoforge/ghscanscope\n\ngitrepoforge: apply desired state for ghscanscope",

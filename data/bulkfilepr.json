@@ -6,6 +6,54 @@
   "latest_release_time": "2026-11-17T02:43:40Z",
   "unreleased_commits": [
     {
+      "sha": "d67c6861efb2f3719cb76b8dd315d9ba37a7c68b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #135 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.1.0\n\nbuild(deps): bump actions/setup-go from 7.0.0 to 7.1.0",
+      "timestamp": "2026-11-21T16:49:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/d67c6861efb2f3719cb76b8dd315d9ba37a7c68b",
+      "is_merge": true
+    },
+    {
+      "sha": "1325e6108948d2f83ad13f4424dbfcbfab97fe9c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #134 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.4.0\n\nbuild(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0",
+      "timestamp": "2026-11-21T16:48:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/1325e6108948d2f83ad13f4424dbfcbfab97fe9c",
+      "is_merge": true
+    },
+    {
+      "sha": "317e8a42298ba556fb65dd6032d6b9fb51dcfafb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #133 from UnitVectorY-Labs/dependabot/github_actions/UnitVectorY-Labs/chromadb-repo-indexer-1.2.3\n\nbuild(deps): bump UnitVectorY-Labs/chromadb-repo-indexer from 1.2.1 to 1.2.3",
+      "timestamp": "2026-11-21T15:14:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/317e8a42298ba556fb65dd6032d6b9fb51dcfafb",
+      "is_merge": true
+    },
+    {
+      "sha": "5a8e009039d57c186f2dfd805abade342907cab3",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump actions/setup-go from 7.0.0 to 7.1.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 7.0.0 to 7.1.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/b7ad1dad31e06c5925ef5d2fc7ad053ef454303e...d8cbb8045d7f43706b9177cceb36c1f91a6644d5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:06:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/5a8e009039d57c186f2dfd805abade342907cab3",
+      "is_merge": false
+    },
+    {
+      "sha": "8983cbe7615a1470bdd30b1048e404aca83b7fd0",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.3 to 10.4.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/68559e99cc807c1eb7e9238fd43a15bba460eec2...1db35dd8eee11c5894872e0b383ae6c406cf738d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:06:31Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/8983cbe7615a1470bdd30b1048e404aca83b7fd0",
+      "is_merge": false
+    },
+    {
+      "sha": "ee9c3b30710c62a371722537801abb8d130bf199",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.1 to 1.2.3.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/8ee570e0b30e5252afadb146977b411b8acd3e34...9524dea066d587a9a0e314f0fa1140da85c3e9c0)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:04:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/bulkfilepr/commit/ee9c3b30710c62a371722537801abb8d130bf199",
+      "is_merge": false
+    },
+    {
       "sha": "45737365da41aeed141a94d3f4ccffe88668c01e",
       "author": "JaredHatfield",
       "message": "Merge pull request #132 from UnitVectorY-Labs/gitrepoforge/bulkfilepr\n\ngitrepoforge: apply desired state for bulkfilepr",
