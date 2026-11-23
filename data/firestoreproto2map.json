@@ -6,6 +6,54 @@
   "latest_release_time": "2026-06-22T22:22:29Z",
   "unreleased_commits": [
     {
+      "sha": "3b181f4e5f2121ccb1dbf951b68de575a8ab32e1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #307 from UnitVectorY-Labs/dependabot/maven/com.google.cloud-google-cloud-firestore-3.53.0\n\nchore(deps): bump com.google.cloud:google-cloud-firestore from 3.50.0 to 3.53.0",
+      "timestamp": "2026-11-22T16:43:44Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/3b181f4e5f2121ccb1dbf951b68de575a8ab32e1",
+      "is_merge": true
+    },
+    {
+      "sha": "9963b3ab027b23c8af5310794b989003ebdd103e",
+      "author": "JaredHatfield",
+      "message": "Merge branch 'main' into dependabot/maven/com.google.cloud-google-cloud-firestore-3.53.0",
+      "timestamp": "2026-11-22T16:42:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/9963b3ab027b23c8af5310794b989003ebdd103e",
+      "is_merge": true
+    },
+    {
+      "sha": "e844eabb5e5789ef50903f50c5ef5de2114ba145",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #311 from UnitVectorY-Labs/gitrepoforge/maven-central-badge\n\nFully onboard firestoreproto2map to gitrepoforge",
+      "timestamp": "2026-11-22T16:41:48Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/e844eabb5e5789ef50903f50c5ef5de2114ba145",
+      "is_merge": true
+    },
+    {
+      "sha": "af4bc5dc29368245a0da5a24b1a8749343416bf3",
+      "author": "JaredHatfield",
+      "message": "chore: simplify generated ignores and remove unused overrides",
+      "timestamp": "2026-11-22T16:31:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/af4bc5dc29368245a0da5a24b1a8749343416bf3",
+      "is_merge": false
+    },
+    {
+      "sha": "cd50caf7726521b09b2d18c2a857f0025303fd5b",
+      "author": "JaredHatfield",
+      "message": "Fully onboard to gitrepoforge",
+      "timestamp": "2026-11-22T15:27:23Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/cd50caf7726521b09b2d18c2a857f0025303fd5b",
+      "is_merge": false
+    },
+    {
+      "sha": "4622dcbc363a920a2590049e8251c227bb70563c",
+      "author": "JaredHatfield",
+      "message": "Add Maven Central badge configuration",
+      "timestamp": "2026-11-22T15:08:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/4622dcbc363a920a2590049e8251c227bb70563c",
+      "is_merge": false
+    },
+    {
       "sha": "fa4005324e89758977a0aa0220a085130e84d61d",
       "author": "JaredHatfield",
       "message": "Merge pull request #309 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-6.3.0\n\nchore(deps): bump actions/setup-java from 6.2.0 to 6.3.0",
@@ -51,6 +99,14 @@
       "message": "chore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.1 to 1.2.3.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/8ee570e0b30e5252afadb146977b411b8acd3e34...9524dea066d587a9a0e314f0fa1140da85c3e9c0)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-11-21T11:02:46Z",
       "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/39202eb871e0ed5c3f9c13ba91bcccc8b796e736",
+      "is_merge": false
+    },
+    {
+      "sha": "fa660ba42aaf4e9fedb5eaf2698ef489a5a961a2",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump com.google.cloud:google-cloud-firestore\n\nBumps [com.google.cloud:google-cloud-firestore](https://github.com/googleapis/google-cloud-java) from 3.50.0 to 3.53.0.\n- [Release notes](https://github.com/googleapis/google-cloud-java/releases)\n- [Changelog](https://github.com/googleapis/google-cloud-java/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/googleapis/google-cloud-java/commits)\n\n---\nupdated-dependencies:\n- dependency-name: com.google.cloud:google-cloud-firestore\n  dependency-version: 3.53.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:02:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestoreproto2map/commit/fa660ba42aaf4e9fedb5eaf2698ef489a5a961a2",
       "is_merge": false
     },
     {

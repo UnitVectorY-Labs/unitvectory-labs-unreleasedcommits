@@ -6,6 +6,22 @@
   "latest_release_time": "2026-11-12T01:09:33Z",
   "unreleased_commits": [
     {
+      "sha": "d409c2cd7abab2bfaab32ec57aa06e4d71b4994d",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #172 from UnitVectorY-Labs/gitrepoforge/uvy-docs-theme\n\nchore: migrate docs theme to uvy-docs-theme v0.2.0",
+      "timestamp": "2026-11-22T10:46:08Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/d409c2cd7abab2bfaab32ec57aa06e4d71b4994d",
+      "is_merge": true
+    },
+    {
+      "sha": "49841519711bd4dec5e58d30841fbad26ea685f5",
+      "author": "JaredHatfield",
+      "message": "chore: migrate docs theme to uvy-docs-theme v0.2.0",
+      "timestamp": "2026-11-22T02:56:00Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/49841519711bd4dec5e58d30841fbad26ea685f5",
+      "is_merge": false
+    },
+    {
       "sha": "f93229b8ffbc79ce1d84ea4e0e32650176e7c450",
       "author": "JaredHatfield",
       "message": "Merge pull request #169 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.1.0\n\nchore(deps): bump actions/setup-go from 7.0.0 to 7.1.0",

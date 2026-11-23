@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T01:32:53Z",
   "unreleased_commits": [
     {
+      "sha": "cca178fd1f1bfa7b20c12cfc04dd21d180d159af",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #184 from UnitVectorY-Labs/gitrepoforge/dependabot-nosemgrep-sync\n\nchore: add nosemgrep suppression to dependabot cooldown blocks",
+      "timestamp": "2026-11-22T10:52:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/cca178fd1f1bfa7b20c12cfc04dd21d180d159af",
+      "is_merge": true
+    },
+    {
+      "sha": "57963f5f2832fb3fc4cc389120c16856dee73155",
+      "author": "JaredHatfield",
+      "message": "chore: add nosemgrep suppression to dependabot cooldown blocks",
+      "timestamp": "2026-11-22T02:14:53Z",
+      "url": "https://github.com/UnitVectorY-Labs/goenvecho/commit/57963f5f2832fb3fc4cc389120c16856dee73155",
+      "is_merge": false
+    },
+    {
       "sha": "f33c1d6e511bc0aa36abf8da15d9720ee04e6a46",
       "author": "JaredHatfield",
       "message": "Merge pull request #180 from UnitVectorY-Labs/dependabot/github_actions/unitvectory-labs/kuberollouttrigger-action-0.4.1\n\nchore(deps): bump unitvectory-labs/kuberollouttrigger-action from 0.4.0 to 0.4.1",

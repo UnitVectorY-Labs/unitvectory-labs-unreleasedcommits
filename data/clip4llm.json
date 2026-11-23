@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-06T21:41:33Z",
   "unreleased_commits": [
     {
+      "sha": "e2b25956aa48b47c503d983b41d6a531a65b8bd8",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #166 from UnitVectorY-Labs/gitrepoforge/dependabot-nosemgrep-sync\n\nchore: add nosemgrep suppression to dependabot cooldown blocks",
+      "timestamp": "2026-11-22T10:52:21Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/e2b25956aa48b47c503d983b41d6a531a65b8bd8",
+      "is_merge": true
+    },
+    {
+      "sha": "5be5d55ecb56c35becf5b75f949d9379437ba8c2",
+      "author": "JaredHatfield",
+      "message": "chore: add nosemgrep suppression to dependabot cooldown blocks",
+      "timestamp": "2026-11-22T02:13:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/clip4llm/commit/5be5d55ecb56c35becf5b75f949d9379437ba8c2",
+      "is_merge": false
+    },
+    {
       "sha": "a9290fc9322233b28eabb579d6c9fc2e189fff03",
       "author": "JaredHatfield",
       "message": "Merge pull request #163 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.1.0\n\nbuild(deps): bump actions/setup-go from 7.0.0 to 7.1.0",

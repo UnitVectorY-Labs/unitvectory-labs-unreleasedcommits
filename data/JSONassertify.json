@@ -6,6 +6,30 @@
   "latest_release_time": "2026-11-20T00:27:50Z",
   "unreleased_commits": [
     {
+      "sha": "0cd40ed05cc923a4bedd42b4e2adf24fcbaeef89",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #227 from UnitVectorY-Labs/gitrepoforge/uvy-docs-theme\n\nchore: migrate docs theme to uvy-docs-theme v0.2.0 and onboard to gitrepoforge",
+      "timestamp": "2026-11-22T14:56:59Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/0cd40ed05cc923a4bedd42b4e2adf24fcbaeef89",
+      "is_merge": true
+    },
+    {
+      "sha": "d4a890faaee4aeb3bee6885aa2ce42b94544b5f3",
+      "author": "JaredHatfield",
+      "message": "fix: preserve Maven Central and Javadoc badges in managed header",
+      "timestamp": "2026-11-22T14:55:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/d4a890faaee4aeb3bee6885aa2ce42b94544b5f3",
+      "is_merge": false
+    },
+    {
+      "sha": "f78a5dd107bd9f6252ebda99250455ecb057903a",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: onboard repo and migrate docs to uvy-docs-theme v0.2.0",
+      "timestamp": "2026-11-22T13:39:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/f78a5dd107bd9f6252ebda99250455ecb057903a",
+      "is_merge": false
+    },
+    {
       "sha": "7025443550cd44f353af1fe6960d5e0a6c91d432",
       "author": "JaredHatfield",
       "message": "Merge pull request #224 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-6.3.0\n\nchore(deps): bump actions/setup-java from 6.2.0 to 6.3.0",

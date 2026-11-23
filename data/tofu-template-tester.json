@@ -6,6 +6,22 @@
   "latest_release_time": "2026-09-03T09:52:55Z",
   "unreleased_commits": [
     {
+      "sha": "e4c304be2abe89aef482d362fda417db8ad3b4f6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #150 from UnitVectorY-Labs/gitrepoforge/dependabot-nosemgrep-sync\n\nchore: add nosemgrep suppression to dependabot cooldown blocks",
+      "timestamp": "2026-11-22T10:53:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/e4c304be2abe89aef482d362fda417db8ad3b4f6",
+      "is_merge": true
+    },
+    {
+      "sha": "05d1da148650bca3c955f5d27cc1f71b2fa12f30",
+      "author": "JaredHatfield",
+      "message": "chore: add nosemgrep suppression to dependabot cooldown blocks",
+      "timestamp": "2026-11-22T02:19:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/tofu-template-tester/commit/05d1da148650bca3c955f5d27cc1f71b2fa12f30",
+      "is_merge": false
+    },
+    {
       "sha": "1fad1463442ebff21290866dab0b9745fd735819",
       "author": "JaredHatfield",
       "message": "Merge pull request #147 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.1.0\n\nbuild(deps): bump actions/setup-go from 7.0.0 to 7.1.0",

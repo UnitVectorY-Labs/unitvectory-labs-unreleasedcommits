@@ -6,6 +6,70 @@
   "latest_release_time": "2026-06-22T22:26:01Z",
   "unreleased_commits": [
     {
+      "sha": "2ea078bd4c4e63ad846d28c6ecd2388c1bd1553b",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #295 from UnitVectorY-Labs/dependabot/maven/com.fasterxml.jackson-jackson-bom-2.23.0\n\nchore(deps): bump com.fasterxml.jackson:jackson-bom from 2.22.3 to 2.23.0",
+      "timestamp": "2026-11-22T16:47:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/2ea078bd4c4e63ad846d28c6ecd2388c1bd1553b",
+      "is_merge": true
+    },
+    {
+      "sha": "f80db2d7a2afff3220353b97be4d47677f88557a",
+      "author": "JaredHatfield",
+      "message": "Merge branch 'main' into dependabot/maven/com.fasterxml.jackson-jackson-bom-2.23.0",
+      "timestamp": "2026-11-22T16:46:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/f80db2d7a2afff3220353b97be4d47677f88557a",
+      "is_merge": true
+    },
+    {
+      "sha": "3c549375fe04f7f4b4a123160b330c88f41237c7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #294 from UnitVectorY-Labs/dependabot/maven/org.json-json-20260814\n\nchore(deps): bump org.json:json from 20260719 to 20260814",
+      "timestamp": "2026-11-22T16:44:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/3c549375fe04f7f4b4a123160b330c88f41237c7",
+      "is_merge": true
+    },
+    {
+      "sha": "39bc59ff9f719ce569f3ee331b1d2a25c783741f",
+      "author": "JaredHatfield",
+      "message": "Merge branch 'main' into dependabot/maven/org.json-json-20260814",
+      "timestamp": "2026-11-22T16:42:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/39bc59ff9f719ce569f3ee331b1d2a25c783741f",
+      "is_merge": true
+    },
+    {
+      "sha": "3d6f75da863f74f69905dfd8a5d8a901769eed21",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #299 from UnitVectorY-Labs/gitrepoforge/maven-central-badge\n\nFully onboard jsonschema4springboot to gitrepoforge",
+      "timestamp": "2026-11-22T16:42:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/3d6f75da863f74f69905dfd8a5d8a901769eed21",
+      "is_merge": true
+    },
+    {
+      "sha": "5a48b924d10f8a258d9ef79655186a4c297c9821",
+      "author": "JaredHatfield",
+      "message": "chore: simplify generated ignores and remove unused overrides",
+      "timestamp": "2026-11-22T16:31:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/5a48b924d10f8a258d9ef79655186a4c297c9821",
+      "is_merge": false
+    },
+    {
+      "sha": "0fee5fefd7926443a265a265ad84ab826d65cc22",
+      "author": "JaredHatfield",
+      "message": "Fully onboard repository to gitrepoforge",
+      "timestamp": "2026-11-22T15:26:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/0fee5fefd7926443a265a265ad84ab826d65cc22",
+      "is_merge": false
+    },
+    {
+      "sha": "99624286547aebee50bb7866d1e208ff1835b3a9",
+      "author": "JaredHatfield",
+      "message": "Add Maven Central badge configuration",
+      "timestamp": "2026-11-22T15:08:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/99624286547aebee50bb7866d1e208ff1835b3a9",
+      "is_merge": false
+    },
+    {
       "sha": "5e3afc192abcceb753e735ff616705d3e3262e5e",
       "author": "JaredHatfield",
       "message": "Merge pull request #297 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-6.3.0\n\nchore(deps): bump actions/setup-java from 6.2.0 to 6.3.0",
@@ -51,6 +115,22 @@
       "message": "chore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.1 to 1.2.3.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/8ee570e0b30e5252afadb146977b411b8acd3e34...9524dea066d587a9a0e314f0fa1140da85c3e9c0)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
       "timestamp": "2026-11-21T11:02:43Z",
       "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/93ad7f62a207de18e3f474f70559f7f2713bce80",
+      "is_merge": false
+    },
+    {
+      "sha": "b25654103a1983a5f2ba8c2f847014ea4a217cd0",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump com.fasterxml.jackson:jackson-bom\n\nBumps [com.fasterxml.jackson:jackson-bom](https://github.com/FasterXML/jackson-bom) from 2.22.3 to 2.23.0.\n- [Commits](https://github.com/FasterXML/jackson-bom/compare/jackson-bom-2.22.3...jackson-bom-2.23.0)\n\n---\nupdated-dependencies:\n- dependency-name: com.fasterxml.jackson:jackson-bom\n  dependency-version: 2.23.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:02:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/b25654103a1983a5f2ba8c2f847014ea4a217cd0",
+      "is_merge": false
+    },
+    {
+      "sha": "863a26f4acb5484c2e2763105b9c464a9b2fd460",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump org.json:json from 20260719 to 20260814\n\nBumps [org.json:json](https://github.com/douglascrockford/JSON-java) from 20260719 to 20260814.\n- [Release notes](https://github.com/douglascrockford/JSON-java/releases)\n- [Changelog](https://github.com/stleary/JSON-java/blob/master/docs/RELEASES.md)\n- [Commits](https://github.com/douglascrockford/JSON-java/compare/20260719...20260814)\n\n---\nupdated-dependencies:\n- dependency-name: org.json:json\n  dependency-version: '20260814'\n  dependency-type: direct:production\n  update-type: version-update:semver-major\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T11:02:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschema4springboot/commit/863a26f4acb5484c2e2763105b9c464a9b2fd460",
       "is_merge": false
     },
     {

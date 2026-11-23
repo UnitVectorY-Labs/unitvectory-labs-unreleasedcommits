@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T00:48:19Z",
   "unreleased_commits": [
     {
+      "sha": "f10cba05048efd0f5d1fb8b84c79ce74e8482ad1",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #185 from UnitVectorY-Labs/gitrepoforge/dependabot-nosemgrep-sync\n\nchore: add nosemgrep suppression to dependabot cooldown blocks",
+      "timestamp": "2026-11-22T10:53:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/f10cba05048efd0f5d1fb8b84c79ce74e8482ad1",
+      "is_merge": true
+    },
+    {
+      "sha": "4e7537d04eb090712b0a103dba1d4a40abfe82fb",
+      "author": "JaredHatfield",
+      "message": "chore: add nosemgrep suppression to dependabot cooldown blocks",
+      "timestamp": "2026-11-22T02:18:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets/commit/4e7537d04eb090712b0a103dba1d4a40abfe82fb",
+      "is_merge": false
+    },
+    {
       "sha": "9d270662dbb4bc41e45133cfc1d6177336025a5c",
       "author": "JaredHatfield",
       "message": "Merge pull request #183 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.1.0\n\nchore(deps): bump actions/setup-go from 7.0.0 to 7.1.0",

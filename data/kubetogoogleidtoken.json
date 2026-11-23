@@ -6,6 +6,70 @@
   "latest_release_time": "2026-08-13T00:56:37Z",
   "unreleased_commits": [
     {
+      "sha": "fb94693c8f18e7a24e8c49b86e106d6d97d0759f",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #196 from UnitVectorY-Labs/dependabot/github_actions/astral-sh/setup-uv-10.4.0\n\nchore(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0",
+      "timestamp": "2026-11-22T16:47:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/fb94693c8f18e7a24e8c49b86e106d6d97d0759f",
+      "is_merge": true
+    },
+    {
+      "sha": "c6eee8e8669039dd58c6374fe04edd744bd94944",
+      "author": "JaredHatfield",
+      "message": "Merge branch 'main' into dependabot/github_actions/astral-sh/setup-uv-10.4.0",
+      "timestamp": "2026-11-22T16:45:49Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/c6eee8e8669039dd58c6374fe04edd744bd94944",
+      "is_merge": true
+    },
+    {
+      "sha": "3c4572f0e3522f6d3aca502746b508833e6c4cad",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #197 from UnitVectorY-Labs/gitrepoforge/maven-central-badge\n\nFully onboard kubetogoogleidtoken to GitRepoForge",
+      "timestamp": "2026-11-22T16:45:26Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/3c4572f0e3522f6d3aca502746b508833e6c4cad",
+      "is_merge": true
+    },
+    {
+      "sha": "6c427f8b18d44b9a165ac3d61ac366d8168b6bf6",
+      "author": "JaredHatfield",
+      "message": "chore: simplify generated ignores and remove unused overrides",
+      "timestamp": "2026-11-22T16:31:17Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/6c427f8b18d44b9a165ac3d61ac366d8168b6bf6",
+      "is_merge": false
+    },
+    {
+      "sha": "aa7efdbd91b9595084aec3189387ee4c0b22bc05",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: onboard Java Maven repository",
+      "timestamp": "2026-11-22T15:22:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/aa7efdbd91b9595084aec3189387ee4c0b22bc05",
+      "is_merge": false
+    },
+    {
+      "sha": "cef66628f42ea07718302004ed7c62b0006cd603",
+      "author": "JaredHatfield",
+      "message": "fix: keep Maven badge configuration valid and preserve repository metadata",
+      "timestamp": "2026-11-22T15:07:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/cef66628f42ea07718302004ed7c62b0006cd603",
+      "is_merge": false
+    },
+    {
+      "sha": "f6f4bed4f5ac0ba233856a1068dccfbff802141a",
+      "author": "JaredHatfield",
+      "message": "Configure Maven Central coordinates",
+      "timestamp": "2026-11-22T15:04:46Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/f6f4bed4f5ac0ba233856a1068dccfbff802141a",
+      "is_merge": false
+    },
+    {
+      "sha": "ae836e21f5a1ae68175050c96e4a2edd7064f8bc",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.3 to 10.4.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/68559e99cc807c1eb7e9238fd43a15bba460eec2...1db35dd8eee11c5894872e0b383ae6c406cf738d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "timestamp": "2026-11-21T16:51:50Z",
+      "url": "https://github.com/UnitVectorY-Labs/kubetogoogleidtoken/commit/ae836e21f5a1ae68175050c96e4a2edd7064f8bc",
+      "is_merge": false
+    },
+    {
       "sha": "24045a8222983750ea2cc1367cbbf9f8b97f87b2",
       "author": "JaredHatfield",
       "message": "Merge pull request #195 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-6.3.0\n\nchore(deps): bump actions/setup-java from 6.2.0 to 6.3.0",

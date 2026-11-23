@@ -6,6 +6,38 @@
   "latest_release_time": "2026-10-22T02:08:01Z",
   "unreleased_commits": [
     {
+      "sha": "6e5b768082ba5973572d04fb13ff3e248bb42f52",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #180 from UnitVectorY-Labs/gitrepoforge/dependabot-nosemgrep-sync\n\nchore: add nosemgrep suppression to dependabot cooldown blocks",
+      "timestamp": "2026-11-22T10:55:28Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/6e5b768082ba5973572d04fb13ff3e248bb42f52",
+      "is_merge": true
+    },
+    {
+      "sha": "83290e07f8f1b80a4d7b4774df594eaf27ce0aec",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #181 from UnitVectorY-Labs/gitrepoforge/uvy-docs-theme\n\nchore: migrate docs theme to uvy-docs-theme v0.2.0",
+      "timestamp": "2026-11-22T10:46:47Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/83290e07f8f1b80a4d7b4774df594eaf27ce0aec",
+      "is_merge": true
+    },
+    {
+      "sha": "e9af7087f17b7258956782fb4d0bdd25bddf38da",
+      "author": "JaredHatfield",
+      "message": "chore: migrate docs theme to uvy-docs-theme v0.2.0",
+      "timestamp": "2026-11-22T02:56:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/e9af7087f17b7258956782fb4d0bdd25bddf38da",
+      "is_merge": false
+    },
+    {
+      "sha": "6890d9e1cc434c70498469ceb17679afa11515f5",
+      "author": "JaredHatfield",
+      "message": "chore: add nosemgrep suppression to dependabot cooldown blocks",
+      "timestamp": "2026-11-22T02:15:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/hallucinateapi/commit/6890d9e1cc434c70498469ceb17679afa11515f5",
+      "is_merge": false
+    },
+    {
       "sha": "d87dd07a6d671b22fac1ab8555ac2f0d06280de8",
       "author": "JaredHatfield",
       "message": "Merge pull request #176 from UnitVectorY-Labs/dependabot/github_actions/unitvectory-labs/kuberollouttrigger-action-0.4.1\n\nbuild(deps): bump unitvectory-labs/kuberollouttrigger-action from 0.4.0 to 0.4.1",

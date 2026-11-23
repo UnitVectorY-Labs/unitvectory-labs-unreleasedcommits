@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T00:42:53Z",
   "unreleased_commits": [
     {
+      "sha": "48cf407e96c90b01d8939c6019496f46374297a2",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #207 from UnitVectorY-Labs/gitrepoforge/dependabot-nosemgrep-sync\n\nchore: add nosemgrep suppression to dependabot cooldown blocks",
+      "timestamp": "2026-11-22T10:53:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/48cf407e96c90b01d8939c6019496f46374297a2",
+      "is_merge": true
+    },
+    {
+      "sha": "628ee444080b41c8321a1322d4daeb298a9b0bc9",
+      "author": "JaredHatfield",
+      "message": "chore: add nosemgrep suppression to dependabot cooldown blocks",
+      "timestamp": "2026-11-22T02:17:33Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge/commit/628ee444080b41c8321a1322d4daeb298a9b0bc9",
+      "is_merge": false
+    },
+    {
       "sha": "7008aec712b0ec0f77e0b87a9fe16a101f792c62",
       "author": "JaredHatfield",
       "message": "Merge pull request #205 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.1.0\n\nchore(deps): bump actions/setup-go from 7.0.0 to 7.1.0",

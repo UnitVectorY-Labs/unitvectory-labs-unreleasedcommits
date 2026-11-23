@@ -6,6 +6,38 @@
   "latest_release_time": "2026-10-06T22:23:09Z",
   "unreleased_commits": [
     {
+      "sha": "2898f2b9338e4ef9ddafda5d179488c2c894e422",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #129 from UnitVectorY-Labs/gitrepoforge/dependabot-nosemgrep-sync\n\nchore: add nosemgrep suppression to dependabot cooldown blocks",
+      "timestamp": "2026-11-22T10:55:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/2898f2b9338e4ef9ddafda5d179488c2c894e422",
+      "is_merge": true
+    },
+    {
+      "sha": "3f8b27748c51d1ccfe3749e5c004fbb029cf3dab",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #130 from UnitVectorY-Labs/gitrepoforge/uvy-docs-theme\n\nchore: migrate docs theme to uvy-docs-theme v0.2.0",
+      "timestamp": "2026-11-22T10:46:51Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/3f8b27748c51d1ccfe3749e5c004fbb029cf3dab",
+      "is_merge": true
+    },
+    {
+      "sha": "336e8b8fe6c47073d9b627bdfd53fffc8b5b5e3a",
+      "author": "JaredHatfield",
+      "message": "chore: migrate docs theme to uvy-docs-theme v0.2.0",
+      "timestamp": "2026-11-22T02:56:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/336e8b8fe6c47073d9b627bdfd53fffc8b5b5e3a",
+      "is_merge": false
+    },
+    {
+      "sha": "81738b9b047fed624614e107b7da0d756f4a3171",
+      "author": "JaredHatfield",
+      "message": "chore: add nosemgrep suppression to dependabot cooldown blocks",
+      "timestamp": "2026-11-22T02:15:43Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonschemaprofiles/commit/81738b9b047fed624614e107b7da0d756f4a3171",
+      "is_merge": false
+    },
+    {
       "sha": "58aac2e6c6f27faf455d2208a21b22e27d321947",
       "author": "JaredHatfield",
       "message": "Merge pull request #126 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.1.0\n\nbuild(deps): bump actions/setup-go from 7.0.0 to 7.1.0",

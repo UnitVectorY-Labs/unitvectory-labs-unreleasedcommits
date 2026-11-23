@@ -6,6 +6,38 @@
   "latest_release_time": "2026-10-22T01:26:08Z",
   "unreleased_commits": [
     {
+      "sha": "4ed90a62468daa9e290a65521cfd1e647006039a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #152 from UnitVectorY-Labs/gitrepoforge/dependabot-nosemgrep-sync\n\nchore: add nosemgrep suppression to dependabot cooldown blocks",
+      "timestamp": "2026-11-22T10:55:11Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/4ed90a62468daa9e290a65521cfd1e647006039a",
+      "is_merge": true
+    },
+    {
+      "sha": "5f72071fdc50e78f59bf6f4a8e913ebce08be3b7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #153 from UnitVectorY-Labs/gitrepoforge/uvy-docs-theme\n\nchore: migrate docs theme to uvy-docs-theme v0.2.0",
+      "timestamp": "2026-11-22T10:46:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/5f72071fdc50e78f59bf6f4a8e913ebce08be3b7",
+      "is_merge": true
+    },
+    {
+      "sha": "577c093b5a3bf12102065fa3bab0a810e361ea48",
+      "author": "JaredHatfield",
+      "message": "chore: migrate docs theme to uvy-docs-theme v0.2.0",
+      "timestamp": "2026-11-22T02:55:52Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/577c093b5a3bf12102065fa3bab0a810e361ea48",
+      "is_merge": false
+    },
+    {
+      "sha": "98975bd815f7eb584bce9467dad0c757e30e4fb4",
+      "author": "JaredHatfield",
+      "message": "chore: add nosemgrep suppression to dependabot cooldown blocks",
+      "timestamp": "2026-11-22T02:14:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/98975bd815f7eb584bce9467dad0c757e30e4fb4",
+      "is_merge": false
+    },
+    {
       "sha": "6069ed9e841683efdf3aa32e8a50eb0c04d8d9f8",
       "author": "JaredHatfield",
       "message": "Merge pull request #151 from UnitVectorY-Labs/dependabot/github_actions/unitvectory-labs/kuberollouttrigger-action-0.4.1\n\nchore(deps): bump unitvectory-labs/kuberollouttrigger-action from 0.4.0 to 0.4.1",

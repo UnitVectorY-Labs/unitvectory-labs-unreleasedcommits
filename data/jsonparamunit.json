@@ -6,6 +6,46 @@
   "latest_release_time": "2026-08-13T00:53:49Z",
   "unreleased_commits": [
     {
+      "sha": "37d9ee63aceab3b1a4c8c7d32289a35477c08e56",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #269 from UnitVectorY-Labs/gitrepoforge/maven-central-badge\n\nOnboard jsonparamunit to gitrepoforge",
+      "timestamp": "2026-11-22T16:45:03Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/37d9ee63aceab3b1a4c8c7d32289a35477c08e56",
+      "is_merge": true
+    },
+    {
+      "sha": "cf42b39305acd14bc1ddbb5bb3712da8fe4b9112",
+      "author": "JaredHatfield",
+      "message": "chore: simplify generated ignores and remove unused overrides",
+      "timestamp": "2026-11-22T16:31:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/cf42b39305acd14bc1ddbb5bb3712da8fe4b9112",
+      "is_merge": false
+    },
+    {
+      "sha": "8b2c9b6689446ad739641047721ce2ff292abda7",
+      "author": "JaredHatfield",
+      "message": "Onboard jsonparamunit to gitrepoforge",
+      "timestamp": "2026-11-22T15:21:02Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/8b2c9b6689446ad739641047721ce2ff292abda7",
+      "is_merge": false
+    },
+    {
+      "sha": "1451134c09e31c20d39eb89283b5e3fd67cd73ab",
+      "author": "JaredHatfield",
+      "message": "fix: keep Maven badge configuration valid and preserve repository metadata",
+      "timestamp": "2026-11-22T15:07:24Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/1451134c09e31c20d39eb89283b5e3fd67cd73ab",
+      "is_merge": false
+    },
+    {
+      "sha": "a171a8e44ef74b96e0a28720fce00b6bda134f62",
+      "author": "JaredHatfield",
+      "message": "Add Maven Central badge configuration",
+      "timestamp": "2026-11-22T15:04:58Z",
+      "url": "https://github.com/UnitVectorY-Labs/jsonparamunit/commit/a171a8e44ef74b96e0a28720fce00b6bda134f62",
+      "is_merge": false
+    },
+    {
       "sha": "206fcb6615a8589834957a55299763ef0e59fa92",
       "author": "JaredHatfield",
       "message": "Merge pull request #266 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-6.3.0\n\nchore(deps): bump actions/setup-java from 6.2.0 to 6.3.0",

@@ -6,6 +6,22 @@
   "latest_release_time": "2026-11-19T01:15:23Z",
   "unreleased_commits": [
     {
+      "sha": "938080cdcf95eae14b7fe5f825d8083453b21603",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #155 from UnitVectorY-Labs/gitrepoforge/dependabot-nosemgrep-sync\n\nchore: add nosemgrep suppression to dependabot cooldown blocks",
+      "timestamp": "2026-11-22T10:54:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/938080cdcf95eae14b7fe5f825d8083453b21603",
+      "is_merge": true
+    },
+    {
+      "sha": "b69c5a86394b8e189f0671ee4113bf614798168b",
+      "author": "JaredHatfield",
+      "message": "chore: add nosemgrep suppression to dependabot cooldown blocks",
+      "timestamp": "2026-11-22T02:20:36Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/b69c5a86394b8e189f0671ee4113bf614798168b",
+      "is_merge": false
+    },
+    {
       "sha": "70710c4c1d6cf8d289530d812657050c5ce250f9",
       "author": "JaredHatfield",
       "message": "Update uvy-docs-theme to v0.2.0",

@@ -6,6 +6,38 @@
   "latest_release_time": "2026-07-02T10:52:46Z",
   "unreleased_commits": [
     {
+      "sha": "4a329878638cf5e9a2397e820cee4d3eb98bfeb6",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #186 from UnitVectorY-Labs/gitrepoforge/maven-central-badge\n\nOnboard consistgen to gitrepoforge",
+      "timestamp": "2026-11-22T16:43:14Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/4a329878638cf5e9a2397e820cee4d3eb98bfeb6",
+      "is_merge": true
+    },
+    {
+      "sha": "db632adf051d2d37552154e380303af1604fc047",
+      "author": "JaredHatfield",
+      "message": "chore: simplify generated ignores and remove unused overrides",
+      "timestamp": "2026-11-22T16:31:22Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/db632adf051d2d37552154e380303af1604fc047",
+      "is_merge": false
+    },
+    {
+      "sha": "348909da987ff2b725bb994baa49fd21e1b28a25",
+      "author": "JaredHatfield",
+      "message": "Onboard consistgen to gitrepoforge",
+      "timestamp": "2026-11-22T15:22:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/348909da987ff2b725bb994baa49fd21e1b28a25",
+      "is_merge": false
+    },
+    {
+      "sha": "3be47dbee4d627af5bc102375687e35eedd91283",
+      "author": "JaredHatfield",
+      "message": "Add Maven Central coordinates to consistgen config",
+      "timestamp": "2026-11-22T15:07:20Z",
+      "url": "https://github.com/UnitVectorY-Labs/consistgen/commit/3be47dbee4d627af5bc102375687e35eedd91283",
+      "is_merge": false
+    },
+    {
       "sha": "ecaabe03bc6addfeaa7bce0e14bfe37a946f228a",
       "author": "JaredHatfield",
       "message": "Merge pull request #185 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-java-6.3.0\n\nchore(deps): bump actions/setup-java from 6.2.0 to 6.3.0",
