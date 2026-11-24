@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T01:26:08Z",
   "unreleased_commits": [
     {
+      "sha": "3fa451b457f333dd13b4b509816b33bd501b5476",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #154 from UnitVectorY-Labs/fix/docs-footer-license\n\nConfigure documentation license and update theme to v0.4.0",
+      "timestamp": "2026-11-23T23:27:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/3fa451b457f333dd13b4b509816b33bd501b5476",
+      "is_merge": true
+    },
+    {
+      "sha": "01302e70d843990d2c4563c0a04f42d81b6065e8",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for ghook2pubsub",
+      "timestamp": "2026-11-23T23:22:35Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghook2pubsub/commit/01302e70d843990d2c4563c0a04f42d81b6065e8",
+      "is_merge": false
+    },
+    {
       "sha": "4ed90a62468daa9e290a65521cfd1e647006039a",
       "author": "JaredHatfield",
       "message": "Merge pull request #152 from UnitVectorY-Labs/gitrepoforge/dependabot-nosemgrep-sync\n\nchore: add nosemgrep suppression to dependabot cooldown blocks",

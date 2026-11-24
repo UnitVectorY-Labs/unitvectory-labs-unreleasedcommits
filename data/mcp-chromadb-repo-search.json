@@ -6,6 +6,22 @@
   "latest_release_time": "2026-10-22T00:35:59Z",
   "unreleased_commits": [
     {
+      "sha": "b473e57df9fd1e727c396e5d478cdc1af907512e",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #80 from UnitVectorY-Labs/fix/docs-footer-license\n\nConfigure documentation license and update theme to v0.4.0",
+      "timestamp": "2026-11-23T23:27:39Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-chromadb-repo-search/commit/b473e57df9fd1e727c396e5d478cdc1af907512e",
+      "is_merge": true
+    },
+    {
+      "sha": "cc4041d105844cdaab43cbecac9cb5054264aaf5",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for mcp-chromadb-repo-search",
+      "timestamp": "2026-11-23T23:24:07Z",
+      "url": "https://github.com/UnitVectorY-Labs/mcp-chromadb-repo-search/commit/cc4041d105844cdaab43cbecac9cb5054264aaf5",
+      "is_merge": false
+    },
+    {
       "sha": "a429bca84cd558dd175262c9f2fbe75de44e57f6",
       "author": "JaredHatfield",
       "message": "Merge pull request #78 from UnitVectorY-Labs/gitrepoforge/dependabot-nosemgrep-sync\n\nchore: add nosemgrep suppression to dependabot cooldown blocks",

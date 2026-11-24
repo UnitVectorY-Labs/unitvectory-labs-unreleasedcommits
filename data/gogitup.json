@@ -6,6 +6,22 @@
   "latest_release_time": "2026-11-19T22:40:32Z",
   "unreleased_commits": [
     {
+      "sha": "b6dd18ebd69562ac1ddc7229af6d7b5ba81ba88c",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #137 from UnitVectorY-Labs/fix/docs-footer-license\n\nConfigure documentation license and update theme to v0.4.0",
+      "timestamp": "2026-11-23T23:27:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/b6dd18ebd69562ac1ddc7229af6d7b5ba81ba88c",
+      "is_merge": true
+    },
+    {
+      "sha": "61bcfaac01277e69020b72c84863d13c51d52cf3",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for gogitup",
+      "timestamp": "2026-11-23T23:23:27Z",
+      "url": "https://github.com/UnitVectorY-Labs/gogitup/commit/61bcfaac01277e69020b72c84863d13c51d52cf3",
+      "is_merge": false
+    },
+    {
       "sha": "ec159fef3f6a73e514a39064fb64996abcc2e6d3",
       "author": "JaredHatfield",
       "message": "Merge pull request #135 from UnitVectorY-Labs/gitrepoforge/dependabot-nosemgrep-sync\n\nchore: add nosemgrep suppression to dependabot cooldown blocks",

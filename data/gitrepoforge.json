@@ -4,6 +4,23 @@
   "default_branch": "main",
   "latest_release_tag": "v0.4.0",
   "latest_release_time": "2026-11-22T15:09:22Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [
+    {
+      "sha": "df8b68b47d01debdd7fbd5ef4a60c741c4e8a0bb",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #133 from UnitVectorY-Labs/fix/docs-footer-license\n\nConfigure documentation license and update theme to v0.4.0",
+      "timestamp": "2026-11-23T23:27:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/gitrepoforge/commit/df8b68b47d01debdd7fbd5ef4a60c741c4e8a0bb",
+      "is_merge": true
+    },
+    {
+      "sha": "0580eb225de9b902c2cd0b99b6adf75e3891042c",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for gitrepoforge",
+      "timestamp": "2026-11-23T23:23:13Z",
+      "url": "https://github.com/UnitVectorY-Labs/gitrepoforge/commit/0580eb225de9b902c2cd0b99b6adf75e3891042c",
+      "is_merge": false
+    }
+  ],
   "repository_url": "https://github.com/UnitVectorY-Labs/gitrepoforge"
 }

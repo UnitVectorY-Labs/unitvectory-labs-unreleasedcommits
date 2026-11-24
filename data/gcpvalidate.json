@@ -6,6 +6,22 @@
   "latest_release_time": "2026-09-03T09:52:06Z",
   "unreleased_commits": [
     {
+      "sha": "7f5b7bacd07e651c4c77bf8bf1083ec1a1874568",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #126 from UnitVectorY-Labs/fix/docs-footer-license\n\nConfigure documentation license and update theme to v0.4.0",
+      "timestamp": "2026-11-23T23:27:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpvalidate/commit/7f5b7bacd07e651c4c77bf8bf1083ec1a1874568",
+      "is_merge": true
+    },
+    {
+      "sha": "ef7acdcb00625eb865bb2383bfc1b12c735c8c47",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for gcpvalidate",
+      "timestamp": "2026-11-23T23:22:18Z",
+      "url": "https://github.com/UnitVectorY-Labs/gcpvalidate/commit/ef7acdcb00625eb865bb2383bfc1b12c735c8c47",
+      "is_merge": false
+    },
+    {
       "sha": "7f4ed2a8e2f9e6434d593ece701043b4fb3739a4",
       "author": "JaredHatfield",
       "message": "Merge pull request #125 from UnitVectorY-Labs/gitrepoforge/uvy-docs-theme\n\nchore: migrate docs theme to uvy-docs-theme v0.2.0",

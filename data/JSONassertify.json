@@ -6,6 +6,22 @@
   "latest_release_time": "2026-11-20T00:27:50Z",
   "unreleased_commits": [
     {
+      "sha": "c1a070f64d969f974541e978e327f0d62259aca7",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #228 from UnitVectorY-Labs/fix/docs-footer-license\n\nConfigure documentation license and update theme to v0.4.0",
+      "timestamp": "2026-11-23T23:27:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/c1a070f64d969f974541e978e327f0d62259aca7",
+      "is_merge": true
+    },
+    {
+      "sha": "eeb8ac4d25fd701979c76061ba327a66fb22cefd",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for JSONassertify",
+      "timestamp": "2026-11-23T23:20:55Z",
+      "url": "https://github.com/UnitVectorY-Labs/JSONassertify/commit/eeb8ac4d25fd701979c76061ba327a66fb22cefd",
+      "is_merge": false
+    },
+    {
       "sha": "0cd40ed05cc923a4bedd42b4e2adf24fcbaeef89",
       "author": "JaredHatfield",
       "message": "Merge pull request #227 from UnitVectorY-Labs/gitrepoforge/uvy-docs-theme\n\nchore: migrate docs theme to uvy-docs-theme v0.2.0 and onboard to gitrepoforge",

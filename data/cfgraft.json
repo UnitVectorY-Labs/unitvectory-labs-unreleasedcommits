@@ -6,6 +6,22 @@
   "latest_release_time": "2026-11-18T11:55:29Z",
   "unreleased_commits": [
     {
+      "sha": "c1bc795460516ac676d912d716b09ee797b61d84",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #115 from UnitVectorY-Labs/fix/docs-footer-license\n\nConfigure documentation license and update theme to v0.4.0",
+      "timestamp": "2026-11-23T23:27:38Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/c1bc795460516ac676d912d716b09ee797b61d84",
+      "is_merge": true
+    },
+    {
+      "sha": "177acec6456bc82d2c3b8cd8d45225b4417b34d5",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for cfgraft",
+      "timestamp": "2026-11-23T23:22:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/cfgraft/commit/177acec6456bc82d2c3b8cd8d45225b4417b34d5",
+      "is_merge": false
+    },
+    {
       "sha": "0e4fc2f145e032f96c36be9b4dfd12b2bf2ea6f2",
       "author": "JaredHatfield",
       "message": "Merge pull request #114 from UnitVectorY-Labs/gitrepoforge/uvy-docs-theme\n\nchore: migrate docs theme to uvy-docs-theme v0.2.0",
