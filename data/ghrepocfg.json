@@ -6,6 +6,22 @@
   "latest_release_time": "2026-11-03T00:17:01Z",
   "unreleased_commits": [
     {
+      "sha": "db2e2c9a42d48f1fc1a3674ba54185416f991988",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #62 from UnitVectorY-Labs/gitrepoforge/codecov-removal\n\ngitrepoforge: apply desired state for ghrepocfg",
+      "timestamp": "2026-11-25T20:17:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/db2e2c9a42d48f1fc1a3674ba54185416f991988",
+      "is_merge": true
+    },
+    {
+      "sha": "92fb21bd98cafb692f97784d1bb3bc9256724d5a",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for ghrepocfg",
+      "timestamp": "2026-11-25T14:05:06Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/92fb21bd98cafb692f97784d1bb3bc9256724d5a",
+      "is_merge": false
+    },
+    {
       "sha": "442e60279282d4d32f7b8b47406650f095f01c7c",
       "author": "JaredHatfield",
       "message": "Merge pull request #61 from UnitVectorY-Labs/fix/docs-footer-license\n\nConfigure documentation license and update theme to v0.4.0",
@@ -80,7 +96,7 @@
     {
       "sha": "58bc0d75aa55b2ff45f65112fe7ec3c9f07d8d2a",
       "author": "dependabot[bot]",
-      "message": "Bump actions/setup-go from 7.0.0 to 7.1.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 7.0.0 to 7.1.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/b7ad1dad31e06c5925ef5d2fc7ad053ef454303e...d8cbb8045d7f43706b9177cceb36c1f91a6644d5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "Bump actions/setup-go from 7.0.0 to 7.1.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 7.0.0 to 7.1.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/b7ad1dad31e06c5925ef5d2fc7ad053ef454303e...d8cbb8045d7f43706b9177cceb36c1f91a6644d5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-11-21T11:04:23Z",
       "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/58bc0d75aa55b2ff45f65112fe7ec3c9f07d8d2a",
       "is_merge": false
@@ -88,7 +104,7 @@
     {
       "sha": "74c60763c8bfb127bc447c45b077df5d52086de6",
       "author": "dependabot[bot]",
-      "message": "Bump UnitVectorY-Labs/chromadb-repo-indexer from 1.2.1 to 1.2.3\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.1 to 1.2.3.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/8ee570e0b30e5252afadb146977b411b8acd3e34...9524dea066d587a9a0e314f0fa1140da85c3e9c0)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "Bump UnitVectorY-Labs/chromadb-repo-indexer from 1.2.1 to 1.2.3\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.1 to 1.2.3.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/8ee570e0b30e5252afadb146977b411b8acd3e34...9524dea066d587a9a0e314f0fa1140da85c3e9c0)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-11-21T11:04:20Z",
       "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/74c60763c8bfb127bc447c45b077df5d52086de6",
       "is_merge": false
@@ -96,7 +112,7 @@
     {
       "sha": "74369b20077269904332856c2baa73877476a9f6",
       "author": "dependabot[bot]",
-      "message": "Bump astral-sh/setup-uv from 10.3.3 to 10.4.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.3 to 10.4.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/68559e99cc807c1eb7e9238fd43a15bba460eec2...1db35dd8eee11c5894872e0b383ae6c406cf738d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "Bump astral-sh/setup-uv from 10.3.3 to 10.4.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.3 to 10.4.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/68559e99cc807c1eb7e9238fd43a15bba460eec2...1db35dd8eee11c5894872e0b383ae6c406cf738d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-11-21T11:04:02Z",
       "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/74369b20077269904332856c2baa73877476a9f6",
       "is_merge": false
@@ -160,7 +176,7 @@
     {
       "sha": "505fede8bd31aeb26000f9fdb5b67aceddae5c32",
       "author": "dependabot[bot]",
-      "message": "Bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml\n\nBumps [google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml](https://github.com/google/osv-scanner-action) from 2.7.0 to 2.7.1.\n- [Release notes](https://github.com/google/osv-scanner-action/releases)\n- [Commits](https://github.com/google/osv-scanner-action/compare/b1d267aea5211fa648d9d442fa64b90dbdcbdd36...32d3cd482bdadfb38b186c0ad1b031902d55d932)\n\n---\nupdated-dependencies:\n- dependency-name: google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml\n  dependency-version: 2.7.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "Bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml\n\nBumps [google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml](https://github.com/google/osv-scanner-action) from 2.7.0 to 2.7.1.\n- [Release notes](https://github.com/google/osv-scanner-action/releases)\n- [Commits](https://github.com/google/osv-scanner-action/compare/b1d267aea5211fa648d9d442fa64b90dbdcbdd36...32d3cd482bdadfb38b186c0ad1b031902d55d932)\n\n---\nupdated-dependencies:\n- dependency-name: google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml\n  dependency-version: 2.7.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-11-14T11:05:57Z",
       "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/505fede8bd31aeb26000f9fdb5b67aceddae5c32",
       "is_merge": false
@@ -168,7 +184,7 @@
     {
       "sha": "a7a1e8b2e000a7ca80c937f73f84f1537d51c96d",
       "author": "dependabot[bot]",
-      "message": "Bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml\n\nBumps [google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml](https://github.com/google/osv-scanner-action) from 2.7.0 to 2.7.1.\n- [Release notes](https://github.com/google/osv-scanner-action/releases)\n- [Commits](https://github.com/google/osv-scanner-action/compare/b1d267aea5211fa648d9d442fa64b90dbdcbdd36...32d3cd482bdadfb38b186c0ad1b031902d55d932)\n\n---\nupdated-dependencies:\n- dependency-name: google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml\n  dependency-version: 2.7.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "Bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml\n\nBumps [google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml](https://github.com/google/osv-scanner-action) from 2.7.0 to 2.7.1.\n- [Release notes](https://github.com/google/osv-scanner-action/releases)\n- [Commits](https://github.com/google/osv-scanner-action/compare/b1d267aea5211fa648d9d442fa64b90dbdcbdd36...32d3cd482bdadfb38b186c0ad1b031902d55d932)\n\n---\nupdated-dependencies:\n- dependency-name: google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml\n  dependency-version: 2.7.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-11-14T11:05:50Z",
       "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/a7a1e8b2e000a7ca80c937f73f84f1537d51c96d",
       "is_merge": false
@@ -208,7 +224,7 @@
     {
       "sha": "9a62d6b7f04bc72dee007191990ee7a4db655948",
       "author": "dependabot[bot]",
-      "message": "Bump the codeql group with 3 updates\n\nBumps the codeql group with 3 updates: [github/codeql-action/init](https://github.com/github/codeql-action), [github/codeql-action/analyze](https://github.com/github/codeql-action) and [github/codeql-action/upload-sarif](https://github.com/github/codeql-action).\n\n\nUpdates `github/codeql-action/init` from 4.39.1 to 4.39.3\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/9b3254085494b55a0f7c4c2b3d2d52cc712ce370...33d7b85da1a04171e211befe2c739303b9a4c066)\n\nUpdates `github/codeql-action/analyze` from 4.39.1 to 4.39.3\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/9b3254085494b55a0f7c4c2b3d2d52cc712ce370...33d7b85da1a04171e211befe2c739303b9a4c066)\n\nUpdates `github/codeql-action/upload-sarif` from 4.39.1 to 4.39.3\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/9b3254085494b55a0f7c4c2b3d2d52cc712ce370...33d7b85da1a04171e211befe2c739303b9a4c066)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/init\n  dependency-version: 4.39.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n- dependency-name: github/codeql-action/analyze\n  dependency-version: 4.39.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.39.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "Bump the codeql group with 3 updates\n\nBumps the codeql group with 3 updates: [github/codeql-action/init](https://github.com/github/codeql-action), [github/codeql-action/analyze](https://github.com/github/codeql-action) and [github/codeql-action/upload-sarif](https://github.com/github/codeql-action).\n\n\nUpdates `github/codeql-action/init` from 4.39.1 to 4.39.3\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/9b3254085494b55a0f7c4c2b3d2d52cc712ce370...33d7b85da1a04171e211befe2c739303b9a4c066)\n\nUpdates `github/codeql-action/analyze` from 4.39.1 to 4.39.3\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/9b3254085494b55a0f7c4c2b3d2d52cc712ce370...33d7b85da1a04171e211befe2c739303b9a4c066)\n\nUpdates `github/codeql-action/upload-sarif` from 4.39.1 to 4.39.3\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/9b3254085494b55a0f7c4c2b3d2d52cc712ce370...33d7b85da1a04171e211befe2c739303b9a4c066)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/init\n  dependency-version: 4.39.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n- dependency-name: github/codeql-action/analyze\n  dependency-version: 4.39.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.39.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-11-07T11:07:42Z",
       "url": "https://github.com/UnitVectorY-Labs/ghrepocfg/commit/9a62d6b7f04bc72dee007191990ee7a4db655948",
       "is_merge": false

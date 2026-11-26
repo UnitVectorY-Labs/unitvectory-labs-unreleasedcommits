@@ -4,6 +4,6 @@
   "default_branch": "main",
   "latest_release_tag": "v0.4.0",
   "latest_release_time": "2026-11-23T23:19:46Z",
-  "unreleased_commits": null,
+  "unreleased_commits": [],
   "repository_url": "https://github.com/UnitVectorY-Labs/uvy-docs-theme"
 }

@@ -6,6 +6,22 @@
   "latest_release_time": "2026-11-19T01:15:23Z",
   "unreleased_commits": [
     {
+      "sha": "3379bce598d197c6fdfd0f0126f89af9b48c1b5a",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #157 from UnitVectorY-Labs/gitrepoforge/codecov-removal\n\ngitrepoforge: apply desired state for ghorgsync",
+      "timestamp": "2026-11-25T20:17:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/3379bce598d197c6fdfd0f0126f89af9b48c1b5a",
+      "is_merge": true
+    },
+    {
+      "sha": "5b1b0ea05c95874e2118dd9ab2122e88ce596afd",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for ghorgsync",
+      "timestamp": "2026-11-25T14:04:57Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/5b1b0ea05c95874e2118dd9ab2122e88ce596afd",
+      "is_merge": false
+    },
+    {
       "sha": "b7af15f9b7c39a281ca0c83cdfb9c76f6334c912",
       "author": "JaredHatfield",
       "message": "Merge pull request #156 from UnitVectorY-Labs/fix/docs-footer-license\n\nConfigure documentation license and update theme to v0.4.0",
@@ -80,7 +96,7 @@
     {
       "sha": "993e7e5faf3c54cf4f476cd143d29f737c520233",
       "author": "dependabot[bot]",
-      "message": "build(deps): bump actions/setup-go from 7.0.0 to 7.1.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 7.0.0 to 7.1.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/b7ad1dad31e06c5925ef5d2fc7ad053ef454303e...d8cbb8045d7f43706b9177cceb36c1f91a6644d5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "build(deps): bump actions/setup-go from 7.0.0 to 7.1.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 7.0.0 to 7.1.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/b7ad1dad31e06c5925ef5d2fc7ad053ef454303e...d8cbb8045d7f43706b9177cceb36c1f91a6644d5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-11-21T11:07:43Z",
       "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/993e7e5faf3c54cf4f476cd143d29f737c520233",
       "is_merge": false
@@ -88,7 +104,7 @@
     {
       "sha": "88d3ba1abe36019a5fe6a433249b69d971bfd64c",
       "author": "dependabot[bot]",
-      "message": "build(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.3 to 10.4.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/68559e99cc807c1eb7e9238fd43a15bba460eec2...1db35dd8eee11c5894872e0b383ae6c406cf738d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "build(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.3 to 10.4.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/68559e99cc807c1eb7e9238fd43a15bba460eec2...1db35dd8eee11c5894872e0b383ae6c406cf738d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-11-21T11:06:33Z",
       "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/88d3ba1abe36019a5fe6a433249b69d971bfd64c",
       "is_merge": false
@@ -96,7 +112,7 @@
     {
       "sha": "15fe244fcbcbe4272f036fe0b17c5572ff1731c4",
       "author": "dependabot[bot]",
-      "message": "build(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.1 to 1.2.3.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/8ee570e0b30e5252afadb146977b411b8acd3e34...9524dea066d587a9a0e314f0fa1140da85c3e9c0)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "build(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.1 to 1.2.3.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/8ee570e0b30e5252afadb146977b411b8acd3e34...9524dea066d587a9a0e314f0fa1140da85c3e9c0)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-11-21T11:06:26Z",
       "url": "https://github.com/UnitVectorY-Labs/ghorgsync/commit/15fe244fcbcbe4272f036fe0b17c5572ff1731c4",
       "is_merge": false

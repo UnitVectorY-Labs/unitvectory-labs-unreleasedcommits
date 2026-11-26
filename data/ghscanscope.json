@@ -6,6 +6,30 @@
   "latest_release_time": "2026-11-15T01:20:20Z",
   "unreleased_commits": [
     {
+      "sha": "4da18c82a7e82136d042a3b660784acae5299c46",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #98 from UnitVectorY-Labs/dependabot/go_modules/github.com/jackc/pgx/v5-5.13.0\n\nbuild(deps): bump github.com/jackc/pgx/v5 from 5.12.0 to 5.13.0",
+      "timestamp": "2026-11-26T00:49:30Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghscanscope/commit/4da18c82a7e82136d042a3b660784acae5299c46",
+      "is_merge": true
+    },
+    {
+      "sha": "abb0c5f2bf6b1530ed0ccd4704658292199e6dda",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #105 from UnitVectorY-Labs/gitrepoforge/codecov-removal\n\ngitrepoforge: apply desired state for ghscanscope",
+      "timestamp": "2026-11-25T20:17:42Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghscanscope/commit/abb0c5f2bf6b1530ed0ccd4704658292199e6dda",
+      "is_merge": true
+    },
+    {
+      "sha": "1079458d9afdcc5bcf78ea87e676499ba608de6b",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for ghscanscope",
+      "timestamp": "2026-11-25T14:05:10Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghscanscope/commit/1079458d9afdcc5bcf78ea87e676499ba608de6b",
+      "is_merge": false
+    },
+    {
       "sha": "3f41d23852d38aaa89a34825cf1746569e3bc58d",
       "author": "JaredHatfield",
       "message": "Merge pull request #104 from UnitVectorY-Labs/fix/docs-footer-license\n\nConfigure documentation license and update theme to v0.4.0",
@@ -80,7 +104,7 @@
     {
       "sha": "fe4e5f52f05a3c4c8466c9db5103a0b9d9c0326d",
       "author": "dependabot[bot]",
-      "message": "build(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.1 to 1.2.3.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/8ee570e0b30e5252afadb146977b411b8acd3e34...9524dea066d587a9a0e314f0fa1140da85c3e9c0)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "build(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.1 to 1.2.3.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/8ee570e0b30e5252afadb146977b411b8acd3e34...9524dea066d587a9a0e314f0fa1140da85c3e9c0)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-11-21T11:05:44Z",
       "url": "https://github.com/UnitVectorY-Labs/ghscanscope/commit/fe4e5f52f05a3c4c8466c9db5103a0b9d9c0326d",
       "is_merge": false
@@ -88,7 +112,7 @@
     {
       "sha": "d5b4d0a970ca1a81f5bc20f789b7e86fc3024806",
       "author": "dependabot[bot]",
-      "message": "build(deps): bump actions/setup-go from 7.0.0 to 7.1.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 7.0.0 to 7.1.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/b7ad1dad31e06c5925ef5d2fc7ad053ef454303e...d8cbb8045d7f43706b9177cceb36c1f91a6644d5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "build(deps): bump actions/setup-go from 7.0.0 to 7.1.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 7.0.0 to 7.1.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/b7ad1dad31e06c5925ef5d2fc7ad053ef454303e...d8cbb8045d7f43706b9177cceb36c1f91a6644d5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-11-21T11:05:40Z",
       "url": "https://github.com/UnitVectorY-Labs/ghscanscope/commit/d5b4d0a970ca1a81f5bc20f789b7e86fc3024806",
       "is_merge": false
@@ -96,9 +120,17 @@
     {
       "sha": "d2c6b807d855d854d73e8912a9d440927ebcd444",
       "author": "dependabot[bot]",
-      "message": "build(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.3 to 10.4.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/68559e99cc807c1eb7e9238fd43a15bba460eec2...1db35dd8eee11c5894872e0b383ae6c406cf738d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "build(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.3 to 10.4.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/68559e99cc807c1eb7e9238fd43a15bba460eec2...1db35dd8eee11c5894872e0b383ae6c406cf738d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-11-21T11:05:34Z",
       "url": "https://github.com/UnitVectorY-Labs/ghscanscope/commit/d2c6b807d855d854d73e8912a9d440927ebcd444",
+      "is_merge": false
+    },
+    {
+      "sha": "70ab280d039b50dc215b3b284b2423e324684a55",
+      "author": "dependabot[bot]",
+      "message": "build(deps): bump github.com/jackc/pgx/v5 from 5.12.0 to 5.13.0\n\nBumps [github.com/jackc/pgx/v5](https://github.com/jackc/pgx) from 5.12.0 to 5.13.0.\n- [Release notes](https://github.com/jackc/pgx/releases)\n- [Changelog](https://github.com/jackc/pgx/blob/master/CHANGELOG.md)\n- [Commits](https://github.com/jackc/pgx/compare/v5.12.0...v5.13.0)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/jackc/pgx/v5\n  dependency-version: 5.13.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
+      "timestamp": "2026-11-21T11:05:32Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghscanscope/commit/70ab280d039b50dc215b3b284b2423e324684a55",
       "is_merge": false
     },
     {

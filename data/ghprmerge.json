@@ -6,6 +6,22 @@
   "latest_release_time": "2026-11-12T01:09:33Z",
   "unreleased_commits": [
     {
+      "sha": "347d7280d7968e09ce82c3672259e083ee756020",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #174 from UnitVectorY-Labs/gitrepoforge/codecov-removal\n\ngitrepoforge: apply desired state for ghprmerge",
+      "timestamp": "2026-11-25T20:17:41Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/347d7280d7968e09ce82c3672259e083ee756020",
+      "is_merge": true
+    },
+    {
+      "sha": "8518de4b892c3152ad85c40b2a2c7452a04e0c00",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for ghprmerge",
+      "timestamp": "2026-11-25T14:05:01Z",
+      "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/8518de4b892c3152ad85c40b2a2c7452a04e0c00",
+      "is_merge": false
+    },
+    {
       "sha": "caec8d403be6c4a47529be962057e86024c6b242",
       "author": "JaredHatfield",
       "message": "Merge pull request #173 from UnitVectorY-Labs/fix/docs-footer-license\n\nConfigure documentation license and update theme to v0.4.0",
@@ -64,7 +80,7 @@
     {
       "sha": "62138c4659c6ab15ea87c9649bcc0dcdfe61afad",
       "author": "dependabot[bot]",
-      "message": "chore(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.3 to 10.4.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/68559e99cc807c1eb7e9238fd43a15bba460eec2...1db35dd8eee11c5894872e0b383ae6c406cf738d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.3 to 10.4.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/68559e99cc807c1eb7e9238fd43a15bba460eec2...1db35dd8eee11c5894872e0b383ae6c406cf738d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-11-21T11:04:02Z",
       "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/62138c4659c6ab15ea87c9649bcc0dcdfe61afad",
       "is_merge": false
@@ -72,7 +88,7 @@
     {
       "sha": "cc971f89bed9d688f14b3e8370cce3d90761b5bb",
       "author": "dependabot[bot]",
-      "message": "chore(deps): bump actions/setup-go from 7.0.0 to 7.1.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 7.0.0 to 7.1.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/b7ad1dad31e06c5925ef5d2fc7ad053ef454303e...d8cbb8045d7f43706b9177cceb36c1f91a6644d5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "chore(deps): bump actions/setup-go from 7.0.0 to 7.1.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 7.0.0 to 7.1.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/b7ad1dad31e06c5925ef5d2fc7ad053ef454303e...d8cbb8045d7f43706b9177cceb36c1f91a6644d5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-11-21T11:03:59Z",
       "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/cc971f89bed9d688f14b3e8370cce3d90761b5bb",
       "is_merge": false
@@ -80,7 +96,7 @@
     {
       "sha": "80331d1cd3a929c3c2cb5ca5e5ce05a8d5c85436",
       "author": "dependabot[bot]",
-      "message": "chore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.1 to 1.2.3.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/8ee570e0b30e5252afadb146977b411b8acd3e34...9524dea066d587a9a0e314f0fa1140da85c3e9c0)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "chore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.1 to 1.2.3.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/8ee570e0b30e5252afadb146977b411b8acd3e34...9524dea066d587a9a0e314f0fa1140da85c3e9c0)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-11-21T11:03:51Z",
       "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/80331d1cd3a929c3c2cb5ca5e5ce05a8d5c85436",
       "is_merge": false
@@ -136,7 +152,7 @@
     {
       "sha": "c376934e6a33f03d68aaac3d1c1b42c03202f41e",
       "author": "dependabot[bot]",
-      "message": "chore(deps): bump golang.org/x/term from 0.47.0 to 0.48.0\n\nBumps [golang.org/x/term](https://github.com/golang/term) from 0.47.0 to 0.48.0.\n- [Commits](https://github.com/golang/term/compare/v0.47.0...v0.48.0)\n\n---\nupdated-dependencies:\n- dependency-name: golang.org/x/term\n  dependency-version: 0.48.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "chore(deps): bump golang.org/x/term from 0.47.0 to 0.48.0\n\nBumps [golang.org/x/term](https://github.com/golang/term) from 0.47.0 to 0.48.0.\n- [Commits](https://github.com/golang/term/compare/v0.47.0...v0.48.0)\n\n---\nupdated-dependencies:\n- dependency-name: golang.org/x/term\n  dependency-version: 0.48.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-11-14T14:19:45Z",
       "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/c376934e6a33f03d68aaac3d1c1b42c03202f41e",
       "is_merge": false
@@ -168,7 +184,7 @@
     {
       "sha": "3bff7fa41a62d5283e4253e0dd9dcf23c4573319",
       "author": "dependabot[bot]",
-      "message": "chore(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml\n\nBumps [google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml](https://github.com/google/osv-scanner-action) from 2.7.0 to 2.7.1.\n- [Release notes](https://github.com/google/osv-scanner-action/releases)\n- [Commits](https://github.com/google/osv-scanner-action/compare/b1d267aea5211fa648d9d442fa64b90dbdcbdd36...32d3cd482bdadfb38b186c0ad1b031902d55d932)\n\n---\nupdated-dependencies:\n- dependency-name: google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml\n  dependency-version: 2.7.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "chore(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml\n\nBumps [google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml](https://github.com/google/osv-scanner-action) from 2.7.0 to 2.7.1.\n- [Release notes](https://github.com/google/osv-scanner-action/releases)\n- [Commits](https://github.com/google/osv-scanner-action/compare/b1d267aea5211fa648d9d442fa64b90dbdcbdd36...32d3cd482bdadfb38b186c0ad1b031902d55d932)\n\n---\nupdated-dependencies:\n- dependency-name: google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml\n  dependency-version: 2.7.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-11-14T11:06:09Z",
       "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/3bff7fa41a62d5283e4253e0dd9dcf23c4573319",
       "is_merge": false
@@ -176,7 +192,7 @@
     {
       "sha": "62f4214e89221096dd58540467e9363deef40ebd",
       "author": "dependabot[bot]",
-      "message": "chore(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml\n\nBumps [google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml](https://github.com/google/osv-scanner-action) from 2.7.0 to 2.7.1.\n- [Release notes](https://github.com/google/osv-scanner-action/releases)\n- [Commits](https://github.com/google/osv-scanner-action/compare/b1d267aea5211fa648d9d442fa64b90dbdcbdd36...32d3cd482bdadfb38b186c0ad1b031902d55d932)\n\n---\nupdated-dependencies:\n- dependency-name: google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml\n  dependency-version: 2.7.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "chore(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml\n\nBumps [google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml](https://github.com/google/osv-scanner-action) from 2.7.0 to 2.7.1.\n- [Release notes](https://github.com/google/osv-scanner-action/releases)\n- [Commits](https://github.com/google/osv-scanner-action/compare/b1d267aea5211fa648d9d442fa64b90dbdcbdd36...32d3cd482bdadfb38b186c0ad1b031902d55d932)\n\n---\nupdated-dependencies:\n- dependency-name: google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml\n  dependency-version: 2.7.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-11-14T11:04:21Z",
       "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/62f4214e89221096dd58540467e9363deef40ebd",
       "is_merge": false
@@ -184,7 +200,7 @@
     {
       "sha": "523b4921dcc5d038dbef61dc21809ac7cfa5a4b1",
       "author": "dependabot[bot]",
-      "message": "chore(deps): bump golang.org/x/oauth2 from 0.37.0 to 0.38.0\n\nBumps [golang.org/x/oauth2](https://github.com/golang/oauth2) from 0.37.0 to 0.38.0.\n- [Commits](https://github.com/golang/oauth2/compare/v0.37.0...v0.38.0)\n\n---\nupdated-dependencies:\n- dependency-name: golang.org/x/oauth2\n  dependency-version: 0.38.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "chore(deps): bump golang.org/x/oauth2 from 0.37.0 to 0.38.0\n\nBumps [golang.org/x/oauth2](https://github.com/golang/oauth2) from 0.37.0 to 0.38.0.\n- [Commits](https://github.com/golang/oauth2/compare/v0.37.0...v0.38.0)\n\n---\nupdated-dependencies:\n- dependency-name: golang.org/x/oauth2\n  dependency-version: 0.38.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-11-14T11:04:14Z",
       "url": "https://github.com/UnitVectorY-Labs/ghprmerge/commit/523b4921dcc5d038dbef61dc21809ac7cfa5a4b1",
       "is_merge": false

@@ -6,6 +6,46 @@
   "latest_release_time": "2026-10-22T01:05:34Z",
   "unreleased_commits": [
     {
+      "sha": "87606010a91e10b3daea10c76e166c59bfad2085",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #287 from UnitVectorY-Labs/dependabot/github_actions/unitvectory-labs/kuberollouttrigger-action-0.4.1\n\nchore(deps): bump unitvectory-labs/kuberollouttrigger-action from 0.4.0 to 0.4.1",
+      "timestamp": "2026-11-26T00:49:29Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/87606010a91e10b3daea10c76e166c59bfad2085",
+      "is_merge": true
+    },
+    {
+      "sha": "a27f3e1742299e4194583ba682ecd5a6934260b8",
+      "author": "dependabot[bot]",
+      "message": "chore(deps): bump unitvectory-labs/kuberollouttrigger-action\n\nBumps [unitvectory-labs/kuberollouttrigger-action](https://github.com/unitvectory-labs/kuberollouttrigger-action) from 0.4.0 to 0.4.1.\n- [Release notes](https://github.com/unitvectory-labs/kuberollouttrigger-action/releases)\n- [Commits](https://github.com/unitvectory-labs/kuberollouttrigger-action/compare/6314962103390064260592923858f28be95271a5...3a4ddefe0b99b926e28a9b7c38032388979648fb)\n\n---\nupdated-dependencies:\n- dependency-name: unitvectory-labs/kuberollouttrigger-action\n  dependency-version: 0.4.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
+      "timestamp": "2026-11-25T20:23:15Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/a27f3e1742299e4194583ba682ecd5a6934260b8",
+      "is_merge": false
+    },
+    {
+      "sha": "ed714537f8821c4d6ae6623f835b2b97528c3303",
+      "author": "JaredHatfield",
+      "message": "Merge pull request #291 from UnitVectorY-Labs/gitrepoforge/codecov-removal\n\ngitrepoforge: apply desired state for firestore-batch-incrementer",
+      "timestamp": "2026-11-25T20:17:37Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/ed714537f8821c4d6ae6623f835b2b97528c3303",
+      "is_merge": true
+    },
+    {
+      "sha": "fdbdfad487649afc970348c5fa95bd728d61fcc1",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for firestore-batch-incrementer",
+      "timestamp": "2026-11-25T14:00:16Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/fdbdfad487649afc970348c5fa95bd728d61fcc1",
+      "is_merge": false
+    },
+    {
+      "sha": "247266af6ae34948659d945aa71bd97dbc159a56",
+      "author": "JaredHatfield",
+      "message": "gitrepoforge: apply desired state for firestore-batch-incrementer",
+      "timestamp": "2026-11-25T13:46:34Z",
+      "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/247266af6ae34948659d945aa71bd97dbc159a56",
+      "is_merge": false
+    },
+    {
       "sha": "42925e8b06524e2c90671b30851de491af7589ba",
       "author": "JaredHatfield",
       "message": "Merge pull request #289 from UnitVectorY-Labs/dependabot/github_actions/actions/setup-go-7.1.0\n\nchore(deps): bump actions/setup-go from 7.0.0 to 7.1.0",
@@ -24,7 +64,7 @@
     {
       "sha": "503cd2ab52763aa940b3e7c14eeec04946507932",
       "author": "dependabot[bot]",
-      "message": "chore(deps): bump actions/setup-go from 7.0.0 to 7.1.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 7.0.0 to 7.1.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/b7ad1dad31e06c5925ef5d2fc7ad053ef454303e...d8cbb8045d7f43706b9177cceb36c1f91a6644d5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "chore(deps): bump actions/setup-go from 7.0.0 to 7.1.0\n\nBumps [actions/setup-go](https://github.com/actions/setup-go) from 7.0.0 to 7.1.0.\n- [Release notes](https://github.com/actions/setup-go/releases)\n- [Commits](https://github.com/actions/setup-go/compare/b7ad1dad31e06c5925ef5d2fc7ad053ef454303e...d8cbb8045d7f43706b9177cceb36c1f91a6644d5)\n\n---\nupdated-dependencies:\n- dependency-name: actions/setup-go\n  dependency-version: 7.1.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-11-21T15:23:39Z",
       "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/503cd2ab52763aa940b3e7c14eeec04946507932",
       "is_merge": false
@@ -32,7 +72,7 @@
     {
       "sha": "8295110cd736c907116b596f8f2b7ebc3900ba79",
       "author": "dependabot[bot]",
-      "message": "chore(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.3 to 10.4.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/68559e99cc807c1eb7e9238fd43a15bba460eec2...1db35dd8eee11c5894872e0b383ae6c406cf738d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.3.3 to 10.4.0\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.3 to 10.4.0.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/68559e99cc807c1eb7e9238fd43a15bba460eec2...1db35dd8eee11c5894872e0b383ae6c406cf738d)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.4.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-11-21T15:23:25Z",
       "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/8295110cd736c907116b596f8f2b7ebc3900ba79",
       "is_merge": false
@@ -48,7 +88,7 @@
     {
       "sha": "f7cb7dda59ce14e08303b9985225eed756da95a5",
       "author": "dependabot[bot]",
-      "message": "chore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.1 to 1.2.3.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/8ee570e0b30e5252afadb146977b411b8acd3e34...9524dea066d587a9a0e314f0fa1140da85c3e9c0)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "chore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.1 to 1.2.3.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/8ee570e0b30e5252afadb146977b411b8acd3e34...9524dea066d587a9a0e314f0fa1140da85c3e9c0)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-11-21T11:14:46Z",
       "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/f7cb7dda59ce14e08303b9985225eed756da95a5",
       "is_merge": false
@@ -120,7 +160,7 @@
     {
       "sha": "da45700ea7a9021efeaef67ade03a0912c382aae",
       "author": "dependabot[bot]",
-      "message": "chore(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml\n\nBumps [google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml](https://github.com/google/osv-scanner-action) from 2.7.0 to 2.7.1.\n- [Release notes](https://github.com/google/osv-scanner-action/releases)\n- [Commits](https://github.com/google/osv-scanner-action/compare/b1d267aea5211fa648d9d442fa64b90dbdcbdd36...32d3cd482bdadfb38b186c0ad1b031902d55d932)\n\n---\nupdated-dependencies:\n- dependency-name: google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml\n  dependency-version: 2.7.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "chore(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml\n\nBumps [google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml](https://github.com/google/osv-scanner-action) from 2.7.0 to 2.7.1.\n- [Release notes](https://github.com/google/osv-scanner-action/releases)\n- [Commits](https://github.com/google/osv-scanner-action/compare/b1d267aea5211fa648d9d442fa64b90dbdcbdd36...32d3cd482bdadfb38b186c0ad1b031902d55d932)\n\n---\nupdated-dependencies:\n- dependency-name: google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml\n  dependency-version: 2.7.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-11-14T11:09:45Z",
       "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/da45700ea7a9021efeaef67ade03a0912c382aae",
       "is_merge": false
@@ -128,7 +168,7 @@
     {
       "sha": "e3e40eb03ee45edccb67af01f0bbf0627bdec702",
       "author": "dependabot[bot]",
-      "message": "chore(deps): bump google.golang.org/api from 0.309.0 to 0.312.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.309.0 to 0.312.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.309.0...v0.312.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.312.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "chore(deps): bump google.golang.org/api from 0.309.0 to 0.312.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.309.0 to 0.312.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.309.0...v0.312.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.312.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-11-14T11:06:08Z",
       "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/e3e40eb03ee45edccb67af01f0bbf0627bdec702",
       "is_merge": false
@@ -136,7 +176,7 @@
     {
       "sha": "c29529c6653746f0537409953b2aa0fb7cbc185c",
       "author": "dependabot[bot]",
-      "message": "chore(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml\n\nBumps [google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml](https://github.com/google/osv-scanner-action) from 2.7.0 to 2.7.1.\n- [Release notes](https://github.com/google/osv-scanner-action/releases)\n- [Commits](https://github.com/google/osv-scanner-action/compare/b1d267aea5211fa648d9d442fa64b90dbdcbdd36...32d3cd482bdadfb38b186c0ad1b031902d55d932)\n\n---\nupdated-dependencies:\n- dependency-name: google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml\n  dependency-version: 2.7.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "chore(deps): bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml\n\nBumps [google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml](https://github.com/google/osv-scanner-action) from 2.7.0 to 2.7.1.\n- [Release notes](https://github.com/google/osv-scanner-action/releases)\n- [Commits](https://github.com/google/osv-scanner-action/compare/b1d267aea5211fa648d9d442fa64b90dbdcbdd36...32d3cd482bdadfb38b186c0ad1b031902d55d932)\n\n---\nupdated-dependencies:\n- dependency-name: google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml\n  dependency-version: 2.7.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-11-14T11:04:31Z",
       "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/c29529c6653746f0537409953b2aa0fb7cbc185c",
       "is_merge": false
@@ -144,7 +184,7 @@
     {
       "sha": "f718d7275294b4a523aee539321f0a49e250da4a",
       "author": "dependabot[bot]",
-      "message": "chore(deps): bump docker/login-action from 4.7.0 to 4.8.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.7.0 to 4.8.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/81c6f93d4bc991e510b342a00b419b3bb4efc5c6...8aa5831fb8d48d8f76594c7ddde61ae58019f550)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.8.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "chore(deps): bump docker/login-action from 4.7.0 to 4.8.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.7.0 to 4.8.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/81c6f93d4bc991e510b342a00b419b3bb4efc5c6...8aa5831fb8d48d8f76594c7ddde61ae58019f550)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.8.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-11-14T11:04:13Z",
       "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/f718d7275294b4a523aee539321f0a49e250da4a",
       "is_merge": false
@@ -176,7 +216,7 @@
     {
       "sha": "c0e1a9810314b89b03c5a109829cde11c3b73aed",
       "author": "dependabot[bot]",
-      "message": "chore(deps): bump the codeql group with 3 updates\n\nBumps the codeql group with 3 updates: [github/codeql-action/init](https://github.com/github/codeql-action), [github/codeql-action/analyze](https://github.com/github/codeql-action) and [github/codeql-action/upload-sarif](https://github.com/github/codeql-action).\n\n\nUpdates `github/codeql-action/init` from 4.39.1 to 4.39.3\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/9b3254085494b55a0f7c4c2b3d2d52cc712ce370...33d7b85da1a04171e211befe2c739303b9a4c066)\n\nUpdates `github/codeql-action/analyze` from 4.39.1 to 4.39.3\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/9b3254085494b55a0f7c4c2b3d2d52cc712ce370...33d7b85da1a04171e211befe2c739303b9a4c066)\n\nUpdates `github/codeql-action/upload-sarif` from 4.39.1 to 4.39.3\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/9b3254085494b55a0f7c4c2b3d2d52cc712ce370...33d7b85da1a04171e211befe2c739303b9a4c066)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/init\n  dependency-version: 4.39.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n- dependency-name: github/codeql-action/analyze\n  dependency-version: 4.39.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.39.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "chore(deps): bump the codeql group with 3 updates\n\nBumps the codeql group with 3 updates: [github/codeql-action/init](https://github.com/github/codeql-action), [github/codeql-action/analyze](https://github.com/github/codeql-action) and [github/codeql-action/upload-sarif](https://github.com/github/codeql-action).\n\n\nUpdates `github/codeql-action/init` from 4.39.1 to 4.39.3\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/9b3254085494b55a0f7c4c2b3d2d52cc712ce370...33d7b85da1a04171e211befe2c739303b9a4c066)\n\nUpdates `github/codeql-action/analyze` from 4.39.1 to 4.39.3\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/9b3254085494b55a0f7c4c2b3d2d52cc712ce370...33d7b85da1a04171e211befe2c739303b9a4c066)\n\nUpdates `github/codeql-action/upload-sarif` from 4.39.1 to 4.39.3\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/9b3254085494b55a0f7c4c2b3d2d52cc712ce370...33d7b85da1a04171e211befe2c739303b9a4c066)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/init\n  dependency-version: 4.39.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n- dependency-name: github/codeql-action/analyze\n  dependency-version: 4.39.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.39.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: codeql\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-11-07T11:04:25Z",
       "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/c0e1a9810314b89b03c5a109829cde11c3b73aed",
       "is_merge": false
@@ -216,7 +256,7 @@
     {
       "sha": "830953a2311a432e3b865d48219b643c2e39cd48",
       "author": "dependabot[bot]",
-      "message": "chore(deps): bump cloud.google.com/go/firestore from 1.26.0 to 1.29.1\n\nBumps [cloud.google.com/go/firestore](https://github.com/googleapis/google-cloud-go) from 1.26.0 to 1.29.1.\n- [Release notes](https://github.com/googleapis/google-cloud-go/releases)\n- [Changelog](https://github.com/googleapis/google-cloud-go/blob/main/documentai/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-cloud-go/compare/kms/v1.26.0...channel/v1.29.1)\n\n---\nupdated-dependencies:\n- dependency-name: cloud.google.com/go/firestore\n  dependency-version: 1.29.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "chore(deps): bump cloud.google.com/go/firestore from 1.26.0 to 1.29.1\n\nBumps [cloud.google.com/go/firestore](https://github.com/googleapis/google-cloud-go) from 1.26.0 to 1.29.1.\n- [Release notes](https://github.com/googleapis/google-cloud-go/releases)\n- [Changelog](https://github.com/googleapis/google-cloud-go/blob/main/documentai/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-cloud-go/compare/kms/v1.26.0...channel/v1.29.1)\n\n---\nupdated-dependencies:\n- dependency-name: cloud.google.com/go/firestore\n  dependency-version: 1.29.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-10-31T20:52:44Z",
       "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/830953a2311a432e3b865d48219b643c2e39cd48",
       "is_merge": false
@@ -232,7 +272,7 @@
     {
       "sha": "70fa99b9200a0858f0de91f4284af2b06280d327",
       "author": "JaredHatfield",
-      "message": "chore(deps): bump golang.org/x/net to v0.62.0\n\ngolang.org/x/net@v0.62.0 fixes GO-2026-6860 (CVE-2026-78661) and GO-2026-6866 (CVE-2026-97045), reported against go.mod.\n\nVerified with: go get golang.org/x/net@v0.62.0 \u0026\u0026 go mod tidy \u0026\u0026 go build ./...",
+      "message": "chore(deps): bump golang.org/x/net to v0.62.0\n\ngolang.org/x/net@v0.62.0 fixes GO-2026-6860 (CVE-2026-78661) and GO-2026-6866 (CVE-2026-97045), reported against go.mod.\n\nVerified with: go get golang.org/x/net@v0.62.0 && go mod tidy && go build ./...",
       "timestamp": "2026-10-31T20:18:02Z",
       "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/70fa99b9200a0858f0de91f4284af2b06280d327",
       "is_merge": false
@@ -264,7 +304,7 @@
     {
       "sha": "7ca5390e3ac6eb01eea9c34831387aa0b49cdcd4",
       "author": "dependabot[bot]",
-      "message": "chore(deps): bump google.golang.org/grpc from 1.84.0 to 1.85.0\n\nBumps [google.golang.org/grpc](https://github.com/grpc/grpc-go) from 1.84.0 to 1.85.0.\n- [Release notes](https://github.com/grpc/grpc-go/releases)\n- [Commits](https://github.com/grpc/grpc-go/compare/v1.84.0...v1.85.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/grpc\n  dependency-version: 1.85.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "chore(deps): bump google.golang.org/grpc from 1.84.0 to 1.85.0\n\nBumps [google.golang.org/grpc](https://github.com/grpc/grpc-go) from 1.84.0 to 1.85.0.\n- [Release notes](https://github.com/grpc/grpc-go/releases)\n- [Commits](https://github.com/grpc/grpc-go/compare/v1.84.0...v1.85.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/grpc\n  dependency-version: 1.85.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-10-31T13:41:47Z",
       "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/7ca5390e3ac6eb01eea9c34831387aa0b49cdcd4",
       "is_merge": false
@@ -288,7 +328,7 @@
     {
       "sha": "d488cf21d02ef46840285a84ba53e5a1eba72ebd",
       "author": "dependabot[bot]",
-      "message": "chore(deps): bump docker/login-action from 4.6.0 to 4.7.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.6.0 to 4.7.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/dbcb813823bdd20940b903addbd779551569679f...81c6f93d4bc991e510b342a00b419b3bb4efc5c6)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.7.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "chore(deps): bump docker/login-action from 4.6.0 to 4.7.0\n\nBumps [docker/login-action](https://github.com/docker/login-action) from 4.6.0 to 4.7.0.\n- [Release notes](https://github.com/docker/login-action/releases)\n- [Commits](https://github.com/docker/login-action/compare/dbcb813823bdd20940b903addbd779551569679f...81c6f93d4bc991e510b342a00b419b3bb4efc5c6)\n\n---\nupdated-dependencies:\n- dependency-name: docker/login-action\n  dependency-version: 4.7.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-10-31T13:06:39Z",
       "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/d488cf21d02ef46840285a84ba53e5a1eba72ebd",
       "is_merge": false
@@ -304,7 +344,7 @@
     {
       "sha": "792e1ac8ee119852a7f72d5a3a466ec4ccb2d2dc",
       "author": "dependabot[bot]",
-      "message": "chore(deps): bump astral-sh/setup-uv from 10.3.1 to 10.3.3\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.1 to 10.3.3.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/18d369b23da25a81e9458561248e1aafff6a70fa...68559e99cc807c1eb7e9238fd43a15bba460eec2)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.3.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.3.1 to 10.3.3\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.1 to 10.3.3.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/18d369b23da25a81e9458561248e1aafff6a70fa...68559e99cc807c1eb7e9238fd43a15bba460eec2)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.3.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-10-31T12:02:38Z",
       "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/792e1ac8ee119852a7f72d5a3a466ec4ccb2d2dc",
       "is_merge": false
@@ -320,7 +360,7 @@
     {
       "sha": "048b6c03f9f5178470f51240215ca4e9e385d2a5",
       "author": "dependabot[bot]",
-      "message": "chore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.0 to 1.2.1.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/69bfd4086b9251106a5c8b036068e02f2d0731aa...8ee570e0b30e5252afadb146977b411b8acd3e34)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "chore(deps): bump UnitVectorY-Labs/chromadb-repo-indexer\n\nBumps [UnitVectorY-Labs/chromadb-repo-indexer](https://github.com/unitvectory-labs/chromadb-repo-indexer) from 1.2.0 to 1.2.1.\n- [Release notes](https://github.com/unitvectory-labs/chromadb-repo-indexer/releases)\n- [Commits](https://github.com/unitvectory-labs/chromadb-repo-indexer/compare/69bfd4086b9251106a5c8b036068e02f2d0731aa...8ee570e0b30e5252afadb146977b411b8acd3e34)\n\n---\nupdated-dependencies:\n- dependency-name: UnitVectorY-Labs/chromadb-repo-indexer\n  dependency-version: 1.2.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-10-31T10:12:31Z",
       "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/048b6c03f9f5178470f51240215ca4e9e385d2a5",
       "is_merge": false
@@ -328,7 +368,7 @@
     {
       "sha": "f1552754555107e9e123d981320cdd79be9dc7c4",
       "author": "dependabot[bot]",
-      "message": "chore(deps): bump google.golang.org/api from 0.303.0 to 0.309.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.303.0 to 0.309.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.303.0...v0.309.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.309.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "chore(deps): bump google.golang.org/api from 0.303.0 to 0.309.0\n\nBumps [google.golang.org/api](https://github.com/googleapis/google-api-go-client) from 0.303.0 to 0.309.0.\n- [Release notes](https://github.com/googleapis/google-api-go-client/releases)\n- [Changelog](https://github.com/googleapis/google-api-go-client/blob/main/CHANGES.md)\n- [Commits](https://github.com/googleapis/google-api-go-client/compare/v0.303.0...v0.309.0)\n\n---\nupdated-dependencies:\n- dependency-name: google.golang.org/api\n  dependency-version: 0.309.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-10-31T10:03:59Z",
       "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/f1552754555107e9e123d981320cdd79be9dc7c4",
       "is_merge": false
@@ -384,7 +424,7 @@
     {
       "sha": "081f2791bcb803574a3d3898b474e58dcc8acb33",
       "author": "dependabot[bot]",
-      "message": "chore(deps): bump the codeql group across 1 directory with 3 updates\n\nBumps the codeql group with 3 updates in the / directory: [github/codeql-action/init](https://github.com/github/codeql-action), [github/codeql-action/analyze](https://github.com/github/codeql-action) and [github/codeql-action/upload-sarif](https://github.com/github/codeql-action).\n\n\nUpdates `github/codeql-action/init` from 4.38.3 to 4.39.1\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/24c54180a607b1449ed407dd24f251e4e9147c8d...9b3254085494b55a0f7c4c2b3d2d52cc712ce370)\n\nUpdates `github/codeql-action/analyze` from 4.38.3 to 4.39.1\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/24c54180a607b1449ed407dd24f251e4e9147c8d...9b3254085494b55a0f7c4c2b3d2d52cc712ce370)\n\nUpdates `github/codeql-action/upload-sarif` from 4.38.3 to 4.39.1\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/24c54180a607b1449ed407dd24f251e4e9147c8d...9b3254085494b55a0f7c4c2b3d2d52cc712ce370)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/analyze\n  dependency-version: 4.39.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n  dependency-group: codeql\n- dependency-name: github/codeql-action/init\n  dependency-version: 4.39.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n  dependency-group: codeql\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.39.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n  dependency-group: codeql\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "chore(deps): bump the codeql group across 1 directory with 3 updates\n\nBumps the codeql group with 3 updates in the / directory: [github/codeql-action/init](https://github.com/github/codeql-action), [github/codeql-action/analyze](https://github.com/github/codeql-action) and [github/codeql-action/upload-sarif](https://github.com/github/codeql-action).\n\n\nUpdates `github/codeql-action/init` from 4.38.3 to 4.39.1\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/24c54180a607b1449ed407dd24f251e4e9147c8d...9b3254085494b55a0f7c4c2b3d2d52cc712ce370)\n\nUpdates `github/codeql-action/analyze` from 4.38.3 to 4.39.1\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/24c54180a607b1449ed407dd24f251e4e9147c8d...9b3254085494b55a0f7c4c2b3d2d52cc712ce370)\n\nUpdates `github/codeql-action/upload-sarif` from 4.38.3 to 4.39.1\n- [Release notes](https://github.com/github/codeql-action/releases)\n- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/github/codeql-action/compare/24c54180a607b1449ed407dd24f251e4e9147c8d...9b3254085494b55a0f7c4c2b3d2d52cc712ce370)\n\n---\nupdated-dependencies:\n- dependency-name: github/codeql-action/analyze\n  dependency-version: 4.39.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n  dependency-group: codeql\n- dependency-name: github/codeql-action/init\n  dependency-version: 4.39.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n  dependency-group: codeql\n- dependency-name: github/codeql-action/upload-sarif\n  dependency-version: 4.39.1\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n  dependency-group: codeql\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-10-24T12:31:16Z",
       "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/081f2791bcb803574a3d3898b474e58dcc8acb33",
       "is_merge": false
@@ -400,7 +440,7 @@
     {
       "sha": "e71da01a383c47d7d4b267b04eb309137313f794",
       "author": "dependabot[bot]",
-      "message": "chore(deps): bump astral-sh/setup-uv from 10.3.0 to 10.3.1\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.0 to 10.3.1.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/1c37ad07a6a961277cf70c0d37d6f313000f5884...18d369b23da25a81e9458561248e1aafff6a70fa)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.3.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] \u003csupport@github.com\u003e",
+      "message": "chore(deps): bump astral-sh/setup-uv from 10.3.0 to 10.3.1\n\nBumps [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) from 10.3.0 to 10.3.1.\n- [Release notes](https://github.com/astral-sh/setup-uv/releases)\n- [Commits](https://github.com/astral-sh/setup-uv/compare/1c37ad07a6a961277cf70c0d37d6f313000f5884...18d369b23da25a81e9458561248e1aafff6a70fa)\n\n---\nupdated-dependencies:\n- dependency-name: astral-sh/setup-uv\n  dependency-version: 10.3.1\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
       "timestamp": "2026-10-24T10:09:04Z",
       "url": "https://github.com/UnitVectorY-Labs/firestore-batch-incrementer/commit/e71da01a383c47d7d4b267b04eb309137313f794",
       "is_merge": false
